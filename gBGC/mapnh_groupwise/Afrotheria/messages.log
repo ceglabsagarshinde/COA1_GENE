@@ -1,0 +1,388 @@
+
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Overwritten previously defined function:'GaussLaguerreQuardature'
+Overwritten previously defined function:'GammaQuadWeight'
+Variable 'SKIP_HARVEST_FREQ' was not initialized prior to being used
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model MG94customModel assigned to Trichechus_manatus
+Trichechus_manatus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Loxodonta_africana
+Loxodonta_africana has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Mammuthus_primigenius
+Mammuthus_primigenius has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Elephas_maximus
+Elephas_maximus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node5
+Node5 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node3
+Node3 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node1
+Node1 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Orycteropus_afer
+Orycteropus_afer has 2 parameters - branch length not assigned
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+The tips of the tree:givenTree were matched with the species names from the data in the following numeric order (0-based) {0,2,3,4,1}
+
+Pseudo-optimal path's cost 468 vs 618 for 1..k=> a 1.32051 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'theLnLik' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Variable 'givenTree.Trichechus_manatus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Trichechus_manatus.synRate' was not initialized prior to being used
+Variable 'givenTree.Loxodonta_africana.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Loxodonta_africana.synRate' was not initialized prior to being used
+Variable 'givenTree.Mammuthus_primigenius.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Mammuthus_primigenius.synRate' was not initialized prior to being used
+Variable 'givenTree.Elephas_maximus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Elephas_maximus.synRate' was not initialized prior to being used
+Variable 'givenTree.Orycteropus_afer.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Orycteropus_afer.synRate' was not initialized prior to being used
+Variable 'givenTree.Node5.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node5.synRate' was not initialized prior to being used
+Variable 'givenTree.Node3.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node3.synRate' was not initialized prior to being used
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 76 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 51 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 18 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 47 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 3 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 63 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 25 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 746-th LF evaluation.
+Initial guess for givenTree.Node3.nonSynRate is 0.040815
+Initial guess for givenTree.Node3.synRate is 0.0167849
+Initial guess for givenTree.Loxodonta_africana.nonSynRate is 0.0383806
+Initial guess for givenTree.Loxodonta_africana.synRate is 0.00459456
+Initial guess for givenTree.Node5.nonSynRate is 0.00506307
+Initial guess for givenTree.Node5.synRate is -0.00136246
+Initial guess for givenTree.Mammuthus_primigenius.nonSynRate is 0.00237365
+Initial guess for givenTree.Mammuthus_primigenius.synRate is 0.00382555
+Initial guess for givenTree.Elephas_maximus.nonSynRate is 7.47209e-05
+Initial guess for givenTree.Elephas_maximus.synRate is 0.00169377
+Initial guess for givenTree.Orycteropus_afer.nonSynRate is -7.62307e-05
+Initial guess for givenTree.Orycteropus_afer.synRate is 0.000763243
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+GT = 1
+CT = 1
+CG = 1
+AC = 1
+AT = 1
+givenTree.Trichechus_manatus.synRate = 0.1
+givenTree.Trichechus_manatus.nonSynRate = 0.1
+givenTree.Loxodonta_africana.synRate = 0.00459456
+givenTree.Loxodonta_africana.nonSynRate = 0.0383806
+givenTree.Mammuthus_primigenius.synRate = 0.00382555
+givenTree.Mammuthus_primigenius.nonSynRate = 0.00237365
+givenTree.Elephas_maximus.synRate = 0.00169377
+givenTree.Elephas_maximus.nonSynRate = 7.47209e-05
+givenTree.Node5.synRate = 0
+givenTree.Node5.nonSynRate = 0.00506307
+givenTree.Node3.synRate = 0.0167849
+givenTree.Node3.nonSynRate = 0.040815
+givenTree.Orycteropus_afer.synRate = 0.000763243
+givenTree.Orycteropus_afer.nonSynRate = 0
+Optimization finished in 20 loop passes.
+1924 likelihood evaluation calls and 6611 matrix exponentiations calls were made
+
+Variable 'lastDepth' was not initialized prior to being used
+No nodel was assigned to Trichechus_manatus
+Trichechus_manatus has 0 parameters - branch length not assigned
+No nodel was assigned to Loxodonta_africana
+Loxodonta_africana has 0 parameters - branch length not assigned
+No nodel was assigned to Mammuthus_primigenius
+Mammuthus_primigenius has 0 parameters - branch length not assigned
+No nodel was assigned to Elephas_maximus
+Elephas_maximus has 0 parameters - branch length not assigned
+No nodel was assigned to Node5
+Node5 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Orycteropus_afer
+Orycteropus_afer has 0 parameters - branch length not assigned
+No nodel was assigned to Trichechus_manatus
+Trichechus_manatus has 0 parameters - branch length not assigned
+No nodel was assigned to Loxodonta_africana
+Loxodonta_africana has 0 parameters - branch length not assigned
+No nodel was assigned to Mammuthus_primigenius
+Mammuthus_primigenius has 0 parameters - branch length not assigned
+No nodel was assigned to Elephas_maximus
+Elephas_maximus has 0 parameters - branch length not assigned
+No nodel was assigned to Node5
+Node5 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Orycteropus_afer
+Orycteropus_afer has 0 parameters - branch length not assigned
+No nodel was assigned to Trichechus_manatus
+Trichechus_manatus has 0 parameters - branch length not assigned
+No nodel was assigned to Loxodonta_africana
+Loxodonta_africana has 0 parameters - branch length not assigned
+No nodel was assigned to Mammuthus_primigenius
+Mammuthus_primigenius has 0 parameters - branch length not assigned
+No nodel was assigned to Elephas_maximus
+Elephas_maximus has 0 parameters - branch length not assigned
+No nodel was assigned to Node5
+Node5 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Orycteropus_afer
+Orycteropus_afer has 0 parameters - branch length not assigned
+No nodel was assigned to Trichechus_manatus
+Trichechus_manatus has 0 parameters - branch length not assigned
+No nodel was assigned to Loxodonta_africana
+Loxodonta_africana has 0 parameters - branch length not assigned
+No nodel was assigned to Mammuthus_primigenius
+Mammuthus_primigenius has 0 parameters - branch length not assigned
+No nodel was assigned to Elephas_maximus
+Elephas_maximus has 0 parameters - branch length not assigned
+No nodel was assigned to Node5
+Node5 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Orycteropus_afer
+Orycteropus_afer has 0 parameters - branch length not assigned
+Variable 'nodeName' was not initialized prior to being used
+Variable 'speciesIndex' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Trichechus_manatus
+Model MG94customModel assigned to Loxodonta_africana
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 'twoLnLik' was not initialized prior to being used
+Variable 't2.Loxodonta_africana.nonSynRate' was not initialized prior to being used
+Variable 't2.Loxodonta_africana.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Loxodonta_africana.nonSynRate = 0.1
+t2.Loxodonta_africana.synRate = 0.1
+Optimization finished in 6 loop passes.
+152 likelihood evaluation calls and 132 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Trichechus_manatus
+Model MG94customModel assigned to Mammuthus_primigenius
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Mammuthus_primigenius.nonSynRate' was not initialized prior to being used
+Variable 't2.Mammuthus_primigenius.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Mammuthus_primigenius.nonSynRate = 0.1
+t2.Mammuthus_primigenius.synRate = 0.1
+Optimization finished in 8 loop passes.
+109 likelihood evaluation calls and 97 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Trichechus_manatus
+Model MG94customModel assigned to Elephas_maximus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Elephas_maximus.synRate' was not initialized prior to being used
+Variable 't2.Elephas_maximus.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Elephas_maximus.synRate = 0.1
+t2.Elephas_maximus.nonSynRate = 0.1
+Optimization finished in 8 loop passes.
+210 likelihood evaluation calls and 191 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Trichechus_manatus
+Model MG94customModel assigned to Orycteropus_afer
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Orycteropus_afer.nonSynRate' was not initialized prior to being used
+Variable 't2.Orycteropus_afer.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Orycteropus_afer.nonSynRate = 0.1
+t2.Orycteropus_afer.synRate = 0.1
+Optimization finished in 7 loop passes.
+119 likelihood evaluation calls and 106 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Loxodonta_africana
+Model MG94customModel assigned to Mammuthus_primigenius
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Mammuthus_primigenius.synRate' was not initialized prior to being used
+Variable 't2.Mammuthus_primigenius.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Mammuthus_primigenius.synRate = 0.1
+t2.Mammuthus_primigenius.nonSynRate = 0.1
+Optimization finished in 5 loop passes.
+162 likelihood evaluation calls and 145 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Loxodonta_africana
+Model MG94customModel assigned to Elephas_maximus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Elephas_maximus.nonSynRate' was not initialized prior to being used
+Variable 't2.Elephas_maximus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Elephas_maximus.nonSynRate = 0.1
+t2.Elephas_maximus.synRate = 0.1
+Optimization finished in 5 loop passes.
+186 likelihood evaluation calls and 170 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Loxodonta_africana
+Model MG94customModel assigned to Orycteropus_afer
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Orycteropus_afer.synRate' was not initialized prior to being used
+Variable 't2.Orycteropus_afer.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Orycteropus_afer.synRate = 0.1
+t2.Orycteropus_afer.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+157 likelihood evaluation calls and 142 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Mammuthus_primigenius
+Model MG94customModel assigned to Elephas_maximus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Elephas_maximus.nonSynRate' was not initialized prior to being used
+Variable 't2.Elephas_maximus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Elephas_maximus.nonSynRate = 0.1
+t2.Elephas_maximus.synRate = 0.1
+Optimization finished in 3 loop passes.
+116 likelihood evaluation calls and 107 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Mammuthus_primigenius
+Model MG94customModel assigned to Orycteropus_afer
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Orycteropus_afer.nonSynRate' was not initialized prior to being used
+Variable 't2.Orycteropus_afer.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Orycteropus_afer.nonSynRate = 0.1
+t2.Orycteropus_afer.synRate = 0.1
+Optimization finished in 3 loop passes.
+103 likelihood evaluation calls and 94 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Elephas_maximus
+Model MG94customModel assigned to Orycteropus_afer
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 2109-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Orycteropus_afer.nonSynRate = 0.1
+t2.Orycteropus_afer.synRate = 0.1
+Optimization finished in 3 loop passes.
+146 likelihood evaluation calls and 139 matrix exponentiations calls were made
