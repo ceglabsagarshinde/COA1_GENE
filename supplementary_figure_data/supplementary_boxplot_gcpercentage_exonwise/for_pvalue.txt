@@ -1,0 +1,293 @@
+a<-read.table("exon1a.txt",header=T,fill=NA)
+options(scipen=0,"digits"=2)
+
+P<- data.frame(id = character(0), estimate = numeric(0), p.value = numeric(0))
+
+P<- data.frame(id = character(0), p.value = numeric(0))
+wilcox.test(a$Primates,a$Carnivore,paired=T, alternative = "two.sided")
+
+wilcox.test(a$Primates,a$Carnivore,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Rodents,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Afrotheria,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Alligator,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Artiyodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Birds,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Caniformia,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$gAlliform,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Primates,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Rodents,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Afrotheria,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Alligator,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Artiyodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Birds,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Caniformia,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Carnivore,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Afrotheria,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Alligator,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Artiyodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Birds,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Caniformia,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Rodents,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Artiyodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Birds,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Caniformia,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Alligator,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Birds,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Caniformia,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Artiyodactyla,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Birds,a$Caniformia,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Birds,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Birds,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Birds,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Birds,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Birds,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Caniformia,a$Chiroptera,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Caniformia,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Caniformia,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Caniformia,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Caniformia,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Chiroptera,a$Reptiles,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Chiroptera,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Chiroptera,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Chiroptera,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Reptiles,a$Perissodactyla,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Reptiles,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Reptiles,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Perissodactyla,a$Turtle,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Perissodactyla,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+
+wilcox.test(a$Turtle,a$Monotremata,paired=T, alternative = "two.sided")->K
+P1<-data.frame(names=K$data.name,p.value=K$p.value)
+P<-rbind(P,P1)
+P[P$p.value<0.05,]
+P[P$p.value<0.05,]->c
+
+write.table(P,file="e1a_pvalue.txt",quote=F,sep="\t")
+
+

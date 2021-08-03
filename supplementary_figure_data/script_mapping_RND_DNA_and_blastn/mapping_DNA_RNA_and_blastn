@@ -1,0 +1,43 @@
+## For DNA mapping
+#indexing 
+fasta=1
+bwa index $i
+
+#bwa mapping
+for i in $(ls *_1.fastq.gz); 
+do j=`echo $i|sed 's/_1/_2/g'`; 
+k=`echo $i|sed 's/_1.fastq.gz/.sam/g'`;
+bwa mem -t4 $fasta $i $j > $k;
+samtools view -bhS $k > $k.bam;
+samtools sort $k.bam -o $k.sorted.bam;
+samtools index $k.sorted.bam;
+rm $k 
+done
+
+
+## For RNA mapping
+
+fasta=1
+gtf=2
+
+# for star indexing
+STAR --runThreadN 16 --runMode genomeGenerate --genomeDir . --genomeFastaFiles $fasta --sjdbGTFfile $gtf
+
+for i in *_1.fastq
+do
+j=`echo $i|sed 's/_1/_2/g'`
+k=`echo $i|sed 's/_1.fastq//g'`
+STAR --runThreadN 16 --outSAMtype BAM SortedByCoordinate --genomeDir . sjdbGTFfile $gtf --readFilesIn $i $j  --outFileNamePrefix $k
+done
+
+
+## for database creaton and doing blastn
+#!/bin/bash
+zcat *.gz|sed -n '1~4s/^@/>/p;2~4p' > SRR943993_94.fa
+i="SRR943993_94.fa"
+j="species_name"
+makeblastdb -in $i -out $i -dbtype nucl
+#query sequence
+q="COA1_damara_mol_rat.fa"
+blastn -task blastn -evalue 0.01 -db $i -out blastn_"$j"_DNA_"$i"_COA1."$q".out -num_threads 2 -outfmt 1 -query $q
+
