@@ -1,0 +1,7 @@
+Castor_canadensis
+Heterocephalus_glaber
+Oryctolagus_cuniculus
+Spermophilus_dauricus
+Ictidomys_tridecemlineatus
+Marmota_marmota
+Urocitellus_parryii

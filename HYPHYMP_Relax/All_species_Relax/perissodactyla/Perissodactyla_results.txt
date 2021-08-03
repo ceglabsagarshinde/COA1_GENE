@@ -1,0 +1,4 @@
+Ceratotherium_simum_simum `Equus_caballus,Equus_przewalskii,Node2,Equus_asinus` 0.2965 1.76
+Equus_asinus `Equus_caballus,Equus_przewalskii,Node2,Ceratotherium_simum_simum` 0.5746 1.65
+Equus_caballus `Equus_przewalskii,Node2,Equus_asinus,Ceratotherium_simum_simum` 0.9145 1.00
+Equus_przewalskii `Equus_caballus,Node2,Equus_asinus,Ceratotherium_simum_simum` 0.8978 1.00
