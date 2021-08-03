@@ -1,0 +1,695 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/models/codon/MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Already loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Loaded 'libv3/tasks/mpi.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/mpi.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../models/parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'OzodiLKy.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'QlclPveX.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the left root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Loaded 'modules/grid_compute.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/grid_compute.ibf
+Variable 'muGbPPJY.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'rTbrwjIp.model_pi' was not initialized prior to being used
+Model rTbrwjIp.model assigned to Lyrurus_tetrix
+Model rTbrwjIp.model assigned to Tympanuchus_cupido
+Model rTbrwjIp.model assigned to Centrocercus_minimus
+Model rTbrwjIp.model assigned to Node4
+Model rTbrwjIp.model assigned to Node2
+Model rTbrwjIp.model assigned to Lagopus_muta
+Model rTbrwjIp.model assigned to Oxyura_jamaicensis
+Model rTbrwjIp.model assigned to Cygnus_atratus
+Model rTbrwjIp.model assigned to Anser_cygnoides
+Model rTbrwjIp.model assigned to Node11
+Model rTbrwjIp.model assigned to Node9
+Model rTbrwjIp.model assigned to Aythya_fuligula
+Model rTbrwjIp.model assigned to Anas_platyrhynchos
+Model rTbrwjIp.model assigned to Node14
+Model rTbrwjIp.model assigned to Node8
+The tips of the tree:rTbrwjIp.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,3,2,1,5,4,6,7,8}
+
+Pseudo-optimal path's cost 488 vs 764 for 1..k=> a 1.56557 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'rTbrwjIp.tree_0.Lyrurus_tetrix.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Lyrurus_tetrix.t=18.2288354168487
+Variable 'rTbrwjIp.tree_0.Tympanuchus_cupido.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Tympanuchus_cupido.t=16.43714004251292
+Variable 'rTbrwjIp.tree_0.Centrocercus_minimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Centrocercus_minimus.t=16.43714004251292
+Variable 'rTbrwjIp.tree_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Node4.t=1.791695374335778
+Variable 'rTbrwjIp.tree_0.Node2.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Node2.t=12.94706628186718
+Variable 'rTbrwjIp.tree_0.Lagopus_muta.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Lagopus_muta.t=31.17590169871588
+Variable 'rTbrwjIp.tree_0.Oxyura_jamaicensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Oxyura_jamaicensis.t=75.22573220063376
+Variable 'rTbrwjIp.tree_0.Cygnus_atratus.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Cygnus_atratus.t=54.10109323695116
+Variable 'rTbrwjIp.tree_0.Anser_cygnoides.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Anser_cygnoides.t=54.10109323695116
+Variable 'rTbrwjIp.tree_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Node11.t=21.1246389636826
+Variable 'rTbrwjIp.tree_0.Node9.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Node9.t=5.68825265505643
+Variable 'rTbrwjIp.tree_0.Aythya_fuligula.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Aythya_fuligula.t=41.24576356174745
+Variable 'rTbrwjIp.tree_0.Anas_platyrhynchos.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Anas_platyrhynchos.t=41.24576356174745
+Variable 'rTbrwjIp.tree_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Node14.t=39.6682213206217
+Variable 'rTbrwjIp.tree_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: rTbrwjIp.tree_0.Node8.t=132.3987247992241
+Variable 'rTbrwjIp.rTbrwjIp.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 6250-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+rTbrwjIp.model.theta_GT = 0.25
+rTbrwjIp.model.theta_CT = 1
+rTbrwjIp.model.theta_CG = 0.25
+rTbrwjIp.model.theta_AT = 0.25
+rTbrwjIp.model.theta_AC = 0.25
+rTbrwjIp.tree_0.Lyrurus_tetrix.t = 18.2288
+rTbrwjIp.tree_0.Tympanuchus_cupido.t = 16.4371
+rTbrwjIp.tree_0.Centrocercus_minimus.t = 16.4371
+rTbrwjIp.tree_0.Node4.t = 1.7917
+rTbrwjIp.tree_0.Node2.t = 12.9471
+rTbrwjIp.tree_0.Lagopus_muta.t = 31.1759
+rTbrwjIp.tree_0.Oxyura_jamaicensis.t = 75.2257
+rTbrwjIp.tree_0.Cygnus_atratus.t = 54.1011
+rTbrwjIp.tree_0.Anser_cygnoides.t = 54.1011
+rTbrwjIp.tree_0.Node11.t = 21.1246
+rTbrwjIp.tree_0.Node9.t = 5.68825
+rTbrwjIp.tree_0.Aythya_fuligula.t = 41.2458
+rTbrwjIp.tree_0.Anas_platyrhynchos.t = 41.2458
+rTbrwjIp.tree_0.Node14.t = 39.6682
+rTbrwjIp.tree_0.Node8.t = 132.399
+Optimization finished in 28 loop passes.
+2203 likelihood evaluation calls and 13570 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'rTbrwjIp.option' was not initialized prior to being used
+Variable 'relax.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'WafPijtZ.initial_value' was not initialized prior to being used
+Variable 'zfeORZbS.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 4629-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.283573
+frequencies._aux.CF3x4.p0_1 = 0.356764
+frequencies._aux.CF3x4.p0_2 = 0.615351
+frequencies._aux.CF3x4.p1_0 = 0.333533
+frequencies._aux.CF3x4.p1_1 = 0.261769
+frequencies._aux.CF3x4.p1_2 = 0.400081
+frequencies._aux.CF3x4.p2_0 = 0.232814
+frequencies._aux.CF3x4.p2_1 = 0.287835
+frequencies._aux.CF3x4.p2_2 = 0.513899
+Optimization finished in 7 loop passes.
+307 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'zfeORZbS.model_MGREV_pi' was not initialized prior to being used
+Model zfeORZbS.model_MGREV assigned to Lyrurus_tetrix
+Model zfeORZbS.model_MGREV assigned to Tympanuchus_cupido
+Model zfeORZbS.model_MGREV assigned to Centrocercus_minimus
+Model zfeORZbS.model_MGREV assigned to Node4
+Model zfeORZbS.model_MGREV assigned to Node2
+Model zfeORZbS.model_MGREV assigned to Lagopus_muta
+Model zfeORZbS.model_MGREV assigned to Oxyura_jamaicensis
+Model zfeORZbS.model_MGREV assigned to Cygnus_atratus
+Model zfeORZbS.model_MGREV assigned to Anser_cygnoides
+Model zfeORZbS.model_MGREV assigned to Node11
+Model zfeORZbS.model_MGREV assigned to Node9
+Model zfeORZbS.model_MGREV assigned to Aythya_fuligula
+Model zfeORZbS.model_MGREV assigned to Anas_platyrhynchos
+Model zfeORZbS.model_MGREV assigned to Node14
+Model zfeORZbS.model_MGREV assigned to Node8
+The tips of the tree:zfeORZbS.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,3,2,1,5,4,6,7,8}
+
+Pseudo-optimal path's cost 1249 vs 1613 for 1..k=> a 1.29143 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'zfeORZbS.zfeORZbS.likelihoodFunction' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Lyrurus_tetrix.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Tympanuchus_cupido.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Centrocercus_minimus.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node4.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node2.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Lagopus_muta.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Oxyura_jamaicensis.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Cygnus_atratus.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Anser_cygnoides.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node11.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node9.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Aythya_fuligula.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Anas_platyrhynchos.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node14.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node8.alpha' was not initialized prior to being used
+Site 52 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 52 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 103 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 52 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 477-th LF evaluation.
+Initial guess for zfeORZbS.tree_0.Lyrurus_tetrix.alpha is 3.40798e-05
+Initial guess for zfeORZbS.tree_0.Node4.alpha is -2.26666e-06
+Initial guess for zfeORZbS.tree_0.Tympanuchus_cupido.alpha is 2.02439e-05
+Initial guess for zfeORZbS.tree_0.Centrocercus_minimus.alpha is 1.90327e-05
+Initial guess for zfeORZbS.tree_0.Lagopus_muta.alpha is 1.21163e-05
+Initial guess for zfeORZbS.tree_0.Node8.alpha is 6.70718e-06
+Initial guess for zfeORZbS.tree_0.Node9.alpha is 0.000215282
+Initial guess for zfeORZbS.tree_0.Oxyura_jamaicensis.alpha is 2.76754e-05
+Initial guess for zfeORZbS.tree_0.Node11.alpha is 1.27949e-06
+Initial guess for zfeORZbS.tree_0.Cygnus_atratus.alpha is 3.35356e-06
+Initial guess for zfeORZbS.tree_0.Anser_cygnoides.alpha is 1.19822e-05
+Initial guess for zfeORZbS.tree_0.Node14.alpha is 6.83121e-06
+Initial guess for zfeORZbS.tree_0.Aythya_fuligula.alpha is 7.57656e-06
+Initial guess for zfeORZbS.tree_0.Anas_platyrhynchos.alpha is 1.15932e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+zfeORZbS.model_MGREV.theta_GT = 1
+zfeORZbS.model_MGREV.theta_CT = 1
+zfeORZbS.model_MGREV.theta_AC = 1
+zfeORZbS.model_MGREV.theta_CG = 1
+zfeORZbS.model_MGREV.theta_AT = 1
+zfeORZbS.model_MGREV.omega_0 = 1
+zfeORZbS.model_MGREV.omega_1 = 1
+zfeORZbS.tree_0.Lyrurus_tetrix.alpha = 3.40798e-05
+zfeORZbS.tree_0.Tympanuchus_cupido.alpha = 2.02439e-05
+zfeORZbS.tree_0.Centrocercus_minimus.alpha = 1.90327e-05
+zfeORZbS.tree_0.Node4.alpha = 0
+zfeORZbS.tree_0.Node2.alpha = 0.1
+zfeORZbS.tree_0.Lagopus_muta.alpha = 1.21163e-05
+zfeORZbS.tree_0.Oxyura_jamaicensis.alpha = 2.76754e-05
+zfeORZbS.tree_0.Cygnus_atratus.alpha = 3.35356e-06
+zfeORZbS.tree_0.Anser_cygnoides.alpha = 1.19822e-05
+zfeORZbS.tree_0.Node11.alpha = 1.27949e-06
+zfeORZbS.tree_0.Node9.alpha = 0.000215282
+zfeORZbS.tree_0.Aythya_fuligula.alpha = 7.57656e-06
+zfeORZbS.tree_0.Anas_platyrhynchos.alpha = 1.15932e-05
+zfeORZbS.tree_0.Node14.alpha = 6.83121e-06
+zfeORZbS.tree_0.Node8.alpha = 6.70718e-06
+Failing bound checks on zfeORZbS.tree_0.Node8.beta =         10000.90132261122
+Optimization finished in 20 loop passes.
+2085 likelihood evaluation calls and 11608 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 4587-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.283573
+frequencies._aux.CF3x4.p0_1 = 0.356764
+frequencies._aux.CF3x4.p0_2 = 0.615351
+frequencies._aux.CF3x4.p1_0 = 0.333533
+frequencies._aux.CF3x4.p1_1 = 0.261769
+frequencies._aux.CF3x4.p1_2 = 0.400081
+frequencies._aux.CF3x4.p2_0 = 0.232814
+frequencies._aux.CF3x4.p2_1 = 0.287835
+frequencies._aux.CF3x4.p2_2 = 0.513899
+Optimization finished in 7 loop passes.
+307 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'zfeORZbS.model_MGREV_pi' was not initialized prior to being used
+Model zfeORZbS.model_MGREV assigned to Lyrurus_tetrix
+Model zfeORZbS.model_MGREV assigned to Tympanuchus_cupido
+Model zfeORZbS.model_MGREV assigned to Centrocercus_minimus
+Model zfeORZbS.model_MGREV assigned to Node4
+Model zfeORZbS.model_MGREV assigned to Node2
+Model zfeORZbS.model_MGREV assigned to Lagopus_muta
+Model zfeORZbS.model_MGREV assigned to Oxyura_jamaicensis
+Model zfeORZbS.model_MGREV assigned to Cygnus_atratus
+Model zfeORZbS.model_MGREV assigned to Anser_cygnoides
+Model zfeORZbS.model_MGREV assigned to Node11
+Model zfeORZbS.model_MGREV assigned to Node9
+Model zfeORZbS.model_MGREV assigned to Aythya_fuligula
+Model zfeORZbS.model_MGREV assigned to Anas_platyrhynchos
+Model zfeORZbS.model_MGREV assigned to Node14
+Model zfeORZbS.model_MGREV assigned to Node8
+The tips of the tree:zfeORZbS.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,3,2,1,5,4,6,7,8}
+
+Pseudo-optimal path's cost 1249 vs 1613 for 1..k=> a 1.29143 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'zfeORZbS.tree_0.Anas_platyrhynchos.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Aythya_fuligula.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node14.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node9.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node11.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Tympanuchus_cupido.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Anser_cygnoides.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node4.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Cygnus_atratus.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Lyrurus_tetrix.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Oxyura_jamaicensis.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Lagopus_muta.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Centrocercus_minimus.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node2.alpha' was not initialized prior to being used
+Variable 'zfeORZbS.tree_0.Node8.alpha' was not initialized prior to being used
+Site 52 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 52 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 52 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 103 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 559-th LF evaluation.
+Initial guess for zfeORZbS.tree_0.Lyrurus_tetrix.alpha is 3.40798e-05
+Initial guess for zfeORZbS.tree_0.Node4.alpha is -2.26666e-06
+Initial guess for zfeORZbS.tree_0.Tympanuchus_cupido.alpha is 2.02439e-05
+Initial guess for zfeORZbS.tree_0.Centrocercus_minimus.alpha is 1.90327e-05
+Initial guess for zfeORZbS.tree_0.Lagopus_muta.alpha is 1.21163e-05
+Initial guess for zfeORZbS.tree_0.Node8.alpha is 6.70718e-06
+Initial guess for zfeORZbS.tree_0.Node9.alpha is 0.000215282
+Initial guess for zfeORZbS.tree_0.Oxyura_jamaicensis.alpha is 2.76754e-05
+Initial guess for zfeORZbS.tree_0.Node11.alpha is 1.27949e-06
+Initial guess for zfeORZbS.tree_0.Cygnus_atratus.alpha is 3.35356e-06
+Initial guess for zfeORZbS.tree_0.Anser_cygnoides.alpha is 1.19822e-05
+Initial guess for zfeORZbS.tree_0.Node14.alpha is 6.83121e-06
+Initial guess for zfeORZbS.tree_0.Aythya_fuligula.alpha is 7.57656e-06
+Initial guess for zfeORZbS.tree_0.Anas_platyrhynchos.alpha is 1.15932e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+zfeORZbS.model_MGREV.theta_CG = 1
+zfeORZbS.model_MGREV.theta_AT = 1
+zfeORZbS.model_MGREV.theta_CT = 1
+zfeORZbS.model_MGREV.theta_GT = 1
+zfeORZbS.model_MGREV.theta_AC = 1
+zfeORZbS.model_MGREV.omega_0 = 1
+zfeORZbS.model_MGREV.omega_1 = 1
+zfeORZbS.tree_0.Lyrurus_tetrix.alpha = 3.40798e-05
+zfeORZbS.tree_0.Tympanuchus_cupido.alpha = 2.02439e-05
+zfeORZbS.tree_0.Centrocercus_minimus.alpha = 1.90327e-05
+zfeORZbS.tree_0.Node4.alpha = 0
+zfeORZbS.tree_0.Node2.alpha = 0.1
+zfeORZbS.tree_0.Lagopus_muta.alpha = 1.21163e-05
+zfeORZbS.tree_0.Oxyura_jamaicensis.alpha = 2.76754e-05
+zfeORZbS.tree_0.Cygnus_atratus.alpha = 3.35356e-06
+zfeORZbS.tree_0.Anser_cygnoides.alpha = 1.19822e-05
+zfeORZbS.tree_0.Node11.alpha = 1.27949e-06
+zfeORZbS.tree_0.Node9.alpha = 0.000215282
+zfeORZbS.tree_0.Aythya_fuligula.alpha = 7.57656e-06
+zfeORZbS.tree_0.Anas_platyrhynchos.alpha = 1.15932e-05
+zfeORZbS.tree_0.Node14.alpha = 6.83121e-06
+zfeORZbS.tree_0.Node8.alpha = 6.70718e-06
+Failing bound checks on zfeORZbS.tree_0.Node8.beta =         10000.90132261122
+Optimization finished in 23 loop passes.
+2376 likelihood evaluation calls and 13608 matrix exponentiations calls were made
+
+Overwritten previously defined function:'SZwLpHMe.rate_generator'
+Overwritten previously defined function:'SZwLpHMe.rate_generator'
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 4587-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.283573
+frequencies._aux.CF3x4.p0_1 = 0.356764
+frequencies._aux.CF3x4.p0_2 = 0.615351
+frequencies._aux.CF3x4.p1_0 = 0.333533
+frequencies._aux.CF3x4.p1_1 = 0.261769
+frequencies._aux.CF3x4.p1_2 = 0.400081
+frequencies._aux.CF3x4.p2_0 = 0.232814
+frequencies._aux.CF3x4.p2_1 = 0.287835
+frequencies._aux.CF3x4.p2_2 = 0.513899
+Optimization finished in 7 loop passes.
+308 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'SZwLpHMe.rate_generator'
+Overwritten previously defined function:'SZwLpHMe.rate_generator'
+Overwritten previously defined function:'SZwLpHMe.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 4545-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.283573
+frequencies._aux.CF3x4.p0_1 = 0.356764
+frequencies._aux.CF3x4.p0_2 = 0.615351
+frequencies._aux.CF3x4.p1_0 = 0.333533
+frequencies._aux.CF3x4.p1_1 = 0.261769
+frequencies._aux.CF3x4.p1_2 = 0.400081
+frequencies._aux.CF3x4.p2_0 = 0.232814
+frequencies._aux.CF3x4.p2_1 = 0.287835
+frequencies._aux.CF3x4.p2_2 = 0.513899
+Optimization finished in 7 loop passes.
+307 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.reference_pi' was not initialized prior to being used
+No nodel was assigned to Lyrurus_tetrix
+No nodel was assigned to Tympanuchus_cupido
+No nodel was assigned to Centrocercus_minimus
+No nodel was assigned to Node4
+No nodel was assigned to Node2
+No nodel was assigned to Lagopus_muta
+No nodel was assigned to Oxyura_jamaicensis
+No nodel was assigned to Cygnus_atratus
+No nodel was assigned to Anser_cygnoides
+No nodel was assigned to Node11
+No nodel was assigned to Node9
+No nodel was assigned to Aythya_fuligula
+No nodel was assigned to Anas_platyrhynchos
+No nodel was assigned to Node14
+No nodel was assigned to Node8
+The tips of the tree:LDuONZIU.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,3,2,1,5,4,6,7,8}
+
+Pseudo-optimal path's cost 1249 vs 1613 for 1..k=> a 1.29143 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'LDuONZIU.tree_id_0.Lyrurus_tetrix.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Lyrurus_tetrix.t=0.1853961468846353
+Variable 'LDuONZIU.tree_id_0.Tympanuchus_cupido.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Tympanuchus_cupido.t=0.1051655898453077
+Variable 'LDuONZIU.tree_id_0.Centrocercus_minimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Centrocercus_minimus.t=0.1078577375492978
+Variable 'LDuONZIU.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node4.t=0.05617797641244818
+Variable 'LDuONZIU.tree_id_0.Node2.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node2.t=0
+Variable 'LDuONZIU.tree_id_0.Lagopus_muta.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Lagopus_muta.t=0.04703120622539076
+Variable 'LDuONZIU.tree_id_0.Oxyura_jamaicensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Oxyura_jamaicensis.t=0.1304941737446217
+Variable 'LDuONZIU.tree_id_0.Cygnus_atratus.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Cygnus_atratus.t=0.01788575471333384
+Variable 'LDuONZIU.tree_id_0.Anser_cygnoides.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Anser_cygnoides.t=0.05394919643117557
+Variable 'LDuONZIU.tree_id_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node11.t=0.03190845510214529
+Variable 'LDuONZIU.tree_id_0.Node9.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node9.t=0.03777512725391666
+Variable 'LDuONZIU.tree_id_0.Aythya_fuligula.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Aythya_fuligula.t=0.03576585473474669
+Variable 'LDuONZIU.tree_id_0.Anas_platyrhynchos.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Anas_platyrhynchos.t=0.05396246706219066
+Variable 'LDuONZIU.tree_id_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node14.t=0.07520385695829265
+Variable 'LDuONZIU.tree_id_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node8.t=1.247235150830755
+Variable 'LDuONZIU.LDuONZIU.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 70-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega1 = 0.145496
+relax.reference.bsrel_mixture_aux_0 = 0.45
+relax.reference.bsrel_mixture_aux_1 = 0.818182
+relax.reference.omega3 = 7.27482
+relax.reference.omega2 = 0.4601
+relax.test.theta_GT = 0.27892
+relax.test.theta_AC = 0.165276
+relax.test.theta_AT = 0.251643
+relax.test.theta_CT = 1.52877
+relax.test.theta_CG = 0.277213
+relax.K = 1
+LDuONZIU.tree_id_0.Lyrurus_tetrix.t = 0.185396
+LDuONZIU.tree_id_0.Tympanuchus_cupido.t = 0.105166
+LDuONZIU.tree_id_0.Centrocercus_minimus.t = 0.107858
+LDuONZIU.tree_id_0.Node4.t = 0.056178
+LDuONZIU.tree_id_0.Node2.t = 0
+LDuONZIU.tree_id_0.Lagopus_muta.t = 0.0470312
+LDuONZIU.tree_id_0.Oxyura_jamaicensis.t = 0.130494
+LDuONZIU.tree_id_0.Cygnus_atratus.t = 0.0178858
+LDuONZIU.tree_id_0.Anser_cygnoides.t = 0.0539492
+LDuONZIU.tree_id_0.Node11.t = 0.0319085
+LDuONZIU.tree_id_0.Node9.t = 0.0377751
+LDuONZIU.tree_id_0.Aythya_fuligula.t = 0.0357659
+LDuONZIU.tree_id_0.Anas_platyrhynchos.t = 0.0539625
+LDuONZIU.tree_id_0.Node14.t = 0.0752039
+LDuONZIU.tree_id_0.Node8.t = 1.24724
+Optimization finished in 99 loop passes.
+8352 likelihood evaluation calls and 211227 matrix exponentiations calls were made
+
+Variable 'MPI_NODE_COUNT' was not initialized prior to being used
+No nodel was assigned to Lyrurus_tetrix
+No nodel was assigned to Tympanuchus_cupido
+No nodel was assigned to Centrocercus_minimus
+No nodel was assigned to Node4
+No nodel was assigned to Node2
+No nodel was assigned to Lagopus_muta
+No nodel was assigned to Oxyura_jamaicensis
+No nodel was assigned to Cygnus_atratus
+No nodel was assigned to Anser_cygnoides
+No nodel was assigned to Node11
+No nodel was assigned to Node9
+No nodel was assigned to Aythya_fuligula
+No nodel was assigned to Anas_platyrhynchos
+No nodel was assigned to Node14
+No nodel was assigned to Node8
+Likelihood function cleared because partition index '0' points to invalid components
+The tips of the tree:LDuONZIU.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,3,2,1,5,4,6,7,8}
+
+Pseudo-optimal path's cost 1249 vs 1613 for 1..k=> a 1.29143 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_0 was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_1 was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+relax.test.omega1 was already constrained in estimators.SetGlobals2
+relax.test.omega2 was already constrained in estimators.SetGlobals2
+relax.test.omega3 was already constrained in estimators.SetGlobals2
+Variable 'LDuONZIU.tree_id_0.Lyrurus_tetrix.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Lyrurus_tetrix.t=0.4715986612706871
+Variable 'LDuONZIU.tree_id_0.Tympanuchus_cupido.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Tympanuchus_cupido.t=0.339907351005829
+Variable 'LDuONZIU.tree_id_0.Centrocercus_minimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Centrocercus_minimus.t=0.1844438200996963
+Variable 'LDuONZIU.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node4.t=0.138089402431136
+Variable 'LDuONZIU.tree_id_0.Node2.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node2.t=0
+Variable 'LDuONZIU.tree_id_0.Lagopus_muta.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Lagopus_muta.t=0.134119229453762
+Variable 'LDuONZIU.tree_id_0.Oxyura_jamaicensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Oxyura_jamaicensis.t=0.2144198946740786
+Variable 'LDuONZIU.tree_id_0.Cygnus_atratus.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Cygnus_atratus.t=0.0289551954217122
+Variable 'LDuONZIU.tree_id_0.Anser_cygnoides.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Anser_cygnoides.t=0.08657037471108835
+Variable 'LDuONZIU.tree_id_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node11.t=0.05192385752698997
+Variable 'LDuONZIU.tree_id_0.Node9.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node9.t=0.06083348379972411
+Variable 'LDuONZIU.tree_id_0.Aythya_fuligula.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Aythya_fuligula.t=0.05780806931075141
+Variable 'LDuONZIU.tree_id_0.Anas_platyrhynchos.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Anas_platyrhynchos.t=0.08692378967432654
+Variable 'LDuONZIU.tree_id_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node14.t=0.1224060783775378
+Variable 'LDuONZIU.tree_id_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: LDuONZIU.tree_id_0.Node8.t=2.11262286434528
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 64-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega1 = 1.85554e-14
+relax.reference.bsrel_mixture_aux_0 = 0.543694
+relax.reference.bsrel_mixture_aux_1 = 0.986877
+relax.reference.omega3 = 3.2383
+relax.reference.omega2 = 1
+relax.test.theta_GT = 0.265722
+relax.test.theta_AC = 0.161792
+relax.test.theta_AT = 0.201975
+relax.test.theta_CT = 1.53481
+relax.test.theta_CG = 0.246478
+relax.K = 1
+LDuONZIU.tree_id_0.Lyrurus_tetrix.t = 0.471599
+LDuONZIU.tree_id_0.Tympanuchus_cupido.t = 0.339907
+LDuONZIU.tree_id_0.Centrocercus_minimus.t = 0.184444
+LDuONZIU.tree_id_0.Node4.t = 0.138089
+LDuONZIU.tree_id_0.Node2.t = 0
+LDuONZIU.tree_id_0.Lagopus_muta.t = 0.134119
+LDuONZIU.tree_id_0.Oxyura_jamaicensis.t = 0.21442
+LDuONZIU.tree_id_0.Cygnus_atratus.t = 0.0289552
+LDuONZIU.tree_id_0.Anser_cygnoides.t = 0.0865704
+LDuONZIU.tree_id_0.Node11.t = 0.0519239
+LDuONZIU.tree_id_0.Node9.t = 0.0608335
+LDuONZIU.tree_id_0.Aythya_fuligula.t = 0.0578081
+LDuONZIU.tree_id_0.Anas_platyrhynchos.t = 0.0869238
+LDuONZIU.tree_id_0.Node14.t = 0.122406
+LDuONZIU.tree_id_0.Node8.t = 2.11262
+Optimization finished in 19 loop passes.
+2399 likelihood evaluation calls and 57063 matrix exponentiations calls were made
+
+Variable 'cqQXRPMR.LDuONZIU.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 61-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.bsrel_mixture_aux_1 = 0.994694
+relax.reference.omega1 = 3.07281e-13
+relax.reference.omega2 = 1
+relax.reference.omega3 = 98.6209
+relax.reference.bsrel_mixture_aux_0 = 0.54408
+relax.test.theta_AC = 0.160278
+relax.test.theta_AT = 0.208715
+relax.test.theta_GT = 0.274206
+relax.test.theta_CG = 0.251711
+relax.test.theta_CT = 1.54285
+LDuONZIU.tree_id_0.Lyrurus_tetrix.t = 0.0864472
+LDuONZIU.tree_id_0.Tympanuchus_cupido.t = 0.0574416
+LDuONZIU.tree_id_0.Centrocercus_minimus.t = 0.0398877
+LDuONZIU.tree_id_0.Node4.t = 0.0272754
+LDuONZIU.tree_id_0.Node2.t = 0
+LDuONZIU.tree_id_0.Lagopus_muta.t = 0.0249662
+LDuONZIU.tree_id_0.Oxyura_jamaicensis.t = 0.0715142
+LDuONZIU.tree_id_0.Cygnus_atratus.t = 0.00876469
+LDuONZIU.tree_id_0.Anser_cygnoides.t = 0.0248534
+LDuONZIU.tree_id_0.Node11.t = 0.0164025
+LDuONZIU.tree_id_0.Node9.t = 0.0175407
+LDuONZIU.tree_id_0.Aythya_fuligula.t = 0.0171604
+LDuONZIU.tree_id_0.Anas_platyrhynchos.t = 0.0262362
+LDuONZIU.tree_id_0.Node14.t = 0.0409534
+LDuONZIU.tree_id_0.Node8.t = 0.700242
+Optimization finished in 3 loop passes.
+243 likelihood evaluation calls and 6417 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used
