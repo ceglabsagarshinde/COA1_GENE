@@ -1,0 +1,4 @@
+Ictidomys_tridecemlineatus `Cavia_porcellus,Cavia_aperea,Sciurus_vulgaris,Node4` 0.0129 0.00
+Marmota_marmota `Cavia_porcellus,Cavia_aperea,Sciurus_vulgaris,Node4` 0.0029 0.00
+Spermophilus_dauricus `Cavia_porcellus,Cavia_aperea,Sciurus_vulgaris,Node4` 0.0124 0.00
+Urocitellus_parryii `Cavia_porcellus,Cavia_aperea,Sciurus_vulgaris,Node4` 0.0132 0.00

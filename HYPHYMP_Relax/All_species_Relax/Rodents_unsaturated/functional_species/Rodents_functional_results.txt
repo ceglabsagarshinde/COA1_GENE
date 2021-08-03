@@ -1,0 +1,7 @@
+Cavia_aperea `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,14,Octodon_degus,Chinchilla_lanigera,13,11,10,Sciurus_vulgaris` 0.3259 8.22
+Cavia_porcellus `Ochotona_princeps,Fukomys_damarensis,Cavia_aperea,14,Octodon_degus,Chinchilla_lanigera,13,11,10,Sciurus_vulgaris` 1.0000 1.00
+Chinchilla_lanigera `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,14,Octodon_degus,13,11,10,Sciurus_vulgaris` 0.2781 0.05
+Fukomys_damarensis `Ochotona_princeps,Cavia_porcellus,Cavia_aperea,14,Octodon_degus,Chinchilla_lanigera,13,11,10,Sciurus_vulgaris`
+Ochotona_princeps `Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,14,Octodon_degus,Chinchilla_lanigera,13,11,10,Sciurus_vulgaris` 0.2277 3.02
+Octodon_degus `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,14,Chinchilla_lanigera,13,11,10,Sciurus_vulgaris` 0.6926 0.16
+Sciurus_vulgaris `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,14,Octodon_degus,Chinchilla_lanigera,13,11,10` 1.0000 0.00
