@@ -1,0 +1,660 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/models/codon/MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Already loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Loaded 'libv3/tasks/mpi.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/mpi.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../models/parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'SFSMgw_r.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'QMkGdWNt.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the right root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Loaded 'modules/grid_compute.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/grid_compute.ibf
+Variable 'rAuTYeqf.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'Tqdxcadn.model_pi' was not initialized prior to being used
+Model Tqdxcadn.model assigned to Suricata_suricatta
+Model Tqdxcadn.model assigned to Panthera_tigris
+Model Tqdxcadn.model assigned to Panthera_pardus
+Model Tqdxcadn.model assigned to Panthera_leo
+Model Tqdxcadn.model assigned to Node5
+Model Tqdxcadn.model assigned to Node3
+Model Tqdxcadn.model assigned to Lynx_lynx
+Model Tqdxcadn.model assigned to Felis_catus
+Model Tqdxcadn.model assigned to Node10
+Model Tqdxcadn.model assigned to Puma_concolor
+Model Tqdxcadn.model assigned to Node9
+Model Tqdxcadn.model assigned to Acinonyx_jubatus
+Model Tqdxcadn.model assigned to Node8
+The tips of the tree:Tqdxcadn.tree_0 were matched with the species names from the data in the following numeric order (0-based) {7,5,4,3,2,1,6,0}
+
+Pseudo-optimal path's cost 296 vs 484 for 1..k=> a 1.63514 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'Tqdxcadn.tree_0.Suricata_suricatta.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Suricata_suricatta.t=106.7943559584358
+Variable 'Tqdxcadn.tree_0.Panthera_tigris.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Panthera_tigris.t=19.83950363375157
+Variable 'Tqdxcadn.tree_0.Panthera_pardus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Panthera_pardus.t=10.23773978712057
+Variable 'Tqdxcadn.tree_0.Panthera_leo.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Panthera_leo.t=10.23773978712057
+Variable 'Tqdxcadn.tree_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Node5.t=9.601763846630993
+Variable 'Tqdxcadn.tree_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Node3.t=20.77713117973637
+Variable 'Tqdxcadn.tree_0.Lynx_lynx.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Lynx_lynx.t=28.90674296619316
+Variable 'Tqdxcadn.tree_0.Felis_catus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Felis_catus.t=28.90674296619316
+Variable 'Tqdxcadn.tree_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Node10.t=1.930724187516436
+Variable 'Tqdxcadn.tree_0.Puma_concolor.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Puma_concolor.t=30.8374671537096
+Variable 'Tqdxcadn.tree_0.Node9.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Node9.t=3.957686416708098
+Variable 'Tqdxcadn.tree_0.Acinonyx_jubatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Acinonyx_jubatus.t=34.7951535704177
+Variable 'Tqdxcadn.tree_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: Tqdxcadn.tree_0.Node8.t=5.821481243070246
+Variable 'Tqdxcadn.Tqdxcadn.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+Tqdxcadn.model.theta_GT = 0.25
+Tqdxcadn.model.theta_CT = 1
+Tqdxcadn.model.theta_AC = 0.25
+Tqdxcadn.model.theta_CG = 0.25
+Tqdxcadn.model.theta_AT = 0.25
+Tqdxcadn.tree_0.Suricata_suricatta.t = 106.794
+Tqdxcadn.tree_0.Panthera_tigris.t = 19.8395
+Tqdxcadn.tree_0.Panthera_pardus.t = 10.2377
+Tqdxcadn.tree_0.Panthera_leo.t = 10.2377
+Tqdxcadn.tree_0.Node5.t = 9.60176
+Tqdxcadn.tree_0.Node3.t = 20.7771
+Tqdxcadn.tree_0.Lynx_lynx.t = 28.9067
+Tqdxcadn.tree_0.Felis_catus.t = 28.9067
+Tqdxcadn.tree_0.Node10.t = 1.93072
+Tqdxcadn.tree_0.Puma_concolor.t = 30.8375
+Tqdxcadn.tree_0.Node9.t = 3.95769
+Tqdxcadn.tree_0.Acinonyx_jubatus.t = 34.7952
+Tqdxcadn.tree_0.Node8.t = 5.82148
+Site 12 evaluated to a 0 probability in ComputeLLWithBranchCache
+Site 43 evaluated to a 0 probability in ComputeLLWithBranchCache
+Site 18 evaluated to a 0 probability in ComputeLLWithBranchCache
+Optimization finished in 36 loop passes.
+2801 likelihood evaluation calls and 17350 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'Tqdxcadn.option' was not initialized prior to being used
+Variable 'relax.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'maHNIeHs.initial_value' was not initialized prior to being used
+Variable 'KfpsmIJC.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 6493-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.242038
+frequencies._aux.CF3x4.p0_1 = 0.404412
+frequencies._aux.CF3x4.p0_2 = 0.552028
+frequencies._aux.CF3x4.p1_0 = 0.217954
+frequencies._aux.CF3x4.p1_1 = 0.372359
+frequencies._aux.CF3x4.p1_2 = 0.414842
+frequencies._aux.CF3x4.p2_0 = 0.163018
+frequencies._aux.CF3x4.p2_1 = 0.322235
+frequencies._aux.CF3x4.p2_2 = 0.555439
+Optimization finished in 4 loop passes.
+212 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'KfpsmIJC.model_MGREV_pi' was not initialized prior to being used
+Model KfpsmIJC.model_MGREV assigned to Suricata_suricatta
+Model KfpsmIJC.model_MGREV assigned to Panthera_tigris
+Model KfpsmIJC.model_MGREV assigned to Panthera_pardus
+Model KfpsmIJC.model_MGREV assigned to Panthera_leo
+Model KfpsmIJC.model_MGREV assigned to Node5
+Model KfpsmIJC.model_MGREV assigned to Node3
+Model KfpsmIJC.model_MGREV assigned to Lynx_lynx
+Model KfpsmIJC.model_MGREV assigned to Felis_catus
+Model KfpsmIJC.model_MGREV assigned to Node10
+Model KfpsmIJC.model_MGREV assigned to Puma_concolor
+Model KfpsmIJC.model_MGREV assigned to Node9
+Model KfpsmIJC.model_MGREV assigned to Acinonyx_jubatus
+Model KfpsmIJC.model_MGREV assigned to Node8
+The tips of the tree:KfpsmIJC.tree_0 were matched with the species names from the data in the following numeric order (0-based) {7,5,4,3,2,1,6,0}
+
+Pseudo-optimal path's cost 978 vs 1340 for 1..k=> a 1.37014 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'KfpsmIJC.KfpsmIJC.likelihoodFunction' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Suricata_suricatta.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Panthera_tigris.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Panthera_pardus.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Panthera_leo.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Lynx_lynx.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Felis_catus.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node10.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Puma_concolor.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node9.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Acinonyx_jubatus.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node8.alpha' was not initialized prior to being used
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 38 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 74 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 730-th LF evaluation.
+Initial guess for KfpsmIJC.tree_0.Node3.alpha is -7.28915e-07
+Initial guess for KfpsmIJC.tree_0.Panthera_tigris.alpha is 0.000400051
+Initial guess for KfpsmIJC.tree_0.Node5.alpha is 5.75398e-06
+Initial guess for KfpsmIJC.tree_0.Panthera_pardus.alpha is 3.26167e-06
+Initial guess for KfpsmIJC.tree_0.Panthera_leo.alpha is 6.55886e-06
+Initial guess for KfpsmIJC.tree_0.Node8.alpha is 8.02776e-06
+Initial guess for KfpsmIJC.tree_0.Node9.alpha is -2.21948e-06
+Initial guess for KfpsmIJC.tree_0.Node10.alpha is 2.01065e-06
+Initial guess for KfpsmIJC.tree_0.Lynx_lynx.alpha is -5.48486e-07
+Initial guess for KfpsmIJC.tree_0.Felis_catus.alpha is 8.4674e-06
+Initial guess for KfpsmIJC.tree_0.Puma_concolor.alpha is 6.75194e-06
+Initial guess for KfpsmIJC.tree_0.Acinonyx_jubatus.alpha is 3.99976e-06
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+KfpsmIJC.model_MGREV.theta_GT = 1
+KfpsmIJC.model_MGREV.theta_CT = 1
+KfpsmIJC.model_MGREV.theta_CG = 1
+KfpsmIJC.model_MGREV.theta_AC = 1
+KfpsmIJC.model_MGREV.theta_AT = 1
+KfpsmIJC.model_MGREV.omega_0 = 1
+KfpsmIJC.tree_0.Suricata_suricatta.alpha = 0.1
+KfpsmIJC.tree_0.Panthera_tigris.alpha = 0.000400051
+KfpsmIJC.tree_0.Panthera_pardus.alpha = 3.26167e-06
+KfpsmIJC.tree_0.Panthera_leo.alpha = 6.55886e-06
+KfpsmIJC.tree_0.Node5.alpha = 5.75398e-06
+KfpsmIJC.tree_0.Node3.alpha = 0
+KfpsmIJC.tree_0.Lynx_lynx.alpha = 0
+KfpsmIJC.tree_0.Felis_catus.alpha = 8.4674e-06
+KfpsmIJC.tree_0.Node10.alpha = 2.01065e-06
+KfpsmIJC.tree_0.Puma_concolor.alpha = 6.75194e-06
+KfpsmIJC.tree_0.Node9.alpha = 0
+KfpsmIJC.tree_0.Acinonyx_jubatus.alpha = 3.99976e-06
+KfpsmIJC.tree_0.Node8.alpha = 8.02776e-06
+KfpsmIJC.model_MGREV.omega_1 = 1
+Failing bound checks on KfpsmIJC.tree_0.Acinonyx_jubatus.beta =         10000.51345826277
+Optimization finished in 26 loop passes.
+2275 likelihood evaluation calls and 12081 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6172-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.242038
+frequencies._aux.CF3x4.p0_1 = 0.404412
+frequencies._aux.CF3x4.p0_2 = 0.552028
+frequencies._aux.CF3x4.p1_0 = 0.217954
+frequencies._aux.CF3x4.p1_1 = 0.372359
+frequencies._aux.CF3x4.p1_2 = 0.414842
+frequencies._aux.CF3x4.p2_0 = 0.163018
+frequencies._aux.CF3x4.p2_1 = 0.322235
+frequencies._aux.CF3x4.p2_2 = 0.555439
+Optimization finished in 4 loop passes.
+211 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'KfpsmIJC.model_MGREV_pi' was not initialized prior to being used
+Model KfpsmIJC.model_MGREV assigned to Suricata_suricatta
+Model KfpsmIJC.model_MGREV assigned to Panthera_tigris
+Model KfpsmIJC.model_MGREV assigned to Panthera_pardus
+Model KfpsmIJC.model_MGREV assigned to Panthera_leo
+Model KfpsmIJC.model_MGREV assigned to Node5
+Model KfpsmIJC.model_MGREV assigned to Node3
+Model KfpsmIJC.model_MGREV assigned to Lynx_lynx
+Model KfpsmIJC.model_MGREV assigned to Felis_catus
+Model KfpsmIJC.model_MGREV assigned to Node10
+Model KfpsmIJC.model_MGREV assigned to Puma_concolor
+Model KfpsmIJC.model_MGREV assigned to Node9
+Model KfpsmIJC.model_MGREV assigned to Acinonyx_jubatus
+Model KfpsmIJC.model_MGREV assigned to Node8
+The tips of the tree:KfpsmIJC.tree_0 were matched with the species names from the data in the following numeric order (0-based) {7,5,4,3,2,1,6,0}
+
+Pseudo-optimal path's cost 978 vs 1340 for 1..k=> a 1.37014 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'KfpsmIJC.tree_0.Node9.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Puma_concolor.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Acinonyx_jubatus.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node10.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Felis_catus.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Panthera_tigris.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Panthera_pardus.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Lynx_lynx.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Suricata_suricatta.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Panthera_leo.alpha' was not initialized prior to being used
+Variable 'KfpsmIJC.tree_0.Node8.alpha' was not initialized prior to being used
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 38 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 74 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 22 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 65 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 967-th LF evaluation.
+Initial guess for KfpsmIJC.tree_0.Node3.alpha is -7.28915e-07
+Initial guess for KfpsmIJC.tree_0.Panthera_tigris.alpha is 0.000400051
+Initial guess for KfpsmIJC.tree_0.Node5.alpha is 5.75398e-06
+Initial guess for KfpsmIJC.tree_0.Panthera_pardus.alpha is 3.26167e-06
+Initial guess for KfpsmIJC.tree_0.Panthera_leo.alpha is 6.55886e-06
+Initial guess for KfpsmIJC.tree_0.Node8.alpha is 8.02776e-06
+Initial guess for KfpsmIJC.tree_0.Node9.alpha is -2.21948e-06
+Initial guess for KfpsmIJC.tree_0.Node10.alpha is 2.01065e-06
+Initial guess for KfpsmIJC.tree_0.Lynx_lynx.alpha is -5.48486e-07
+Initial guess for KfpsmIJC.tree_0.Felis_catus.alpha is 8.4674e-06
+Initial guess for KfpsmIJC.tree_0.Puma_concolor.alpha is 6.75194e-06
+Initial guess for KfpsmIJC.tree_0.Acinonyx_jubatus.alpha is 3.99976e-06
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+KfpsmIJC.model_MGREV.theta_AT = 1
+KfpsmIJC.model_MGREV.theta_CG = 1
+KfpsmIJC.model_MGREV.theta_CT = 1
+KfpsmIJC.model_MGREV.theta_GT = 1
+KfpsmIJC.model_MGREV.theta_AC = 1
+KfpsmIJC.model_MGREV.omega_0 = 1
+KfpsmIJC.tree_0.Suricata_suricatta.alpha = 0.1
+KfpsmIJC.tree_0.Panthera_tigris.alpha = 0.000400051
+KfpsmIJC.tree_0.Panthera_pardus.alpha = 3.26167e-06
+KfpsmIJC.tree_0.Panthera_leo.alpha = 6.55886e-06
+KfpsmIJC.tree_0.Node5.alpha = 5.75398e-06
+KfpsmIJC.tree_0.Node3.alpha = 0
+KfpsmIJC.tree_0.Lynx_lynx.alpha = 0
+KfpsmIJC.tree_0.Felis_catus.alpha = 8.4674e-06
+KfpsmIJC.tree_0.Node10.alpha = 2.01065e-06
+KfpsmIJC.tree_0.Puma_concolor.alpha = 6.75194e-06
+KfpsmIJC.tree_0.Node9.alpha = 0
+KfpsmIJC.tree_0.Acinonyx_jubatus.alpha = 3.99976e-06
+KfpsmIJC.tree_0.Node8.alpha = 8.02776e-06
+KfpsmIJC.model_MGREV.omega_1 = 1
+Failing bound checks on KfpsmIJC.tree_0.Acinonyx_jubatus.beta =         10000.51345826277
+Optimization finished in 29 loop passes.
+2692 likelihood evaluation calls and 14625 matrix exponentiations calls were made
+
+Overwritten previously defined function:'xLVAWCFz.rate_generator'
+Overwritten previously defined function:'xLVAWCFz.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6329-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.242038
+frequencies._aux.CF3x4.p0_1 = 0.404412
+frequencies._aux.CF3x4.p0_2 = 0.552028
+frequencies._aux.CF3x4.p1_0 = 0.217954
+frequencies._aux.CF3x4.p1_1 = 0.372359
+frequencies._aux.CF3x4.p1_2 = 0.414842
+frequencies._aux.CF3x4.p2_0 = 0.163018
+frequencies._aux.CF3x4.p2_1 = 0.322235
+frequencies._aux.CF3x4.p2_2 = 0.555439
+Optimization finished in 4 loop passes.
+211 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'xLVAWCFz.rate_generator'
+Overwritten previously defined function:'xLVAWCFz.rate_generator'
+Overwritten previously defined function:'xLVAWCFz.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6172-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.242038
+frequencies._aux.CF3x4.p0_1 = 0.404412
+frequencies._aux.CF3x4.p0_2 = 0.552028
+frequencies._aux.CF3x4.p1_0 = 0.217954
+frequencies._aux.CF3x4.p1_1 = 0.372359
+frequencies._aux.CF3x4.p1_2 = 0.414842
+frequencies._aux.CF3x4.p2_0 = 0.163018
+frequencies._aux.CF3x4.p2_1 = 0.322235
+frequencies._aux.CF3x4.p2_2 = 0.555439
+Optimization finished in 4 loop passes.
+211 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.reference_pi' was not initialized prior to being used
+No nodel was assigned to Suricata_suricatta
+No nodel was assigned to Panthera_tigris
+No nodel was assigned to Panthera_pardus
+No nodel was assigned to Panthera_leo
+No nodel was assigned to Node5
+No nodel was assigned to Node3
+No nodel was assigned to Lynx_lynx
+No nodel was assigned to Felis_catus
+No nodel was assigned to Node10
+No nodel was assigned to Puma_concolor
+No nodel was assigned to Node9
+No nodel was assigned to Acinonyx_jubatus
+No nodel was assigned to Node8
+The tips of the tree:jDUDggkJ.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {7,5,4,3,2,1,6,0}
+
+Pseudo-optimal path's cost 978 vs 1340 for 1..k=> a 1.37014 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'jDUDggkJ.tree_id_0.Suricata_suricatta.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Suricata_suricatta.t=1.875528737933351
+Variable 'jDUDggkJ.tree_id_0.Panthera_tigris.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Panthera_tigris.t=0.03788397544159304
+Variable 'jDUDggkJ.tree_id_0.Panthera_pardus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Panthera_pardus.t=0.03984212129508247
+Variable 'jDUDggkJ.tree_id_0.Panthera_leo.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Panthera_leo.t=0
+Variable 'jDUDggkJ.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node5.t=0.02312804631993421
+Variable 'jDUDggkJ.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node3.t=0.04719244671828159
+Variable 'jDUDggkJ.tree_id_0.Lynx_lynx.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Lynx_lynx.t=0.05998618869189371
+Variable 'jDUDggkJ.tree_id_0.Felis_catus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Felis_catus.t=0.04016350383589831
+Variable 'jDUDggkJ.tree_id_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node10.t=0.03948444443612495
+Variable 'jDUDggkJ.tree_id_0.Puma_concolor.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Puma_concolor.t=0
+Variable 'jDUDggkJ.tree_id_0.Node9.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node9.t=0.01956322304208852
+Variable 'jDUDggkJ.tree_id_0.Acinonyx_jubatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Acinonyx_jubatus.t=0.04123443594865746
+Variable 'jDUDggkJ.tree_id_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node8.t=0.05215697364520086
+Variable 'jDUDggkJ.jDUDggkJ.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 122-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 7.27482
+relax.reference.bsrel_mixture_aux_0 = 0.45
+relax.test.theta_GT = 0.289712
+relax.reference.omega1 = 0.145496
+relax.reference.omega2 = 0.4601
+relax.reference.bsrel_mixture_aux_1 = 0.818182
+relax.test.theta_CT = 0.515898
+relax.test.theta_AC = 0.620906
+relax.test.theta_AT = 0.479029
+relax.test.theta_CG = 0.412414
+relax.K = 1
+jDUDggkJ.tree_id_0.Suricata_suricatta.t = 1.87553
+jDUDggkJ.tree_id_0.Panthera_tigris.t = 0.037884
+jDUDggkJ.tree_id_0.Panthera_pardus.t = 0.0398421
+jDUDggkJ.tree_id_0.Panthera_leo.t = 0
+jDUDggkJ.tree_id_0.Node5.t = 0.023128
+jDUDggkJ.tree_id_0.Node3.t = 0.0471924
+jDUDggkJ.tree_id_0.Lynx_lynx.t = 0.0599862
+jDUDggkJ.tree_id_0.Felis_catus.t = 0.0401635
+jDUDggkJ.tree_id_0.Node10.t = 0.0394844
+jDUDggkJ.tree_id_0.Puma_concolor.t = 0
+jDUDggkJ.tree_id_0.Node9.t = 0.0195632
+jDUDggkJ.tree_id_0.Acinonyx_jubatus.t = 0.0412344
+jDUDggkJ.tree_id_0.Node8.t = 0.052157
+Optimization finished in 21 loop passes.
+2392 likelihood evaluation calls and 52287 matrix exponentiations calls were made
+
+Variable 'MPI_NODE_COUNT' was not initialized prior to being used
+No nodel was assigned to Suricata_suricatta
+No nodel was assigned to Panthera_tigris
+No nodel was assigned to Panthera_pardus
+No nodel was assigned to Panthera_leo
+No nodel was assigned to Node5
+No nodel was assigned to Node3
+No nodel was assigned to Lynx_lynx
+No nodel was assigned to Felis_catus
+No nodel was assigned to Node10
+No nodel was assigned to Puma_concolor
+No nodel was assigned to Node9
+No nodel was assigned to Acinonyx_jubatus
+No nodel was assigned to Node8
+Likelihood function cleared because partition index '0' points to invalid components
+The tips of the tree:jDUDggkJ.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {7,5,4,3,2,1,6,0}
+
+Pseudo-optimal path's cost 978 vs 1340 for 1..k=> a 1.37014 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_0 was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_1 was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+relax.test.omega1 was already constrained in estimators.SetGlobals2
+relax.test.omega2 was already constrained in estimators.SetGlobals2
+relax.test.omega3 was already constrained in estimators.SetGlobals2
+Variable 'jDUDggkJ.tree_id_0.Suricata_suricatta.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Suricata_suricatta.t=3.034674148325278
+Variable 'jDUDggkJ.tree_id_0.Panthera_tigris.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Panthera_tigris.t=0.03439409492939917
+Variable 'jDUDggkJ.tree_id_0.Panthera_pardus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Panthera_pardus.t=0.03379459420060844
+Variable 'jDUDggkJ.tree_id_0.Panthera_leo.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Panthera_leo.t=0
+Variable 'jDUDggkJ.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node5.t=0.01924580782716671
+Variable 'jDUDggkJ.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node3.t=0.02857530607582885
+Variable 'jDUDggkJ.tree_id_0.Lynx_lynx.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Lynx_lynx.t=0.05192254626637252
+Variable 'jDUDggkJ.tree_id_0.Felis_catus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Felis_catus.t=0.03604195588181735
+Variable 'jDUDggkJ.tree_id_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node10.t=0.03359035443213632
+Variable 'jDUDggkJ.tree_id_0.Puma_concolor.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Puma_concolor.t=0
+Variable 'jDUDggkJ.tree_id_0.Node9.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node9.t=0
+Variable 'jDUDggkJ.tree_id_0.Acinonyx_jubatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Acinonyx_jubatus.t=0.05017846991149056
+Variable 'jDUDggkJ.tree_id_0.Node8.t' was not initialized prior to being used
+models.generic.SetBranchLength: jDUDggkJ.tree_id_0.Node8.t=0.03789212237861373
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 118-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 12.7323
+relax.reference.bsrel_mixture_aux_0 = 0.514271
+relax.test.theta_GT = 0.174542
+relax.reference.omega1 = 0.26374
+relax.reference.omega2 = 0.261896
+relax.reference.bsrel_mixture_aux_1 = 0.776647
+relax.test.theta_CT = 0.449611
+relax.test.theta_AC = 0.540055
+relax.test.theta_AT = 0.350601
+relax.test.theta_CG = 0.284835
+relax.K = 1
+jDUDggkJ.tree_id_0.Suricata_suricatta.t = 3.03467
+jDUDggkJ.tree_id_0.Panthera_tigris.t = 0.0343941
+jDUDggkJ.tree_id_0.Panthera_pardus.t = 0.0337946
+jDUDggkJ.tree_id_0.Panthera_leo.t = 0
+jDUDggkJ.tree_id_0.Node5.t = 0.0192458
+jDUDggkJ.tree_id_0.Node3.t = 0.0285753
+jDUDggkJ.tree_id_0.Lynx_lynx.t = 0.0519225
+jDUDggkJ.tree_id_0.Felis_catus.t = 0.036042
+jDUDggkJ.tree_id_0.Node10.t = 0.0335904
+jDUDggkJ.tree_id_0.Puma_concolor.t = 0
+jDUDggkJ.tree_id_0.Node9.t = 0
+jDUDggkJ.tree_id_0.Acinonyx_jubatus.t = 0.0501785
+jDUDggkJ.tree_id_0.Node8.t = 0.0378921
+Optimization finished in 20 loop passes.
+2504 likelihood evaluation calls and 53757 matrix exponentiations calls were made
+
+Variable 'bDROvwuU.jDUDggkJ.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 131-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega1 = 0.26221
+relax.reference.bsrel_mixture_aux_0 = 0.488477
+relax.reference.bsrel_mixture_aux_1 = 0.792252
+relax.reference.omega3 = 12.0446
+relax.reference.omega2 = 0.259108
+relax.test.theta_GT = 0.172525
+relax.test.theta_AT = 0.358309
+relax.test.theta_AC = 0.54123
+relax.test.theta_CG = 0.287081
+relax.test.theta_CT = 0.450771
+jDUDggkJ.tree_id_0.Suricata_suricatta.t = 1.02328
+jDUDggkJ.tree_id_0.Panthera_tigris.t = 0.0119909
+jDUDggkJ.tree_id_0.Panthera_pardus.t = 0.0118145
+jDUDggkJ.tree_id_0.Panthera_leo.t = 0
+jDUDggkJ.tree_id_0.Node5.t = 0.00676583
+jDUDggkJ.tree_id_0.Node3.t = 0.0100919
+jDUDggkJ.tree_id_0.Lynx_lynx.t = 0.0181349
+jDUDggkJ.tree_id_0.Felis_catus.t = 0.0125848
+jDUDggkJ.tree_id_0.Node10.t = 0.0117415
+jDUDggkJ.tree_id_0.Puma_concolor.t = 0
+jDUDggkJ.tree_id_0.Node9.t = 0
+jDUDggkJ.tree_id_0.Acinonyx_jubatus.t = 0.0185725
+jDUDggkJ.tree_id_0.Node8.t = 0.0131447
+Optimization finished in 5 loop passes.
+383 likelihood evaluation calls and 9414 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used

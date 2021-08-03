@@ -1,0 +1,7 @@
+Felis_catus `Suricata_suricatta,Panthera_tigris,Panthera_pardus,Panthera_leo,Node5,Node3,Lynx_lynx,Node9,Puma_concolor,Node8` 0.1414 0.31
+Lynx_lynx `Suricata_suricatta,Panthera_tigris,Panthera_pardus,Panthera_leo,Node5,Node3,Felis_catus,Node9,Puma_concolor,Node8` 0.2386 2.54
+Panthera_leo `Suricata_suricatta,Panthera_tigris,Panthera_pardus,Node5,Node3,Lynx_lynx,Felis_catus,Node9,Puma_concolor,Node8` 1.0000 1.00
+Panthera_pardus `Suricata_suricatta,Panthera_tigris,Panthera_leo,Node5,Node3,Lynx_lynx,Felis_catus,Node9,Puma_concolor,Node8` 0.3458 2.49
+Panthera_tigris `Suricata_suricatta,Panthera_pardus,Panthera_leo,Node5,Node3,Lynx_lynx,Felis_catus,Node9,Puma_concolor,Node8` 0.1445 0.31
+Puma_concolor `Suricata_suricatta,Panthera_tigris,Panthera_pardus,Panthera_leo,Node5,Node3,Lynx_lynx,Felis_catus,Node9,Node8` 0.4130 0.35
+Suricata_suricatta `Panthera_tigris,Panthera_pardus,Panthera_leo,Node5,Node3,Lynx_lynx,Felis_catus,Node9,Puma_concolor,Node8` 0.0001 18.78

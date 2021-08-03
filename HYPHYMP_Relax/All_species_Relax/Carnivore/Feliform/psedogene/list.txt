@@ -1,0 +1,8 @@
+Acinonyx_jubatus
+Felis_catus
+Lynx_lynx
+Panthera_leo
+Panthera_pardus
+Panthera_tigris
+Puma_concolor
+Suricata_suricatta
