@@ -1,0 +1,5 @@
+Trichechus_manatus
+Orycteropus_afer
+Loxodonta_africana
+Mammuthus_primigenius
+Elephas_maximus

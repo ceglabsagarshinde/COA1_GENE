@@ -1,0 +1,5 @@
+Elephas_maximus `Trichechus_manatus,Loxodonta_africana,Mammuthus_primigenius,Node5,Node3,Orycteropus_afer` 0.4883 0.00
+Loxodonta_africana `Trichechus_manatus,Mammuthus_primigenius,Elephas_maximus,Node5,Node3,Orycteropus_afer` 0.4872 3.27
+Mammuthus_primigenius `Trichechus_manatus,Loxodonta_africana,Elephas_maximus,Node5,Node3,Orycteropus_afer` 0.9819 1.00
+Orycteropus_afer `Trichechus_manatus,Loxodonta_africana,Mammuthus_primigenius,Elephas_maximus,Node5,Node3` 0.0095 8.73
+Trichechus_manatus `Loxodonta_africana,Mammuthus_primigenius,Elephas_maximus,Node5,Node3,Orycteropus_afer` 0.0428 0.00
