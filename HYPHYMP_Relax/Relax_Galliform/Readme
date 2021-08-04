@@ -1,5 +1,8 @@
 ##########################################################################
-##for each folder have a *.nwk, *.aln and *.fa file 
-##Code is provided (Galliform_relax.sh)
-##folder species mentioned as foreground in (*nwk) file
-##Backgrund species as a anseriforms 
+##for each folder have a *.nwk, *.aln and *.fa file 	 
+  
+##Code is provided (Galliform_relax.sh)	 
+  
+##folder species mentioned as foreground in (*nwk) file	 
+  
+##Backgrund species as an anseriform
