@@ -21,6 +21,6 @@ done
 
 ##Then, we loaded the sorted bam file in igv, checked the polymorphic site between two reads, and mentioned the read group based on the changes. 
 ##For read group addition, we used jvarkit
+java -jar biostar214299.jar -p positions.tsv input.bam
 
-
-##Each folder for the one species mentioned in Figure2 stored one sorted bam file, which was used for plotting.
+##Single bam file for each species stored in the folder which was used for plotting figure 2
