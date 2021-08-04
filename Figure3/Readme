@@ -1,1 +1,26 @@
+##Made a bam file using blastn output 
 
+#!/bin/bash
+##Downloaded the genomic raw-reads from European Nucleotide Archive
+## for database creation and did blastn
+zcat *.gz|sed -n '1~4s/^@/>/p;2~4p' > $i
+j="species_name"
+makeblastdb -in $i -out $i -dbtype nucl
+##Ran the blastn using query sequence from NCBI  
+##query sequence 
+q="query_sequence"
+blastn -task blastn -evalue 0.01 -db $i -out blastn_"$j"_DNA_"$i"_COA1."$q".sam -num_threads 2 -outfmt 17 SQ  -query $q
+
+##we converted the sam files into sorted bamfiles using samtools.
+for i in *sam;
+do;
+samtools view -bhS $i > $i.bam;
+samtools sort $i.bam -o $i.sorted.bam;
+samtools index $i.sorted.bam;
+done
+
+##Then, we loaded the sorted bam file in igv, checked the polymorphic site between two reads, and mentioned the read group based on the changes. 
+##For read group addition, we used jvarkit
+
+
+##Each folder for the one species mentioned in Figure2 stored one sorted bam file, which was used for plotting.
