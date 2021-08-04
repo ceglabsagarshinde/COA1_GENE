@@ -24,3 +24,4 @@ done
 java -jar biostar214299.jar -p positions.tsv input.bam
 
 ##Single bam file for each species stored in the folder which was used for plotting figure 2
+##we uploaded the fasta and  fasta index of each species in figure 2
