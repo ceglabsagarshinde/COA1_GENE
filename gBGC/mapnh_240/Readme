@@ -1,0 +1,4 @@
+##mapnh
+##for GC* analysis we used 240 species,we provided tree file downloaded from Time tree (240.nwk). 
+##Fasta file (COA1_Final.fa) and aligned file using PRANK (COA1_240.aln)
+##For 240 species used mapnh and code is provided in (mapnh.240.sh)
