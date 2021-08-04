@@ -1,1 +1,5 @@
-
+##we used the human COA1 gene as input in HHblits and settings mentioned in materials and methods
+##HHblits generated output forwarded to CLANS. CLANS gives a result in a zip file (6708313.clans unzipped).
+##we generated the CLANS figure (figure 1A).
+##we coloured the seven different clusters based on the groups mentioned in figure 1A.
+##we also provided detailed text files of each cluster separately such as TIM21_like.cluster, COA1_like.cluster, diffuse_COA1.cluster, TIM21.cluster, COA1_TIM21_hybrid.cluster, DUF1783_COAP.cluster, COA1.cluster.
