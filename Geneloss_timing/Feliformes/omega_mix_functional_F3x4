@@ -1,0 +1,176 @@
+CODONML (in paml version 4.9f, October 2017)  feliformia.aln
+Model: several dN/dS ratios for branches for branches,  kappa = 1.000 fixed
+
+Codon frequency model: F3x4
+ns =   7  ls = 131
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   2   2   2   2   2 | Ser TCT   1   2   1   1   1   1 | Tyr TAT   2   2   2   2   2   2 | Cys TGT   0   0   0   0   0   0
+    TTC   0   0   1   1   1   1 |     TCC   6   5   6   6   6   6 |     TAC   3   3   3   3   3   3 |     TGC   1   1   1   1   1   1
+Leu TTA   1   1   2   1   1   1 |     TCA   1   1   0   1   1   1 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   4   4   4   4   4   4 |     TCG   1   1   1   1   1   1 |     TAG   0   0   0   0   0   0 | Trp TGG   2   2   2   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   7   7   7   7   7   7 | Pro CCT   6   6   5   6   5   7 | His CAT   0   0   0   0   1   0 | Arg CGT   0   0   0   0   0   0
+    CTC   1   3   2   2   2   2 |     CCC   3   3   3   3   3   3 |     CAC   3   3   3   3   3   3 |     CGC   1   0   0   0   0   0
+    CTA   1   0   1   1   1   0 |     CCA   5   3   3   4   4   3 | Gln CAA   0   0   0   0   0   0 |     CGA   1   1   1   1   1   1
+    CTG   6   6   6   6   6   7 |     CCG   1   3   3   2   1   2 |     CAG   5   6   6   6   6   6 |     CGG   1   1   1   1   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   2   2   2   2   2   2 | Thr ACT   2   2   2   2   2   2 | Asn AAT   0   0   0   0   0   0 | Ser AGT   3   3   3   3   3   3
+    ATC   1   1   1   1   1   1 |     ACC   2   2   2   2   2   2 |     AAC   0   0   0   0   0   0 |     AGC   4   4   4   5   5   5
+    ATA   2   2   2   2   2   2 |     ACA   2   3   3   3   3   3 | Lys AAA   2   3   3   3   3   3 | Arg AGA   2   1   1   0   0   0
+Met ATG   2   2   2   2   2   2 |     ACG   1   1   1   1   1   1 |     AAG   4   4   4   4   4   4 |     AGG   3   3   3   2   2   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   0   0   0   0   0 | Ala GCT   4   4   5   4   4   4 | Asp GAT   1   1   1   1   1   1 | Gly GGT   3   3   3   3   3   3
+    GTC   3   3   3   3   3   3 |     GCC   3   3   3   3   3   3 |     GAC   1   1   1   1   1   1 |     GGC   1   1   1   1   1   1
+    GTA   0   0   0   0   0   0 |     GCA   1   1   1   1   1   1 | Glu GAA   0   1   1   1   1   1 |     GGA   3   2   2   2   2   2
+    GTG   5   5   5   5   5   5 |     GCG   1   1   2   1   1   1 |     GAG   2   2   2   2   2   2 |     GGG   3   3   2   3   3   3
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   2 | Ser TCT   1 | Tyr TAT   2 | Cys TGT   0
+    TTC   0 |     TCC   6 |     TAC   3 |     TGC   1
+Leu TTA   1 |     TCA   1 | *** TAA   0 | *** TGA   0
+    TTG   4 |     TCG   1 |     TAG   0 | Trp TGG   2
+------------------------------------------------------
+Leu CTT   7 | Pro CCT   6 | His CAT   0 | Arg CGT   0
+    CTC   2 |     CCC   3 |     CAC   3 |     CGC   0
+    CTA   1 |     CCA   4 | Gln CAA   0 |     CGA   1
+    CTG   6 |     CCG   2 |     CAG   6 |     CGG   1
+------------------------------------------------------
+Ile ATT   2 | Thr ACT   2 | Asn AAT   0 | Ser AGT   3
+    ATC   1 |     ACC   2 |     AAC   0 |     AGC   4
+    ATA   2 |     ACA   3 | Lys AAA   2 | Arg AGA   2
+Met ATG   2 |     ACG   1 |     AAG   4 |     AGG   3
+------------------------------------------------------
+Val GTT   0 | Ala GCT   4 | Asp GAT   1 | Gly GGT   3
+    GTC   3 |     GCC   3 |     GAC   1 |     GGC   1
+    GTA   0 |     GCA   1 | Glu GAA   1 |     GGA   2
+    GTG   5 |     GCG   1 |     GAG   2 |     GGG   3
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Acinonyx_jubatus
+position  1:    T:0.18750    C:0.32031    A:0.25000    G:0.24219
+position  2:    T:0.28906    C:0.31250    A:0.17969    G:0.21875
+position  3:    T:0.25781    C:0.25781    A:0.16406    G:0.32031
+Average         T:0.24479    C:0.29688    A:0.19792    G:0.26042
+
+#2: Felis_catus    
+position  1:    T:0.18462    C:0.32308    A:0.25385    G:0.23846
+position  2:    T:0.29231    C:0.31538    A:0.20000    G:0.19231
+position  3:    T:0.26154    C:0.25385    A:0.14615    G:0.33846
+Average         T:0.24615    C:0.29744    A:0.20000    G:0.25641
+
+#3: Lynx_lynx      
+position  1:    T:0.19084    C:0.31298    A:0.25191    G:0.24427
+position  2:    T:0.30534    C:0.31298    A:0.19847    G:0.18321
+position  3:    T:0.25191    C:0.25954    A:0.15267    G:0.33588
+Average         T:0.24936    C:0.29517    A:0.20102    G:0.25445
+
+#4: Panthera_leo   
+position  1:    T:0.19847    C:0.32061    A:0.24427    G:0.23664
+position  2:    T:0.29771    C:0.31298    A:0.19847    G:0.19084
+position  3:    T:0.25191    C:0.26718    A:0.15267    G:0.32824
+Average         T:0.24936    C:0.30025    A:0.19847    G:0.25191
+
+#5: Panthera_pardus
+position  1:    T:0.19847    C:0.32061    A:0.24427    G:0.23664
+position  2:    T:0.29771    C:0.29771    A:0.20611    G:0.19847
+position  3:    T:0.25191    C:0.26718    A:0.15267    G:0.32824
+Average         T:0.24936    C:0.29517    A:0.20102    G:0.25445
+
+#6: Panthera_tigris
+position  1:    T:0.19847    C:0.32061    A:0.24427    G:0.23664
+position  2:    T:0.29771    C:0.31298    A:0.19847    G:0.19084
+position  3:    T:0.25954    C:0.26718    A:0.13740    G:0.33588
+Average         T:0.25191    C:0.30025    A:0.19338    G:0.25445
+
+#7: Puma_concolor  
+position  1:    T:0.18462    C:0.32308    A:0.25385    G:0.23846
+position  2:    T:0.29231    C:0.31538    A:0.19231    G:0.20000
+position  3:    T:0.25385    C:0.25385    A:0.16154    G:0.33077
+Average         T:0.24359    C:0.29744    A:0.20256    G:0.25641
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      14 | Ser S TCT       8 | Tyr Y TAT      14 | Cys C TGT       0
+      TTC       4 |       TCC      41 |       TAC      21 |       TGC       7
+Leu L TTA       8 |       TCA       6 | *** * TAA       0 | *** * TGA       0
+      TTG      28 |       TCG       7 |       TAG       0 | Trp W TGG      17
+------------------------------------------------------------------------------
+Leu L CTT      49 | Pro P CCT      41 | His H CAT       1 | Arg R CGT       0
+      CTC      14 |       CCC      21 |       CAC      21 |       CGC       1
+      CTA       5 |       CCA      26 | Gln Q CAA       0 |       CGA       7
+      CTG      43 |       CCG      14 |       CAG      41 |       CGG       8
+------------------------------------------------------------------------------
+Ile I ATT      14 | Thr T ACT      14 | Asn N AAT       0 | Ser S AGT      21
+      ATC       7 |       ACC      14 |       AAC       0 |       AGC      31
+      ATA      14 |       ACA      20 | Lys K AAA      19 | Arg R AGA       6
+Met M ATG      14 |       ACG       7 |       AAG      28 |       AGG      18
+------------------------------------------------------------------------------
+Val V GTT       0 | Ala A GCT      29 | Asp D GAT       7 | Gly G GGT      21
+      GTC      21 |       GCC      21 |       GAC       7 |       GGC       7
+      GTA       0 |       GCA       7 | Glu E GAA       6 |       GGA      15
+      GTG      35 |       GCG       8 |       GAG      14 |       GGG      20
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.19189    C:0.32018    A:0.24890    G:0.23904
+position  2:    T:0.29605    C:0.31140    A:0.19627    G:0.19627
+position  3:    T:0.25548    C:0.26096    A:0.15241    G:0.33114
+Average         T:0.24781    C:0.29751    A:0.19920    G:0.25548
+
+TREE #  1:  ((6, (5, 4)), (3, ((1, 7), 2)));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 12  np: 14):   -659.717475      +0.000000
+   8..9     9..6     9..10   10..5    10..4     8..11   11..3    11..12   12..13   13..1    13..7    12..2  
+ 0.014322 0.012531 0.012502 0.015568 0.000004 0.007283 0.023337 0.000004 0.015514 0.023758 0.000004 0.015695 0.435436 0.781898
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  0.140522
+
+((6: 0.012531, (5: 0.015568, 4: 0.000004): 0.012502): 0.014322, (3: 0.023337, ((1: 0.023758, 7: 0.000004): 0.015514, 2: 0.015695): 0.000004): 0.007283);
+
+((Panthera_tigris: 0.012531, (Panthera_pardus: 0.015568, Panthera_leo: 0.000004): 0.012502): 0.014322, (Lynx_lynx: 0.023337, ((Acinonyx_jubatus: 0.023758, Puma_concolor: 0.000004): 0.015514, Felis_catus: 0.015695): 0.000004): 0.007283);
+
+Detailed output identifying parameters
+
+w (dN/dS) for branches:  0.43544 0.78190
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   8..9      0.014   284.6   108.4  0.4354  0.0035  0.0081   1.0   0.9
+   9..6      0.013   284.6   108.4  0.4354  0.0031  0.0071   0.9   0.8
+   9..10     0.013   284.6   108.4  0.4354  0.0031  0.0070   0.9   0.8
+  10..5      0.016   284.6   108.4  0.4354  0.0038  0.0088   1.1   1.0
+  10..4      0.000   284.6   108.4  0.4354  0.0000  0.0000   0.0   0.0
+   8..11     0.007   284.6   108.4  0.4354  0.0018  0.0041   0.5   0.4
+  11..3      0.023   284.6   108.4  0.4354  0.0057  0.0132   1.6   1.4
+  11..12     0.000   284.6   108.4  0.4354  0.0000  0.0000   0.0   0.0
+  12..13     0.016   284.6   108.4  0.4354  0.0038  0.0087   1.1   0.9
+  13..1      0.024   284.6   108.4  0.7819  0.0074  0.0094   2.1   1.0
+  13..7      0.000   284.6   108.4  0.4354  0.0000  0.0000   0.0   0.0
+  12..2      0.016   284.6   108.4  0.4354  0.0039  0.0088   1.1   1.0
+
+tree length for dN:       0.0360
+tree length for dS:       0.0752
+
+dS tree:
+((Panthera_tigris: 0.007065, (Panthera_pardus: 0.008778, Panthera_leo: 0.000002): 0.007049): 0.008075, (Lynx_lynx: 0.013158, ((Acinonyx_jubatus: 0.009404, Puma_concolor: 0.000002): 0.008747, Felis_catus: 0.008849): 0.000002): 0.004106);
+dN tree:
+((Panthera_tigris: 0.003077, (Panthera_pardus: 0.003822, Panthera_leo: 0.000001): 0.003069): 0.003516, (Lynx_lynx: 0.005730, ((Acinonyx_jubatus: 0.007353, Puma_concolor: 0.000001): 0.003809, Felis_catus: 0.003853): 0.000001): 0.001788);
+
+w ratios as labels for TreeView:
+((Panthera_tigris #0.435436 , (Panthera_pardus #0.435436 , Panthera_leo #0.435436 ) #0.435436 ) #0.435436 , (Lynx_lynx #0.435436 , ((Acinonyx_jubatus #0.781898 , Puma_concolor #0.435436 ) #0.435436 , Felis_catus #0.435436 ) #0.435436 ) #0.435436 );
+
+
+Time used:  0:03
