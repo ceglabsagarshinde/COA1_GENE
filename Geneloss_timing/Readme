@@ -2,5 +2,5 @@
 ##we ran branch free model using PAML.
 ##Each folder stored the aligned file *aln or MSA.PRANK.aln.With_Names.
 ##Each folder held the tree file downloaded from the Time tree.
-##In *.nwk label defined.
+##In tree file (*.nwk) label defined.
 
