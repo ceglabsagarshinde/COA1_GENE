@@ -1,1 +1,3 @@
 
+##Groupwise mapnh ran with HYPHYMP and PAML for calculation GC* and dN/dS 
+##Each group folder have own tree file (*.nwk), aligned fasta file (*.aln), Paml control file  (codeml1), Hyphy control file (dNdS.bf), code file (script.sh)
