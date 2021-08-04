@@ -2,11 +2,11 @@
 #for m in `ls *.fa`
 #do
 #Run multiple MSA programs through guidance with 100 bootstraps
-#perl /home/nagarjun/guidance.v2.02/www/Guidance/guidance.pl --program GUIDANCE --seqFile "$m" --msaProgram PRANK --seqType codon --outDir "$m".100_PRANK --genCode 1 --bootstraps 100 --proc_num 4
+#perl guidance.pl --program GUIDANCE --seqFile "$m" --msaProgram PRANK --seqType codon --outDir "$m".100_PRANK --genCode 1 --bootstraps 100 --proc_num 4
 #sort MSA files before comparing
 ##Use https://github.com/shenwei356/seqkit
 #cp "$m".100_PRANK/MSA.PRANK.aln.With_Names .
-#mv MSA.PRANK.aln.With_Names COA1_241.aln
+#mv MSA.PRANK.aln.With_Names COA1_240.aln
 #done
 ##calculating the weak to strong(AT>GC) and strong to weak (GC>AT) conversion using mapnh.
 for i in *.aln
