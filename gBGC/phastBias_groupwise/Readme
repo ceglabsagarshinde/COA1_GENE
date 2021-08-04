@@ -1,1 +1,30 @@
-##information
+ 
+
+##phastBias
+##for gBGC analysis, we made groupwise folders. Each folder contains (*.aln ) and tree (*.nwk)
+##Code provided in each folder (phast.sh)
+
+
+
+##ran phastBias
+tree=`ls *nwk`
+i=*aln
+##ran the phyloFit on alignment for fitting substitution model  HKY85. it  create ($i.mod) file for use in phastBias.
+phyloFit --tree $tree --subst-mod HKY85 --out-root $i $i
+for k in `cat $i|grep "^>" $i | sed 's/>//g'`
+do
+##it calculate gBGC across each nucleotide position.
+phastBias --bgc 3 --output-tracts $i.gff $i $i.mod $k > $k.wig
+sed '1d' $k.wig > $k.a
+sed "1s/^/$k\n/" $k.a > $k.b
+rm $k.wig $k.a
+done
+touch tempB
+for k in `ls -1 *.b`
+do
+paste $k tempB > $i.phast.out
+mv $i.phast.out tempB
+done
+mv tempB $i.phast.out
+rm *.b
+
