@@ -1,0 +1,8 @@
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M1vsM2	F3x4	26	T	0.998
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M1vsM2	F3x4	44	S	0.963
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M7vsM8	F3x4	26	T	1.000
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M7vsM8	F3x4	44	S	0.997
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M1vsM2	F61	26	T	0.999
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M1vsM2	F61	44	S	0.987
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M7vsM8	F61	26	T	1.000
+M0_tree__unrooted_tree__F3X4.tre.out	BEB	M7vsM8	F61	44	S	0.999
