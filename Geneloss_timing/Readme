@@ -1,7 +1,3 @@
-##Two *ctl files are provided in each folder. 
-##we ran branch free model using PAML with codon frequency modes F1x4 and F3x4.
-##Each folder stored the aligned file *aln or MSA.PRANK.aln.With_Names.
-##Each folder held the tree file downloaded from the Time tree.
-##In tree file (*.nwk) labels defined.
-##We tried different combinations for effect on gene loss timing.
+##Branch free model from PAML was used with codon frequency models F1x4 and F3x4.
+##Each folder contains the associated alignment file (either *.aln or MSa.PRANK.aln.With.Names), labelled newick tree file (*.nwk), and the control files (*.ctl) to run the model.
 
