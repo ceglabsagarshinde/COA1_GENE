@@ -1,7 +1,0 @@
-Urocitellus_parryii
-Marmota_marmota
-Ictidomys_tridecemlineatus
-Spermophilus_dauricus
-Heterocephalus_glaber
-Castor_canadensis
-Oryctolagus_cuniculus
