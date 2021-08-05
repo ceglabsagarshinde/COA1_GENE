@@ -7,8 +7,6 @@
 # 4.Perelman_et_al__9primates__unrooted.tre
 # 5.RAxML_bestTree__9primates__unrooted.tre
 
-## The species tree downloaded from timetree.org
-#echo "(Callithrix_jacchus:43.15129635,(((Papio_anubis:12.40000000,Macaca_mulatta:12.40000000)'14':1.34957083,Chlorocebus_sabaeus:13.74957083)'13':15.69197598,(Nomascus_leucogenys:20.18921354,((Gorilla_gorilla:9.06309552,(Pan_troglodytes:6.65090500,Homo_sapiens:6.65090500)'11':2.41219052)'10':6.69907002,Pongo_abelii:15.76216554)'19':4.42704801)'9':9.25233327)'22':13.70974953);" > primates_9list.tre
 
 #making these two below files to tell the program which argument to select for nucleotide frequency model and codon models
 echo -e "2\tF3x4" > cffile
