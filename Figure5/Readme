@@ -19,10 +19,10 @@ samtools sort $i.bam -o $i.sorted.bam;
 samtools index $i.sorted.bam;
 done
 
-##Sorted bam files were visualized in igv. The generated images are represented in Figure6 A-F 
-##Directories with name A-F contains bam files associated with Mammoth's COA1 gene sequence generated from different BioSample IDs from NCBI/ENA. The associated figures are Figure6 A-F
+##Sorted bam files were visualized in igv. The generated images are represented in Figure5 A-F 
+##Directories with name A-F contains bam files associated with Mammoth's COA1 gene sequence generated from different BioSample IDs from NCBI/ENA. The associated figures are Figure5 A-F
 
-##Figure 6G
+##Figure 5G
 ## the input is the database fasta file. The *_counts output file of the last step is used for generating the plot.
 i=$1
 jellyfish count -m 21 -s 1000M -t 10 -C $i -o "$i"_jell
