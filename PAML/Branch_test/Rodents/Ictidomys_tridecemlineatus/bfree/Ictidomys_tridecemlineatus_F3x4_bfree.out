@@ -1,0 +1,253 @@
+
+Before deleting alignment gaps
+      8    546
+
+Ictidomys_tridecemlineatus      ATG CCN NCA AAG CCT CTG GGA AAA ATG TTC CTT TAC ACC AGT GTG TTG AGG GCA GGG ACC TGT CCT --- --- --- --- CTT TTT TAT --- TAC CTT ATA CAA AAA GGT TTT CCC AGG GCT TCA TTT TAT CAA ATG GCG TTG GAG CAG CTA CAT AGT CAC CCT GAG GTA CTG GAA GCT CTC TGN GTA --- --- --- --- --- TTC CTC TCC ATG TTC ACT ACC TCC AGC CCC CCA GCA AAC ACA ACT TTG TGG ACA TTA CTG TTG CCT GGT TGN AAA TTC CTG TTT TTG GAT CCA AGT CAG AGG GCC ATC TCT ACA CCA GAT CAC CCA GAG TTG --- CCC TCT TTC AAA GGT GGC --- --- --- --- AAC TTC AGG AGG TTG TCT TGG AGT CCA --- --- --- --- --- --- --- --- AGG ATG GGC AGA AGA TTT CTG TGT TCG TGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TCA GAG AGA AGA TAT AGT AAA --- AAA ATG GAG --- --- 
+Cavia_porcellus                 ATG CAA GAT --- CCT TCA AGA AGA GTG CTT CTT TAC ACC AGT GTG CTG TGT GCA GGA ACC GGG CCC --- --- --- --- CTG GTG TAT --- TAC CTC ATA CAG AAA GGC TTG AGC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAT GGC CAC CCC GAG GCG CTG GAG GCG CTG GGC TCG CCC CTC CGT GTA CAC CAC CTG CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG CTC AGC AGG GAC CAC TTT GTG GAC ATC ACT GAC GCC CGG CTG AAG ATT CCC ATC TCT GGG CCC AAG GCA AAG GGC CAT CTC CTC ACT CGG TCA ACC AGG AGC GCC CCC TTT AAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG ACG CTT CAG GAA GTG GTG CTA GAG CTT GGG GAC GGA CAG CGG ATC CCC GTG TTC ACG CCT GGC GAG CAG --- --- --- --- --- --- GGG ACG --- --- 
+Cavia_aperea                    ATG CAA GAT --- CCT TCA AGA AGA GTG CTT CTT TAC ACC AGT GTG CTG TGT GCA GGA ACC GGG CCC --- --- --- --- CTG GTG TAT --- TAC CTC ATA CAG AAA GGC TTG AGC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAT GGC CAC CCC GAG GCG CTG GAG GCG CTG GGC TCG CCC CTC CGT GTA CAC CAC CTG CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG CTC AGC AGG GAC CAC TTT GTG GAC ATC ACT GAC GCC CGG CTG AAG ATT CCC ATC TCT GGG CCC AAG GCA AAG GGC CAT CTC CTC ACT CGG TCA ACC AGG AGC GCC CCC TTT AAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG ACG CTT CAG GAA GTG GTG CTA GAG CTT GGG GAC GGA CAG CGG ATC CCC GTG TTC ACG CCT GGC GAG CGG --- --- --- --- --- --- GGG ACG --- --- 
+Chinchilla_lanigera             ATG CAA GAT --- CCT TCG AGA AAA GCG TTT CTT TGC AGC AGT GTG CTC TGC GCA GGA CTC GGG CCC --- --- --- --- CTG GTG TAT --- TAC CTC ATA CAA AAA GGG TTC ACC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAC AAC CAC CCC GAG GCG CTG GAA GCA CTG GGC GCG CCC CTC CAG GTG CAC CAC CTG CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GTG CTC AGC AGG GAC CAC CTC GTG GAC ATC GTC GAA GCC CGG CTG AAG ATT CCT GTC TCC GGG CCC AAG GCA AAG GGC CAT CTC CTC ACC CAG TCT ACC AGA AGC GCC CCC TTT CAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG AAC CTT CAG GAG GTC GTC CTG GAG CTC AGC GAT GGG CAG CGG ATC CCT GTG TTC ACG CAC AGC AAG GAG --- --- --- --- --- --- GGG AAG --- --- 
+Octodon_degus                   ATG CAA GCT --- TCC TGG AGA AAG GCA CTT CTT TAC AGC AGT GCC CTC TGC ACA GGA ATT GGG CCC --- --- --- --- CTT CTG TAT --- TAC CTC ATA CAA AAA GGG CTC ACC AGG GCA GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAT GGC CAC CGC GAG GCA CTG GAA GCC CTG GGC TCG CCA CTC CGG GTG CAC TGC ATG CCC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATA CTC AGC AAG GAC CAC CTC GTG GAC ATC GCC GAC GCC CGG CTG AAG ATT CCT GTC TCT GGG CCC AAG GCA GAG GGC TGT CTC CTT ACT CGG TCA ACC AGA AGT GCC CCT TTT CAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG AAC CTT CAA GAA GTC ATC CTG GAG CTC AAA GAT GGG CAG CAG ATC CCT GTG TTC ACG CAC AGC GAG GAG --- --- --- --- --- --- GGG AAG --- --- 
+Fukomys_damarensis              ATG CGA GCT --- CCT TTA GGA AAA GAA CTT CTT TAC AGC GGT GTG CTG TGC GCA GGA ATT GGG CCC --- --- --- --- CTA CTG TAT --- TAC TTC ATA CAA AAA GGA CTC TCC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAC AGC CAC ACC AAG GCG CTG GAA GCC CTG GGC TCG CCC CTC ACG GTG CAC CGC CTG CCG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ATG CTC AGC CAG GAC CAC AGT GTG GAC ATC AAC AGT GCC CAG TTG AAG ATT CCA GTC TCT GGG CCC AAG GCA AAG GGC CAT CTG TAC ACA CGG TCG TCC AGA GGT GCC CCC TTT CAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG CAC CTT CAG GAG GTC ATC CTG AAG CTC CAG GAT GGG CAG CAG ATT CCT GTG TTC AGG CGC AGT GAG GCG --- --- --- --- --- --- GAG AAA --- --- 
+Sciurus_vulgaris                ATG CCA GAG --- CCT CTG GGG AAA ATG TTC CTT TAT ACC AGT GTG TTG ATG GCA GGC ACC TGT CCT --- --- --- --- CTT TTT TAT --- TAC CTT GTA CAA AAA GGT TTT TCC AGG ACT TCA TTT TAT CAA ATG GCG TTG GAA CAG CTG CAT AGT CAC CCG GAG GCA CTG GAA GCT CTG GGC CCT CCC CTC CGA GTT CAC TAT CTC CAG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- GTC CCC AGC AAA CAC AAC TTT GTG GAC ATT ACC GTT GCC TGG TTG AAA ATT CCT GTT TCT GGA TCC AAG TCA GAG GGC CAT GTC TAC ACC AGA TCA ACC AGA GTT GCC CCC TTT CAG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG CAA CTT CAG GAG GTT GTC TTG GAG CTC AAG GAT GGC CAG AAG ATT CCC TTG TTC ATG GTC AGT GAG AAG AAT GGT GAT ATA GTA AAA AAG GAG --- --- 
+Ochotona_princeps               ATG TCA GAG --- CCT CTG GGC AAA ATG CTC CTC CTC TCT GGG GCG ATG ATT GCT GGG GTC GGC CCC --- --- --- --- CTC GTG TAT --- TAT GGT ATA CAG AAA GTT TTT TCC AGA ACT TCC TAT TAC CAG CTG GCC GTG GAG CAG CTA CGA AGT CAC CCT GAG GCC CTG GAA GCT CTG GGC AGG CCT CTC AAT ATC CAC CAT CTT CAG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CTC ACC GAC AGG CAC AAC TTC GTG GAC ATT GCC GAT GCC AAG TTG AAG ATT CCT GTG TCT GGA TCC AAG TCT CGG GGT CAT CTG TAC GTC TAC TCA TCC AGA GAA GGC CCC TTT CGG AGG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TGG CAC CTT CAG GAG GTC TTC CTA GAG CTC AGT GGT GGG CAG AAG ATT CCT GTG TTC AAG CTC GGC AAG GAG AGT GGC GGG GAA TTC GAA AAG GAG --- --- 
+
+
+
+After deleting gaps. 288 sites
+      8    288
+
+Ictidomys_tridecemlineatus      ATG CCT CTG GGA AAA ATG TTC CTT TAC ACC AGT GTG TTG AGG GCA GGG ACC TGT CCT CTT TTT TAT TAC CTT ATA CAA AAA GGT TTT CCC AGG GCT TCA TTT TAT CAA ATG GCG TTG GAG CAG CTA CAT AGT CAC CCT GAG GTA CTG GAA GCT CTC GTA TTC CTC TCC CTG TTG CCT GGT AAA TTC CTG TTT TTG GAT CCA AGT CAG AGG GCC ATC TCT ACA CCA GAT CAC CCA GAG TTG CCC TCT TTC AAA GGT GGC AAC TTC AGG AGG TGG TCA GAG AGA ATG GAG 
+Cavia_porcellus                 ATG CCT TCA AGA AGA GTG CTT CTT TAC ACC AGT GTG CTG TGT GCA GGA ACC GGG CCC CTG GTG TAT TAC CTC ATA CAG AAA GGC TTG AGC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAT GGC CAC CCC GAG GCG CTG GAG GCG CTG TCG CAC CTG CCG ATG CTC AGC AGG CAC TTT GTG GAC ATC ACT GAC GCC CGG CTG AAG ATT CCC ATC TCT GGG CCC AAG GCA AAG CAT CTC CTC ACT CGG TCA CCC TTT AAG AGG TGG GGC GAG CAG GGG ACG 
+Cavia_aperea                    ATG CCT TCA AGA AGA GTG CTT CTT TAC ACC AGT GTG CTG TGT GCA GGA ACC GGG CCC CTG GTG TAT TAC CTC ATA CAG AAA GGC TTG AGC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAT GGC CAC CCC GAG GCG CTG GAG GCG CTG TCG CAC CTG CCG ATG CTC AGC AGG CAC TTT GTG GAC ATC ACT GAC GCC CGG CTG AAG ATT CCC ATC TCT GGG CCC AAG GCA AAG CAT CTC CTC ACT CGG TCA CCC TTT AAG AGG TGG GGC GAG CGG GGG ACG 
+Chinchilla_lanigera             ATG CCT TCG AGA AAA GCG TTT CTT TGC AGC AGT GTG CTC TGC GCA GGA CTC GGG CCC CTG GTG TAT TAC CTC ATA CAA AAA GGG TTC ACC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAC AAC CAC CCC GAG GCG CTG GAA GCA CTG GCG CAC CTG CCG GTG CTC AGC AGG CAC CTC GTG GAC ATC GTC GAA GCC CGG CTG AAG ATT CCT GTC TCC GGG CCC AAG GCA AAG CAT CTC CTC ACC CAG TCT CCC TTT CAG AGG TGG AGC AAG GAG GGG AAG 
+Octodon_degus                   ATG TCC TGG AGA AAG GCA CTT CTT TAC AGC AGT GCC CTC TGC ACA GGA ATT GGG CCC CTT CTG TAT TAC CTC ATA CAA AAA GGG CTC ACC AGG GCA GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAT GGC CAC CGC GAG GCA CTG GAA GCC CTG TCG TGC ATG CCC ATA CTC AGC AAG CAC CTC GTG GAC ATC GCC GAC GCC CGG CTG AAG ATT CCT GTC TCT GGG CCC AAG GCA GAG TGT CTC CTT ACT CGG TCA CCT TTT CAG AGG TGG AGC GAG GAG GGG AAG 
+Fukomys_damarensis              ATG CCT TTA GGA AAA GAA CTT CTT TAC AGC GGT GTG CTG TGC GCA GGA ATT GGG CCC CTA CTG TAT TAC TTC ATA CAA AAA GGA CTC TCC AGG ACC GAG TAC TAC CAG ATG GCG CTG GAG CAG CTG CAC AGC CAC ACC AAG GCG CTG GAA GCC CTG TCG CGC CTG CCG ATG CTC AGC CAG CAC AGT GTG GAC ATC AAC AGT GCC CAG TTG AAG ATT CCA GTC TCT GGG CCC AAG GCA AAG CAT CTG TAC ACA CGG TCG CCC TTT CAG AGG TGG AGT GAG GCG GAG AAA 
+Sciurus_vulgaris                ATG CCT CTG GGG AAA ATG TTC CTT TAT ACC AGT GTG TTG ATG GCA GGC ACC TGT CCT CTT TTT TAT TAC CTT GTA CAA AAA GGT TTT TCC AGG ACT TCA TTT TAT CAA ATG GCG TTG GAA CAG CTG CAT AGT CAC CCG GAG GCA CTG GAA GCT CTG CCT TAT CTC CAG GTC CCC AGC AAA AAC TTT GTG GAC ATT ACC GTT GCC TGG TTG AAA ATT CCT GTT TCT GGA TCC AAG TCA GAG CAT GTC TAC ACC AGA TCA CCC TTT CAG AGG TGG AGT GAG AAG AAG GAG 
+Ochotona_princeps               ATG CCT CTG GGC AAA ATG CTC CTC CTC TCT GGG GCG ATG ATT GCT GGG GTC GGC CCC CTC GTG TAT TAT GGT ATA CAG AAA GTT TTT TCC AGA ACT TCC TAT TAC CAG CTG GCC GTG GAG CAG CTA CGA AGT CAC CCT GAG GCC CTG GAA GCT CTG AGG CAT CTT CAG CTC ACC GAC AGG AAC TTC GTG GAC ATT GCC GAT GCC AAG TTG AAG ATT CCT GTG TCT GGA TCC AAG TCT CGG CAT CTG TAC GTC TAC TCA CCC TTT CGG AGG TGG GGC AAG GAG AAG GAG 
+
+
+
+Printing out site pattern counts
+
+
+         8        288  P
+
+Ictidomys_tridecemlineatus      AAA AAA AAA AAA AAC ACA ACC ACC AGA AGG AGG AGG AGG AGG AGT AGT AGT ATA ATC ATG ATG ATG ATG CAA CAA CAC CAC CAG CAG CAT CCA CCA CCA CCC CCC CCT CCT CCT CCT CTA CTC CTC CTG CTG CTG CTG CTT CTT CTT GAA GAG GAG GAG GAG GAG GAT GAT GCA GCC GCG GCT GCT GGA GGC GGG GGT GGT GGT GTA GTA GTG TAC TAC TAT TAT TCA TCA TCC TCT TCT TGG TGT TTC TTC TTC TTC TTC TTG TTG TTG TTG TTG TTT TTT TTT TTT 
+Cavia_porcellus                 ... .CT .G. C.C CC. .TC ... ... CAG .A. ... ... CT. T.T ... GCC G.C ... ..T ... ... GG. G.. ..G ..G ... .C. ... .G. ... AAG GAC T.T AG. .AT AGC ..C ..C ... ..G ..G ..G A.. ... G.. TCA ..C ..G ... ..G AC. ... ... ... .CA AC. .GG ... AAG ... A.C ..G A.. TCA ..A A.G C.G ..C .CG TCG ... ... ... ..C ... GAG GGC C.G C.C CTC ... G.G CA. C.. C.T ..T ..T AA. A.C C.C C.. C.. GAC G.G .AC ..G 
+Cavia_aperea                    ... .CT .G. C.C CC. .TC ... ... C.G .A. ... ... CT. T.T ... GCC G.C ... ..T ... ... GG. G.. ..G ..G ... .C. ... .G. ... AAG GAC T.T AG. .AT AGC ..C ..C ... ..G ..G ..G A.. ... G.. TCA ..C ..G ... ..G AC. ... ... ... .CA AC. .GG ... AAG ... A.C ..G A.. TCA ..A A.G C.G ..C .CG TCG ... ... ... ..C ... GAG GGC C.G C.C CTC ... G.G CA. C.. C.T ..T ..T AA. A.C C.C C.. C.. GAC G.G .AC ..G 
+Chinchilla_lanigera             ... .CC ... C.C CC. GTC .G. CT. GAG CA. ... ... CT. T.C ... GCC .AC ... ..T ... ... GG. GC. ... ..G ... .C. ... .G. ..C AAG GA. T.C A.. .AT AGC ..C ..C ... ..G ..G ..G G.. ... G.. TC. ..C ..G ... ... A.. A.. ... ... .CA .TC .GG ... AAG ... A.C ..A A.. TCT ..A A.G CAG ..G .CG .CG ... ... .G. ..C ... GAG AGC C.G C.. CTC ... G.G CA. C.. ..T C.. ..T AA. A.C C.C C.C C.. GAC G.G .AC ..C 
+Octodon_degus                   ... .CT ..G C.C CCT GTC .G. .TT GAG CA. ... ... CT. T.C ... GCC G.C ... ..T ... ... GG. GCA ... ..G ... .C. ... .G. ... AAG GAC T.T A.. TGT AGC ..C .GC T.C ..G A.G ..G A.A ... G.. TG. ..C ... ... ... A.. ... ... ... .CA .CC .GG A.. AAG ... ..A ..C A.. TCA ..A AAG C.G ..G .C. TCG .CC ... ... ..C ... GAG AGC C.. C.. CTC ... G.G .G. C.T C.T C.. ..T GA. A.C C.C C.C C.. GAC C.G .AC C.C 
+Fukomys_damarensis              ... .C. ... C.C CC. GTC .G. .TT GCG CA. ... ... TT. T.C G.. GCC ..C ... ..T ... ... GA. GAA ... ..G ... .C. ... ... ..C AAG AGT T.T T.. .AT AGC ..C A.C ... ..G ..G ..G A.. ... G.. T.A T.C ..A ... ... A.A ... A.. ... .CA A.C .GG ... AAG ... A.C ..C ... TCG ..A CAG C.G ..A .CG TCG ... ... ... ..C ... GAG AGT C.G C.A CTG ... G.G CG. .A. C.T AGT ..T AA. A.C C.C C.. C.. GAC C.G .AC C.C 
+Sciurus_vulgaris                ... .CC ... ..C CC. GTT ... ... .AG CA. ... ... TT. .T. ... GCC ... G.. ..T ... ... .A. ... ... ... ... TC. ... TG. ... AAG GTT T.T T.. .AT AGC ... ..G ... ..G ... ..G G.C ... G.. ... ... ... ... ... ... ... ... ..A TCA ACC .GA ... AAA ... A.. ... ..G TCA ..C AAA A.A ... .C. CCT ... ... ..T ... ... ... AGT CAG C.. GTC ... ... .AT .A. ... ..T ..T GA. A.T CCC ... ... GAC ... ... ... 
+Ochotona_princeps               ... GTC ... ..C CC. GTG T.T GT. GAG C.. ..A ... TT. .TT G.G GCC ... ... ..T ... C.. .A. ... ..G ..G ... TC. ... A.. .GA AAG GAT T.T T.. .AT GAC ..C ... ... ... ..T ..G ..C ... G.. ... GG. ..C ..C ... ... A.. ... ... TCT .CC .GA ..T AAG ..C A.. ... ..C TCA ... A.G TAC .T. .CC AGG .C. ..T CT. ..C ... ..C GGC CAG C.. CTG ... G.C CAT .A. C.. ... ..T CG. A.T ACC A.. G.. GAC G.G .A. ... 
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1
+
+CODONML (in paml version 4.9f, October 2017)  Ictidomys_tridecemlineatus.seq
+Model: several dN/dS ratios for branches for branches, 
+Codon frequency model: F3x4
+ns =   8  ls =  96
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   4   2   2   2   1   1 | Ser TCT   2   1   1   1   1   1 | Tyr TAT   2   1   1   1   1   1 | Cys TGT   1   1   1   0   1   0
+    TTC   5   0   0   1   0   1 |     TCC   1   0   0   1   1   1 |     TAC   2   4   4   3   4   5 |     TGC   0   0   0   2   2   1
+Leu TTA   0   0   0   0   0   1 |     TCA   2   2   2   0   1   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   5   1   1   0   0   1 |     TCG   0   1   1   1   1   2 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   1   1   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   3   2   2   1   4   2 | Pro CCT   4   1   1   2   2   1 | His CAT   1   2   2   1   1   1 | Arg CGT   0   0   0   0   0   0
+    CTC   2   4   4   7   6   2 |     CCC   2   5   5   4   3   3 |     CAC   2   3   3   4   2   3 |     CGC   0   0   0   0   1   1
+    CTA   1   0   0   0   0   1 |     CCA   3   0   0   0   0   1 | Gln CAA   2   0   0   1   1   1 |     CGA   0   0   0   0   0   0
+    CTG   4   8   8   7   6   8 |     CCG   0   1   1   1   0   1 |     CAG   2   4   3   4   3   5 |     CGG   0   2   3   1   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   1   1   1   2   2 | Thr ACT   0   2   2   0   1   0 | Asn AAT   0   0   0   0   0   0 | Ser AGT   3   1   1   1   1   3
+    ATC   1   2   2   1   1   1 |     ACC   2   3   3   3   1   2 |     AAC   1   0   0   1   0   1 |     AGC   0   2   2   3   3   3
+    ATA   1   1   1   1   2   1 |     ACA   1   0   0   0   1   1 | Lys AAA   4   1   1   2   1   3 | Arg AGA   1   2   2   1   1   0
+Met ATG   4   3   3   2   3   3 |     ACG   0   1   1   0   0   0 |     AAG   0   4   4   5   5   4 |     AGG   5   3   3   3   2   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   0   0   0   0   0 | Ala GCT   2   0   0   0   0   0 | Asp GAT   2   0   0   0   0   0 | Gly GGT   3   0   0   0   0   1
+    GTC   0   0   0   2   1   1 |     GCC   1   1   1   1   4   2 |     GAC   0   2   2   1   2   1 |     GGC   1   3   3   0   1   0
+    GTA   2   0   0   0   0   0 |     GCA   1   2   2   3   4   2 | Glu GAA   1   0   0   2   1   2 |     GGA   1   1   1   1   1   3
+    GTG   1   4   4   4   1   2 |     GCG   1   3   3   4   1   3 |     GAG   5   5   5   4   6   4 |     GGG   1   3   3   4   4   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Phe TTT   5   2 | Ser TCT   1   3 | Tyr TAT   4   3 | Cys TGT   1   0
+    TTC   1   1 |     TCC   2   3 |     TAC   2   3 |     TGC   0   0
+Leu TTA   0   0 |     TCA   3   1 | *** TAA   0   0 | *** TGA   0   0
+    TTG   3   1 |     TCG   0   0 |     TAG   0   0 | Trp TGG   2   1
+----------------------------------------------------------------------
+Leu CTT   3   1 | Pro CCT   4   3 | His CAT   2   2 | Arg CGT   0   0
+    CTC   1   5 |     CCC   2   2 |     CAC   1   1 |     CGC   0   0
+    CTA   0   1 |     CCA   0   0 | Gln CAA   2   0 |     CGA   0   1
+    CTG   4   5 |     CCG   1   0 |     CAG   3   4 |     CGG   0   2
+----------------------------------------------------------------------
+Ile ATT   2   3 | Thr ACT   1   1 | Asn AAT   0   0 | Ser AGT   3   1
+    ATC   0   0 |     ACC   4   1 |     AAC   1   1 |     AGC   1   0
+    ATA   0   1 |     ACA   0   0 | Lys AAA   4   2 | Arg AGA   1   1
+Met ATG   4   3 |     ACG   0   0 |     AAG   3   5 |     AGG   2   3
+----------------------------------------------------------------------
+Val GTT   2   1 | Ala GCT   1   2 | Asp GAT   0   1 | Gly GGT   1   1
+    GTC   2   2 |     GCC   1   4 |     GAC   1   2 |     GGC   1   3
+    GTA   1   0 |     GCA   2   0 | Glu GAA   2   1 |     GGA   1   1
+    GTG   2   4 |     GCG   1   1 |     GAG   4   4 |     GGG   1   2
+----------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Ictidomys_tridecemlineatus
+position  1:    T:0.26042    C:0.27083    A:0.23958    G:0.22917
+position  2:    T:0.34375    C:0.22917    A:0.25000    G:0.17708
+position  3:    T:0.28125    C:0.20833    A:0.20833    G:0.30208
+Average         T:0.29514    C:0.23611    A:0.23264    G:0.23611
+
+#2: Cavia_porcellus
+position  1:    T:0.14583    C:0.33333    A:0.27083    G:0.25000
+position  2:    T:0.29167    C:0.23958    A:0.27083    G:0.19792
+position  3:    T:0.14583    C:0.30208    A:0.09375    G:0.45833
+Average         T:0.19444    C:0.29167    A:0.21181    G:0.30208
+
+#3: Cavia_aperea   
+position  1:    T:0.14583    C:0.33333    A:0.27083    G:0.25000
+position  2:    T:0.29167    C:0.23958    A:0.26042    G:0.20833
+position  3:    T:0.14583    C:0.30208    A:0.09375    G:0.45833
+Average         T:0.19444    C:0.29167    A:0.20833    G:0.30556
+
+#4: Chinchilla_lanigera
+position  1:    T:0.13542    C:0.34375    A:0.25000    G:0.27083
+position  2:    T:0.30208    C:0.21875    A:0.30208    G:0.17708
+position  3:    T:0.10417    C:0.35417    A:0.11458    G:0.42708
+Average         T:0.18056    C:0.30556    A:0.22222    G:0.29167
+
+#5: Octodon_degus  
+position  1:    T:0.15625    C:0.32292    A:0.25000    G:0.27083
+position  2:    T:0.28125    C:0.21875    A:0.28125    G:0.21875
+position  3:    T:0.15625    C:0.33333    A:0.13542    G:0.37500
+Average         T:0.19792    C:0.29167    A:0.22222    G:0.28819
+
+#6: Fukomys_damarensis
+position  1:    T:0.16667    C:0.32292    A:0.27083    G:0.23958
+position  2:    T:0.28125    C:0.20833    A:0.32292    G:0.18750
+position  3:    T:0.13542    C:0.29167    A:0.16667    G:0.40625
+Average         T:0.19444    C:0.27431    A:0.25347    G:0.27778
+
+#7: Sciurus_vulgaris
+position  1:    T:0.25000    C:0.23958    A:0.27083    G:0.23958
+position  2:    T:0.31250    C:0.23958    A:0.30208    G:0.14583
+position  3:    T:0.31250    C:0.20833    A:0.16667    G:0.31250
+Average         T:0.29167    C:0.22917    A:0.24653    G:0.23264
+
+#8: Ochotona_princeps
+position  1:    T:0.18750    C:0.28125    A:0.22917    G:0.30208
+position  2:    T:0.31250    C:0.21875    A:0.30208    G:0.16667
+position  3:    T:0.25000    C:0.29167    A:0.09375    G:0.36458
+Average         T:0.25000    C:0.26389    A:0.20833    G:0.27778
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      19 | Ser S TCT      11 | Tyr Y TAT      14 | Cys C TGT       5
+      TTC       9 |       TCC       9 |       TAC      27 |       TGC       5
+Leu L TTA       1 |       TCA      11 | *** * TAA       0 | *** * TGA       0
+      TTG      12 |       TCG       6 |       TAG       0 | Trp W TGG      10
+------------------------------------------------------------------------------
+Leu L CTT      18 | Pro P CCT      18 | His H CAT      12 | Arg R CGT       0
+      CTC      31 |       CCC      26 |       CAC      19 |       CGC       2
+      CTA       3 |       CCA       4 | Gln Q CAA       7 |       CGA       1
+      CTG      50 |       CCG       5 |       CAG      28 |       CGG      11
+------------------------------------------------------------------------------
+Ile I ATT      12 | Thr T ACT       7 | Asn N AAT       0 | Ser S AGT      14
+      ATC       8 |       ACC      19 |       AAC       5 |       AGC      14
+      ATA       8 |       ACA       3 | Lys K AAA      18 | Arg R AGA       9
+Met M ATG      25 |       ACG       2 |       AAG      30 |       AGG      23
+------------------------------------------------------------------------------
+Val V GTT       3 | Ala A GCT       5 | Asp D GAT       3 | Gly G GGT       6
+      GTC       8 |       GCC      15 |       GAC      11 |       GGC      12
+      GTA       3 |       GCA      16 | Glu E GAA       9 |       GGA      10
+      GTG      22 |       GCG      17 |       GAG      37 |       GGG      20
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.18099    C:0.30599    A:0.25651    G:0.25651
+position  2:    T:0.30208    C:0.22656    A:0.28646    G:0.18490
+position  3:    T:0.19141    C:0.28646    A:0.13411    G:0.38802
+Average         T:0.22483    C:0.27300    A:0.22569    G:0.27648
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01080595  0.01617218  0.00757152  0.02190595
+  0.00810447  0.01212913  0.00567864  0.01642946
+  0.01024703  0.01533569  0.00000000  0.00000000
+  0.00661399  0.00989849  0.00000000  0.01340795
+  0.01826906  0.02734145  0.01280077  0.03703524
+  0.01370179  0.02050609  0.00960058  0.02777643
+  0.01732411  0.02592724  0.01213866  0.03511962
+  0.01118192  0.01673485  0.00783495  0.02266812
+  0.01531491  0.02292028  0.01073086  0.03104656
+  0.01148619  0.01719021  0.00804814  0.02328492
+  0.01452276  0.02173475  0.01017581  0.02944070
+  0.00937378  0.01402879  0.00656803  0.01900264
+  0.01531491  0.02292028  0.01073086  0.03104656
+  0.01148619  0.01719021  0.00804814  0.02328492
+  0.01452276  0.02173475  0.01017581  0.02944070
+  0.00937378  0.01402879  0.00656803  0.01900264
+
+
+TREE #  1:  (8, ((6, ((2, 3), (5, 4))), (7, 1)));   MP score: 229
+This is a rooted tree.  Please check!
+lnL(ntime: 14  np: 17):  -1564.089972      +0.000000
+   9..8     9..10   10..11   11..6    11..12   12..13   13..2    13..3    12..14   14..5    14..4    10..15   15..7    15..1  
+ 0.418090 0.416434 0.558576 0.339727 0.113730 0.238253 0.000004 0.010397 0.042108 0.348388 0.185748 0.257946 0.132535 1.549423 3.082258 0.341069 0.673110
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  4.611359
+
+(8: 0.418090, ((6: 0.339727, ((2: 0.000004, 3: 0.010397): 0.238253, (5: 0.348388, 4: 0.185748): 0.042108): 0.113730): 0.558576, (7: 0.132535, 1: 1.549423): 0.257946): 0.416434);
+
+(Ochotona_princeps: 0.418090, ((Fukomys_damarensis: 0.339727, ((Cavia_porcellus: 0.000004, Cavia_aperea: 0.010397): 0.238253, (Octodon_degus: 0.348388, Chinchilla_lanigera: 0.185748): 0.042108): 0.113730): 0.558576, (Sciurus_vulgaris: 0.132535, Ictidomys_tridecemlineatus: 1.549423): 0.257946): 0.416434);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.08226
+
+w (dN/dS) for branches:  0.34107 0.67311
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   9..8      0.418   213.4    74.6  0.3411  0.0929  0.2723  19.8  20.3
+   9..10     0.416   213.4    74.6  0.3411  0.0925  0.2713  19.7  20.2
+  10..11     0.559   213.4    74.6  0.3411  0.1241  0.3638  26.5  27.1
+  11..6      0.340   213.4    74.6  0.3411  0.0755  0.2213  16.1  16.5
+  11..12     0.114   213.4    74.6  0.3411  0.0253  0.0741   5.4   5.5
+  12..13     0.238   213.4    74.6  0.3411  0.0529  0.1552  11.3  11.6
+  13..2      0.000   213.4    74.6  0.3411  0.0000  0.0000   0.0   0.0
+  13..3      0.010   213.4    74.6  0.3411  0.0023  0.0068   0.5   0.5
+  12..14     0.042   213.4    74.6  0.3411  0.0094  0.0274   2.0   2.0
+  14..5      0.348   213.4    74.6  0.3411  0.0774  0.2269  16.5  16.9
+  14..4      0.186   213.4    74.6  0.3411  0.0413  0.1210   8.8   9.0
+  10..15     0.258   213.4    74.6  0.3411  0.0573  0.1680  12.2  12.5
+  15..7      0.133   213.4    74.6  0.3411  0.0294  0.0863   6.3   6.4
+  15..1      1.549   213.4    74.6  0.6731  0.4588  0.6816  97.9  50.8
+
+tree length for dN:       1.1390
+tree length for dS:       2.6761
+
+dS tree:
+(Ochotona_princeps: 0.272336, ((Fukomys_damarensis: 0.221292, ((Cavia_porcellus: 0.000003, Cavia_aperea: 0.006773): 0.155193, (Octodon_degus: 0.226934, Chinchilla_lanigera: 0.120993): 0.027428): 0.074082): 0.363846, (Sciurus_vulgaris: 0.086331, Ictidomys_tridecemlineatus: 0.681567): 0.168022): 0.271257);
+dN tree:
+(Ochotona_princeps: 0.092885, ((Fukomys_damarensis: 0.075476, ((Cavia_porcellus: 0.000001, Cavia_aperea: 0.002310): 0.052932, (Octodon_degus: 0.077400, Chinchilla_lanigera: 0.041267): 0.009355): 0.025267): 0.124097, (Sciurus_vulgaris: 0.029445, Ictidomys_tridecemlineatus: 0.458770): 0.057307): 0.092517);
+
+w ratios as labels for TreeView:
+(Ochotona_princeps #0.341069 , ((Fukomys_damarensis #0.341069 , ((Cavia_porcellus #0.341069 , Cavia_aperea #0.341069 ) #0.341069 , (Octodon_degus #0.341069 , Chinchilla_lanigera #0.341069 ) #0.341069 ) #0.341069 ) #0.341069 , (Sciurus_vulgaris #0.341069 , Ictidomys_tridecemlineatus #0.67311 ) #0.341069 ) #0.341069 );
+
+
+Time used:  0:19
