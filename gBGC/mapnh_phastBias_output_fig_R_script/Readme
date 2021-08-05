@@ -2,6 +2,6 @@
 ##only group name is output of mapnh (column 2 = AT to GC  and 4=GC to AT),HYPHY (column 6 =dN and 8=dS),PAML (column 10 =dN and 12=dS)
 ## (*phastout) is output of phastBias.
 ##For plotting code is given (gBGC.R).
-##for generating figure each group
+##In order to generate figure for each group, use Group name after R script:
 example= Rscript gBGC.R Afrotheria 
-##for better visualization we split the groups.  
+##for better visualization we split the groups.
