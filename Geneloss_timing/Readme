@@ -3,4 +3,5 @@
 ##Each folder stored the aligned file *aln or MSA.PRANK.aln.With_Names.
 ##Each folder held the tree file downloaded from the Time tree.
 ##In tree file (*.nwk) labels defined.
+##We tried different combinations for effect on gene loss timing.
 
