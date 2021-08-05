@@ -1,1 +1,28 @@
+## The combinations of 4 pseudogene species kept at foreground and the species having lost gene are considered as mixed and the rest functional species as background.
+
+The Pseduospecies whose combinations are made are:
+1. Lyrurus_tetrix
+2. Tympanuchus_cupido
+3. Centrocercus_minimus
+4. Lagopus_muta
+
+the mixed species are:
+1. Odontophorus_gujanensis
+2. Coturnix_japonica
+3. Meleagris_gallopavo
+4. Pavo_cristatus
+5. Gallus_gallus
+6. Syrmaticus_mikado
+7. Numida_meleagris
+
+the functional species are:
+1. Alectura_lathami
+2. Colinus_virginianus
+3. Callipepla_squamata
+4. Chrysolophus_pictus
+5. Phasianus_colchicus
+6. Penelope_pileata
+7. Anseranas_semipalmata
+8. Anser_cygnoides
+9. Anas_platyrhynchos
 
