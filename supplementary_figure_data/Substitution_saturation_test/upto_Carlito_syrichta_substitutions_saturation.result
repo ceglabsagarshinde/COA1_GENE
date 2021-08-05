@@ -1,0 +1,37 @@
+Test of substitution saturation (Xia et al. 2003; Xia and Lemey 2009)
+
+Analysis performed on all sites.
+
+Testing whether the observed Iss is significantly lower than Iss.c.
+  IssSym is Iss.c assuming a symmetrical topology.
+  IssAsym is Iss.c assuming an asymmetrical topology.
+
+NumOTU       Iss  Iss.cSym       T    DF        P Iss.cAsym       T    DF        P
+==========================================================================================
+     4     0.751     0.804   1.666   632   0.0961     0.772   0.683   632   0.4947
+     8     0.856     0.764   2.015   632   0.0444     0.654   4.418   632   0.0000
+    16     0.988     0.741   4.014   632   0.0001     0.531   7.441   632   0.0000
+    32     1.143     0.716   5.524   632   0.0000     0.389   9.754   632   0.0000
+Note: two-tailed t-tests are used.
+
+==========================================================================================
+Interpretation of results:
+               Significant Difference
+               ----------------------
+               Yes                 No
+-------------------------------------------------------
+Iss < Iss.c    Little             Substantial
+               saturation         saturation
+-------------------------------------------------------
+Iss > Iss.c    Useless            Very poor
+               sequences          for phylogenetics
+--------------------------------------------------------------
+
+Please cite:
+
+Xia, X., Z. Xie, M. Salemi, L. Chen, Y. Wang. 2003. An index of substitution saturation and its application. Molecular Phylogenetics and Evolution 26:1-7.
+
+Xia, X. and Lemey, P. 2009. Assessing substitution saturation with DAMBE. Pp. 615-630 in Philippe Lemey, Marco Salemi and Anne-Mieke Vandamme, eds. The Phylogenetic Handbook: A Practical 
+Approach to DNA and Protein Phylogeny. 2nd edition Cambridge University Press.
+
+

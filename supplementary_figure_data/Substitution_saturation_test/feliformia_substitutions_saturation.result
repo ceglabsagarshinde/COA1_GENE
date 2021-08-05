@@ -1,0 +1,53 @@
+Test of substitution saturation (Xia et al. 2003; Xia and Lemey 2009)
+
+Testing whether the observed Iss is significantly
+lower than Iss.c.
+
+Part I. For a symmetrical tree.
+========================================================
+Prop. invar. sites                0.0000
+Mean H                            0.6818
+Standard Error                    0.0496
+Hmax                              1.6672
+Iss                               0.4090
+Iss.c                             0.7488
+T                                 6.8488
+DF                              470
+Prob (Two-tailed)                 0.0000
+95% Lower Limit                   0.3115
+95% Upper Limit                   0.5064
+
+========================================================
+Part II. For an extreme asymmetrical (and generally very
+unlikely) tree.
+========================================================
+Iss.c                             0.6371
+T                                 4.5977
+DF                              470
+Prob (Two-tailed)                 0.0000
+
+95% Lower Limit                   0.3115
+95% Upper Limit                   0.5064
+
+========================================================
+
+Interpretation of results:
+               Significant Difference
+               ----------------------
+               Yes                 No
+-------------------------------------------------------
+Iss < Iss.c    Little             Substantial
+               saturation         saturation
+-------------------------------------------------------
+Iss > Iss.c    Useless            Very poor
+               sequences          for phylogenetics
+-------------------------------------------------------
+
+Please cite:
+
+Xia, X., Z. Xie, M. Salemi, L. Chen, Y. Wang. 2003. An index of substitution saturation and its application. Molecular Phylogenetics and Evolution 26:1-7.
+
+Xia, X. and Lemey, P. 2009. Assessing substitution saturation with DAMBE. Pp. 615-630 in Philippe Lemey, Marco Salemi and Anne-Mieke Vandamme, eds. The Phylogenetic Handbook: A Practical 
+Approach to DNA and Protein Phylogeny. 2nd edition Cambridge University Press.
+
+
