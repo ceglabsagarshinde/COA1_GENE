@@ -1,0 +1,1342 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/models/codon/MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Already loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Loaded 'libv3/tasks/mpi.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/mpi.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../models/parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'BmIqcpUS.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'zDkmyiRU.PROMPT_FOR_FILE' was not initialized prior to being used
+HyPhy killed by signal 15s not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the left root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Loaded 'modules/grid_compute.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/grid_compute.ibf
+Variable 'uvHtkIuY.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'FhjVYnab.model_pi' was not initialized prior to being used
+Model FhjVYnab.model assigned to Alectura_lathami
+Model FhjVYnab.model assigned to Colinus_virginianus
+Model FhjVYnab.model assigned to Callipepla_squamata
+Model FhjVYnab.model assigned to Node7
+Model FhjVYnab.model assigned to Odontophorus_gujanensis
+Model FhjVYnab.model assigned to Node6
+Model FhjVYnab.model assigned to Coturnix_japonica
+Model FhjVYnab.model assigned to Meleagris_gallopavo
+Model FhjVYnab.model assigned to Lyrurus_tetrix
+Model FhjVYnab.model assigned to Tympanuchus_cupido
+Model FhjVYnab.model assigned to Centrocercus_minimus
+Model FhjVYnab.model assigned to Node19
+Model FhjVYnab.model assigned to Node17
+Model FhjVYnab.model assigned to Lagopus_muta
+Model FhjVYnab.model assigned to Node16
+Model FhjVYnab.model assigned to Node14
+Model FhjVYnab.model assigned to Pavo_cristatus
+Model FhjVYnab.model assigned to Gallus_gallus
+Model FhjVYnab.model assigned to Node24
+Model FhjVYnab.model assigned to Chrysolophus_pictus
+Model FhjVYnab.model assigned to Phasianus_colchicus
+Model FhjVYnab.model assigned to Node28
+Model FhjVYnab.model assigned to Syrmaticus_mikado
+Model FhjVYnab.model assigned to Node27
+Model FhjVYnab.model assigned to Node23
+Model FhjVYnab.model assigned to Node13
+Model FhjVYnab.model assigned to Node11
+Model FhjVYnab.model assigned to Node5
+Model FhjVYnab.model assigned to Numida_meleagris
+Model FhjVYnab.model assigned to Node4
+Model FhjVYnab.model assigned to Penelope_pileata
+Model FhjVYnab.model assigned to Node3
+Model FhjVYnab.model assigned to Anseranas_semipalmata
+Model FhjVYnab.model assigned to Anser_cygnoides
+Model FhjVYnab.model assigned to Anas_platyrhynchos
+Model FhjVYnab.model assigned to Node36
+Model FhjVYnab.model assigned to Node34
+The tips of the tree:FhjVYnab.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,7,4,14,8,12,11,19,5,10,15,9,6,17,18,13,16,3,2,1}
+
+Pseudo-optimal path's cost 3483 vs 6295 for 1..k=> a 1.80735 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'FhjVYnab.tree_0.Alectura_lathami.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Alectura_lathami.t=182.3265744494251
+Variable 'FhjVYnab.tree_0.Colinus_virginianus.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Colinus_virginianus.t=23.51805637101175
+Variable 'FhjVYnab.tree_0.Callipepla_squamata.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Callipepla_squamata.t=23.51805637101175
+Variable 'FhjVYnab.tree_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node7.t=29.49785888477654
+Variable 'FhjVYnab.tree_0.Odontophorus_gujanensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Odontophorus_gujanensis.t=53.01591525578829
+Variable 'FhjVYnab.tree_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node6.t=69.49340365515855
+Variable 'FhjVYnab.tree_0.Coturnix_japonica.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Coturnix_japonica.t=112.2156785341426
+Variable 'FhjVYnab.tree_0.Meleagris_gallopavo.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Meleagris_gallopavo.t=55.38937988146551
+Variable 'FhjVYnab.tree_0.Lyrurus_tetrix.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Lyrurus_tetrix.t=18.25552511927926
+Variable 'FhjVYnab.tree_0.Tympanuchus_cupido.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Tympanuchus_cupido.t=16.46120643877532
+Variable 'FhjVYnab.tree_0.Centrocercus_minimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Centrocercus_minimus.t=16.46120643877532
+Variable 'FhjVYnab.tree_0.Node19.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node19.t=1.794318680503929
+Variable 'FhjVYnab.tree_0.Node17.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node17.t=12.96602269562098
+Variable 'FhjVYnab.tree_0.Lagopus_muta.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Lagopus_muta.t=31.22154781490024
+Variable 'FhjVYnab.tree_0.Node16.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node16.t=24.16783206656527
+Variable 'FhjVYnab.tree_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node14.t=44.00164967734653
+Variable 'FhjVYnab.tree_0.Pavo_cristatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Pavo_cristatus.t=88.11498989056967
+Variable 'FhjVYnab.tree_0.Gallus_gallus.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Gallus_gallus.t=88.11498989056967
+Variable 'FhjVYnab.tree_0.Node24.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node24.t=2.935867858023121
+Variable 'FhjVYnab.tree_0.Chrysolophus_pictus.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Chrysolophus_pictus.t=38.68570515196875
+Variable 'FhjVYnab.tree_0.Phasianus_colchicus.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Phasianus_colchicus.t=38.68570515196875
+Variable 'FhjVYnab.tree_0.Node28.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node28.t=5.967732087739302
+Variable 'FhjVYnab.tree_0.Syrmaticus_mikado.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Syrmaticus_mikado.t=44.65343723970805
+Variable 'FhjVYnab.tree_0.Node27.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node27.t=46.39742050888474
+Variable 'FhjVYnab.tree_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node23.t=8.340171810219243
+Variable 'FhjVYnab.tree_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node13.t=12.82464897533058
+Variable 'FhjVYnab.tree_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node11.t=10.29364037680422
+Variable 'FhjVYnab.tree_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node5.t=1.78121763362516
+Variable 'FhjVYnab.tree_0.Numida_meleagris.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Numida_meleagris.t=124.290536544572
+Variable 'FhjVYnab.tree_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node4.t=50.61990943927562
+Variable 'FhjVYnab.tree_0.Penelope_pileata.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Penelope_pileata.t=174.9104459838476
+Variable 'FhjVYnab.tree_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node3.t=7.416128465577507
+Variable 'FhjVYnab.tree_0.Anseranas_semipalmata.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Anseranas_semipalmata.t=177.3431355064434
+Variable 'FhjVYnab.tree_0.Anser_cygnoides.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Anser_cygnoides.t=81.03245488495556
+Variable 'FhjVYnab.tree_0.Anas_platyrhynchos.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Anas_platyrhynchos.t=81.03245488495556
+Variable 'FhjVYnab.tree_0.Node36.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node36.t=96.31068062148782
+Variable 'FhjVYnab.tree_0.Node34.t' was not initialized prior to being used
+models.generic.SetBranchLength: FhjVYnab.tree_0.Node34.t=36.2818954029645
+Variable 'FhjVYnab.FhjVYnab.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 1798-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+FhjVYnab.model.theta_GT = 0.25
+FhjVYnab.model.theta_CT = 1
+FhjVYnab.model.theta_CG = 0.25
+FhjVYnab.model.theta_AT = 0.25
+FhjVYnab.model.theta_AC = 0.25
+FhjVYnab.tree_0.Alectura_lathami.t = 182.327
+FhjVYnab.tree_0.Colinus_virginianus.t = 23.5181
+FhjVYnab.tree_0.Callipepla_squamata.t = 23.5181
+FhjVYnab.tree_0.Node7.t = 29.4979
+FhjVYnab.tree_0.Odontophorus_gujanensis.t = 53.0159
+FhjVYnab.tree_0.Node6.t = 69.4934
+FhjVYnab.tree_0.Coturnix_japonica.t = 112.216
+FhjVYnab.tree_0.Meleagris_gallopavo.t = 55.3894
+FhjVYnab.tree_0.Lyrurus_tetrix.t = 18.2555
+FhjVYnab.tree_0.Tympanuchus_cupido.t = 16.4612
+FhjVYnab.tree_0.Centrocercus_minimus.t = 16.4612
+FhjVYnab.tree_0.Node19.t = 1.79432
+FhjVYnab.tree_0.Node17.t = 12.966
+FhjVYnab.tree_0.Lagopus_muta.t = 31.2215
+FhjVYnab.tree_0.Node16.t = 24.1678
+FhjVYnab.tree_0.Node14.t = 44.0016
+FhjVYnab.tree_0.Pavo_cristatus.t = 88.115
+FhjVYnab.tree_0.Gallus_gallus.t = 88.115
+FhjVYnab.tree_0.Node24.t = 2.93587
+FhjVYnab.tree_0.Chrysolophus_pictus.t = 38.6857
+FhjVYnab.tree_0.Phasianus_colchicus.t = 38.6857
+FhjVYnab.tree_0.Node28.t = 5.96773
+FhjVYnab.tree_0.Syrmaticus_mikado.t = 44.6534
+FhjVYnab.tree_0.Node27.t = 46.3974
+FhjVYnab.tree_0.Node23.t = 8.34017
+FhjVYnab.tree_0.Node13.t = 12.8246
+FhjVYnab.tree_0.Node11.t = 10.2936
+FhjVYnab.tree_0.Node5.t = 1.78122
+FhjVYnab.tree_0.Numida_meleagris.t = 124.291
+FhjVYnab.tree_0.Node4.t = 50.6199
+FhjVYnab.tree_0.Penelope_pileata.t = 174.91
+FhjVYnab.tree_0.Node3.t = 7.41613
+FhjVYnab.tree_0.Anseranas_semipalmata.t = 177.343
+FhjVYnab.tree_0.Anser_cygnoides.t = 81.0325
+FhjVYnab.tree_0.Anas_platyrhynchos.t = 81.0325
+FhjVYnab.tree_0.Node36.t = 96.3107
+FhjVYnab.tree_0.Node34.t = 36.2819
+Optimization finished in 24 loop passes.
+3580 likelihood evaluation calls and 27190 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'FhjVYnab.option' was not initialized prior to being used
+Variable 'relax.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'uALJWUgT.initial_value' was not initialized prior to being used
+Variable 'dfhcItwI.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6666-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.289375
+frequencies._aux.CF3x4.p0_1 = 0.360975
+frequencies._aux.CF3x4.p0_2 = 0.609713
+frequencies._aux.CF3x4.p1_0 = 0.329554
+frequencies._aux.CF3x4.p1_1 = 0.260887
+frequencies._aux.CF3x4.p1_2 = 0.378198
+frequencies._aux.CF3x4.p2_0 = 0.225536
+frequencies._aux.CF3x4.p2_1 = 0.270463
+frequencies._aux.CF3x4.p2_2 = 0.512326
+Optimization finished in 7 loop passes.
+299 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'dfhcItwI.model_MGREV_pi' was not initialized prior to being used
+Model dfhcItwI.model_MGREV assigned to Alectura_lathami
+Model dfhcItwI.model_MGREV assigned to Colinus_virginianus
+Model dfhcItwI.model_MGREV assigned to Callipepla_squamata
+Model dfhcItwI.model_MGREV assigned to Node7
+Model dfhcItwI.model_MGREV assigned to Odontophorus_gujanensis
+Model dfhcItwI.model_MGREV assigned to Node6
+Model dfhcItwI.model_MGREV assigned to Coturnix_japonica
+Model dfhcItwI.model_MGREV assigned to Meleagris_gallopavo
+Model dfhcItwI.model_MGREV assigned to Lyrurus_tetrix
+Model dfhcItwI.model_MGREV assigned to Tympanuchus_cupido
+Model dfhcItwI.model_MGREV assigned to Centrocercus_minimus
+Model dfhcItwI.model_MGREV assigned to Node19
+Model dfhcItwI.model_MGREV assigned to Node17
+Model dfhcItwI.model_MGREV assigned to Lagopus_muta
+Model dfhcItwI.model_MGREV assigned to Node16
+Model dfhcItwI.model_MGREV assigned to Node14
+Model dfhcItwI.model_MGREV assigned to Pavo_cristatus
+Model dfhcItwI.model_MGREV assigned to Gallus_gallus
+Model dfhcItwI.model_MGREV assigned to Node24
+Model dfhcItwI.model_MGREV assigned to Chrysolophus_pictus
+Model dfhcItwI.model_MGREV assigned to Phasianus_colchicus
+Model dfhcItwI.model_MGREV assigned to Node28
+Model dfhcItwI.model_MGREV assigned to Syrmaticus_mikado
+Model dfhcItwI.model_MGREV assigned to Node27
+Model dfhcItwI.model_MGREV assigned to Node23
+Model dfhcItwI.model_MGREV assigned to Node13
+Model dfhcItwI.model_MGREV assigned to Node11
+Model dfhcItwI.model_MGREV assigned to Node5
+Model dfhcItwI.model_MGREV assigned to Numida_meleagris
+Model dfhcItwI.model_MGREV assigned to Node4
+Model dfhcItwI.model_MGREV assigned to Penelope_pileata
+Model dfhcItwI.model_MGREV assigned to Node3
+Model dfhcItwI.model_MGREV assigned to Anseranas_semipalmata
+Model dfhcItwI.model_MGREV assigned to Anser_cygnoides
+Model dfhcItwI.model_MGREV assigned to Anas_platyrhynchos
+Model dfhcItwI.model_MGREV assigned to Node36
+Model dfhcItwI.model_MGREV assigned to Node34
+The tips of the tree:dfhcItwI.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,7,4,14,8,12,11,19,5,10,15,9,6,17,18,13,16,3,2,1}
+
+Pseudo-optimal path's cost 4061 vs 4913 for 1..k=> a 1.2098 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'dfhcItwI.dfhcItwI.likelihoodFunction' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Alectura_lathami.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Colinus_virginianus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Callipepla_squamata.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node7.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Odontophorus_gujanensis.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Coturnix_japonica.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Meleagris_gallopavo.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Lyrurus_tetrix.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Tympanuchus_cupido.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Centrocercus_minimus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node19.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node17.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Lagopus_muta.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node16.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node14.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Pavo_cristatus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Gallus_gallus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node24.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Chrysolophus_pictus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Phasianus_colchicus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node28.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Syrmaticus_mikado.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node27.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node23.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node13.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node11.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Numida_meleagris.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node4.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Penelope_pileata.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Anseranas_semipalmata.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Anser_cygnoides.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Anas_platyrhynchos.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node36.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node34.alpha' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 128 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 37 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 95 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 48 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 71 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 75 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 89 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 102 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 29 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 3 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 95 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 128 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 37 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 82 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 115 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 56 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 23 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 91 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 79 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 117 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 109 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 105 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 101 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 25 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 77 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 112 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 130 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 102 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 46 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 23 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 91 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 66 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 61 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 89 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 97 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 29 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 102 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 75 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 36 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 131 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 20 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 54 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 84 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 37 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 55 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 46 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 120 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 11 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 96 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 129 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 117 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 101 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 115 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 25 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 11 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 13 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 109 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 116 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 62 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 85 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 119 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 111 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 134 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 36 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 121 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 82 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 38 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 132 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 111 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 56 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 115 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 105 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 75 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 23 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 36 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 121 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 82 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 38 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 132 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 75 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 56 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 115 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 111 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 105 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 23 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (14) of threads.
+Set GUI update interval to every 271-th LF evaluation.
+Initial guess for dfhcItwI.tree_0.Node3.alpha is 2.27402e-06
+Initial guess for dfhcItwI.tree_0.Node4.alpha is 3.56317e-05
+Initial guess for dfhcItwI.tree_0.Node5.alpha is -1.99662e-06
+Initial guess for dfhcItwI.tree_0.Node6.alpha is 3.29336e-05
+Initial guess for dfhcItwI.tree_0.Node7.alpha is 1.28644e-05
+Initial guess for dfhcItwI.tree_0.Colinus_virginianus.alpha is 6.47017e-05
+Initial guess for dfhcItwI.tree_0.Callipepla_squamata.alpha is 1.30333e-05
+Initial guess for dfhcItwI.tree_0.Odontophorus_gujanensis.alpha is 1.72021e-05
+Initial guess for dfhcItwI.tree_0.Node11.alpha is 3.50686e-05
+Initial guess for dfhcItwI.tree_0.Coturnix_japonica.alpha is 4.41732e-05
+Initial guess for dfhcItwI.tree_0.Node13.alpha is 9.74956e-06
+Initial guess for dfhcItwI.tree_0.Node14.alpha is 9.46496e-06
+Initial guess for dfhcItwI.tree_0.Meleagris_gallopavo.alpha is 0.000119299
+Initial guess for dfhcItwI.tree_0.Node16.alpha is 4.82444e-05
+Initial guess for dfhcItwI.tree_0.Node17.alpha is -1.77881e-06
+Initial guess for dfhcItwI.tree_0.Lyrurus_tetrix.alpha is 0.000104134
+Initial guess for dfhcItwI.tree_0.Node19.alpha is 8.35291e-06
+Initial guess for dfhcItwI.tree_0.Tympanuchus_cupido.alpha is 3.18497e-05
+Initial guess for dfhcItwI.tree_0.Centrocercus_minimus.alpha is 1.96166e-05
+Initial guess for dfhcItwI.tree_0.Lagopus_muta.alpha is 1.90941e-05
+Initial guess for dfhcItwI.tree_0.Node23.alpha is -1.00787e-05
+Initial guess for dfhcItwI.tree_0.Node24.alpha is 1.28369e-05
+Initial guess for dfhcItwI.tree_0.Pavo_cristatus.alpha is 1.09082e-05
+Initial guess for dfhcItwI.tree_0.Gallus_gallus.alpha is 5.39811e-05
+Initial guess for dfhcItwI.tree_0.Node27.alpha is 4.12609e-05
+Initial guess for dfhcItwI.tree_0.Node28.alpha is -5.47027e-06
+Initial guess for dfhcItwI.tree_0.Chrysolophus_pictus.alpha is 4.57098e-05
+Initial guess for dfhcItwI.tree_0.Phasianus_colchicus.alpha is 4.31423e-05
+Initial guess for dfhcItwI.tree_0.Syrmaticus_mikado.alpha is 3.62295e-05
+Initial guess for dfhcItwI.tree_0.Numida_meleagris.alpha is 4.15115e-05
+Initial guess for dfhcItwI.tree_0.Penelope_pileata.alpha is 9.9955e-05
+Initial guess for dfhcItwI.tree_0.Node34.alpha is 3.23554e-05
+Initial guess for dfhcItwI.tree_0.Anseranas_semipalmata.alpha is 4.61383e-05
+Initial guess for dfhcItwI.tree_0.Node36.alpha is 4.14679e-05
+Initial guess for dfhcItwI.tree_0.Anser_cygnoides.alpha is 3.79074e-05
+Initial guess for dfhcItwI.tree_0.Anas_platyrhynchos.alpha is 2.07164e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dfhcItwI.model_MGREV.theta_GT = 1
+dfhcItwI.model_MGREV.theta_CT = 1
+dfhcItwI.model_MGREV.theta_AC = 1
+dfhcItwI.model_MGREV.theta_CG = 1
+dfhcItwI.model_MGREV.theta_AT = 1
+dfhcItwI.model_MGREV.omega_0 = 1
+dfhcItwI.model_MGREV.omega_1 = 1
+dfhcItwI.tree_0.Alectura_lathami.alpha = 0.1
+dfhcItwI.tree_0.Colinus_virginianus.alpha = 6.47017e-05
+dfhcItwI.tree_0.Callipepla_squamata.alpha = 1.30333e-05
+dfhcItwI.tree_0.Node7.alpha = 1.28644e-05
+dfhcItwI.tree_0.Odontophorus_gujanensis.alpha = 1.72021e-05
+dfhcItwI.tree_0.Node6.alpha = 3.29336e-05
+dfhcItwI.tree_0.Coturnix_japonica.alpha = 4.41732e-05
+dfhcItwI.tree_0.Meleagris_gallopavo.alpha = 0.000119299
+dfhcItwI.tree_0.Lyrurus_tetrix.alpha = 0.000104134
+dfhcItwI.tree_0.Tympanuchus_cupido.alpha = 3.18497e-05
+dfhcItwI.tree_0.Centrocercus_minimus.alpha = 1.96166e-05
+dfhcItwI.tree_0.Node19.alpha = 8.35291e-06
+dfhcItwI.tree_0.Node17.alpha = 0
+dfhcItwI.tree_0.Lagopus_muta.alpha = 1.90941e-05
+dfhcItwI.tree_0.Node16.alpha = 4.82444e-05
+dfhcItwI.tree_0.Node14.alpha = 9.46496e-06
+dfhcItwI.tree_0.Pavo_cristatus.alpha = 1.09082e-05
+dfhcItwI.tree_0.Gallus_gallus.alpha = 5.39811e-05
+dfhcItwI.tree_0.Node24.alpha = 1.28369e-05
+dfhcItwI.tree_0.Chrysolophus_pictus.alpha = 4.57098e-05
+dfhcItwI.tree_0.Phasianus_colchicus.alpha = 4.31423e-05
+dfhcItwI.tree_0.Node28.alpha = 0
+dfhcItwI.tree_0.Syrmaticus_mikado.alpha = 3.62295e-05
+dfhcItwI.tree_0.Node27.alpha = 4.12609e-05
+dfhcItwI.tree_0.Node23.alpha = 0
+dfhcItwI.tree_0.Node13.alpha = 9.74956e-06
+dfhcItwI.tree_0.Node11.alpha = 3.50686e-05
+dfhcItwI.tree_0.Node5.alpha = 0
+dfhcItwI.tree_0.Numida_meleagris.alpha = 4.15115e-05
+dfhcItwI.tree_0.Node4.alpha = 3.56317e-05
+dfhcItwI.tree_0.Penelope_pileata.alpha = 9.9955e-05
+dfhcItwI.tree_0.Node3.alpha = 2.27402e-06
+dfhcItwI.tree_0.Anseranas_semipalmata.alpha = 4.61383e-05
+dfhcItwI.tree_0.Anser_cygnoides.alpha = 3.79074e-05
+dfhcItwI.tree_0.Anas_platyrhynchos.alpha = 2.07164e-05
+dfhcItwI.tree_0.Node36.alpha = 4.14679e-05
+dfhcItwI.tree_0.Node34.alpha = 3.23554e-05
+Failing bound checks on dfhcItwI.tree_0.Node5.beta =         10003.73729871935
+Optimization finished in 27 loop passes.
+4903 likelihood evaluation calls and 35018 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 6849-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.289375
+frequencies._aux.CF3x4.p0_1 = 0.360975
+frequencies._aux.CF3x4.p0_2 = 0.609713
+frequencies._aux.CF3x4.p1_0 = 0.329554
+frequencies._aux.CF3x4.p1_1 = 0.260887
+frequencies._aux.CF3x4.p1_2 = 0.378198
+frequencies._aux.CF3x4.p2_0 = 0.225536
+frequencies._aux.CF3x4.p2_1 = 0.270463
+frequencies._aux.CF3x4.p2_2 = 0.512326
+Optimization finished in 7 loop passes.
+300 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'dfhcItwI.model_MGREV_pi' was not initialized prior to being used
+Model dfhcItwI.model_MGREV assigned to Alectura_lathami
+Model dfhcItwI.model_MGREV assigned to Colinus_virginianus
+Model dfhcItwI.model_MGREV assigned to Callipepla_squamata
+Model dfhcItwI.model_MGREV assigned to Node7
+Model dfhcItwI.model_MGREV assigned to Odontophorus_gujanensis
+Model dfhcItwI.model_MGREV assigned to Node6
+Model dfhcItwI.model_MGREV assigned to Coturnix_japonica
+Model dfhcItwI.model_MGREV assigned to Meleagris_gallopavo
+Model dfhcItwI.model_MGREV assigned to Lyrurus_tetrix
+Model dfhcItwI.model_MGREV assigned to Tympanuchus_cupido
+Model dfhcItwI.model_MGREV assigned to Centrocercus_minimus
+Model dfhcItwI.model_MGREV assigned to Node19
+Model dfhcItwI.model_MGREV assigned to Node17
+Model dfhcItwI.model_MGREV assigned to Lagopus_muta
+Model dfhcItwI.model_MGREV assigned to Node16
+Model dfhcItwI.model_MGREV assigned to Node14
+Model dfhcItwI.model_MGREV assigned to Pavo_cristatus
+Model dfhcItwI.model_MGREV assigned to Gallus_gallus
+Model dfhcItwI.model_MGREV assigned to Node24
+Model dfhcItwI.model_MGREV assigned to Chrysolophus_pictus
+Model dfhcItwI.model_MGREV assigned to Phasianus_colchicus
+Model dfhcItwI.model_MGREV assigned to Node28
+Model dfhcItwI.model_MGREV assigned to Syrmaticus_mikado
+Model dfhcItwI.model_MGREV assigned to Node27
+Model dfhcItwI.model_MGREV assigned to Node23
+Model dfhcItwI.model_MGREV assigned to Node13
+Model dfhcItwI.model_MGREV assigned to Node11
+Model dfhcItwI.model_MGREV assigned to Node5
+Model dfhcItwI.model_MGREV assigned to Numida_meleagris
+Model dfhcItwI.model_MGREV assigned to Node4
+Model dfhcItwI.model_MGREV assigned to Penelope_pileata
+Model dfhcItwI.model_MGREV assigned to Node3
+Model dfhcItwI.model_MGREV assigned to Anseranas_semipalmata
+Model dfhcItwI.model_MGREV assigned to Anser_cygnoides
+Model dfhcItwI.model_MGREV assigned to Anas_platyrhynchos
+Model dfhcItwI.model_MGREV assigned to Node36
+Model dfhcItwI.model_MGREV assigned to Node34
+The tips of the tree:dfhcItwI.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,7,4,14,8,12,11,19,5,10,15,9,6,17,18,13,16,3,2,1}
+
+Pseudo-optimal path's cost 4061 vs 4913 for 1..k=> a 1.2098 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'dfhcItwI.tree_0.Anas_platyrhynchos.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Anser_cygnoides.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node36.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node17.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Anseranas_semipalmata.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Callipepla_squamata.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Penelope_pileata.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node4.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Lyrurus_tetrix.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Numida_meleagris.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node11.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node13.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Coturnix_japonica.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node23.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node27.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Colinus_virginianus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Syrmaticus_mikado.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Tympanuchus_cupido.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node28.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Centrocercus_minimus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Phasianus_colchicus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Chrysolophus_pictus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Alectura_lathami.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node24.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Gallus_gallus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Meleagris_gallopavo.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Pavo_cristatus.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node14.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node16.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node7.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Lagopus_muta.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Odontophorus_gujanensis.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node19.alpha' was not initialized prior to being used
+Variable 'dfhcItwI.tree_0.Node34.alpha' was not initialized prior to being used
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 128 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 95 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 37 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 71 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 48 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 75 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 89 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 102 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 29 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 95 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 128 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 3 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 37 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 82 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 115 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 56 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 23 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 91 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 79 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 117 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 109 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 101 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 105 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 25 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 77 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 112 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 130 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 46 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 23 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 102 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 91 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 66 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 89 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 61 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 102 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 29 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 75 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 97 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 36 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 84 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 131 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 54 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 20 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 55 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 120 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 46 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 37 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 11 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 1 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 96 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 129 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 27 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 117 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 115 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 101 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 25 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (11) of threads.
+Set GUI update interval to every 250-th LF evaluation.
+Initial guess for dfhcItwI.tree_0.Node3.alpha is 2.27402e-06
+Initial guess for dfhcItwI.tree_0.Node4.alpha is 3.56317e-05
+Initial guess for dfhcItwI.tree_0.Node5.alpha is -1.99662e-06
+Initial guess for dfhcItwI.tree_0.Node6.alpha is 3.29336e-05
+Initial guess for dfhcItwI.tree_0.Node7.alpha is 1.28644e-05
+Initial guess for dfhcItwI.tree_0.Colinus_virginianus.alpha is 6.47017e-05
+Initial guess for dfhcItwI.tree_0.Callipepla_squamata.alpha is 1.30333e-05
+Initial guess for dfhcItwI.tree_0.Odontophorus_gujanensis.alpha is 1.72021e-05
+Initial guess for dfhcItwI.tree_0.Node11.alpha is 3.50686e-05
+Initial guess for dfhcItwI.tree_0.Coturnix_japonica.alpha is 4.41732e-05
+Initial guess for dfhcItwI.tree_0.Node13.alpha is 9.74956e-06
+Initial guess for dfhcItwI.tree_0.Node14.alpha is 9.46496e-06
+Initial guess for dfhcItwI.tree_0.Meleagris_gallopavo.alpha is 0.000119299
+Initial guess for dfhcItwI.tree_0.Node16.alpha is 4.82444e-05
+Initial guess for dfhcItwI.tree_0.Node17.alpha is -1.77881e-06
+Initial guess for dfhcItwI.tree_0.Lyrurus_tetrix.alpha is 0.000104134
+Initial guess for dfhcItwI.tree_0.Node19.alpha is 8.35291e-06
+Initial guess for dfhcItwI.tree_0.Tympanuchus_cupido.alpha is 3.18497e-05
+Initial guess for dfhcItwI.tree_0.Centrocercus_minimus.alpha is 1.96166e-05
+Initial guess for dfhcItwI.tree_0.Lagopus_muta.alpha is 1.90941e-05
+Initial guess for dfhcItwI.tree_0.Node23.alpha is -1.00787e-05
+Initial guess for dfhcItwI.tree_0.Node24.alpha is 1.28369e-05
+Initial guess for dfhcItwI.tree_0.Pavo_cristatus.alpha is 1.09082e-05
+Initial guess for dfhcItwI.tree_0.Gallus_gallus.alpha is 5.39811e-05
+Initial guess for dfhcItwI.tree_0.Node27.alpha is 4.12609e-05
+Initial guess for dfhcItwI.tree_0.Node28.alpha is -5.47027e-06
+Initial guess for dfhcItwI.tree_0.Chrysolophus_pictus.alpha is 4.57098e-05
+Initial guess for dfhcItwI.tree_0.Phasianus_colchicus.alpha is 4.31423e-05
+Initial guess for dfhcItwI.tree_0.Syrmaticus_mikado.alpha is 3.62295e-05
+Initial guess for dfhcItwI.tree_0.Numida_meleagris.alpha is 4.15115e-05
+Initial guess for dfhcItwI.tree_0.Penelope_pileata.alpha is 9.9955e-05
+Initial guess for dfhcItwI.tree_0.Node34.alpha is 3.23554e-05
+Initial guess for dfhcItwI.tree_0.Anseranas_semipalmata.alpha is 4.61383e-05
+Initial guess for dfhcItwI.tree_0.Node36.alpha is 4.14679e-05
+Initial guess for dfhcItwI.tree_0.Anser_cygnoides.alpha is 3.79074e-05
+Initial guess for dfhcItwI.tree_0.Anas_platyrhynchos.alpha is 2.07164e-05
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+dfhcItwI.model_MGREV.theta_GT = 1
+dfhcItwI.model_MGREV.theta_CT = 1
+dfhcItwI.model_MGREV.theta_AC = 1
+dfhcItwI.model_MGREV.theta_AT = 1
+dfhcItwI.model_MGREV.theta_CG = 1
+dfhcItwI.model_MGREV.omega_0 = 1
+dfhcItwI.model_MGREV.omega_1 = 1
+dfhcItwI.tree_0.Alectura_lathami.alpha = 0.1
+dfhcItwI.tree_0.Colinus_virginianus.alpha = 6.47017e-05
+dfhcItwI.tree_0.Callipepla_squamata.alpha = 1.30333e-05
+dfhcItwI.tree_0.Node7.alpha = 1.28644e-05
+dfhcItwI.tree_0.Odontophorus_gujanensis.alpha = 1.72021e-05
+dfhcItwI.tree_0.Node6.alpha = 3.29336e-05
+dfhcItwI.tree_0.Coturnix_japonica.alpha = 4.41732e-05
+dfhcItwI.tree_0.Meleagris_gallopavo.alpha = 0.000119299
+dfhcItwI.tree_0.Lyrurus_tetrix.alpha = 0.000104134
+dfhcItwI.tree_0.Tympanuchus_cupido.alpha = 3.18497e-05
+dfhcItwI.tree_0.Centrocercus_minimus.alpha = 1.96166e-05
+dfhcItwI.tree_0.Node19.alpha = 8.35291e-06
+dfhcItwI.tree_0.Node17.alpha = 0
+dfhcItwI.tree_0.Lagopus_muta.alpha = 1.90941e-05
+dfhcItwI.tree_0.Node16.alpha = 4.82444e-05
+dfhcItwI.tree_0.Node14.alpha = 9.46496e-06
+dfhcItwI.tree_0.Pavo_cristatus.alpha = 1.09082e-05
+dfhcItwI.tree_0.Gallus_gallus.alpha = 5.39811e-05
+dfhcItwI.tree_0.Node24.alpha = 1.28369e-05
+dfhcItwI.tree_0.Chrysolophus_pictus.alpha = 4.57098e-05
+dfhcItwI.tree_0.Phasianus_colchicus.alpha = 4.31423e-05
+dfhcItwI.tree_0.Node28.alpha = 0
+dfhcItwI.tree_0.Syrmaticus_mikado.alpha = 3.62295e-05
+dfhcItwI.tree_0.Node27.alpha = 4.12609e-05
+dfhcItwI.tree_0.Node23.alpha = 0
+dfhcItwI.tree_0.Node13.alpha = 9.74956e-06
+dfhcItwI.tree_0.Node11.alpha = 3.50686e-05
+dfhcItwI.tree_0.Node5.alpha = 0
+dfhcItwI.tree_0.Numida_meleagris.alpha = 4.15115e-05
+dfhcItwI.tree_0.Node4.alpha = 3.56317e-05
+dfhcItwI.tree_0.Penelope_pileata.alpha = 9.9955e-05
+dfhcItwI.tree_0.Node3.alpha = 2.27402e-06
+dfhcItwI.tree_0.Anseranas_semipalmata.alpha = 4.61383e-05
+dfhcItwI.tree_0.Anser_cygnoides.alpha = 3.79074e-05
+dfhcItwI.tree_0.Anas_platyrhynchos.alpha = 2.07164e-05
+dfhcItwI.tree_0.Node36.alpha = 4.14679e-05
+dfhcItwI.tree_0.Node34.alpha = 3.23554e-05
+Failing bound checks on dfhcItwI.tree_0.Node5.beta =         10003.73729871935
+Optimization finished in 27 loop passes.
+4203 likelihood evaluation calls and 31589 matrix exponentiations calls were made
+
+Overwritten previously defined function:'oIdUBJuB.rate_generator'
+Overwritten previously defined function:'oIdUBJuB.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6493-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.289375
+frequencies._aux.CF3x4.p0_1 = 0.360975
+frequencies._aux.CF3x4.p0_2 = 0.609713
+frequencies._aux.CF3x4.p1_0 = 0.329554
+frequencies._aux.CF3x4.p1_1 = 0.260887
+frequencies._aux.CF3x4.p1_2 = 0.378198
+frequencies._aux.CF3x4.p2_0 = 0.225536
+frequencies._aux.CF3x4.p2_1 = 0.270463
+frequencies._aux.CF3x4.p2_2 = 0.512326
+Optimization finished in 7 loop passes.
+299 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'oIdUBJuB.rate_generator'
+Overwritten previously defined function:'oIdUBJuB.rate_generator'
+Overwritten previously defined function:'oIdUBJuB.rate_generator'
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 7575-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.289375
+frequencies._aux.CF3x4.p0_1 = 0.360975
+frequencies._aux.CF3x4.p0_2 = 0.609713
+frequencies._aux.CF3x4.p1_0 = 0.329554
+frequencies._aux.CF3x4.p1_1 = 0.260887
+frequencies._aux.CF3x4.p1_2 = 0.378198
+frequencies._aux.CF3x4.p2_0 = 0.225536
+frequencies._aux.CF3x4.p2_1 = 0.270463
+frequencies._aux.CF3x4.p2_2 = 0.512326
+Optimization finished in 7 loop passes.
+300 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.reference_pi' was not initialized prior to being used
+No nodel was assigned to Alectura_lathami
+No nodel was assigned to Colinus_virginianus
+No nodel was assigned to Callipepla_squamata
+No nodel was assigned to Node7
+No nodel was assigned to Odontophorus_gujanensis
+No nodel was assigned to Node6
+No nodel was assigned to Coturnix_japonica
+No nodel was assigned to Meleagris_gallopavo
+No nodel was assigned to Lyrurus_tetrix
+No nodel was assigned to Tympanuchus_cupido
+No nodel was assigned to Centrocercus_minimus
+No nodel was assigned to Node19
+No nodel was assigned to Node17
+No nodel was assigned to Lagopus_muta
+No nodel was assigned to Node16
+No nodel was assigned to Node14
+No nodel was assigned to Pavo_cristatus
+No nodel was assigned to Gallus_gallus
+No nodel was assigned to Node24
+No nodel was assigned to Chrysolophus_pictus
+No nodel was assigned to Phasianus_colchicus
+No nodel was assigned to Node28
+No nodel was assigned to Syrmaticus_mikado
+No nodel was assigned to Node27
+No nodel was assigned to Node23
+No nodel was assigned to Node13
+No nodel was assigned to Node11
+No nodel was assigned to Node5
+No nodel was assigned to Numida_meleagris
+No nodel was assigned to Node4
+No nodel was assigned to Penelope_pileata
+No nodel was assigned to Node3
+No nodel was assigned to Anseranas_semipalmata
+No nodel was assigned to Anser_cygnoides
+No nodel was assigned to Anas_platyrhynchos
+No nodel was assigned to Node36
+No nodel was assigned to Node34
+The tips of the tree:NmDJiikc.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,7,4,14,8,12,11,19,5,10,15,9,6,17,18,13,16,3,2,1}
+
+Pseudo-optimal path's cost 4061 vs 4913 for 1..k=> a 1.2098 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'NmDJiikc.tree_id_0.Alectura_lathami.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Alectura_lathami.t=0.3289384665085778
+Variable 'NmDJiikc.tree_id_0.Colinus_virginianus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Colinus_virginianus.t=0.08596733067823058
+Variable 'NmDJiikc.tree_id_0.Callipepla_squamata.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Callipepla_squamata.t=0.07591276430639457
+Variable 'NmDJiikc.tree_id_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node7.t=0.07805547774928383
+Variable 'NmDJiikc.tree_id_0.Odontophorus_gujanensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Odontophorus_gujanensis.t=0.2474696377572229
+Variable 'NmDJiikc.tree_id_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node6.t=0.177914793973114
+Variable 'NmDJiikc.tree_id_0.Coturnix_japonica.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Coturnix_japonica.t=0.7001023601298416
+Variable 'NmDJiikc.tree_id_0.Meleagris_gallopavo.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Meleagris_gallopavo.t=0.6868943398852302
+Variable 'NmDJiikc.tree_id_0.Lyrurus_tetrix.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Lyrurus_tetrix.t=0.2255832600626245
+Variable 'NmDJiikc.tree_id_0.Tympanuchus_cupido.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Tympanuchus_cupido.t=0.1084137741893079
+Variable 'NmDJiikc.tree_id_0.Centrocercus_minimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Centrocercus_minimus.t=0.1299459492305715
+Variable 'NmDJiikc.tree_id_0.Node19.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node19.t=0.05478683985836391
+Variable 'NmDJiikc.tree_id_0.Node17.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node17.t=0
+Variable 'NmDJiikc.tree_id_0.Lagopus_muta.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Lagopus_muta.t=0.05316982631098292
+Variable 'NmDJiikc.tree_id_0.Node16.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node16.t=0.2565177517478658
+Variable 'NmDJiikc.tree_id_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node14.t=0.1384577893806706
+Variable 'NmDJiikc.tree_id_0.Pavo_cristatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Pavo_cristatus.t=0.3171844931185293
+Variable 'NmDJiikc.tree_id_0.Gallus_gallus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Gallus_gallus.t=0.2332540423000825
+Variable 'NmDJiikc.tree_id_0.Node24.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node24.t=0.0550345781453109
+Variable 'NmDJiikc.tree_id_0.Chrysolophus_pictus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Chrysolophus_pictus.t=0.1731625974042623
+Variable 'NmDJiikc.tree_id_0.Phasianus_colchicus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Phasianus_colchicus.t=0.2704187414511652
+Variable 'NmDJiikc.tree_id_0.Node28.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node28.t=0
+Variable 'NmDJiikc.tree_id_0.Syrmaticus_mikado.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Syrmaticus_mikado.t=0.1991504494382871
+Variable 'NmDJiikc.tree_id_0.Node27.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node27.t=0.2944027381721283
+Variable 'NmDJiikc.tree_id_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node23.t=0.0131529379670774
+Variable 'NmDJiikc.tree_id_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node13.t=0.04473604116341691
+Variable 'NmDJiikc.tree_id_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node11.t=0.2457422290670457
+Variable 'NmDJiikc.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node5.t=0.01327012864602626
+Variable 'NmDJiikc.tree_id_0.Numida_meleagris.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Numida_meleagris.t=0.5989128100646087
+Variable 'NmDJiikc.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node4.t=0.2324178695746896
+Variable 'NmDJiikc.tree_id_0.Penelope_pileata.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Penelope_pileata.t=0.2764637560333293
+Variable 'NmDJiikc.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node3.t=0.05465894457656322
+Variable 'NmDJiikc.tree_id_0.Anseranas_semipalmata.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Anseranas_semipalmata.t=0.2015119056699549
+Variable 'NmDJiikc.tree_id_0.Anser_cygnoides.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Anser_cygnoides.t=0.1107161049576534
+Variable 'NmDJiikc.tree_id_0.Anas_platyrhynchos.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Anas_platyrhynchos.t=0.1741167481917175
+Variable 'NmDJiikc.tree_id_0.Node36.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node36.t=0.2571932380368896
+Variable 'NmDJiikc.tree_id_0.Node34.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node34.t=0.266633979554658
+Variable 'NmDJiikc.NmDJiikc.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 17-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 7.27482
+relax.reference.omega2 = 0.4601
+relax.reference.bsrel_mixture_aux_1 = 0.818182
+relax.reference.omega1 = 0.145496
+relax.test.theta_CG = 0.26432
+relax.test.theta_AT = 0.238026
+relax.test.theta_AC = 0.231114
+relax.test.theta_CT = 1.11404
+relax.reference.bsrel_mixture_aux_0 = 0.45
+relax.test.theta_GT = 0.224227
+relax.K = 1
+NmDJiikc.tree_id_0.Alectura_lathami.t = 0.328938
+NmDJiikc.tree_id_0.Colinus_virginianus.t = 0.0859673
+NmDJiikc.tree_id_0.Callipepla_squamata.t = 0.0759128
+NmDJiikc.tree_id_0.Node7.t = 0.0780555
+NmDJiikc.tree_id_0.Odontophorus_gujanensis.t = 0.24747
+NmDJiikc.tree_id_0.Node6.t = 0.177915
+NmDJiikc.tree_id_0.Coturnix_japonica.t = 0.700102
+NmDJiikc.tree_id_0.Meleagris_gallopavo.t = 0.686894
+NmDJiikc.tree_id_0.Lyrurus_tetrix.t = 0.225583
+NmDJiikc.tree_id_0.Tympanuchus_cupido.t = 0.108414
+NmDJiikc.tree_id_0.Centrocercus_minimus.t = 0.129946
+NmDJiikc.tree_id_0.Node19.t = 0.0547868
+NmDJiikc.tree_id_0.Node17.t = 0
+NmDJiikc.tree_id_0.Lagopus_muta.t = 0.0531698
+NmDJiikc.tree_id_0.Node16.t = 0.256518
+NmDJiikc.tree_id_0.Node14.t = 0.138458
+NmDJiikc.tree_id_0.Pavo_cristatus.t = 0.317184
+NmDJiikc.tree_id_0.Gallus_gallus.t = 0.233254
+NmDJiikc.tree_id_0.Node24.t = 0.0550346
+NmDJiikc.tree_id_0.Chrysolophus_pictus.t = 0.173163
+NmDJiikc.tree_id_0.Phasianus_colchicus.t = 0.270419
+NmDJiikc.tree_id_0.Node28.t = 0
+NmDJiikc.tree_id_0.Syrmaticus_mikado.t = 0.19915
+NmDJiikc.tree_id_0.Node27.t = 0.294403
+NmDJiikc.tree_id_0.Node23.t = 0.0131529
+NmDJiikc.tree_id_0.Node13.t = 0.044736
+NmDJiikc.tree_id_0.Node11.t = 0.245742
+NmDJiikc.tree_id_0.Node5.t = 0.0132701
+NmDJiikc.tree_id_0.Numida_meleagris.t = 0.598913
+NmDJiikc.tree_id_0.Node4.t = 0.232418
+NmDJiikc.tree_id_0.Penelope_pileata.t = 0.276464
+NmDJiikc.tree_id_0.Node3.t = 0.0546589
+NmDJiikc.tree_id_0.Anseranas_semipalmata.t = 0.201512
+NmDJiikc.tree_id_0.Anser_cygnoides.t = 0.110716
+NmDJiikc.tree_id_0.Anas_platyrhynchos.t = 0.174117
+NmDJiikc.tree_id_0.Node36.t = 0.257193
+NmDJiikc.tree_id_0.Node34.t = 0.266634
+Optimization finished in 42 loop passes.
+6772 likelihood evaluation calls and 235383 matrix exponentiations calls were made
+
+Variable 'MPI_NODE_COUNT' was not initialized prior to being used
+No nodel was assigned to Alectura_lathami
+No nodel was assigned to Colinus_virginianus
+No nodel was assigned to Callipepla_squamata
+No nodel was assigned to Node7
+No nodel was assigned to Odontophorus_gujanensis
+No nodel was assigned to Node6
+No nodel was assigned to Coturnix_japonica
+No nodel was assigned to Meleagris_gallopavo
+No nodel was assigned to Lyrurus_tetrix
+No nodel was assigned to Tympanuchus_cupido
+No nodel was assigned to Centrocercus_minimus
+No nodel was assigned to Node19
+No nodel was assigned to Node17
+No nodel was assigned to Lagopus_muta
+No nodel was assigned to Node16
+No nodel was assigned to Node14
+No nodel was assigned to Pavo_cristatus
+No nodel was assigned to Gallus_gallus
+No nodel was assigned to Node24
+No nodel was assigned to Chrysolophus_pictus
+No nodel was assigned to Phasianus_colchicus
+No nodel was assigned to Node28
+No nodel was assigned to Syrmaticus_mikado
+No nodel was assigned to Node27
+No nodel was assigned to Node23
+No nodel was assigned to Node13
+No nodel was assigned to Node11
+No nodel was assigned to Node5
+No nodel was assigned to Numida_meleagris
+No nodel was assigned to Node4
+No nodel was assigned to Penelope_pileata
+No nodel was assigned to Node3
+No nodel was assigned to Anseranas_semipalmata
+No nodel was assigned to Anser_cygnoides
+No nodel was assigned to Anas_platyrhynchos
+No nodel was assigned to Node36
+No nodel was assigned to Node34
+Likelihood function cleared because partition index '0' points to invalid components
+The tips of the tree:NmDJiikc.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,7,4,14,8,12,11,19,5,10,15,9,6,17,18,13,16,3,2,1}
+
+Pseudo-optimal path's cost 4061 vs 4913 for 1..k=> a 1.2098 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_0 was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_1 was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+relax.test.omega1 was already constrained in estimators.SetGlobals2
+relax.test.omega2 was already constrained in estimators.SetGlobals2
+relax.test.omega3 was already constrained in estimators.SetGlobals2
+Variable 'NmDJiikc.tree_id_0.Alectura_lathami.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Alectura_lathami.t=0.4575938879823516
+Variable 'NmDJiikc.tree_id_0.Colinus_virginianus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Colinus_virginianus.t=0.1104156475294108
+Variable 'NmDJiikc.tree_id_0.Callipepla_squamata.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Callipepla_squamata.t=0.07910390186838769
+Variable 'NmDJiikc.tree_id_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node7.t=0.08951839103761544
+Variable 'NmDJiikc.tree_id_0.Odontophorus_gujanensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Odontophorus_gujanensis.t=0.3002937929800557
+Variable 'NmDJiikc.tree_id_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node6.t=0.264807264735864
+Variable 'NmDJiikc.tree_id_0.Coturnix_japonica.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Coturnix_japonica.t=0.9644045449503248
+Variable 'NmDJiikc.tree_id_0.Meleagris_gallopavo.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Meleagris_gallopavo.t=0.7070021822694662
+Variable 'NmDJiikc.tree_id_0.Lyrurus_tetrix.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Lyrurus_tetrix.t=0.5096370348256051
+Variable 'NmDJiikc.tree_id_0.Tympanuchus_cupido.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Tympanuchus_cupido.t=0.285360486321253
+Variable 'NmDJiikc.tree_id_0.Centrocercus_minimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Centrocercus_minimus.t=0.19643178915624
+Variable 'NmDJiikc.tree_id_0.Node19.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node19.t=0.06607717948283658
+Variable 'NmDJiikc.tree_id_0.Node17.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node17.t=0
+Variable 'NmDJiikc.tree_id_0.Lagopus_muta.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Lagopus_muta.t=0.09860047873252802
+Variable 'NmDJiikc.tree_id_0.Node16.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node16.t=0.3380947181863202
+Variable 'NmDJiikc.tree_id_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node14.t=0.1719365017488995
+Variable 'NmDJiikc.tree_id_0.Pavo_cristatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Pavo_cristatus.t=0.3236019097023113
+Variable 'NmDJiikc.tree_id_0.Gallus_gallus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Gallus_gallus.t=0.3038705415516407
+Variable 'NmDJiikc.tree_id_0.Node24.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node24.t=0.06847266735585639
+Variable 'NmDJiikc.tree_id_0.Chrysolophus_pictus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Chrysolophus_pictus.t=0.212655553259674
+Variable 'NmDJiikc.tree_id_0.Phasianus_colchicus.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Phasianus_colchicus.t=0.3557370408977262
+Variable 'NmDJiikc.tree_id_0.Node28.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node28.t=0
+Variable 'NmDJiikc.tree_id_0.Syrmaticus_mikado.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Syrmaticus_mikado.t=0.2496781170988862
+Variable 'NmDJiikc.tree_id_0.Node27.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node27.t=0.3901620915287483
+Variable 'NmDJiikc.tree_id_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node23.t=0.0157238174983506
+Variable 'NmDJiikc.tree_id_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node13.t=0.05393577716258034
+Variable 'NmDJiikc.tree_id_0.Node11.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node11.t=0.2571220352656529
+Variable 'NmDJiikc.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node5.t=0
+Variable 'NmDJiikc.tree_id_0.Numida_meleagris.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Numida_meleagris.t=0.7293299584503131
+Variable 'NmDJiikc.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node4.t=0.2920643096750116
+Variable 'NmDJiikc.tree_id_0.Penelope_pileata.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Penelope_pileata.t=0.3571161174629648
+Variable 'NmDJiikc.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node3.t=0.06562648416332229
+Variable 'NmDJiikc.tree_id_0.Anseranas_semipalmata.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Anseranas_semipalmata.t=0.2740972374859871
+Variable 'NmDJiikc.tree_id_0.Anser_cygnoides.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Anser_cygnoides.t=0.1298812458905432
+Variable 'NmDJiikc.tree_id_0.Anas_platyrhynchos.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Anas_platyrhynchos.t=0.2339365319863749
+Variable 'NmDJiikc.tree_id_0.Node36.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node36.t=0.3476507836574766
+Variable 'NmDJiikc.tree_id_0.Node34.t' was not initialized prior to being used
+models.generic.SetBranchLength: NmDJiikc.tree_id_0.Node34.t=0.3778379161251882
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 18-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 35.1496
+relax.reference.omega2 = 0.572729
+relax.reference.bsrel_mixture_aux_1 = 0.972212
+relax.reference.omega1 = 0.62483
+relax.test.theta_CG = 0.229899
+relax.test.theta_AT = 0.189394
+relax.test.theta_AC = 0.211589
+relax.test.theta_CT = 1.10599
+relax.reference.bsrel_mixture_aux_0 = 0.665866
+relax.test.theta_GT = 0.197824
+relax.K = 1
+NmDJiikc.tree_id_0.Alectura_lathami.t = 0.457594
+NmDJiikc.tree_id_0.Colinus_virginianus.t = 0.110416
+NmDJiikc.tree_id_0.Callipepla_squamata.t = 0.0791039
+NmDJiikc.tree_id_0.Node7.t = 0.0895184
+NmDJiikc.tree_id_0.Odontophorus_gujanensis.t = 0.300294
+NmDJiikc.tree_id_0.Node6.t = 0.264807
+NmDJiikc.tree_id_0.Coturnix_japonica.t = 0.964405
+NmDJiikc.tree_id_0.Meleagris_gallopavo.t = 0.707002
+NmDJiikc.tree_id_0.Lyrurus_tetrix.t = 0.509637
+NmDJiikc.tree_id_0.Tympanuchus_cupido.t = 0.28536
+NmDJiikc.tree_id_0.Centrocercus_minimus.t = 0.196432
+NmDJiikc.tree_id_0.Node19.t = 0.0660772
+NmDJiikc.tree_id_0.Node17.t = 0
+NmDJiikc.tree_id_0.Lagopus_muta.t = 0.0986005
+NmDJiikc.tree_id_0.Node16.t = 0.338095
+NmDJiikc.tree_id_0.Node14.t = 0.171937
+NmDJiikc.tree_id_0.Pavo_cristatus.t = 0.323602
+NmDJiikc.tree_id_0.Gallus_gallus.t = 0.303871
+NmDJiikc.tree_id_0.Node24.t = 0.0684727
+NmDJiikc.tree_id_0.Chrysolophus_pictus.t = 0.212656
+NmDJiikc.tree_id_0.Phasianus_colchicus.t = 0.355737
+NmDJiikc.tree_id_0.Node28.t = 0
+NmDJiikc.tree_id_0.Syrmaticus_mikado.t = 0.249678
+NmDJiikc.tree_id_0.Node27.t = 0.390162
+NmDJiikc.tree_id_0.Node23.t = 0.0157238
+NmDJiikc.tree_id_0.Node13.t = 0.0539358
+NmDJiikc.tree_id_0.Node11.t = 0.257122
+NmDJiikc.tree_id_0.Node5.t = 0
+NmDJiikc.tree_id_0.Numida_meleagris.t = 0.72933
+NmDJiikc.tree_id_0.Node4.t = 0.292064
+NmDJiikc.tree_id_0.Penelope_pileata.t = 0.357116
+NmDJiikc.tree_id_0.Node3.t = 0.0656265
+NmDJiikc.tree_id_0.Anseranas_semipalmata.t = 0.274097
+NmDJiikc.tree_id_0.Anser_cygnoides.t = 0.129881
+NmDJiikc.tree_id_0.Anas_platyrhynchos.t = 0.233937
+NmDJiikc.tree_id_0.Node36.t = 0.347651
+NmDJiikc.tree_id_0.Node34.t = 0.377838
+Optimization finished in 28 loop passes.
+5557 likelihood evaluation calls and 168924 matrix exponentiations calls were made
+
+Variable 'mIbBzNQJ.NmDJiikc.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 21-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 51.3127
+relax.reference.omega2 = 0.953452
+relax.reference.omega1 = 0.475315
+relax.test.theta_AT = 0.189883
+relax.test.theta_AC = 0.208263
+relax.reference.bsrel_mixture_aux_1 = 0.975186
+relax.test.theta_CG = 0.230127
+relax.reference.bsrel_mixture_aux_0 = 0.691394
+relax.test.theta_GT = 0.197436
+relax.test.theta_CT = 1.11479
+NmDJiikc.tree_id_0.Alectura_lathami.t = 0.151502
+NmDJiikc.tree_id_0.Colinus_virginianus.t = 0.0356112
+NmDJiikc.tree_id_0.Callipepla_squamata.t = 0.0257317
+NmDJiikc.tree_id_0.Node7.t = 0.0292502
+NmDJiikc.tree_id_0.Odontophorus_gujanensis.t = 0.101107
+NmDJiikc.tree_id_0.Node6.t = 0.0884152
+NmDJiikc.tree_id_0.Coturnix_japonica.t = 0.320954
+NmDJiikc.tree_id_0.Meleagris_gallopavo.t = 0.223359
+NmDJiikc.tree_id_0.Lyrurus_tetrix.t = 0.0924293
+NmDJiikc.tree_id_0.Tympanuchus_cupido.t = 0.0454849
+NmDJiikc.tree_id_0.Centrocercus_minimus.t = 0.0478235
+NmDJiikc.tree_id_0.Node19.t = 0.020981
+NmDJiikc.tree_id_0.Node17.t = 0
+NmDJiikc.tree_id_0.Lagopus_muta.t = 0.0197648
+NmDJiikc.tree_id_0.Node16.t = 0.112797
+NmDJiikc.tree_id_0.Node14.t = 0.0577856
+NmDJiikc.tree_id_0.Pavo_cristatus.t = 0.102805
+NmDJiikc.tree_id_0.Gallus_gallus.t = 0.102162
+NmDJiikc.tree_id_0.Node24.t = 0.0222453
+NmDJiikc.tree_id_0.Chrysolophus_pictus.t = 0.0718279
+NmDJiikc.tree_id_0.Phasianus_colchicus.t = 0.119891
+NmDJiikc.tree_id_0.Node28.t = 0
+NmDJiikc.tree_id_0.Syrmaticus_mikado.t = 0.0836589
+NmDJiikc.tree_id_0.Node27.t = 0.131316
+NmDJiikc.tree_id_0.Node23.t = 0.00487415
+NmDJiikc.tree_id_0.Node13.t = 0.0182929
+NmDJiikc.tree_id_0.Node11.t = 0.0828422
+NmDJiikc.tree_id_0.Node5.t = 0
+NmDJiikc.tree_id_0.Numida_meleagris.t = 0.24221
+NmDJiikc.tree_id_0.Node4.t = 0.0958609
+NmDJiikc.tree_id_0.Penelope_pileata.t = 0.118187
+NmDJiikc.tree_id_0.Node3.t = 0.0218637
+NmDJiikc.tree_id_0.Anseranas_semipalmata.t = 0.0918605
+NmDJiikc.tree_id_0.Anser_cygnoides.t = 0.0428714
+NmDJiikc.tree_id_0.Anas_platyrhynchos.t = 0.0791609
+NmDJiikc.tree_id_0.Node36.t = 0.117
+NmDJiikc.tree_id_0.Node34.t = 0.12803
+Optimization finished in 5 loop passes.
+555 likelihood evaluation calls and 21438 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used

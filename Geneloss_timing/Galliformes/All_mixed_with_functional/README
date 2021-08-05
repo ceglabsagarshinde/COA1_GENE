@@ -1,0 +1,24 @@
+## The species which have lost the gene are labelled as foreground and the remaining species with functional gene are kept as background.
+the list of foreground species:
+1. Odontophorus_gujanensis
+2. Coturnix_japonica
+3. Meleagris_gallopavo
+4. Pavo_cristatus
+5. Gallus_gallus
+6. Syrmaticus_mikado
+7. Numida_meleagris
+
+The list of species as background:
+1. Alectura_lathami
+2. Colinus_virginianus
+3. Callipepla_squamata
+4. Lyrurus_tetrix
+5. Tympanuchus_cupido
+6. Centrocercus_minimus
+7. Lagopus_muta
+8. Chrysolophus_pictus
+9. Phasianus_colchicus
+10. Penelope_pileata
+11. Anseranas_semipalmata
+12. Anser_cygnoides
+13. Anas_platyrhynchos
