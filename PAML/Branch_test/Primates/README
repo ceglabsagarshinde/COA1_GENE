@@ -1,1 +1,4 @@
-
+## The input folder contains the input files as well as the compiled result files generated from the branch-test script.
+## The species folder is the species considered as functional and rest are background.
+## The species folder contains the different branch model and in them are the control files used and the ouptut generated.
+## Please use the branch_test.sh script to get the output.
