@@ -7,7 +7,6 @@
 # 4.Perelman_et_al__9primates__unrooted.tre
 # 5.RAxML_bestTree__9primates__unrooted.tre
 
-## The species tree downloaded from timetree.org
 
 
 #making these two below files to tell the program which argument to select for nucleotide frequency model and codon models
