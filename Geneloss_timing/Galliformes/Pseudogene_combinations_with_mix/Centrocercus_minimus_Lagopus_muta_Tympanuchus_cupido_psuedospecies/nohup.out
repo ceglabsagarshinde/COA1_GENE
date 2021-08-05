@@ -1,0 +1,145 @@
+
+CODONML in paml version 4.9f, October 2017
+
+----------------------------------------------
+Phe F TTT | Ser S TCT | Tyr Y TAT | Cys C TGT
+      TTC |       TCC |       TAC |       TGC
+Leu L TTA |       TCA | *** * TAA | *** * TGA
+      TTG |       TCG |       TAG | Trp W TGG
+----------------------------------------------
+Leu L CTT | Pro P CCT | His H CAT | Arg R CGT
+      CTC |       CCC |       CAC |       CGC
+      CTA |       CCA | Gln Q CAA |       CGA
+      CTG |       CCG |       CAG |       CGG
+----------------------------------------------
+Ile I ATT | Thr T ACT | Asn N AAT | Ser S AGT
+      ATC |       ACC |       AAC |       AGC
+      ATA |       ACA | Lys K AAA | Arg R AGA
+Met M ATG |       ACG |       AAG |       AGG
+----------------------------------------------
+Val V GTT | Ala A GCT | Asp D GAT | Gly G GGT
+      GTC |       GCC |       GAC |       GGC
+      GTA |       GCA | Glu E GAA |       GGA
+      GTG |       GCG |       GAG |       GGG
+----------------------------------------------
+Nice code, uuh?
+
+processing fasta file
+reading seq# 1 Alectura_lathami                                       420 sites
+reading seq# 2 Anas_platyrhynchos                                     420 sites
+reading seq# 3 Anser_cygnoides                                        420 sites
+reading seq# 4 Anseranas_semipalmata                                  420 sites
+reading seq# 5 Callipepla_squamata                                    420 sites
+reading seq# 6 Centrocercus_minimus                                   420 sites
+reading seq# 7 Chrysolophus_pictus                                    420 sites
+reading seq# 8 Colinus_virginianus                                    420 sites
+reading seq# 9 Coturnix_japonica                                      420 sites
+reading seq#10 Gallus_gallus                                          420 sites
+reading seq#11 Lagopus_muta                                           420 sites
+reading seq#12 Meleagris_gallopavo                                    420 sites
+reading seq#13 Numida_meleagris                                       420 sites
+reading seq#14 Odontophorus_gujanensis                                420 sites
+reading seq#15 Pavo_cristatus                                         420 sites
+reading seq#16 Penelope_pileata                                       420 sites
+reading seq#17 Phasianus_colchicus                                    420 sites
+reading seq#18 Syrmaticus_mikado                                      420 sites
+reading seq#19 Tympanuchus_cupido                                     420 sitesns = 19  	ls = 420
+Reading sequences, sequential format..
+Reading seq # 1: Alectura_lathami       Reading seq # 2: Anas_platyrhynchos       Reading seq # 3: Anser_cygnoides       Reading seq # 4: Anseranas_semipalmata       Reading seq # 5: Callipepla_squamata       Reading seq # 6: Centrocercus_minimus       Reading seq # 7: Chrysolophus_pictus       Reading seq # 8: Colinus_virginianus       Reading seq # 9: Coturnix_japonica       Reading seq #10: Gallus_gallus       Reading seq #11: Lagopus_muta       Reading seq #12: Meleagris_gallopavo       Reading seq #13: Numida_meleagris       Reading seq #14: Odontophorus_gujanensis       Reading seq #15: Pavo_cristatus       Reading seq #16: Penelope_pileata       Reading seq #17: Phasianus_colchicus       Reading seq #18: Syrmaticus_mikado       Reading seq #19: Tympanuchus_cupido       
+Sequences read..
+Counting site patterns..  0:00
+Compressing,    136 patterns at    140 /    140 sites (100.0%),  0:00
+Collecting fpatt[] & pose[],    136 patterns at    140 /    140 sites (100.0%),  0:00
+15 ambiguous codons are seen in the data:
+ --- NAC NAA NAG CNG NNN TNA TTN TAN NGC TNG NNG NTT CTN NNT
+Counting codons..
+
+     1368 bytes for distance
+   132736 bytes for conP
+140728258684592 bytes for fhK
+  5000000 bytes for space
+
+3 branch types are in tree. Stop if wrong.
+TREE #  1
+((1, (((((8, 5), 14), (9, ((12, ((19, 6), 11)), ((15, 10), ((7, 17), 18))))), 13), 16)), (4, (3, 2)));   MP score: -1
+This is a rooted tree, without clock.  Check.
+
+  1194624 bytes for conP, adjusted
+
+1 node(s) used for scaling (Yang 2000 J Mol Evol 51:423-432):
+ 21
+
+    0.020396    0.040726    0.039467    0.080431    0.089288    0.065030    0.082731    0.044211    0.027397    0.078675    0.033192    0.087543    0.026487    0.057621    0.028753    0.067986    0.054755    0.077780    0.019238    0.046871    0.080427    0.101928    0.012215    0.068153    0.053469    0.053231    0.051139    0.038723    0.062588    0.098833    0.030508    0.071132    0.059712    0.041941    0.027714    0.024648    0.418277    0.571680    0.592577
+
+ntime & nrate & np:    36     3    39
+
+Bounds (np=39):
+   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000004   0.000100   0.000100   0.000100
+  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000  50.000000 999.000000 999.000000 999.000000
+
+np =    39
+lnL0 = -2510.348880
+
+Iterating by ming2
+Initial: fx=  2510.348880
+x=  0.02040  0.04073  0.03947  0.08043  0.08929  0.06503  0.08273  0.04421  0.02740  0.07868  0.03319  0.08754  0.02649  0.05762  0.02875  0.06799  0.05475  0.07778  0.01924  0.04687  0.08043  0.10193  0.01221  0.06815  0.05347  0.05323  0.05114  0.03872  0.06259  0.09883  0.03051  0.07113  0.05971  0.04194  0.02771  0.02465  0.41828  0.57168  0.59258
+
+  1 h-m-p  0.0000 0.0005 1396.2152 ++YCCCCC  2411.754267  5 0.0003    55 | 0/39
+  2 h-m-p  0.0000 0.0002 275.2573 ++     2397.745554  m 0.0002    97 | 1/39
+  3 h-m-p  0.0000 0.0001 432.2279 ++     2391.134099  m 0.0001   139 | 2/39
+  4 h-m-p  0.0001 0.0007 117.3390 +YYCCC  2388.423494  4 0.0005   188 | 2/39
+  5 h-m-p  0.0002 0.0011  88.3027 +YCCC  2387.096048  3 0.0006   236 | 2/39
+  6 h-m-p  0.0003 0.0018 154.7347 CCCC   2385.490159  3 0.0005   284 | 2/39
+  7 h-m-p  0.0006 0.0030  68.1739 YCCC   2384.107241  3 0.0011   331 | 2/39
+  8 h-m-p  0.0006 0.0031  47.1780 CCCC   2383.247572  3 0.0011   379 | 2/39
+  9 h-m-p  0.0009 0.0049  57.6851 YCCC   2381.640621  3 0.0020   426 | 2/39
+ 10 h-m-p  0.0005 0.0025 100.6579 YCCCC  2379.930035  4 0.0012   475 | 2/39
+ 11 h-m-p  0.0003 0.0013 253.2163 YCC    2378.470394  2 0.0005   520 | 2/39
+ 12 h-m-p  0.0002 0.0011 118.0228 CYCCC  2377.799976  4 0.0004   569 | 2/39
+ 13 h-m-p  0.0003 0.0015  51.4574 CCCC   2377.507616  3 0.0005   617 | 2/39
+ 14 h-m-p  0.0008 0.0039  32.0150 YYC    2377.336624  2 0.0006   661 | 2/39
+ 15 h-m-p  0.0006 0.0052  30.1672 CCC    2377.146474  2 0.0009   707 | 2/39
+ 16 h-m-p  0.0009 0.0117  28.5343 YC     2377.021804  1 0.0007   750 | 2/39
+ 17 h-m-p  0.0018 0.0336  11.4452 CCC    2376.886410  2 0.0025   796 | 2/39
+ 18 h-m-p  0.0009 0.0121  33.3426 +YCCC  2376.529400  3 0.0023   844 | 2/39
+ 19 h-m-p  0.0010 0.0051  64.6561 YCC    2376.348653  2 0.0007   889 | 2/39
+ 20 h-m-p  0.0026 0.0147  16.5742 CC     2376.294430  1 0.0009   933 | 2/39
+ 21 h-m-p  0.0029 0.0469   4.9615 YC     2376.267973  1 0.0016   976 | 2/39
+ 22 h-m-p  0.0020 0.0325   4.0496 C      2376.227218  0 0.0020  1018 | 2/39
+ 23 h-m-p  0.0018 0.0301   4.4818 YC     2376.006906  1 0.0042  1061 | 2/39
+ 24 h-m-p  0.0013 0.0169  14.1630 YC     2375.117867  1 0.0033  1104 | 2/39
+ 25 h-m-p  0.0009 0.0043  26.6738 CCC    2374.750865  2 0.0009  1150 | 2/39
+ 26 h-m-p  0.0018 0.0131  13.0012 YCC    2374.637234  2 0.0011  1195 | 2/39
+ 27 h-m-p  0.0015 0.0220   9.4015 CC     2374.507725  1 0.0023  1239 | 2/39
+ 28 h-m-p  0.0013 0.0167  16.8878 YCC    2374.295527  2 0.0025  1284 | 2/39
+ 29 h-m-p  0.0028 0.0159  14.9783 CC     2374.242213  1 0.0009  1328 | 2/39
+ 30 h-m-p  0.0036 0.0573   3.8000 C      2374.235163  0 0.0009  1370 | 2/39
+ 31 h-m-p  0.0029 0.2186   1.1939 CC     2374.226494  1 0.0034  1414 | 2/39
+ 32 h-m-p  0.0034 0.2169   1.2148 +CC    2374.117022  1 0.0138  1459 | 2/39
+ 33 h-m-p  0.0019 0.0591   8.6266 +CCC   2373.070864  2 0.0101  1506 | 2/39
+ 34 h-m-p  0.0017 0.0116  50.3080 CCC    2372.256783  2 0.0014  1552 | 2/39
+ 35 h-m-p  0.0065 0.0323   4.4728 YC     2372.247062  1 0.0009  1595 | 2/39
+ 36 h-m-p  0.0069 0.1809   0.5840 CC     2372.238645  1 0.0058  1639 | 2/39
+ 37 h-m-p  0.0021 0.3826   1.6087 ++YCC  2371.975775  2 0.0228  1723 | 2/39
+ 38 h-m-p  0.0009 0.0227  38.7970 +CCCC  2370.491410  3 0.0045  1772 | 2/39
+ 39 h-m-p  0.0042 0.0210   8.8547 CC     2370.461999  1 0.0009  1816 | 2/39
+ 40 h-m-p  0.0116 0.3334   0.6626 YC     2370.460404  1 0.0023  1859 | 2/39
+ 41 h-m-p  0.0131 0.9691   0.1158 ++CCCC  2369.881052  3 0.3588  1946 | 2/39
+ 42 h-m-p  0.6744 8.0000   0.0616 CC     2369.742669  1 0.9117  2027 | 2/39
+ 43 h-m-p  0.8620 8.0000   0.0652 C      2369.683259  0 0.8662  2106 | 2/39
+ 44 h-m-p  1.6000 8.0000   0.0341 YCC    2369.648364  2 1.2426  2188 | 2/39
+ 45 h-m-p  1.6000 8.0000   0.0036 YC     2369.646142  1 1.0434  2268 | 2/39
+ 46 h-m-p  1.6000 8.0000   0.0023 CC     2369.645398  1 1.9717  2349 | 2/39
+ 47 h-m-p  1.6000 8.0000   0.0005 YC     2369.645237  1 1.0911  2429 | 2/39
+ 48 h-m-p  1.2254 8.0000   0.0005 C      2369.645221  0 1.0247  2508 | 2/39
+ 49 h-m-p  1.6000 8.0000   0.0002 Y      2369.645219  0 1.1868  2587 | 2/39
+ 50 h-m-p  1.6000 8.0000   0.0000 Y      2369.645219  0 1.0327  2666 | 2/39
+ 51 h-m-p  1.6000 8.0000   0.0000 Y      2369.645219  0 0.7782  2745 | 2/39
+ 52 h-m-p  1.6000 8.0000   0.0000 C      2369.645219  0 0.4000  2824 | 2/39
+ 53 h-m-p  0.2826 8.0000   0.0000 -------C  2369.645219  0 0.0000  2910
+Out..
+lnL  = -2369.645219
+2911 lfun, 8733 eigenQcodon, 104796 P(t)
+end of tree file.
+
+Time used:  0:46
