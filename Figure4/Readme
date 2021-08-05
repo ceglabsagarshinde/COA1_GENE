@@ -2,16 +2,16 @@
 
 #!/bin/bash
 ##Downloaded the genomic raw-reads from European Nucleotide Archive
-## for database creation and did blastn
+## for database creation and blastn
 zcat *.gz|sed -n '1~4s/^@/>/p;2~4p' > $i
 j="species_name"
 makeblastdb -in $i -out $i -dbtype nucl
-##Ran the blastn using query sequence from NCBI  
+##Ran blastn using query sequence from NCBI  
 ##query sequence 
 q="query_sequence"
 blastn -task blastn -evalue 0.01 -db $i -out blastn_"$j"_DNA_"$i"_COA1."$q".sam -num_threads 2 -outfmt 17 SQ  -query $q
 
-##we converted the sam files into sorted bamfiles using samtools.
+##The sam files were converted into sorted bamfiles using samtools.
 for i in *sam;
 do;
 samtools view -bhS $i > $i.bam;
@@ -19,8 +19,8 @@ samtools sort $i.bam -o $i.sorted.bam;
 samtools index $i.sorted.bam;
 done
 
-##Then, we loaded the sorted bam file in igv, save a image for Figure6 A-F 
-##Single bam file for each species stored in the folder which was used for plotting Figure6 A-F
+##Sorted bam files were visualized in igv. The generated images are represented in Figure6 A-F 
+##Directories with name A-F contains bam files associated with Mammoth's COA1 gene sequence generated from different BioSample IDs from NCBI/ENA. The associated figures are Figure6 A-F
 
 ##Figure 6G
 ## the input is the database fasta file. The *_counts output file of the last step is used for generating the plot.
@@ -30,13 +30,12 @@ jellyfish dump "$i"_jell > "$i"_jell_counts_dumps.fa
 seqkit fx2tab --name --gc "$i"_jell_counts_dumps.fa > "$i"_jell_gc_counts.txt
 paste "$i"_jell_counts_dumps.fa "$i"_jell_gc_counts.txt|awk '{printf "%.0f %.2f\n", $2,$3}'|awk '{a[$2] += $1} END{for (i in a) print i, a[i]}' > "$i"_jell_gc_counts
 
-## for calculating the GC percent. We ran the calculated the GC content along the exons of the fasts file in 100 sliding window with step size of 10 base pairs using the script downloaded from https://github.com/DamienFr/GC_content_in_sliding_window.git
+## We calculated the GC content along the exons of the fasta file in 100bp sliding window with step size of 10 base pairs using the script downloaded from https://github.com/DamienFr/GC_content_in_sliding_window.git
 perl GC_content.pl -fasta inputfasta.file -window 100 -step 10
 
 sed 's/^\t//g' mammoth_coa1_gc_content.txt |grep "^EXON"|sort |awk '{print $1"\t"$3}' > table1coa1.txt
 sed 's/^\t//g' mammoth_timm21_gc_content.txt |grep "^exon"|sort |awk '{print $1"\t"$3}' > table1timm21.txt
 
 
-## plotting the figure
+## plotting the figure using the script provided
 Rscript script.r
-
