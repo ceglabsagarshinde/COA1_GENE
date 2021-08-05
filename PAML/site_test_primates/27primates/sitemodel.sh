@@ -1,4 +1,4 @@
-guidance=/home/nagarjun/guidance.v2.02/www/Guidance/guidance.pl #change this according to your path
+guidance=/home/to/guidance.pl #change this according to your path
 seqfile=$1 #change this according to your file name
 ##we have already kept demo.ctl in the folder
 perl $guidance --program GUIDANCE --seqFile "$seqfile" --msaProgram PRANK --seqType codon --outDir "$seqfile".100_PRANK --genCode 1 --bootstraps 100 --proc_num 4
