@@ -2,6 +2,8 @@
 For relax test on Pseudogenized copy of COA1 gene in different groups, we labelled one pseudogenized species as foreground and functional species as background.
 for the groups of COA1 gene duplicate species associated folders with respective script (duplicate_relax.sh).
 All pseudogenized groups of COA1 gene mentined below with their folders and subfolders, each of them contains  code for relax test (pseudo_script.sh).
+
+
 Birds/pseudogene/
 Carnivore/Feliform/psedogene
 Rodents_unsaturated/rodent_group1
