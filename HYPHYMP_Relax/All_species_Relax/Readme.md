@@ -5,7 +5,6 @@ All pseudogenized groups of COA1 gene mentined below with their folders and subf
 
 
 Birds/pseudogene/
-
 Carnivore/Feliform/psedogene
 
 Rodents_unsaturated/rodent_group1
