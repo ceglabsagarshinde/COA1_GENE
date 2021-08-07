@@ -1,11 +1,6 @@
- 
-
-##phastBias
+## phastBias
 ##for gBGC analysis, we made groupwise folders. Each folder contains (*.aln ) and tree (*.nwk)
 ##Script is provided in each folder (phast.sh)
-
-
-
 ##phastBias
 tree=`ls *nwk`
 i=*aln
