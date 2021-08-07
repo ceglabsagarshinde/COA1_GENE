@@ -3,5 +3,5 @@ Different folders were represented by species labeled as foreground and five spe
 In Node_results folder, we analyzed the different nodes of Galliformes used as foreground and Galliformes and Anseriformes species as background.
 In pseudogenic_species folder, we labeled four species as foreground, which became pseudogenized due to the common event of 13 bp deletion in COA1 and five Anseriformes species as background.
 Each folder contains a tree file downloaded from TimeTree(*nwk), alignment file (*aln), config file (*config), and result file. 
-Code is provided  (Galliform_relax.sh)	 
+Code is provided  (Galliform_relax.sh).	 
   
