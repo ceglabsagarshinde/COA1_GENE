@@ -1,8 +1,10 @@
 # Relax test for galliformes
 Different folders represent by name of species which is labelled foreground and five species of anseriforms as background.
-each folder contains 
+each folder contains tree file downloaded from TimeTree, alignment file, config file 
 
 
+
+Galliform_relax.sh
 
 
 ##########################################################################
