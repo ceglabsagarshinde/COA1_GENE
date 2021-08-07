@@ -5,10 +5,15 @@ All pseudogenized groups of COA1 gene mentined below with their folders and subf
 
 
 Birds/pseudogene/
+
 Carnivore/Feliform/psedogene
+
 Rodents_unsaturated/rodent_group1
+
 Rodents_unsaturated/rodent_group2      
+
 Rodents_unsaturated/rodent_group3
+
 Rodents_saturated/ 
 
 For relax test on a functional copy of the COA1 gene in different groups, we labeled one species as foreground and the remaining functional species as background.
