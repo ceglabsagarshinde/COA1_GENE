@@ -29,7 +29,7 @@ sed -i "s/$i/$i{fg}/g" $i.nwk
 done 
 
 
-#making the HYPHYMP config file for relax
+#making the HYPHYMP config file for relax test
 for i in  `cat  birds_pseudogene.txt`
 do
 seq="$i".seq
@@ -37,7 +37,7 @@ tree="$i".nwk
 echo -ne  "1\n7\n1\n"$PWD"/$seq\n"$PWD"/"$tree"\n2\n2" > "$i"_tree.config
 done
 
-##Running the relax using  HYPHYMP
+##Running the HYPHYMP for relax test
 for i in *config
 do
 HYPHYMP  <  $i > $i.out
