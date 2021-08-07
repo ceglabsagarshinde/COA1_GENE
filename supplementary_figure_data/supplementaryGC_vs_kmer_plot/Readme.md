@@ -1,2 +1,2 @@
 ## GC Vs. kmer plot 
-The script.sh is used to plot the GC Vs. kmer abundance for different species.
+The plotting_script.r is used to plot the GC Vs. kmer abundance for different species. The input files and result figure is provided in this folder.
