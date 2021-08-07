@@ -1,3 +1,0 @@
-##Branch free model from PAML was used with codon frequency models F1x4 and F3x4.
-##Each folder contains the associated alignment file (either *.aln or MSa.PRANK.aln.With.Names), labelled newick tree file (*.nwk), and the control files (*.ctl) to run the model.
-
