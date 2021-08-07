@@ -3,7 +3,7 @@ do
 sed -e '/^>/s/$/@/' -e 's/^>/#/' $i | tr -d '\n' |sort| tr "#" "\n" | tr "@" "\t"| sed -e 's/^/>/'|sed '1d' -|sed 's/\t/\n/g' > $i.faa
 done
 ############################################# do this when we have list of species having pseudogene and functional gene ##############################################
-## Create the functional and pseudogene species list manually
+## Create the functional and pseudogene species list manually and labelling to forground species make tree
 
 for i in `cat feliform.functional.txt`
 do
@@ -29,7 +29,7 @@ sed -i "s/$i/$i{fg}/g" $i.nwk
 done 
 
 
-
+#making the HYPHYMP config file for relax test
 for i in  `cat  feliform.pseudo.txt`
 do
 seq="$i".seq
@@ -37,13 +37,13 @@ tree="$i".nwk
 echo -ne  "1\n7\n1\n"$PWD"/$seq\n"$PWD"/"$tree"\n2\n2" > "$i"_tree.config
 done
 
-
+##Running the HYPHYMP for relax test
 for i in *config
 do
 HYPHYMP  <  $i > $i.out
 done
 
-
+#taking a output in single file
 for j in `ls -1 *out`
 do
 pval=`grep "^Like" $j|awk '{print $6}'|sed 's/\*\*\.//g'`
