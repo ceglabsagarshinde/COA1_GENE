@@ -1,3 +1,0 @@
-
-##All functional groupwise species of COA1 gene like Afrotheria,  Amphibian_Reptiles, Artiyodactyla, Caniform, Feliform-functional, Chiroptera, perissodactyla, Primates_functional and Rodents_unsaturated-functional_species. 
-##we ran common code for all functional  groups, which will take each species as a foreground label in the *.nwk file and the remaining species as a background.
