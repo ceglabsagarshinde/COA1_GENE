@@ -1,4 +1,8 @@
 ##duplicated and  functional species files
+##duplicate COA1gene list Caniformia_COA1_duplicated.aln.faa
+##functional COA1gene list Caniformia.aln.faa
+
+##making the list of duplicated and fuctional gene species sequence in onefile.
 sed -i '/^>/s/$/2/' Caniformia_COA1_duplicated.aln.faa
 cat Caniformia.aln.faa Caniformia_COA1_duplicated.aln.faa|sed 's/-//g' > Caniformia_all.fa
 
@@ -8,7 +12,7 @@ grep ">" Caniformia_all.fa |grep "2" |sed 's/>//g' > pseudogene.txt
 for i in `cat functional.txt` ; do grep -A1 "\b$i\b" Caniformia_all.fa >> functional.fa; done
 for i in `cat pseudogene.txt` ; do grep -A1 "\b$i\b" Caniformia_all.fa >> pseudogene.fa; done 
 guidance=/home/ceglab5/guidance.v2.02/www/Guidance/guidance.pl
-
+##adding the forground label in tree file
 for i in `cat pseudogene.txt`
 do
 j=`echo $i|sed 's/2//g'`
@@ -18,7 +22,7 @@ sed -e "/$j/,+1d" functional.fa > functional.faa
 cat functional.faa  >> $i.seq
 sed "s/$j/$j\{fg}/g" $tree > $i.nwk
 done 
-
+##running the prank using Guidance with one duplicated and remaining functional sequences of COA1
 for i in *2.seq; do echo $i;sed -i 's/2//g' $i; done
 
 for i in `cat pseudogene.txt`
@@ -27,7 +31,7 @@ perl $guidance --program GUIDANCE --seqFile "$i".seq --msaProgram PRANK --seqTyp
 cp "$i".100_PRANK/MSA.PRANK.aln.With_Names $i.2.seq 
 done
 
-
+###remove and change the file names
 rename 's/2.2.seq/.aln/g' *
 rm *2.seq
 rm -r *PRANK
