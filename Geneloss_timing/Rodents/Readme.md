@@ -1,5 +1,5 @@
 ## Gene loss Rodents
-This folder contains input and output files for rodents as foreground (non-functional gene species) under branch free model using PAML. 
+In each folder and subfolder contains input and output files for rodents as foreground (non-functional gene species) under branch free model using PAML. 
 The aim of this run is to study the effect of different categories of species in combination (i.e. foreground and background species) for saturated and unsaturated groups based on substitution saturation results mentioned in supplemnetary. 
 The folders contain the combinations of foreground and background species as sub-folders in the directory. 
 The script will also require an alignment file and a newick tree (labelled). 
