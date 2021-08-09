@@ -1,1 +1,1 @@
-# COA1_GENE
+# COA1
