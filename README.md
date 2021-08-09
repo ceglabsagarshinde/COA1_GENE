@@ -12,4 +12,12 @@ The code and data provided in this project are part of the below manuscript. The
 
 Data is organised into the following folders:
 1.AlphaFold_model_comparision :
-2.
+2.CLANS_Results 
+3.Figure2
+4.Figure5
+5.Geneloss_timing
+6.HYPHYMP_Relax
+7.PAML
+8.Tree_files_used_main_figure 
+9.gBGC
+10.supplementary_figure_data
