@@ -17,7 +17,7 @@ Data is organised into the following folders:
 
 3.Figure2:
 
-4.Figure5:Each folder inside the figure5 contains ploted using bam file provided inside in different folders. 
+4.Figure5:Each folder inside the Figure5, contains bam files provided inside in different folders. 
 
 5.Geneloss_timing:
 
