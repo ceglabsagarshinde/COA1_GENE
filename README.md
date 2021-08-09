@@ -17,7 +17,7 @@ Data is organised into the following folders:
 
 3.Figure2:
 
-4.Figure5 :The Figure5 folder contains the A to F folders with bam files from different bio-project IDs of woolly mammoth available raw read data from the short read archive. We checked reads support for COA1 gene exon sequences. The output files for the GC Vs. kmer plot are from 7 different project IDs of the woolly mammoth in the G folder. Required input files and script are provided in detail. 
+4.Figure5 :The Figure5 folder contains the A to F folders with bam files for main figure5 from different bio-project IDs of woolly mammoth available raw read data from the short read archive. We checked reads support for COA1 gene exon sequences. The output files for the GC Vs. kmer plot are from 7 different project IDs of the woolly mammoth in the G folder. Required input files and script are provided in detail. 
 
 5.Geneloss_timing:
 
