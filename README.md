@@ -11,3 +11,5 @@ The code and data provided in this project are part of the below manuscript. The
 *Correspondence: nagarjun@iiserb.ac.in
 
 Data is organised into the following folders:
+1.AlphaFold_model_comparision :
+2.
