@@ -13,9 +13,9 @@ The code and data provided in this project are part of the below manuscript. The
 Data is organised into the following folders:
 1.AlphaFold_model_comparision :
 
-2.CLANS_ResultS:
+2.CLANS_Results: The folder CLANS results contains human_COA1.fa, which is used as a input for HHblits, outputs of HHblits and CLANS. The required supplimentary files are provided inside the folder.
 
-3.Figure2:
+3.Figure2: The folder Figure2 have the input files for the main figure 2. In the main figure2 we checked the COA1 haplotypes in six different species.
 
 4.Figure5 :The Figure5 folder contains the A to F folders with bam files for the main figure 5 from different bio-project IDs of woolly mammoth available raw read data from the short read archive. We checked reads support for COA1 gene exon sequences. The output files for the GC Vs. kmer plot are from 7 different project IDs of the woolly mammoth in the G folder. Required input files and script are provided in detail. 
 
