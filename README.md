@@ -19,7 +19,7 @@ Data is organised into the following folders:
 
 4.Figure5 :The Figure5 folder contains the A to F folders with bam files for the main figure 5 from different bio-project IDs of woolly mammoth available raw read data from the short read archive. We checked reads support for COA1 gene exon sequences. The output files for the GC Vs. kmer plot are from 7 different project IDs of the woolly mammoth in the G folder. Required input files and script are provided in detail. 
 
-5.Geneloss_timing:
+5.Geneloss_timing:In this folder, three subfolders are available for a few species of COA1 gene loss, like rodents, galliforms, and feliforms. Using the branch-free model in PAML with different combinations labelings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labeling and unclear names readme provided inside those folders. All required files are provided in each folder.  
 
 6.HYPHYMP_Relax:
 
