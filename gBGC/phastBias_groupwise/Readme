@@ -17,8 +17,8 @@ done
 touch tempB
 for k in `ls -1 *.b`
 do
-paste $k tempB > $i.phast.out
+paste $k tempB > $i._phastout
 mv $i.phast.out tempB
 done
-mv tempB $i.phast.out
+mv tempB $i._phastout
 rm *.b
