@@ -1,3 +1,4 @@
+## Using different input files pvalue value are concatenated into a file eg. here exon1a.txt is shown as an example.
 a<-read.table("exon1a.txt",header=T,fill=NA)
 options(scipen=0,"digits"=2)
 
