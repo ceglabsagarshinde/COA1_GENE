@@ -12,11 +12,11 @@ The code and data provided in this project are part of the below manuscript. The
 
 Data is organised into the following folders:
 
-1.AlphaFold_model_comparision :The folder contains the input and result files of the models compared from AlphaFold website and the modelled structures from MODELLER (COA1). Its subdirectory "for_TIMM21" contains the input and result files of the models compared from AlphaFold website and RCSB PDB website (TIM21).
+1.AlphaFold_model_comparision :The folder contains the input and results from files of the models compared from the AlphaFold website and the modeled structures from MODELLER (COA1). Its subdirectory "for_TIMM21" contains the input and result files of the models compared from the AlphaFold website and RCSB PDB website (TIM21).
 
-2.CLANS_Results: The folder CLANS results contains human_COA1.fa, which is used as a input for HHblits, outputs of HHblits and CLANS. The required supplimentary files are provided inside the folder.
+2.CLANS_Results: The folder CLANS results contain human_COA1.fa, which is used as an input for HHblits, outputs of HHblits, and CLANS. The required supplementary files are provided inside the folder.
 
-3.Figure2: The folder Figure2 have the input files for the main figure 2. In the main figure2 we checked the COA1 haplotypes in six different species. For each species we made the specific folder which contains sorted bam, COA1 gene sequence as reference, index files of sorted bam and reference sequence.
+3.Figure2: The folder Figure2 has the input files for the main figure 2. In the main figure2, we checked the COA1 haplotypes in six different species. We made the specific folder for each species that contains sorted bam, COA1 gene sequence as a reference, index files of sorted bam, and the reference sequence.
 
 4.Figure5 :The Figure5 folder contains the A to F folders with bam files for the main figure 5 from different bio-project IDs of woolly mammoth available raw read data from the short read archive. We checked reads support for COA1 gene exon sequences. The output files for the GC Vs. kmer plot are from 7 different project IDs of the woolly mammoth in the G folder. Required input files and script are provided in detail. 
 
@@ -28,7 +28,7 @@ Data is organised into the following folders:
 
 8.Tree_files_used_main_figure:
 
-9.gBGC:
+9.gBGC:Inside this folder, calculated the GC* for the entire group as well as groups and in gBGC for groupwise. The input files, scripts, and results are provided inside respective folders.    
 
 10.supplementary_figure_data:Inside the 
 
