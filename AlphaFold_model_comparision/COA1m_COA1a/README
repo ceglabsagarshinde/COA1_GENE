@@ -1,0 +1,1 @@
+This directory contains pdb files of COA1 modelled from MODELLER (coa1.B99990001.pdb) and COA1 from ALphaFold (AF-Q9GZY4-F1-model_v1.pdb) and their comparison results downloaded from RCSB PDB(https://www.rcsb.org/alignment). These two models were compared under jFATCAT(rigid) parameter for chain ID A.
