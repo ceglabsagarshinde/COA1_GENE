@@ -11,4 +11,4 @@ The "a","p","m" at the end of COA1 and TIMM21 stands for "AlphaFold","RCSB PDB",
 | TIMM21 AlphaFold | 2.07          | 4.94           |
 
 The RMSD value for COA1 modelled and COA1 AlphaFold comparison is 3.16.
-The RMSD value for TIMM21 from RCSB PDB and TIMM21 from AlphaFold comparison is .
+The RMSD value for TIMM21 from RCSB PDB and TIMM21 from AlphaFold comparison is 2.12.
