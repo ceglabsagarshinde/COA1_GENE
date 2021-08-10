@@ -39,7 +39,7 @@ blastn(2.2.31)
 
 phastBias(1.6)
 
-mapNh(1.3.0)
+mapnh(1.3.0)
 
 HYPHYMP (2.3.14)
 
