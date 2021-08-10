@@ -5,3 +5,10 @@ Another pdb (AF-Q9GZY4-F1-model_v1.pdb) file was downloaded from the AlphaFold w
 These pdb files were compared on the PDB website https://www.rcsb.org/alignment with option Chain ID as A and parameter as jFATCAT (rigid) for both the structures.
 The result files were downloaded and are provided here.
 The "a","p","m" at the end of COA1 and TIMM21 stands for "AlphaFold","RCSB PDB",and "Modelled" respectively, which means from where the respective files are derived from. e.g, COA1a_COA1m means that the pdb file of COA1 is downloaded from AlphaFold website is compared with the pdb of COA1 modelled using MODELLER.
+
+|    RMSD Values   | COA1 modelled | COA1 AplhaFold |
+| ---------------- | ------------- | -------------- |
+| TIMM21 PDB       | 1.26          | 3.05           |
+| TIMM21 AlphaFold | 2.07          | 4.94           |
+
+The RMSD value for COA1 modelled and COA1 AlphaFold comparison is 3.16.
