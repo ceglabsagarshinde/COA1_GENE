@@ -11,6 +11,7 @@ The code and data provided in this project are part of the below manuscript. The
 *Correspondence: nagarjun@iiserb.ac.in
 
 Data is organised into the following folders:
+
 1.AlphaFold_model_comparision :
 
 2.CLANS_Results: The folder CLANS results contains human_COA1.fa, which is used as a input for HHblits, outputs of HHblits and CLANS. The required supplimentary files are provided inside the folder.
