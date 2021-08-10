@@ -42,5 +42,6 @@ BWA(0.7.17-r1188)
 Samtools (1.3)
 jellyfish(2.2.8)
 seqkit (0.10.1)
+PRANK (v.150803)
 
 
