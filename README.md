@@ -30,3 +30,13 @@ Data is organised into the following folders:
 9.gBGC:
 
 10.supplementary_figure_data:
+
+Prerequisites:
+PAML (4.9f)
+blastn(2.2.31)
+phastBias(1.6)
+manNh(1.3.0)
+HYPHYMP (2.3.14)
+DAMBE (7.3.2)
+
+
