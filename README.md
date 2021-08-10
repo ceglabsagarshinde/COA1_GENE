@@ -30,7 +30,7 @@ Data is organised into the following folders:
 
 9.gBGC:
 
-10.supplementary_figure_data:
+10.supplementary_figure_data:Inside the 
 
 Prerequisites:
 
