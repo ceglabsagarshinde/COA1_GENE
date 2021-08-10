@@ -1,0 +1,1 @@
+This directory contains pdb files of TIMM21 from AlphaFold (AF-Q9BVV7-F1-model_v1.pdb renamed as TIM21_AF-Q9BVV7-F1-model_v1.pdb for distinguishing) and COA1 from ALphaFold (AF-Q9GZY4-F1-model_v1.pdb) and their comparison results downloaded from RCSB PDB(https://www.rcsb.org/alignment). These two models were compared under jFATCAT(rigid) parameter for chain ID A.
