@@ -64,5 +64,13 @@ FigTree (1.4.2)
 
 MODELLER(10.0)
 
+jvarkit
+
+CodSeqGen
+
+CLAN
+
+
+
 
 
