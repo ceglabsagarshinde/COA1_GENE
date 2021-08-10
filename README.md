@@ -35,8 +35,10 @@ Prerequisites:
 PAML (4.9f)
 blastn(2.2.31)
 phastBias(1.6)
-manNh(1.3.0)
+mapNh(1.3.0)
 HYPHYMP (2.3.14)
 DAMBE (7.3.2)
+BWA(0.7.17-r1188)
+Samtools (1.3)
 
 
