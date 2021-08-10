@@ -66,7 +66,7 @@ MODELLER(10.0)
 
 jvarkit
 
-CodSeqGen
+CodSeqGen ( https://doi.org/10.1016/j.ygeno.2019.02.002)
 
 CLAN
 
