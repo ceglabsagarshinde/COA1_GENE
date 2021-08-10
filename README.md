@@ -12,7 +12,7 @@ The code and data provided in this project are part of the below manuscript. The
 
 Data is organised into the following folders:
 
-1.AlphaFold_model_comparision :
+1.AlphaFold_model_comparision :The folder contains the input and result files of the models compared from AlphaFold website and the modelled structures from MODELLER (COA1). Its subdirectory "for_TIMM21" contains the input and result files of the models compared from AlphaFold website and RCSB PDB website (TIM21).
 
 2.CLANS_Results: The folder CLANS results contains human_COA1.fa, which is used as a input for HHblits, outputs of HHblits and CLANS. The required supplimentary files are provided inside the folder.
 
