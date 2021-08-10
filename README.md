@@ -61,5 +61,7 @@ STAR (2.7.0d)
 
 FigTree (1.4.2)
 
+MODELLER(10.0)
+
 
 
