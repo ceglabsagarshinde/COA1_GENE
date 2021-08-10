@@ -1,0 +1,327 @@
+##blastn_Gallus_gallus_DNA_GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b_genomic.fna_Gallus_gallus_DDX56.fa.out
+##genome=GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b_genomic.fna
+##query=Gallus_gallus_DDX56.fa 
+
+
+
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b_genomic.fna
+           214 sequences; 1,053,332,251 total letters
+
+
+
+Query= EXON1
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 25279835352
+
+
+Query= EXON2
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 97959322185
+
+
+Query= EXON3
+
+Length=162
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_052532.1 Gallus gallus isolate bGalGal1 chromosome 1, bGalGa...  44.6    0.005
+
+
+
+Query_3  1         CAAGGCGGTGGCGGTGCCGCAGGCGGTGCGGGCGGTGGTGTTGGTGCCCT  50
+0        37870733  ..T..T.C..T.................GT.T...............T..  37870681
+                                         \                           
+                                         |                           
+                                       CAG
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 140092363985
+
+
+Query= EXON4
+
+Length=171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 149572298390
+
+
+Query= EXON5
+
+Length=91
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 66359554317
+
+
+Query= EXON6
+
+Length=245
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 226465053665
+
+
+Query= EXON7
+
+Length=120
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_052538.1 Gallus gallus isolate bGalGal1 chromosome 7, bGalGa...  44.6    0.004
+
+
+
+Query_7  59      GAGGAGGCGGCGCCCACCGCGGGGCGCACAGAGCAGCC  96
+12       143199  ........C.-....T......................  143237
+                                             \         
+                                             |         
+                                            GG
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 95852670095
+
+
+Query= EXON8
+
+Length=117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 92692691960
+
+
+Query= EXON9
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 70572859353
+
+
+Query= EXON10
+
+Length=74
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 48453007914
+
+
+Query= EXON11
+
+Length=90
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 65306228058
+
+
+Query= EXON12
+
+Length=106
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 81106105465
+
+
+Query= EXON13
+
+Length=98
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NW_024096094.1 Gallus gallus isolate bGalGal1 unplaced genomic ...  44.6    0.003
+  NC_052536.1 Gallus gallus isolate bGalGal1 chromosome 5, bGalGa...  42.8    0.010
+
+
+
+Query_13  48        AGACGGCTGCGGCTGCCCCACGGCGGCGCCAAACGCCCGACCGGCCCCAC  97
+203       1809                 ..............C....CC.......C..........  1849
+                                                        \             
+                                                        |             
+                                                       GG
+10        11797265  .......-............T.........                      11797293
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 73732838130
+
+
+Query= EXON14
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  NC_052549.1 Gallus gallus isolate bGalGal1 chromosome 18, bGalG...  42.8    0.007
+
+
+
+Query_14  48       CCGCTCCAAGCGCCGCGCAGCGCCGC  73
+28        5245522  ........G.................  5245497
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 55826291727
+
+
+  Database: GCF_016699485.2_bGalGal1.mat.broiler.GRCg7b_genomic.fna
+    Posted date:  Apr 16, 2021  2:01 PM
+  Number of letters in database: 1,053,332,251
+  Number of sequences in database:  214
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

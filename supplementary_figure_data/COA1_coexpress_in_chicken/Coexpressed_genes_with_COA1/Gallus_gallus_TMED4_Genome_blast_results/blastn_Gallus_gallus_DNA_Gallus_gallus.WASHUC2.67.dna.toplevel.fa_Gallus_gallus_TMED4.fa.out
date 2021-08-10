@@ -1,0 +1,107 @@
+##blastn_Gallus_gallus_DNA_Gallus_gallus.WASHUC2.67.dna.toplevel.fa_Gallus_gallus_TMED4.fa.out
+##genome=Gallus_gallus.WASHUC2.67.dna.toplevel.fa
+##query=Gallus_gallus_TMED4.fa 
+
+
+
+
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Gallus_gallus.WASHUC2.67.dna.toplevel.fa
+           56 sequences; 1,108,483,405 total letters
+
+
+
+Query= EXON1
+
+Length=33
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 7759373643
+
+
+Query= EXON2
+
+Length=126
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 107522732757
+
+
+Query= EXON3
+
+Length=147
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 130800850158
+
+
+Query= EXON4
+
+Length=150
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 134126295501
+
+
+  Database: Gallus_gallus.WASHUC2.67.dna.toplevel.fa
+    Posted date:  Apr 16, 2021  1:04 PM
+  Number of letters in database: 1,108,483,405
+  Number of sequences in database:  56
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

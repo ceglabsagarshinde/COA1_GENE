@@ -1,0 +1,309 @@
+##blastn_Gallus_gallus_DNA_Gallus_gallus.WASHUC2.67.dna.toplevel.fa_Gallus_gallus_DDX56.fa.out
+##genome=Gallus_gallus.WASHUC2.67.dna.toplevel.fa
+##query=Gallus_gallus_DDX56.fa 
+
+
+
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Gallus_gallus.WASHUC2.67.dna.toplevel.fa
+           56 sequences; 1,108,483,405 total letters
+
+
+
+Query= EXON1
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 26603565432
+
+
+Query= EXON2
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 103088805633
+
+
+Query= EXON3
+
+Length=162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 147428076873
+
+
+Query= EXON4
+
+Length=171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 157404412902
+
+
+Query= EXON5
+
+Length=91
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 69834355731
+
+
+Query= EXON6
+
+Length=245
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 238323570875
+
+
+Query= EXON7
+
+Length=120
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  7 dna:chromosome chromosome:WASHUC2:7:1:38384769:1                  44.6    0.004
+
+
+
+Query_7  59     GAGGAGGCGGCGCCCACCGCGGGGCGCACAGAGCAGCC  96
+35       39821  ........C.-....T......................  39859
+                                            \         
+                                            |         
+                                           GG
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 100871842071
+
+
+Query= EXON8
+
+Length=117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 97546396728
+
+
+Query= EXON9
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 74268283079
+
+
+Query= EXON10
+
+Length=74
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 50990164502
+
+
+Query= EXON11
+
+Length=90
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 68725873894
+
+
+Query= EXON12
+
+Length=106
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 85353097137
+
+
+Query= EXON13
+
+Length=98
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 77593728590
+
+
+Query= EXON14
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  18 dna:chromosome chromosome:WASHUC2:18:1:10925261:1                42.8    0.008
+
+
+
+Query_14  48       CCGCTCCAAGCGCCGCGCAGCGCCGC  73
+44        4609721  ........G.................  4609696
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 58749537361
+
+
+  Database: Gallus_gallus.WASHUC2.67.dna.toplevel.fa
+    Posted date:  Apr 16, 2021  1:04 PM
+  Number of letters in database: 1,108,483,405
+  Number of sequences in database:  56
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

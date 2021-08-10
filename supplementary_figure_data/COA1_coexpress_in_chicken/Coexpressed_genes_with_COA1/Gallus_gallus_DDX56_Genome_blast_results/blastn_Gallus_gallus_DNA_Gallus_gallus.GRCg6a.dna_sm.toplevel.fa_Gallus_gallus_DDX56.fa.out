@@ -1,0 +1,340 @@
+##blastn_Gallus_gallus_DNA_Gallus_gallus.GRCg6a.dna_sm.toplevel.fa_Gallus_gallus_DDX56.fa.out
+##genome=Gallus_gallus.GRCg6a.dna_sm.toplevel.fa
+##query=Gallus_gallus_DDX56.fa
+
+
+ 
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Gallus_gallus.GRCg6a.dna_sm.toplevel.fa
+           464 sequences; 1,065,365,425 total letters
+
+
+
+Query= EXON1
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 25568469528
+
+
+Query= EXON2
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 99077733117
+
+
+Query= EXON3
+
+Length=162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 141691811877
+
+
+Query= EXON4
+
+Length=171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 151279979598
+
+
+Query= EXON5
+
+Length=91
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 67117203279
+
+
+Query= EXON6
+
+Length=245
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  8 dna_sm:chromosome chromosome:GRCg6a:8:1:30219446:1 REF            435     1e-120
+
+
+
+Query_6  1       GTGGCGGTGCGCCCGCAGGAGCCGCGGTTGCCGGGCAGCTCTCAGCTGCGGCAGTTGGTG  60
+10       166645  ............................................................  166704
+
+Query_6  61      GTGCGCTGCGAGGAGGAGGAGGACAAATTCCTGCTGCTGTACGCCGTGCTGAAGCTGGCG  120
+10       166705  ............................................................  166764
+
+Query_6  121     CTGCTGCGGGGCCGGGCGCTGCTCTTCGTCAGCAGCCTCAGCCGCTGCTACCGCCTCAAA  180
+10       166765  ............................................................  166825
+                                 \                                           
+                                 |                                           
+                                 C
+
+Query_6  181     CTCTTCCTGGAGCAGTTTGGGATCCCCGCCTGCGCCCTCAATTCCGAGCTGCCCGCGCGC  240
+10       166826  ............................................................  166885
+
+Query_6  241     TCCCG  245
+10       166886  .....  166890
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 229050573575
+
+
+Query= EXON7
+
+Length=120
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  8 dna_sm:chromosome chromosome:GRCg6a:8:1:30219446:1 REF            217     3e-55
+  7 dna_sm:chromosome chromosome:GRCg6a:7:1:36742308:1 REF            44.6    0.004
+
+
+
+Query_7  1       GTGCCACGTCATCACGCAGTTCAACCGCGGGCTCTACGATTATATCGTGGCCACTGATGA  60
+10       168541  ............................................................  168600
+9        89820                                                             ..  89821
+
+Query_7  61      GGAGGCGGCGCCCACCGCGGGGCGCACAGAGCAGCCGCAGCGCGGGAGGAGGAAGGGGGG  120
+10       168601  ............................................................  168660
+9        89822   ......C.-....T......................                          89858
+                                           \                                 
+                                           |                                 
+                                          GG
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 96947029179
+
+
+Query= EXON8
+
+Length=117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 93750973272
+
+
+Query= EXON9
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 71378613011
+
+
+Query= EXON10
+
+Length=74
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 49006211918
+
+
+Query= EXON11
+
+Length=90
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 66051850846
+
+
+Query= EXON12
+
+Length=106
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 82032101613
+
+
+Query= EXON13
+
+Length=98
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  5 dna_sm:chromosome chromosome:GRCg6a:5:1:59809098:1 REF            42.8    0.010
+
+
+
+Query_13  48        AGACGGCTGCGGCTGCCCCACGGCGGCGCC  77
+7         12387768  .......-............T.........  12387796
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 74574670310
+
+
+Query= EXON14
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  18 dna_sm:chromosome chromosome:GRCg6a:18:1:11373140:1 REF          42.8    0.008
+
+
+
+Query_14  48       CCGCTCCAAGCGCCGCGCAGCGCCGC  73
+20        4620286  ........G.................  4620261
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 56463678949
+
+
+  Database: Gallus_gallus.GRCg6a.dna_sm.toplevel.fa
+    Posted date:  Dec 18, 2020  4:52 PM
+  Number of letters in database: 1,065,365,425
+  Number of sequences in database:  464
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

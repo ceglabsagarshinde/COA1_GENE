@@ -1,0 +1,144 @@
+##blastn_Gallus_gallus_DNA_Gallus_gallus.Galgal4.dna_sm.toplevel.fa_Gallus_gallus_TMED4.fa.out
+##genome=Gallus_gallus.Galgal4.dna_sm.toplevel.fa
+##query=Gallus_gallus_TMED4.fa 
+
+
+
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Gallus_gallus.Galgal4.dna_sm.toplevel.fa
+           15,932 sequences; 1,046,932,099 total letters
+
+
+
+Query= EXON1
+
+Length=33
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN03019241.1 dna_sm:scaffold scaffold:Galgal4:AADN03019241.1:...  60.8    4e-09
+
+
+
+Query_1  1    ATGCACGTGGAAGTGAAGGACCCCGATGGCAAA  33
+5634     493  .................................  525
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 8372270392
+
+
+Query= EXON2
+
+Length=126
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN03019241.1 dna_sm:scaffold scaffold:Galgal4:AADN03019241.1:...  228     2e-58
+
+
+
+Query_2  1    GTGGTGCTGTCGAGGCAGTACGGCTCCGAGGGCCGCTTCACCTTCACATCGCACACGCCG  60
+5634     621  ............................................................  680
+
+Query_2  61   GGCGAGCACCAGATCTGCCTGCACTCCAATTCCACCCGCATGGCTCTGTTTGCTGGAGGC  120
+5634     681  ............................................................  740
+
+Query_2  121  AAACTG  126
+5634     741  ......  746
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 101507596887
+
+
+Query= EXON3
+
+Length=147
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN03019241.1 dna_sm:scaffold scaffold:Galgal4:AADN03019241.1:...  266     8e-70
+
+
+
+Query_3  1    AGGGTCCATCTGGACATCCAGGTGGGCGAACACACCAACAATTACCCCGAGATCGCAGCG  60
+5634     814  ............................................................  873
+
+Query_3  61   AAGGACAAACTGACGGAGCTGCAGCTGCGCGCCCGCCAACTGCTGGACCAGGTGGAGCAG  120
+5634     874  ............................................................  933
+
+Query_3  121  ATCCAGAAGGAGCAGAACTACCAACGG  147
+5634     934  ...........................  960
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 123483468378
+
+
+Query= EXON4
+
+Length=150
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN03019241.1 dna_sm:scaffold scaffold:Galgal4:AADN03019241.1:...  271     2e-71
+
+
+
+Query_4  1     TACCGGGAGGAGCGGTTCCGGATGACGAGTGAGAGCACCAACCAACGCGTGCTGTGGTGG  60
+5634     1068  ............................................................  1127
+
+Query_4  61    TCCATCGCTCAGACCGTCATCCTCATCCTCACCGGCATCTGGCAGATGAGGCACCTCAAG  120
+5634     1128  ............................................................  1187
+
+Query_4  121   AGCTTCTTCGAGGCCAAGAAGTTGGTGTGA  150
+5634     1188  ..............................  1217
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 126622878591
+
+
+  Database: Gallus_gallus.Galgal4.dna_sm.toplevel.fa
+    Posted date:  Apr 16, 2021  1:02 PM
+  Number of letters in database: 1,046,932,099
+  Number of sequences in database:  15,932
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

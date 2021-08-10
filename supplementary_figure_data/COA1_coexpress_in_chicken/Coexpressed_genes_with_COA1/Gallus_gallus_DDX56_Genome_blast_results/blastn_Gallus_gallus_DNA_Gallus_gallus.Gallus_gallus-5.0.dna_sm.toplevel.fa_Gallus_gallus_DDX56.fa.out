@@ -1,0 +1,457 @@
+##blastn_Gallus_gallus_DNA_Gallus_gallus.Gallus_gallus-5.0.dna_sm.toplevel.fa_Gallus_gallus_DDX56.fa.out
+##genome=Gallus_gallus.Gallus_gallus-5.0.dna_sm.toplevel.fa
+##query=Gallus_gallus_DDX56.fa 
+
+
+
+
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Gallus_gallus.Gallus_gallus-5.0.dna_sm.toplevel.fa
+           23,475 sequences; 1,230,258,557 total letters
+
+
+
+Query= EXON1
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 29510993568
+
+
+Query= EXON2
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 114350733726
+
+
+Query= EXON3
+
+Length=162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 163533845006
+
+
+Query= EXON4
+
+Length=171
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  309     1e-82
+
+
+
+Query_4  1    GCCGGTGCTGATGGAGAAGCCGGACGTGGTGGTGGGAACGCCGGGCCGGGTGTTGGCACA  60
+6020     2    ............................................................  61
+
+Query_4  61   CCTCAACGCCCGCAGCGTGGTGCTGAGGCACACGTTGGAGCTGCTGGTGCTGGATGAGGC  120
+6020     62   ............................................................  121
+
+Query_4  121  CGACCTGCTGCTGTCCTTCGGCTTTGGGGAGGATCTGAAGGCCCTGCTGTG  171
+6020     122  ...................................................  172
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 174600045044
+
+
+Query= EXON5
+
+Length=91
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  158     2e-37
+
+
+
+Query_5  1    CCACCTCCCCAAAATCTACCAAGCGCTGCTCATGTCGGCCACCTTCAACCCCGACGTGGA  60
+5584     831  ............................................................  891
+                        \                                                 
+                        |                                                 
+                        C
+
+Query_5  61   GGCCCTGCAGGAGTTGGTGCTGCACAACCCG  91
+5584     892  ...............................  922
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 77464879191
+
+
+Query= EXON6
+
+Length=245
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  443     1e-122
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  434     6e-120
+
+
+
+Query_6  1     GTGGCGGTGCGCCCGCAGGAGCCGCGGTTGCCGGGCAGCTCTCAGCTGCGGCAGTTGGTG  60
+6020     4209  ............................................................  4268
+5584     3678  ............................................................  3737
+
+Query_6  61    GTGCGCTGCGAGGAGGAGGAGGACAAATTCCTGCTGCTGTACGCCGTGCTGAAGCTGGCG  120
+6020     4269  ............................................................  4328
+5584     3738  ............................................................  3797
+
+Query_6  121   CTGCTGCGGGGCCGGGCGCTGCTCTTCGTCAGCAGCCTCAGCCGCTGCTACCGCCTCAAA  180
+6020     4329  ............................................................  4388
+5584     3798  ............................................................  3859
+                      \                                                    
+                      |                                                    
+                     GG
+
+Query_6  181   CTCTTCCTGGAGCAGTTTGGGATCCCCGCCTGCGCCCTCAATTCCGAGCTGCCCGCGCGC  240
+6020     4389  ............................................................  4448
+5584     3860  ............................................................  3919
+
+Query_6  241   TCCCG  245
+6020     4449  .....  4453
+5584     3920  .....  3924
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 264354176005
+
+
+Query= EXON7
+
+Length=120
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  208     2e-52
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  206     6e-52
+  7 dna_sm:chromosome chromosome:Gallus_gallus-5.0:7:1:36946936:1...  44.6    0.004
+
+
+
+Query_7  1      GTGCCACGTCATCACGCAGTTCAACCGCGGGCTCTACGATTATATCGTGGCCACTGATGA  60
+5584     5575   ...............................................-............  5633
+6020     6098   ............................................................  6157
+6        55785                                                            ..  55786
+
+Query_7  61     GGAGGCGGCGCCCACCGCGGGGCGCACAGAGCAGCCGCAGCGCGGGAGGAGGAAGGGGGG  120
+5584     5634   ............................................................  5693
+6020     6158   ..................-........................................   6215
+6        55787  ......C.-....T......................                          55823
+                                          \                                 
+                                          |                                 
+                                         GG
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 111891578162
+
+
+Query= EXON8
+
+Length=117
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  201     2e-50
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  197     3e-49
+
+
+
+Query_8  1     TAAAGGCTCTGACCCCGAATACAGCGTGGCGCGGGGCATCGACTTCCAGAACGTGGCCAC  60
+6020     7004  .......G....................................................  7064
+                                                   \                       
+                                                   |                       
+                                                   G
+5584     6451  ............................................................  6511
+                                                                          \
+                                                                          |
+                                                                          C
+
+Query_8  61    CGTCATCAACTTCGACGTGCCGGCAACGGTGGAGTCGTACATCCACCGCGTGGGGAG  117
+6020     7065  .........................................................  7121
+5584     6512  ..........................-..............................  6567
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 108202844816
+
+
+Query= EXON9
+
+Length=95
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  172     9e-42
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  172     9e-42
+
+
+
+Query_9  1     GACGGCACGAGCGGACAACCCCGGCACGGCGCTCACCTTCGTGCTGCCCGAGGAGCGCGA  60
+6020     7213  ............................................................  7272
+5584     6659  ............................................................  6718
+
+Query_9  61    GCAGCTGGCGCGGATTGAGGACGTGTTGGCAGGAG  95
+6020     7273  ...................................  7307
+5584     6719  ...................................  6753
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 81152133612
+
+
+Query= EXON10
+
+Length=74
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  134     2e-30
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  134     2e-30
+
+
+
+Query_10  1     AGAATGGGGAGTCCATGCTGCAGCCCTACAAGTTCTGCATGGAGGAGATCGAAGCGCTGC  60
+6020      7419  ............................................................  7478
+5584      6863  ............................................................  6922
+
+Query_10  61    GCTACCGCTGCCGG  74
+6020      7479  ..............  7492
+5584      6923  ..............  6936
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 56561657822
+
+
+Query= EXON11
+
+Length=90
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  163     4e-39
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  150     3e-35
+
+
+
+Query_11  1     GACGCCATGCGCTCCGTCACCAAGCAGGCAGTGAAGGAAGCGCGGCTGAGGGAGATCAAA  60
+5584      7037  ............................................................  7096
+6020      7595  ............................................................  7656
+                                                 \                  \       
+                                                 |                  |       
+                                                 G                  G
+
+Query_11  61    GAGGAGCTGCTCAACTCGGAGAAGCTGAAG  90
+5584      7097  ..............................  7126
+6020      7657  ..............................  7686
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 76235277934
+
+
+Query= EXON12
+
+Length=106
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  192     1e-47
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  192     1e-47
+
+
+
+Query_12  1     ACGTACTTTGAGGACAACCCCCGCGATCTGCACGTGCTGCGCCACGACAAAGCGCTGCAC  60
+6020      9210  ............................................................  9269
+5584      8573  ............................................................  8632
+
+Query_12  61    GCCGCCATCGTCAAACCCCACCTGCGCAATGTGCCCGACTACCTGG  106
+6020      9270  ..............................................  9315
+5584      8633  ..............................................  8678
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 94677489214
+
+
+Query= EXON13
+
+Length=98
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  174     3e-42
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  147     4e-34
+
+
+
+Query_13  1     TGCCGCCCACCCTGCGGGGCATCGCCCACCCGGAGCCGAAGAAGCGCAGACGGCTGCGGC  60
+5584      8805  ............................................................  8864
+6020      9445  ....................................-.......................  9503
+
+Query_13  61    TGCCCCACGGCGGCGCCAAACGCCCGACCGGCCCCA  96
+5584      8865  ....................................  8900
+6020      9504  ............................GC....    9538
+                             \                      
+                             |                      
+                             C
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 84840866958
+
+
+Query= EXON14
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  AADN04006685.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  147     3e-34
+  AADN04007118.1 dna_sm:scaffold scaffold:Gallus_gallus-5.0:AADN0...  89.7    7e-17
+  18 dna_sm:chromosome chromosome:Gallus_gallus-5.0:18:1:11053727...  42.8    0.009
+
+
+
+Query_14  1        TCCCGCCGTGCCGCCAACCCTCTGCGGGGCTTCAAATTCACCGGGCACCGCTCCAAGCGC  60
+5584      9019     ............................................................  9078
+6020      9657     ...........-........-..-..T..........................--.....  9713
+                          \                                                    
+                          |                                                    
+                         CG
+17        4676245                                                 ........G....  4676233
+
+Query_14  61       CGCGCAGCGCCGCCATCCTGA  81
+5584      9079     .....................  9099
+6020      9714     ............-........  9733
+17        4676232  .............          4676220
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 65168866621
+
+
+  Database: Gallus_gallus.Gallus_gallus-5.0.dna_sm.toplevel.fa
+    Posted date:  Apr 16, 2021  2:00 PM
+  Number of letters in database: 1,230,258,557
+  Number of sequences in database:  23,475
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2

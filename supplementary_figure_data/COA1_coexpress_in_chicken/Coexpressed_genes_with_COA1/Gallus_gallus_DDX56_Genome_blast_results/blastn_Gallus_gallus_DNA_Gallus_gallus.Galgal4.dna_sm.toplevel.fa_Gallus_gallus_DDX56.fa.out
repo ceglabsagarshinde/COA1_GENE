@@ -1,0 +1,314 @@
+##blastn_Gallus_gallus_DNA_Gallus_gallus.Galgal4.dna_sm.toplevel.fa_Gallus_gallus_DDX56.fa.out
+##genome=Gallus_gallus.Galgal4.dna_sm.toplevel.fa
+##query=Gallus_gallus_DDX56.fa 
+
+
+
+BLASTN 2.2.31+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: Gallus_gallus.Galgal4.dna_sm.toplevel.fa
+           15,932 sequences; 1,046,932,099 total letters
+
+
+
+Query= EXON1
+
+Length=51
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 25116046440
+
+
+Query= EXON2
+
+Length=122
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 97321716603
+
+
+Query= EXON3
+
+Length=162
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 139180519443
+
+
+Query= EXON4
+
+Length=171
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 148598750082
+
+
+Query= EXON5
+
+Length=91
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 65928618189
+
+
+Query= EXON6
+
+Length=245
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 224987639885
+
+
+Query= EXON7
+
+Length=120
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  7 dna_sm:chromosome chromosome:Galgal4:7:1:36245040:1 REF           44.6    0.004
+
+
+
+Query_7  59     GAGGAGGCGGCGCCCACCGCGGGGCGCACAGAGCAGCC  96
+26       37404  ........C.-....T......................  37442
+                                            \         
+                                            |         
+                                           GG
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 95228776461
+
+
+Query= EXON8
+
+Length=117
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 92089366248
+
+
+Query= EXON9
+
+Length=95
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 70114562201
+
+
+Query= EXON10
+
+Length=74
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 48138356138
+
+
+Query= EXON11
+
+Length=90
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 64882132186
+
+
+Query= EXON12
+
+Length=106
+
+
+***** No hits found *****
+
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 80578195467
+
+
+Query= EXON13
+
+Length=98
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  5 dna_sm:chromosome chromosome:Galgal4:5:1:59580361:1 REF           42.8    0.010
+
+
+
+Query_13  48        AGACGGCTGCGGCTGCCCCACGGCGGCGCC  77
+24        11570736  .......-............T.........  11570764
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 73254020210
+
+
+Query= EXON14
+
+Length=81
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  18 dna_sm:chromosome chromosome:Galgal4:18:1:11219875:1 REF         42.8    0.007
+
+
+
+Query_14  48       CCGCTCCAAGCGCCGCGCAGCGCCGC  73
+9         4593794  ........G.................  4593769
+
+
+Lambda      K        H
+   0.634    0.408    0.912 
+
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+
+Effective search space used: 55463758159
+
+
+  Database: Gallus_gallus.Galgal4.dna_sm.toplevel.fa
+    Posted date:  Apr 16, 2021  1:02 PM
+  Number of letters in database: 1,046,932,099
+  Number of sequences in database:  15,932
+
+
+
+Matrix: blastn matrix 2 -3
+Gap Penalties: Existence: 5, Extension: 2
