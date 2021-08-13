@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/Desktop/sagar_gbgc/phastBias_groupwise/Perissodactyla/`) 
+
+A tree was found in the data file:
+(((Equus_caballus:2.59000000,Equus_przewalskii:2.59000000):5.13000000,Equus_asinus:7.72000000):46.68072903,Ceratotherium_simum_simum:54.40072903)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :546
+Synonymous  sites      :131.2717610229785
+Nonsynonymous  sites   :397.0606692021852
+
+Total tree lengths:
+	E[syn]        : 0.03428607396268347
+	E[non-syn]    : 0.06111331583660852
+	dS            : 0.142606423786364
+	dN            : 0.08403720900847314
+
+
+E[Syn subs/nucleotide site] tree: 
+	((Equus_caballus:5.118112087508163e-22,Equus_przewalskii:0)Node2:0.001886328640090461,Equus_asinus:3.073938119753528e-22,Ceratotherium_simum_simum:0.03239974532259301)
+
+E[Non-syn subs/nucleotide site] tree: 
+	((Equus_caballus:4.270691305785609e-21,Equus_przewalskii:3.843622175245798e-22)Node2:0.002323882699609728,Equus_asinus:0.005034604089342512,Ceratotherium_simum_simum:0.05375482904765628)
+
+dS tree: 
+	((Equus_caballus:2.128781680082965e-21,Equus_przewalskii:0)Node2:0.007845826318343565,Equus_asinus:1.278546277056217e-21,Ceratotherium_simum_simum:0.1347605974680204)
+
+dN tree: 
+	((Equus_caballus:5.87264776852421e-21,Equus_przewalskii:5.285382991725074e-22)Node2:0.00319558206693298,Equus_asinus:0.006923107842195424,Ceratotherium_simum_simum:0.07391851909934473)
+
+Estimating pairwise dN/dS: total of 6 analyses
