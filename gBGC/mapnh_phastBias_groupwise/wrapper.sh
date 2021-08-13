@@ -41,7 +41,7 @@ cd -
 done
 done
 
-#cd ../
+cd ../
 ######################################################
 #collect output mapnh and phastBias
 
