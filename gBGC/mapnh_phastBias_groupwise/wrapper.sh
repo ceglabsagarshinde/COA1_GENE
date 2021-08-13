@@ -26,6 +26,7 @@ cd ../
 for j in `cat list.file`;
 do 
 cd $j ;
+chmod 777 mapnh.sh
 ./mapnh.sh $j;
 cd - ;done
 
@@ -36,6 +37,7 @@ cd $d
 for j in `cat list.rodent`
 do 
 cd $j
+chmod 777 mapnh.sh
 ./mapnh.sh $j
 cd - 
 done
