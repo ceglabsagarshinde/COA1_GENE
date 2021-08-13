@@ -71,6 +71,7 @@ cd ../
 cd output_phastbias_mapnh
 cp ../script.sh ../gBGC.R ../transpose.sh ../ploting.sh . 
 
+chmod 777 script.sh transpose.sh ploting.sh
 
 ##make different groups from 1 big group 
 ./script.sh 10 Amphibian_Reptiles Amphibian_Reptiles.aln.phast.out
