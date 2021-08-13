@@ -3,16 +3,18 @@
 for j in `cat list.file`;
 do 
 cd $j ;
+chmod 777 phast.sh
 ./phast.sh $j;
 cd - ;done
 
 
-for d in Rodents_unsaturated
+for i in Rodents_unsaturated
 do
 cd $i
 for j in `cat list.rodent`
 do 
 cd $j
+chmod 777 phast.sh
 ./phast.sh $j
 cd - 
 done
