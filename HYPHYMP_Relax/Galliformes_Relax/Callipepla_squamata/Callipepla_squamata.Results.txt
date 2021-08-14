@@ -1,0 +1,1 @@
+Callipepla_squamata `Oxyura_jamaicensis,Cygnus_atratus,Anser_cygnoides,Node5,Node3,Aythya_fuligula,Anas_platyrhynchos,Node8` 0.9594 1.04

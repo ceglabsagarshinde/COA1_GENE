@@ -1,0 +1,1 @@
+Coturnix_japonica `Oxyura_jamaicensis,Cygnus_atratus,Anser_cygnoides,Node5,Node3,Aythya_fuligula,Anas_platyrhynchos,Node8` 0.0431 0.23
