@@ -1,0 +1,1 @@
+Tympanuchus_cupido `Oxyura_jamaicensis,Cygnus_atratus,Anser_cygnoides,Node5,Node3,Aythya_fuligula,Anas_platyrhynchos,Node8` 0.0943 0.00
