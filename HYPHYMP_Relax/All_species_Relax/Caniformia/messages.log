@@ -1,0 +1,1129 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/models/codon/MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Already loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Loaded 'libv3/tasks/mpi.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/mpi.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../models/parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'OxdrXguz.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'bllltWHz.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the left root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Loaded 'modules/grid_compute.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/grid_compute.ibf
+Variable 'dFvcPnIj.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'jmMCUIQ_.model_pi' was not initialized prior to being used
+Model jmMCUIQ_.model assigned to Canis_lupus
+Model jmMCUIQ_.model assigned to Vulpes_vulpes
+Model jmMCUIQ_.model assigned to Enhydra_lutris
+Model jmMCUIQ_.model assigned to Lontra_canadensis
+Model jmMCUIQ_.model assigned to Node7
+Model jmMCUIQ_.model assigned to Neovison_vison
+Model jmMCUIQ_.model assigned to Mustela_putorius
+Model jmMCUIQ_.model assigned to Node10
+Model jmMCUIQ_.model assigned to Node6
+Model jmMCUIQ_.model assigned to Callorhinus_ursinus
+Model jmMCUIQ_.model assigned to Zalophus_californianus
+Model jmMCUIQ_.model assigned to Eumetopias_jubatus
+Model jmMCUIQ_.model assigned to Node17
+Model jmMCUIQ_.model assigned to Node15
+Model jmMCUIQ_.model assigned to Odobenus_rosmarus
+Model jmMCUIQ_.model assigned to Node14
+Model jmMCUIQ_.model assigned to Leptonychotes_weddellii
+Model jmMCUIQ_.model assigned to Mirounga_leonina
+Model jmMCUIQ_.model assigned to Node23
+Model jmMCUIQ_.model assigned to Monachus_schauinslandi
+Model jmMCUIQ_.model assigned to Node22
+Model jmMCUIQ_.model assigned to Phoca_vitulina
+Model jmMCUIQ_.model assigned to Node21
+Model jmMCUIQ_.model assigned to Node13
+Model jmMCUIQ_.model assigned to Node5
+Model jmMCUIQ_.model assigned to Ailuropoda_melanoleuca
+Model jmMCUIQ_.model assigned to Ursus_thibetanus
+Model jmMCUIQ_.model assigned to Ursus_americanus
+Model jmMCUIQ_.model assigned to Node31
+Model jmMCUIQ_.model assigned to Ursus_arctos
+Model jmMCUIQ_.model assigned to Ursus_maritimus
+Model jmMCUIQ_.model assigned to Node34
+Model jmMCUIQ_.model assigned to Node30
+Model jmMCUIQ_.model assigned to Node28
+Model jmMCUIQ_.model assigned to Node4
+The tips of the tree:jmMCUIQ_.tree_0 were matched with the species names from the data in the following numeric order (0-based) {2,17,3,6,10,9,1,18,4,11,5,7,8,12,0,16,13,14,15}
+
+Pseudo-optimal path's cost 1963 vs 3791 for 1..k=> a 1.93123 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'jmMCUIQ_.tree_0.Canis_lupus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Canis_lupus.t=37.93374662126396
+Variable 'jmMCUIQ_.tree_0.Vulpes_vulpes.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Vulpes_vulpes.t=37.93374662126396
+Variable 'jmMCUIQ_.tree_0.Enhydra_lutris.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Enhydra_lutris.t=26.97175999817746
+Variable 'jmMCUIQ_.tree_0.Lontra_canadensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Lontra_canadensis.t=26.97175999817746
+Variable 'jmMCUIQ_.tree_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node7.t=19.93186377579532
+Variable 'jmMCUIQ_.tree_0.Neovison_vison.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Neovison_vison.t=22.18369037711853
+Variable 'jmMCUIQ_.tree_0.Mustela_putorius.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Mustela_putorius.t=22.18369037711853
+Variable 'jmMCUIQ_.tree_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node10.t=24.71993339685424
+Variable 'jmMCUIQ_.tree_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node6.t=59.83997309072099
+Variable 'jmMCUIQ_.tree_0.Callorhinus_ursinus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Callorhinus_ursinus.t=25.78518043824065
+Variable 'jmMCUIQ_.tree_0.Zalophus_californianus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Zalophus_californianus.t=15.1579955267344
+Variable 'jmMCUIQ_.tree_0.Eumetopias_jubatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Eumetopias_jubatus.t=15.1579955267344
+Variable 'jmMCUIQ_.tree_0.Node17.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node17.t=10.62718491150626
+Variable 'jmMCUIQ_.tree_0.Node15.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node15.t=26.39744104549517
+Variable 'jmMCUIQ_.tree_0.Odobenus_rosmarus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Odobenus_rosmarus.t=52.18262148373584
+Variable 'jmMCUIQ_.tree_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node14.t=17.46328679153752
+Variable 'jmMCUIQ_.tree_0.Leptonychotes_weddellii.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Leptonychotes_weddellii.t=29.67120224708561
+Variable 'jmMCUIQ_.tree_0.Mirounga_leonina.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Mirounga_leonina.t=29.67120224708561
+Variable 'jmMCUIQ_.tree_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node23.t=6.424712822512667
+Variable 'jmMCUIQ_.tree_0.Monachus_schauinslandi.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Monachus_schauinslandi.t=36.09591506959828
+Variable 'jmMCUIQ_.tree_0.Node22.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node22.t=13.24713133416688
+Variable 'jmMCUIQ_.tree_0.Phoca_vitulina.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Phoca_vitulina.t=49.34304640376516
+Variable 'jmMCUIQ_.tree_0.Node21.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node21.t=20.30286187150819
+Variable 'jmMCUIQ_.tree_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node13.t=37.09768858942041
+Variable 'jmMCUIQ_.tree_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node5.t=0.1790099315073083
+Variable 'jmMCUIQ_.tree_0.Ailuropoda_melanoleuca.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Ailuropoda_melanoleuca.t=62.61669509026267
+Variable 'jmMCUIQ_.tree_0.Ursus_thibetanus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Ursus_thibetanus.t=13.65723338305117
+Variable 'jmMCUIQ_.tree_0.Ursus_americanus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Ursus_americanus.t=13.65723338305117
+Variable 'jmMCUIQ_.tree_0.Node31.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node31.t=3.603495097231212
+Variable 'jmMCUIQ_.tree_0.Ursus_arctos.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Ursus_arctos.t=2.918621810721097
+Variable 'jmMCUIQ_.tree_0.Ursus_maritimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Ursus_maritimus.t=2.918621810721097
+Variable 'jmMCUIQ_.tree_0.Node34.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node34.t=14.34210666956129
+Variable 'jmMCUIQ_.tree_0.Node30.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node30.t=45.35596663678236
+Variable 'jmMCUIQ_.tree_0.Node28.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node28.t=44.30591167913634
+Variable 'jmMCUIQ_.tree_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: jmMCUIQ_.tree_0.Node4.t=15.10279800217365
+Variable 'jmMCUIQ_.jmMCUIQ_.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 3703-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+jmMCUIQ_.model.theta_GT = 0.25
+jmMCUIQ_.model.theta_CT = 1
+jmMCUIQ_.model.theta_CG = 0.25
+jmMCUIQ_.model.theta_AT = 0.25
+jmMCUIQ_.model.theta_AC = 0.25
+jmMCUIQ_.tree_0.Canis_lupus.t = 37.9337
+jmMCUIQ_.tree_0.Vulpes_vulpes.t = 37.9337
+jmMCUIQ_.tree_0.Enhydra_lutris.t = 26.9718
+jmMCUIQ_.tree_0.Lontra_canadensis.t = 26.9718
+jmMCUIQ_.tree_0.Node7.t = 19.9319
+jmMCUIQ_.tree_0.Neovison_vison.t = 22.1837
+jmMCUIQ_.tree_0.Mustela_putorius.t = 22.1837
+jmMCUIQ_.tree_0.Node10.t = 24.7199
+jmMCUIQ_.tree_0.Node6.t = 59.84
+jmMCUIQ_.tree_0.Callorhinus_ursinus.t = 25.7852
+jmMCUIQ_.tree_0.Zalophus_californianus.t = 15.158
+jmMCUIQ_.tree_0.Eumetopias_jubatus.t = 15.158
+jmMCUIQ_.tree_0.Node17.t = 10.6272
+jmMCUIQ_.tree_0.Node15.t = 26.3974
+jmMCUIQ_.tree_0.Odobenus_rosmarus.t = 52.1826
+jmMCUIQ_.tree_0.Node14.t = 17.4633
+jmMCUIQ_.tree_0.Leptonychotes_weddellii.t = 29.6712
+jmMCUIQ_.tree_0.Mirounga_leonina.t = 29.6712
+jmMCUIQ_.tree_0.Node23.t = 6.42471
+jmMCUIQ_.tree_0.Monachus_schauinslandi.t = 36.0959
+jmMCUIQ_.tree_0.Node22.t = 13.2471
+jmMCUIQ_.tree_0.Phoca_vitulina.t = 49.343
+jmMCUIQ_.tree_0.Node21.t = 20.3029
+jmMCUIQ_.tree_0.Node13.t = 37.0977
+jmMCUIQ_.tree_0.Node5.t = 0.17901
+jmMCUIQ_.tree_0.Ailuropoda_melanoleuca.t = 62.6167
+jmMCUIQ_.tree_0.Ursus_thibetanus.t = 13.6572
+jmMCUIQ_.tree_0.Ursus_americanus.t = 13.6572
+jmMCUIQ_.tree_0.Node31.t = 3.6035
+jmMCUIQ_.tree_0.Ursus_arctos.t = 2.91862
+jmMCUIQ_.tree_0.Ursus_maritimus.t = 2.91862
+jmMCUIQ_.tree_0.Node34.t = 14.3421
+jmMCUIQ_.tree_0.Node30.t = 45.356
+jmMCUIQ_.tree_0.Node28.t = 44.3059
+jmMCUIQ_.tree_0.Node4.t = 15.1028
+Site 94 evaluated to a 0 probability in ComputeLLWithBranchCache
+Optimization finished in 29 loop passes.
+4633 likelihood evaluation calls and 36128 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'jmMCUIQ_.option' was not initialized prior to being used
+Variable 'relax.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'R_RCqZZB.initial_value' was not initialized prior to being used
+Variable 'SxZjpPIe.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6329-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.215351
+frequencies._aux.CF3x4.p0_1 = 0.367915
+frequencies._aux.CF3x4.p0_2 = 0.616732
+frequencies._aux.CF3x4.p1_0 = 0.331491
+frequencies._aux.CF3x4.p1_1 = 0.32791
+frequencies._aux.CF3x4.p1_2 = 0.362163
+frequencies._aux.CF3x4.p2_0 = 0.12693
+frequencies._aux.CF3x4.p2_1 = 0.406209
+frequencies._aux.CF3x4.p2_2 = 0.579865
+Optimization finished in 6 loop passes.
+239 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'SxZjpPIe.model_MGREV_pi' was not initialized prior to being used
+Model SxZjpPIe.model_MGREV assigned to Canis_lupus
+Model SxZjpPIe.model_MGREV assigned to Vulpes_vulpes
+Model SxZjpPIe.model_MGREV assigned to Enhydra_lutris
+Model SxZjpPIe.model_MGREV assigned to Lontra_canadensis
+Model SxZjpPIe.model_MGREV assigned to Node7
+Model SxZjpPIe.model_MGREV assigned to Neovison_vison
+Model SxZjpPIe.model_MGREV assigned to Mustela_putorius
+Model SxZjpPIe.model_MGREV assigned to Node10
+Model SxZjpPIe.model_MGREV assigned to Node6
+Model SxZjpPIe.model_MGREV assigned to Callorhinus_ursinus
+Model SxZjpPIe.model_MGREV assigned to Zalophus_californianus
+Model SxZjpPIe.model_MGREV assigned to Eumetopias_jubatus
+Model SxZjpPIe.model_MGREV assigned to Node17
+Model SxZjpPIe.model_MGREV assigned to Node15
+Model SxZjpPIe.model_MGREV assigned to Odobenus_rosmarus
+Model SxZjpPIe.model_MGREV assigned to Node14
+Model SxZjpPIe.model_MGREV assigned to Leptonychotes_weddellii
+Model SxZjpPIe.model_MGREV assigned to Mirounga_leonina
+Model SxZjpPIe.model_MGREV assigned to Node23
+Model SxZjpPIe.model_MGREV assigned to Monachus_schauinslandi
+Model SxZjpPIe.model_MGREV assigned to Node22
+Model SxZjpPIe.model_MGREV assigned to Phoca_vitulina
+Model SxZjpPIe.model_MGREV assigned to Node21
+Model SxZjpPIe.model_MGREV assigned to Node13
+Model SxZjpPIe.model_MGREV assigned to Node5
+Model SxZjpPIe.model_MGREV assigned to Ailuropoda_melanoleuca
+Model SxZjpPIe.model_MGREV assigned to Ursus_thibetanus
+Model SxZjpPIe.model_MGREV assigned to Ursus_americanus
+Model SxZjpPIe.model_MGREV assigned to Node31
+Model SxZjpPIe.model_MGREV assigned to Ursus_arctos
+Model SxZjpPIe.model_MGREV assigned to Ursus_maritimus
+Model SxZjpPIe.model_MGREV assigned to Node34
+Model SxZjpPIe.model_MGREV assigned to Node30
+Model SxZjpPIe.model_MGREV assigned to Node28
+Model SxZjpPIe.model_MGREV assigned to Node4
+The tips of the tree:SxZjpPIe.tree_0 were matched with the species names from the data in the following numeric order (0-based) {2,17,3,6,10,9,1,18,4,11,5,7,8,12,0,16,13,14,15}
+
+Pseudo-optimal path's cost 3362 vs 4226 for 1..k=> a 1.25699 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'SxZjpPIe.SxZjpPIe.likelihoodFunction' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Canis_lupus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Vulpes_vulpes.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Enhydra_lutris.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Lontra_canadensis.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node7.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Neovison_vison.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Mustela_putorius.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node10.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Callorhinus_ursinus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Zalophus_californianus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Eumetopias_jubatus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node17.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node15.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Odobenus_rosmarus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node14.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Leptonychotes_weddellii.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Mirounga_leonina.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node23.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Monachus_schauinslandi.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node22.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Phoca_vitulina.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node21.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node13.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ailuropoda_melanoleuca.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_thibetanus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_americanus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node31.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_arctos.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_maritimus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node34.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node30.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node28.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node4.alpha' was not initialized prior to being used
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 34 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 18 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 106 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 50 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 331-th LF evaluation.
+Initial guess for SxZjpPIe.tree_0.Vulpes_vulpes.alpha is 2.50832e-06
+Initial guess for SxZjpPIe.tree_0.Node4.alpha is 8.06707e-05
+Initial guess for SxZjpPIe.tree_0.Node5.alpha is -1.10134e-05
+Initial guess for SxZjpPIe.tree_0.Node6.alpha is 0.000158787
+Initial guess for SxZjpPIe.tree_0.Node7.alpha is 2.39803e-05
+Initial guess for SxZjpPIe.tree_0.Enhydra_lutris.alpha is 2.0848e-05
+Initial guess for SxZjpPIe.tree_0.Lontra_canadensis.alpha is 2.5158e-05
+Initial guess for SxZjpPIe.tree_0.Node10.alpha is 5.65231e-06
+Initial guess for SxZjpPIe.tree_0.Neovison_vison.alpha is 4.47268e-06
+Initial guess for SxZjpPIe.tree_0.Mustela_putorius.alpha is 1.96587e-05
+Initial guess for SxZjpPIe.tree_0.Node13.alpha is 6.68268e-05
+Initial guess for SxZjpPIe.tree_0.Node14.alpha is 2.47e-06
+Initial guess for SxZjpPIe.tree_0.Node15.alpha is 4.17924e-06
+Initial guess for SxZjpPIe.tree_0.Callorhinus_ursinus.alpha is 1.32643e-05
+Initial guess for SxZjpPIe.tree_0.Node17.alpha is 3.31679e-07
+Initial guess for SxZjpPIe.tree_0.Zalophus_californianus.alpha is 2.96054e-06
+Initial guess for SxZjpPIe.tree_0.Eumetopias_jubatus.alpha is -1.50454e-07
+Initial guess for SxZjpPIe.tree_0.Odobenus_rosmarus.alpha is 3.44266e-06
+Initial guess for SxZjpPIe.tree_0.Node21.alpha is 1.13214e-05
+Initial guess for SxZjpPIe.tree_0.Node22.alpha is 6.638e-05
+Initial guess for SxZjpPIe.tree_0.Node23.alpha is 4.41525e-06
+Initial guess for SxZjpPIe.tree_0.Leptonychotes_weddellii.alpha is 1.21715e-05
+Initial guess for SxZjpPIe.tree_0.Mirounga_leonina.alpha is 7.22269e-06
+Initial guess for SxZjpPIe.tree_0.Monachus_schauinslandi.alpha is 5.94627e-06
+Initial guess for SxZjpPIe.tree_0.Phoca_vitulina.alpha is 7.10768e-06
+Initial guess for SxZjpPIe.tree_0.Node28.alpha is 5.53392e-05
+Initial guess for SxZjpPIe.tree_0.Ailuropoda_melanoleuca.alpha is 1.18486e-05
+Initial guess for SxZjpPIe.tree_0.Node30.alpha is 3.47999e-05
+Initial guess for SxZjpPIe.tree_0.Node31.alpha is 1.44481e-06
+Initial guess for SxZjpPIe.tree_0.Ursus_thibetanus.alpha is 2.77566e-05
+Initial guess for SxZjpPIe.tree_0.Ursus_americanus.alpha is 7.1938e-07
+Initial guess for SxZjpPIe.tree_0.Node34.alpha is 8.43194e-06
+Initial guess for SxZjpPIe.tree_0.Ursus_arctos.alpha is 5.86506e-06
+Initial guess for SxZjpPIe.tree_0.Ursus_maritimus.alpha is -2.78796e-19
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+SxZjpPIe.model_MGREV.theta_CT = 1
+SxZjpPIe.model_MGREV.theta_GT = 1
+SxZjpPIe.model_MGREV.theta_CG = 1
+SxZjpPIe.model_MGREV.theta_AC = 1
+SxZjpPIe.model_MGREV.theta_AT = 1
+SxZjpPIe.model_MGREV.omega_0 = 1
+SxZjpPIe.tree_0.Canis_lupus.alpha = 0.1
+SxZjpPIe.tree_0.Vulpes_vulpes.alpha = 2.50832e-06
+SxZjpPIe.tree_0.Enhydra_lutris.alpha = 2.0848e-05
+SxZjpPIe.tree_0.Lontra_canadensis.alpha = 2.5158e-05
+SxZjpPIe.tree_0.Node7.alpha = 2.39803e-05
+SxZjpPIe.tree_0.Neovison_vison.alpha = 4.47268e-06
+SxZjpPIe.tree_0.Mustela_putorius.alpha = 1.96587e-05
+SxZjpPIe.tree_0.Node10.alpha = 5.65231e-06
+SxZjpPIe.tree_0.Node6.alpha = 0.000158787
+SxZjpPIe.tree_0.Callorhinus_ursinus.alpha = 1.32643e-05
+SxZjpPIe.tree_0.Zalophus_californianus.alpha = 2.96054e-06
+SxZjpPIe.tree_0.Eumetopias_jubatus.alpha = 0
+SxZjpPIe.tree_0.Node17.alpha = 3.31679e-07
+SxZjpPIe.tree_0.Node15.alpha = 4.17924e-06
+SxZjpPIe.tree_0.Odobenus_rosmarus.alpha = 3.44266e-06
+SxZjpPIe.tree_0.Node14.alpha = 2.47e-06
+SxZjpPIe.tree_0.Leptonychotes_weddellii.alpha = 1.21715e-05
+SxZjpPIe.tree_0.Mirounga_leonina.alpha = 7.22269e-06
+SxZjpPIe.tree_0.Node23.alpha = 4.41525e-06
+SxZjpPIe.tree_0.Monachus_schauinslandi.alpha = 5.94627e-06
+SxZjpPIe.tree_0.Node22.alpha = 6.638e-05
+SxZjpPIe.tree_0.Phoca_vitulina.alpha = 7.10768e-06
+SxZjpPIe.tree_0.Node21.alpha = 1.13214e-05
+SxZjpPIe.tree_0.Node13.alpha = 6.68268e-05
+SxZjpPIe.tree_0.Node5.alpha = 0
+SxZjpPIe.tree_0.Ailuropoda_melanoleuca.alpha = 1.18486e-05
+SxZjpPIe.tree_0.Ursus_thibetanus.alpha = 2.77566e-05
+SxZjpPIe.tree_0.Ursus_americanus.alpha = 7.1938e-07
+SxZjpPIe.tree_0.Node31.alpha = 1.44481e-06
+SxZjpPIe.tree_0.Ursus_arctos.alpha = 5.86506e-06
+SxZjpPIe.tree_0.Ursus_maritimus.alpha = 0
+SxZjpPIe.tree_0.Node34.alpha = 8.43194e-06
+SxZjpPIe.tree_0.Node30.alpha = 3.47999e-05
+SxZjpPIe.tree_0.Node28.alpha = 5.53392e-05
+SxZjpPIe.tree_0.Node4.alpha = 8.06707e-05
+SxZjpPIe.model_MGREV.omega_1 = 1
+Failing bound checks on SxZjpPIe.tree_0.Phoca_vitulina.beta =         10019.39810103675
+Optimization finished in 29 loop passes.
+6413 likelihood evaluation calls and 44848 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 5952-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.215351
+frequencies._aux.CF3x4.p0_1 = 0.367915
+frequencies._aux.CF3x4.p0_2 = 0.616732
+frequencies._aux.CF3x4.p1_0 = 0.331491
+frequencies._aux.CF3x4.p1_1 = 0.32791
+frequencies._aux.CF3x4.p1_2 = 0.362163
+frequencies._aux.CF3x4.p2_0 = 0.12693
+frequencies._aux.CF3x4.p2_1 = 0.406209
+frequencies._aux.CF3x4.p2_2 = 0.579865
+Optimization finished in 6 loop passes.
+239 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'SxZjpPIe.model_MGREV_pi' was not initialized prior to being used
+Model SxZjpPIe.model_MGREV assigned to Canis_lupus
+Model SxZjpPIe.model_MGREV assigned to Vulpes_vulpes
+Model SxZjpPIe.model_MGREV assigned to Enhydra_lutris
+Model SxZjpPIe.model_MGREV assigned to Lontra_canadensis
+Model SxZjpPIe.model_MGREV assigned to Node7
+Model SxZjpPIe.model_MGREV assigned to Neovison_vison
+Model SxZjpPIe.model_MGREV assigned to Mustela_putorius
+Model SxZjpPIe.model_MGREV assigned to Node10
+Model SxZjpPIe.model_MGREV assigned to Node6
+Model SxZjpPIe.model_MGREV assigned to Callorhinus_ursinus
+Model SxZjpPIe.model_MGREV assigned to Zalophus_californianus
+Model SxZjpPIe.model_MGREV assigned to Eumetopias_jubatus
+Model SxZjpPIe.model_MGREV assigned to Node17
+Model SxZjpPIe.model_MGREV assigned to Node15
+Model SxZjpPIe.model_MGREV assigned to Odobenus_rosmarus
+Model SxZjpPIe.model_MGREV assigned to Node14
+Model SxZjpPIe.model_MGREV assigned to Leptonychotes_weddellii
+Model SxZjpPIe.model_MGREV assigned to Mirounga_leonina
+Model SxZjpPIe.model_MGREV assigned to Node23
+Model SxZjpPIe.model_MGREV assigned to Monachus_schauinslandi
+Model SxZjpPIe.model_MGREV assigned to Node22
+Model SxZjpPIe.model_MGREV assigned to Phoca_vitulina
+Model SxZjpPIe.model_MGREV assigned to Node21
+Model SxZjpPIe.model_MGREV assigned to Node13
+Model SxZjpPIe.model_MGREV assigned to Node5
+Model SxZjpPIe.model_MGREV assigned to Ailuropoda_melanoleuca
+Model SxZjpPIe.model_MGREV assigned to Ursus_thibetanus
+Model SxZjpPIe.model_MGREV assigned to Ursus_americanus
+Model SxZjpPIe.model_MGREV assigned to Node31
+Model SxZjpPIe.model_MGREV assigned to Ursus_arctos
+Model SxZjpPIe.model_MGREV assigned to Ursus_maritimus
+Model SxZjpPIe.model_MGREV assigned to Node34
+Model SxZjpPIe.model_MGREV assigned to Node30
+Model SxZjpPIe.model_MGREV assigned to Node28
+Model SxZjpPIe.model_MGREV assigned to Node4
+The tips of the tree:SxZjpPIe.tree_0 were matched with the species names from the data in the following numeric order (0-based) {2,17,3,6,10,9,1,18,4,11,5,7,8,12,0,16,13,14,15}
+
+Pseudo-optimal path's cost 3362 vs 4226 for 1..k=> a 1.25699 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'SxZjpPIe.tree_0.Node30.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node34.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node28.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Canis_lupus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_maritimus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_arctos.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node31.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node6.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_americanus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ursus_thibetanus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Ailuropoda_melanoleuca.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Eumetopias_jubatus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Zalophus_californianus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node13.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Mustela_putorius.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node21.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Enhydra_lutris.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Phoca_vitulina.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node22.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Callorhinus_ursinus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Monachus_schauinslandi.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Neovison_vison.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node23.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Mirounga_leonina.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Leptonychotes_weddellii.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node10.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node14.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Lontra_canadensis.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Odobenus_rosmarus.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node15.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node7.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node17.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Vulpes_vulpes.alpha' was not initialized prior to being used
+Variable 'SxZjpPIe.tree_0.Node4.alpha' was not initialized prior to being used
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 34 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 18 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 106 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 50 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 38 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 15 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 129 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 59 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 118 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 397-th LF evaluation.
+Initial guess for SxZjpPIe.tree_0.Vulpes_vulpes.alpha is 2.50832e-06
+Initial guess for SxZjpPIe.tree_0.Node4.alpha is 8.06707e-05
+Initial guess for SxZjpPIe.tree_0.Node5.alpha is -1.10134e-05
+Initial guess for SxZjpPIe.tree_0.Node6.alpha is 0.000158787
+Initial guess for SxZjpPIe.tree_0.Node7.alpha is 2.39803e-05
+Initial guess for SxZjpPIe.tree_0.Enhydra_lutris.alpha is 2.0848e-05
+Initial guess for SxZjpPIe.tree_0.Lontra_canadensis.alpha is 2.5158e-05
+Initial guess for SxZjpPIe.tree_0.Node10.alpha is 5.65231e-06
+Initial guess for SxZjpPIe.tree_0.Neovison_vison.alpha is 4.47268e-06
+Initial guess for SxZjpPIe.tree_0.Mustela_putorius.alpha is 1.96587e-05
+Initial guess for SxZjpPIe.tree_0.Node13.alpha is 6.68268e-05
+Initial guess for SxZjpPIe.tree_0.Node14.alpha is 2.47e-06
+Initial guess for SxZjpPIe.tree_0.Node15.alpha is 4.17924e-06
+Initial guess for SxZjpPIe.tree_0.Callorhinus_ursinus.alpha is 1.32643e-05
+Initial guess for SxZjpPIe.tree_0.Node17.alpha is 3.31679e-07
+Initial guess for SxZjpPIe.tree_0.Zalophus_californianus.alpha is 2.96054e-06
+Initial guess for SxZjpPIe.tree_0.Eumetopias_jubatus.alpha is -1.50454e-07
+Initial guess for SxZjpPIe.tree_0.Odobenus_rosmarus.alpha is 3.44266e-06
+Initial guess for SxZjpPIe.tree_0.Node21.alpha is 1.13214e-05
+Initial guess for SxZjpPIe.tree_0.Node22.alpha is 6.638e-05
+Initial guess for SxZjpPIe.tree_0.Node23.alpha is 4.41525e-06
+Initial guess for SxZjpPIe.tree_0.Leptonychotes_weddellii.alpha is 1.21715e-05
+Initial guess for SxZjpPIe.tree_0.Mirounga_leonina.alpha is 7.22269e-06
+Initial guess for SxZjpPIe.tree_0.Monachus_schauinslandi.alpha is 5.94627e-06
+Initial guess for SxZjpPIe.tree_0.Phoca_vitulina.alpha is 7.10768e-06
+Initial guess for SxZjpPIe.tree_0.Node28.alpha is 5.53392e-05
+Initial guess for SxZjpPIe.tree_0.Ailuropoda_melanoleuca.alpha is 1.18486e-05
+Initial guess for SxZjpPIe.tree_0.Node30.alpha is 3.47999e-05
+Initial guess for SxZjpPIe.tree_0.Node31.alpha is 1.44481e-06
+Initial guess for SxZjpPIe.tree_0.Ursus_thibetanus.alpha is 2.77566e-05
+Initial guess for SxZjpPIe.tree_0.Ursus_americanus.alpha is 7.1938e-07
+Initial guess for SxZjpPIe.tree_0.Node34.alpha is 8.43194e-06
+Initial guess for SxZjpPIe.tree_0.Ursus_arctos.alpha is 5.86506e-06
+Initial guess for SxZjpPIe.tree_0.Ursus_maritimus.alpha is -2.78796e-19
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+SxZjpPIe.model_MGREV.theta_GT = 1
+SxZjpPIe.model_MGREV.theta_CT = 1
+SxZjpPIe.model_MGREV.theta_AC = 1
+SxZjpPIe.model_MGREV.theta_AT = 1
+SxZjpPIe.model_MGREV.theta_CG = 1
+SxZjpPIe.model_MGREV.omega_0 = 1
+SxZjpPIe.tree_0.Canis_lupus.alpha = 0.1
+SxZjpPIe.tree_0.Vulpes_vulpes.alpha = 2.50832e-06
+SxZjpPIe.tree_0.Enhydra_lutris.alpha = 2.0848e-05
+SxZjpPIe.tree_0.Lontra_canadensis.alpha = 2.5158e-05
+SxZjpPIe.tree_0.Node7.alpha = 2.39803e-05
+SxZjpPIe.tree_0.Neovison_vison.alpha = 4.47268e-06
+SxZjpPIe.tree_0.Mustela_putorius.alpha = 1.96587e-05
+SxZjpPIe.tree_0.Node10.alpha = 5.65231e-06
+SxZjpPIe.tree_0.Node6.alpha = 0.000158787
+SxZjpPIe.tree_0.Callorhinus_ursinus.alpha = 1.32643e-05
+SxZjpPIe.tree_0.Zalophus_californianus.alpha = 2.96054e-06
+SxZjpPIe.tree_0.Eumetopias_jubatus.alpha = 0
+SxZjpPIe.tree_0.Node17.alpha = 3.31679e-07
+SxZjpPIe.tree_0.Node15.alpha = 4.17924e-06
+SxZjpPIe.tree_0.Odobenus_rosmarus.alpha = 3.44266e-06
+SxZjpPIe.tree_0.Node14.alpha = 2.47e-06
+SxZjpPIe.tree_0.Leptonychotes_weddellii.alpha = 1.21715e-05
+SxZjpPIe.tree_0.Mirounga_leonina.alpha = 7.22269e-06
+SxZjpPIe.tree_0.Node23.alpha = 4.41525e-06
+SxZjpPIe.tree_0.Monachus_schauinslandi.alpha = 5.94627e-06
+SxZjpPIe.tree_0.Node22.alpha = 6.638e-05
+SxZjpPIe.tree_0.Phoca_vitulina.alpha = 7.10768e-06
+SxZjpPIe.tree_0.Node21.alpha = 1.13214e-05
+SxZjpPIe.tree_0.Node13.alpha = 6.68268e-05
+SxZjpPIe.tree_0.Node5.alpha = 0
+SxZjpPIe.tree_0.Ailuropoda_melanoleuca.alpha = 1.18486e-05
+SxZjpPIe.tree_0.Ursus_thibetanus.alpha = 2.77566e-05
+SxZjpPIe.tree_0.Ursus_americanus.alpha = 7.1938e-07
+SxZjpPIe.tree_0.Node31.alpha = 1.44481e-06
+SxZjpPIe.tree_0.Ursus_arctos.alpha = 5.86506e-06
+SxZjpPIe.tree_0.Ursus_maritimus.alpha = 0
+SxZjpPIe.tree_0.Node34.alpha = 8.43194e-06
+SxZjpPIe.tree_0.Node30.alpha = 3.47999e-05
+SxZjpPIe.tree_0.Node28.alpha = 5.53392e-05
+SxZjpPIe.tree_0.Node4.alpha = 8.06707e-05
+SxZjpPIe.model_MGREV.omega_1 = 1
+Failing bound checks on SxZjpPIe.tree_0.Phoca_vitulina.beta =         10019.39810103842
+Optimization finished in 33 loop passes.
+5609 likelihood evaluation calls and 42800 matrix exponentiations calls were made
+
+Overwritten previously defined function:'pJNupxWk.rate_generator'
+Overwritten previously defined function:'pJNupxWk.rate_generator'
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 6024-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.215351
+frequencies._aux.CF3x4.p0_1 = 0.367915
+frequencies._aux.CF3x4.p0_2 = 0.616732
+frequencies._aux.CF3x4.p1_0 = 0.331491
+frequencies._aux.CF3x4.p1_1 = 0.32791
+frequencies._aux.CF3x4.p1_2 = 0.362163
+frequencies._aux.CF3x4.p2_0 = 0.12693
+frequencies._aux.CF3x4.p2_1 = 0.406209
+frequencies._aux.CF3x4.p2_2 = 0.579865
+Optimization finished in 6 loop passes.
+240 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'pJNupxWk.rate_generator'
+Overwritten previously defined function:'pJNupxWk.rate_generator'
+Overwritten previously defined function:'pJNupxWk.rate_generator'
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 5952-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.215351
+frequencies._aux.CF3x4.p0_1 = 0.367915
+frequencies._aux.CF3x4.p0_2 = 0.616732
+frequencies._aux.CF3x4.p1_0 = 0.331491
+frequencies._aux.CF3x4.p1_1 = 0.32791
+frequencies._aux.CF3x4.p1_2 = 0.362163
+frequencies._aux.CF3x4.p2_0 = 0.12693
+frequencies._aux.CF3x4.p2_1 = 0.406209
+frequencies._aux.CF3x4.p2_2 = 0.579865
+Optimization finished in 6 loop passes.
+240 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.reference_pi' was not initialized prior to being used
+No nodel was assigned to Canis_lupus
+No nodel was assigned to Vulpes_vulpes
+No nodel was assigned to Enhydra_lutris
+No nodel was assigned to Lontra_canadensis
+No nodel was assigned to Node7
+No nodel was assigned to Neovison_vison
+No nodel was assigned to Mustela_putorius
+No nodel was assigned to Node10
+No nodel was assigned to Node6
+No nodel was assigned to Callorhinus_ursinus
+No nodel was assigned to Zalophus_californianus
+No nodel was assigned to Eumetopias_jubatus
+No nodel was assigned to Node17
+No nodel was assigned to Node15
+No nodel was assigned to Odobenus_rosmarus
+No nodel was assigned to Node14
+No nodel was assigned to Leptonychotes_weddellii
+No nodel was assigned to Mirounga_leonina
+No nodel was assigned to Node23
+No nodel was assigned to Monachus_schauinslandi
+No nodel was assigned to Node22
+No nodel was assigned to Phoca_vitulina
+No nodel was assigned to Node21
+No nodel was assigned to Node13
+No nodel was assigned to Node5
+No nodel was assigned to Ailuropoda_melanoleuca
+No nodel was assigned to Ursus_thibetanus
+No nodel was assigned to Ursus_americanus
+No nodel was assigned to Node31
+No nodel was assigned to Ursus_arctos
+No nodel was assigned to Ursus_maritimus
+No nodel was assigned to Node34
+No nodel was assigned to Node30
+No nodel was assigned to Node28
+No nodel was assigned to Node4
+The tips of the tree:GWCLACvL.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {2,17,3,6,10,9,1,18,4,11,5,7,8,12,0,16,13,14,15}
+
+Pseudo-optimal path's cost 3362 vs 4226 for 1..k=> a 1.25699 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'GWCLACvL.tree_id_0.Canis_lupus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Canis_lupus.t=0.01147122648873222
+Variable 'GWCLACvL.tree_id_0.Vulpes_vulpes.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Vulpes_vulpes.t=0.1554128407693295
+Variable 'GWCLACvL.tree_id_0.Enhydra_lutris.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Enhydra_lutris.t=0.1965257504728369
+Variable 'GWCLACvL.tree_id_0.Lontra_canadensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Lontra_canadensis.t=0.02246932502169525
+Variable 'GWCLACvL.tree_id_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node7.t=0.1391454424135101
+Variable 'GWCLACvL.tree_id_0.Neovison_vison.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Neovison_vison.t=0.09953308126335883
+Variable 'GWCLACvL.tree_id_0.Mustela_putorius.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Mustela_putorius.t=0.1433809709272484
+Variable 'GWCLACvL.tree_id_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node10.t=0.09302694679532143
+Variable 'GWCLACvL.tree_id_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node6.t=1.717739452237077
+Variable 'GWCLACvL.tree_id_0.Callorhinus_ursinus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Callorhinus_ursinus.t=0.02362367874318265
+Variable 'GWCLACvL.tree_id_0.Zalophus_californianus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Zalophus_californianus.t=0
+Variable 'GWCLACvL.tree_id_0.Eumetopias_jubatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Eumetopias_jubatus.t=0.02366553149551245
+Variable 'GWCLACvL.tree_id_0.Node17.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node17.t=0
+Variable 'GWCLACvL.tree_id_0.Node15.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node15.t=0
+Variable 'GWCLACvL.tree_id_0.Odobenus_rosmarus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Odobenus_rosmarus.t=0.1196092268175903
+Variable 'GWCLACvL.tree_id_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node14.t=0.1007458359323452
+Variable 'GWCLACvL.tree_id_0.Leptonychotes_weddellii.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Leptonychotes_weddellii.t=0.03734408116265484
+Variable 'GWCLACvL.tree_id_0.Mirounga_leonina.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Mirounga_leonina.t=0.06978178533421119
+Variable 'GWCLACvL.tree_id_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node23.t=0.03683912950753856
+Variable 'GWCLACvL.tree_id_0.Monachus_schauinslandi.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Monachus_schauinslandi.t=0.04829526817287706
+Variable 'GWCLACvL.tree_id_0.Node22.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node22.t=0.2501276464074412
+Variable 'GWCLACvL.tree_id_0.Phoca_vitulina.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Phoca_vitulina.t=0.1615935204274216
+Variable 'GWCLACvL.tree_id_0.Node21.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node21.t=0.04986068361434435
+Variable 'GWCLACvL.tree_id_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node13.t=0.5158165581155586
+Variable 'GWCLACvL.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node5.t=0.003457776051741626
+Variable 'GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t=0.1533513150301578
+Variable 'GWCLACvL.tree_id_0.Ursus_thibetanus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_thibetanus.t=0
+Variable 'GWCLACvL.tree_id_0.Ursus_americanus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_americanus.t=0.04684178003221576
+Variable 'GWCLACvL.tree_id_0.Node31.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node31.t=0
+Variable 'GWCLACvL.tree_id_0.Ursus_arctos.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_arctos.t=0
+Variable 'GWCLACvL.tree_id_0.Ursus_maritimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_maritimus.t=0
+Variable 'GWCLACvL.tree_id_0.Node34.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node34.t=0.07054598216352428
+Variable 'GWCLACvL.tree_id_0.Node30.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node30.t=0.322449031801732
+Variable 'GWCLACvL.tree_id_0.Node28.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node28.t=0.4578620773570494
+Variable 'GWCLACvL.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node4.t=0.6254485379006844
+Variable 'GWCLACvL.GWCLACvL.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 35-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 7.27482
+relax.reference.omega2 = 0.4601
+relax.test.theta_AC = 0.278613
+relax.reference.omega1 = 0.145496
+relax.reference.bsrel_mixture_aux_1 = 0.818182
+relax.test.theta_AT = 0.170426
+relax.reference.bsrel_mixture_aux_0 = 0.45
+relax.test.theta_GT = 0.275442
+relax.test.theta_CG = 0.298067
+relax.test.theta_CT = 0.697072
+relax.K = 1
+GWCLACvL.tree_id_0.Canis_lupus.t = 0.0114712
+GWCLACvL.tree_id_0.Vulpes_vulpes.t = 0.155413
+GWCLACvL.tree_id_0.Enhydra_lutris.t = 0.196526
+GWCLACvL.tree_id_0.Lontra_canadensis.t = 0.0224693
+GWCLACvL.tree_id_0.Node7.t = 0.139145
+GWCLACvL.tree_id_0.Neovison_vison.t = 0.0995331
+GWCLACvL.tree_id_0.Mustela_putorius.t = 0.143381
+GWCLACvL.tree_id_0.Node10.t = 0.0930269
+GWCLACvL.tree_id_0.Node6.t = 1.71774
+GWCLACvL.tree_id_0.Callorhinus_ursinus.t = 0.0236237
+GWCLACvL.tree_id_0.Zalophus_californianus.t = 0
+GWCLACvL.tree_id_0.Eumetopias_jubatus.t = 0.0236655
+GWCLACvL.tree_id_0.Node17.t = 0
+GWCLACvL.tree_id_0.Node15.t = 0
+GWCLACvL.tree_id_0.Odobenus_rosmarus.t = 0.119609
+GWCLACvL.tree_id_0.Node14.t = 0.100746
+GWCLACvL.tree_id_0.Leptonychotes_weddellii.t = 0.0373441
+GWCLACvL.tree_id_0.Mirounga_leonina.t = 0.0697818
+GWCLACvL.tree_id_0.Node23.t = 0.0368391
+GWCLACvL.tree_id_0.Monachus_schauinslandi.t = 0.0482953
+GWCLACvL.tree_id_0.Node22.t = 0.250128
+GWCLACvL.tree_id_0.Phoca_vitulina.t = 0.161594
+GWCLACvL.tree_id_0.Node21.t = 0.0498607
+GWCLACvL.tree_id_0.Node13.t = 0.515817
+GWCLACvL.tree_id_0.Node5.t = 0.00345778
+GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t = 0.153351
+GWCLACvL.tree_id_0.Ursus_thibetanus.t = 0
+GWCLACvL.tree_id_0.Ursus_americanus.t = 0.0468418
+GWCLACvL.tree_id_0.Node31.t = 0
+GWCLACvL.tree_id_0.Ursus_arctos.t = 0
+GWCLACvL.tree_id_0.Ursus_maritimus.t = 0
+GWCLACvL.tree_id_0.Node34.t = 0.070546
+GWCLACvL.tree_id_0.Node30.t = 0.322449
+GWCLACvL.tree_id_0.Node28.t = 0.457862
+GWCLACvL.tree_id_0.Node4.t = 0.625449
+Optimization finished in 38 loop passes.
+6284 likelihood evaluation calls and 195825 matrix exponentiations calls were made
+
+Variable 'MPI_NODE_COUNT' was not initialized prior to being used
+No nodel was assigned to Canis_lupus
+No nodel was assigned to Vulpes_vulpes
+No nodel was assigned to Enhydra_lutris
+No nodel was assigned to Lontra_canadensis
+No nodel was assigned to Node7
+No nodel was assigned to Neovison_vison
+No nodel was assigned to Mustela_putorius
+No nodel was assigned to Node10
+No nodel was assigned to Node6
+No nodel was assigned to Callorhinus_ursinus
+No nodel was assigned to Zalophus_californianus
+No nodel was assigned to Eumetopias_jubatus
+No nodel was assigned to Node17
+No nodel was assigned to Node15
+No nodel was assigned to Odobenus_rosmarus
+No nodel was assigned to Node14
+No nodel was assigned to Leptonychotes_weddellii
+No nodel was assigned to Mirounga_leonina
+No nodel was assigned to Node23
+No nodel was assigned to Monachus_schauinslandi
+No nodel was assigned to Node22
+No nodel was assigned to Phoca_vitulina
+No nodel was assigned to Node21
+No nodel was assigned to Node13
+No nodel was assigned to Node5
+No nodel was assigned to Ailuropoda_melanoleuca
+No nodel was assigned to Ursus_thibetanus
+No nodel was assigned to Ursus_americanus
+No nodel was assigned to Node31
+No nodel was assigned to Ursus_arctos
+No nodel was assigned to Ursus_maritimus
+No nodel was assigned to Node34
+No nodel was assigned to Node30
+No nodel was assigned to Node28
+No nodel was assigned to Node4
+Likelihood function cleared because partition index '0' points to invalid components
+The tips of the tree:GWCLACvL.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {2,17,3,6,10,9,1,18,4,11,5,7,8,12,0,16,13,14,15}
+
+Pseudo-optimal path's cost 3362 vs 4226 for 1..k=> a 1.25699 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_0 was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_1 was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+relax.test.omega1 was already constrained in estimators.SetGlobals2
+relax.test.omega2 was already constrained in estimators.SetGlobals2
+relax.test.omega3 was already constrained in estimators.SetGlobals2
+Variable 'GWCLACvL.tree_id_0.Canis_lupus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Canis_lupus.t=0.02034794040770647
+Variable 'GWCLACvL.tree_id_0.Vulpes_vulpes.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Vulpes_vulpes.t=0.1971890124121158
+Variable 'GWCLACvL.tree_id_0.Enhydra_lutris.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Enhydra_lutris.t=0.3536874772471781
+Variable 'GWCLACvL.tree_id_0.Lontra_canadensis.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Lontra_canadensis.t=0.03559365305311456
+Variable 'GWCLACvL.tree_id_0.Node7.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node7.t=0.2457519673225432
+Variable 'GWCLACvL.tree_id_0.Neovison_vison.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Neovison_vison.t=0.1773398693432013
+Variable 'GWCLACvL.tree_id_0.Mustela_putorius.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Mustela_putorius.t=0.2627802902413655
+Variable 'GWCLACvL.tree_id_0.Node10.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node10.t=0.1587991575815517
+Variable 'GWCLACvL.tree_id_0.Node6.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node6.t=3.339214930380592
+Variable 'GWCLACvL.tree_id_0.Callorhinus_ursinus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Callorhinus_ursinus.t=0.03801609502846733
+Variable 'GWCLACvL.tree_id_0.Zalophus_californianus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Zalophus_californianus.t=0
+Variable 'GWCLACvL.tree_id_0.Eumetopias_jubatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Eumetopias_jubatus.t=0.03263331442241789
+Variable 'GWCLACvL.tree_id_0.Node17.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node17.t=0
+Variable 'GWCLACvL.tree_id_0.Node15.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node15.t=0
+Variable 'GWCLACvL.tree_id_0.Odobenus_rosmarus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Odobenus_rosmarus.t=0.2089122679775385
+Variable 'GWCLACvL.tree_id_0.Node14.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node14.t=0.1750093434257905
+Variable 'GWCLACvL.tree_id_0.Leptonychotes_weddellii.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Leptonychotes_weddellii.t=0.056701986457954
+Variable 'GWCLACvL.tree_id_0.Mirounga_leonina.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Mirounga_leonina.t=0.1099028969088722
+Variable 'GWCLACvL.tree_id_0.Node23.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node23.t=0.05687014112279678
+Variable 'GWCLACvL.tree_id_0.Monachus_schauinslandi.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Monachus_schauinslandi.t=0.07028494614104441
+Variable 'GWCLACvL.tree_id_0.Node22.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node22.t=0.3424982642896834
+Variable 'GWCLACvL.tree_id_0.Phoca_vitulina.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Phoca_vitulina.t=0.2883387027812226
+Variable 'GWCLACvL.tree_id_0.Node21.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node21.t=0.07723213643467201
+Variable 'GWCLACvL.tree_id_0.Node13.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node13.t=0.9703523717957212
+Variable 'GWCLACvL.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node5.t=0
+Variable 'GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t=0.2318918473448404
+Variable 'GWCLACvL.tree_id_0.Ursus_thibetanus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_thibetanus.t=0
+Variable 'GWCLACvL.tree_id_0.Ursus_americanus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_americanus.t=0.06475344774830392
+Variable 'GWCLACvL.tree_id_0.Node31.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node31.t=0
+Variable 'GWCLACvL.tree_id_0.Ursus_arctos.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_arctos.t=0
+Variable 'GWCLACvL.tree_id_0.Ursus_maritimus.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Ursus_maritimus.t=0
+Variable 'GWCLACvL.tree_id_0.Node34.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node34.t=0.1115635743999701
+Variable 'GWCLACvL.tree_id_0.Node30.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node30.t=0.5912505473942733
+Variable 'GWCLACvL.tree_id_0.Node28.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node28.t=0.7560274208519097
+Variable 'GWCLACvL.tree_id_0.Node4.t' was not initialized prior to being used
+models.generic.SetBranchLength: GWCLACvL.tree_id_0.Node4.t=1.182537672882296
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 35-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 64.4188
+relax.reference.omega2 = 0.497953
+relax.test.theta_AC = 0.235907
+relax.reference.omega1 = 0.245808
+relax.reference.bsrel_mixture_aux_1 = 0.992135
+relax.test.theta_AT = 0.150044
+relax.reference.bsrel_mixture_aux_0 = 0.480153
+relax.test.theta_GT = 0.260586
+relax.test.theta_CG = 0.288738
+relax.test.theta_CT = 0.67532
+relax.K = 1
+GWCLACvL.tree_id_0.Canis_lupus.t = 0.0203479
+GWCLACvL.tree_id_0.Vulpes_vulpes.t = 0.197189
+GWCLACvL.tree_id_0.Enhydra_lutris.t = 0.353687
+GWCLACvL.tree_id_0.Lontra_canadensis.t = 0.0355937
+GWCLACvL.tree_id_0.Node7.t = 0.245752
+GWCLACvL.tree_id_0.Neovison_vison.t = 0.17734
+GWCLACvL.tree_id_0.Mustela_putorius.t = 0.26278
+GWCLACvL.tree_id_0.Node10.t = 0.158799
+GWCLACvL.tree_id_0.Node6.t = 3.33921
+GWCLACvL.tree_id_0.Callorhinus_ursinus.t = 0.0380161
+GWCLACvL.tree_id_0.Zalophus_californianus.t = 0
+GWCLACvL.tree_id_0.Eumetopias_jubatus.t = 0.0326333
+GWCLACvL.tree_id_0.Node17.t = 0
+GWCLACvL.tree_id_0.Node15.t = 0
+GWCLACvL.tree_id_0.Odobenus_rosmarus.t = 0.208912
+GWCLACvL.tree_id_0.Node14.t = 0.175009
+GWCLACvL.tree_id_0.Leptonychotes_weddellii.t = 0.056702
+GWCLACvL.tree_id_0.Mirounga_leonina.t = 0.109903
+GWCLACvL.tree_id_0.Node23.t = 0.0568701
+GWCLACvL.tree_id_0.Monachus_schauinslandi.t = 0.0702849
+GWCLACvL.tree_id_0.Node22.t = 0.342498
+GWCLACvL.tree_id_0.Phoca_vitulina.t = 0.288339
+GWCLACvL.tree_id_0.Node21.t = 0.0772321
+GWCLACvL.tree_id_0.Node13.t = 0.970352
+GWCLACvL.tree_id_0.Node5.t = 0
+GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t = 0.231892
+GWCLACvL.tree_id_0.Ursus_thibetanus.t = 0
+GWCLACvL.tree_id_0.Ursus_americanus.t = 0.0647534
+GWCLACvL.tree_id_0.Node31.t = 0
+GWCLACvL.tree_id_0.Ursus_arctos.t = 0
+GWCLACvL.tree_id_0.Ursus_maritimus.t = 0
+GWCLACvL.tree_id_0.Node34.t = 0.111564
+GWCLACvL.tree_id_0.Node30.t = 0.591251
+GWCLACvL.tree_id_0.Node28.t = 0.756027
+GWCLACvL.tree_id_0.Node4.t = 1.18254
+Optimization finished in 55 loop passes.
+7690 likelihood evaluation calls and 266025 matrix exponentiations calls were made
+
+Variable 'RHHioLRL.GWCLACvL.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 42-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 66.8448
+relax.reference.omega1 = 0.27327
+relax.test.theta_AC = 0.23598
+relax.reference.bsrel_mixture_aux_1 = 0.990137
+relax.reference.omega2 = 0.532091
+relax.test.theta_AT = 0.150203
+relax.test.theta_GT = 0.260804
+relax.reference.bsrel_mixture_aux_0 = 0.59501
+relax.test.theta_CT = 0.675565
+relax.test.theta_CG = 0.289025
+GWCLACvL.tree_id_0.Canis_lupus.t = 0.00679426
+GWCLACvL.tree_id_0.Vulpes_vulpes.t = 0.0655211
+GWCLACvL.tree_id_0.Enhydra_lutris.t = 0.117913
+GWCLACvL.tree_id_0.Lontra_canadensis.t = 0.0118618
+GWCLACvL.tree_id_0.Node7.t = 0.0819566
+GWCLACvL.tree_id_0.Neovison_vison.t = 0.0591127
+GWCLACvL.tree_id_0.Mustela_putorius.t = 0.0876241
+GWCLACvL.tree_id_0.Node10.t = 0.053012
+GWCLACvL.tree_id_0.Node6.t = 1.1114
+GWCLACvL.tree_id_0.Callorhinus_ursinus.t = 0.0126739
+GWCLACvL.tree_id_0.Zalophus_californianus.t = 0
+GWCLACvL.tree_id_0.Eumetopias_jubatus.t = 0.0108204
+GWCLACvL.tree_id_0.Node17.t = 0
+GWCLACvL.tree_id_0.Node15.t = 0
+GWCLACvL.tree_id_0.Odobenus_rosmarus.t = 0.0697646
+GWCLACvL.tree_id_0.Node14.t = 0.0584908
+GWCLACvL.tree_id_0.Leptonychotes_weddellii.t = 0.018856
+GWCLACvL.tree_id_0.Mirounga_leonina.t = 0.0367001
+GWCLACvL.tree_id_0.Node23.t = 0.0189008
+GWCLACvL.tree_id_0.Monachus_schauinslandi.t = 0.0233422
+GWCLACvL.tree_id_0.Node22.t = 0.113158
+GWCLACvL.tree_id_0.Phoca_vitulina.t = 0.0960653
+GWCLACvL.tree_id_0.Node21.t = 0.0257234
+GWCLACvL.tree_id_0.Node13.t = 0.322936
+GWCLACvL.tree_id_0.Node5.t = 0
+GWCLACvL.tree_id_0.Ailuropoda_melanoleuca.t = 0.0769499
+GWCLACvL.tree_id_0.Ursus_thibetanus.t = 0
+GWCLACvL.tree_id_0.Ursus_americanus.t = 0.0215402
+GWCLACvL.tree_id_0.Node31.t = 0
+GWCLACvL.tree_id_0.Ursus_arctos.t = 0
+GWCLACvL.tree_id_0.Ursus_maritimus.t = 0
+GWCLACvL.tree_id_0.Node34.t = 0.0372
+GWCLACvL.tree_id_0.Node30.t = 0.196894
+GWCLACvL.tree_id_0.Node28.t = 0.251405
+GWCLACvL.tree_id_0.Node4.t = 0.393437
+Optimization finished in 3 loop passes.
+445 likelihood evaluation calls and 17820 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used
