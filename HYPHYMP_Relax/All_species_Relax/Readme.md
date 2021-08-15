@@ -14,7 +14,7 @@ Feliformia_pseudogene
 
 Birds_pseudogene
 
-For relax test on a functional copy of the COA1 gene in different groups, we labeled one species as foreground and the remaining functional species as background. All functional groups of COA1 gene mentioned below with their folders and subfolders, each of them contains code for relax test (relax.sh).
+For relax test on a functional copy of the COA1 gene in different groups, we labeled one species as foreground and the remaining functional species as background. All functional groups of COA1 gene mentioned below with their folders, each of them contains code for relax test (relax.sh).
 
 Afrotheria
 
