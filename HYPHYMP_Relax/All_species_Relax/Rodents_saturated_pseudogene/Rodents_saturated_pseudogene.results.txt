@@ -1,0 +1,7 @@
+Castor_canadensis `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node6,Octodon_degus,Chinchilla_lanigera,Node9,Node5,Node3,Sciurus_vulgaris,Node12` 0.0226 0.00
+Heterocephalus_glaber `Ochotona_princeps,Fukomys_damarensis,Node4,Cavia_porcellus,Cavia_aperea,Node8,Octodon_degus,Chinchilla_lanigera,Node11,Node7,Node3,Sciurus_vulgaris` 0.3748 2.21
+Ictidomys_tridecemlineatus `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node6,Octodon_degus,Chinchilla_lanigera,Node9,Node5,Node3,Sciurus_vulgaris,Node12` 0.0000 0.00
+Marmota_marmota `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node6,Octodon_degus,Chinchilla_lanigera,Node9,Node5,Node3,Sciurus_vulgaris,Node12` 0.0163 0.00
+Oryctolagus_cuniculus `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node8,Octodon_degus,Chinchilla_lanigera,Node11,Node7,Node5,Sciurus_vulgaris,Node4` 0.0004 48.56
+Spermophilus_dauricus `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node6,Octodon_degus,Chinchilla_lanigera,Node9,Node5,Node3,Sciurus_vulgaris,Node12` 0.0000 0.00
+Urocitellus_parryii `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node6,Octodon_degus,Chinchilla_lanigera,Node9,Node5,Node3,Sciurus_vulgaris,Node12` 0.0000 0.00
