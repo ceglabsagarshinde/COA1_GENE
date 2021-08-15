@@ -1,0 +1,540 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/models/codon/MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Already loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Loaded 'libv3/tasks/mpi.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/mpi.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../models/parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'EAVrGlWA.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'jtewhjJ_.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the left root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Loaded 'modules/grid_compute.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/grid_compute.ibf
+Variable 'tMMT_bWd.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'cNSHuulg.model_pi' was not initialized prior to being used
+Model cNSHuulg.model assigned to Trichechus_manatus
+Model cNSHuulg.model assigned to Loxodonta_africana
+Model cNSHuulg.model assigned to Mammuthus_primigenius
+Model cNSHuulg.model assigned to Elephas_maximus
+Model cNSHuulg.model assigned to Node5
+Model cNSHuulg.model assigned to Node3
+Model cNSHuulg.model assigned to Orycteropus_afer
+The tips of the tree:cNSHuulg.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,2,3,4,1}
+
+Pseudo-optimal path's cost 124 vs 198 for 1..k=> a 1.59677 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'cNSHuulg.tree_0.Trichechus_manatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Trichechus_manatus.t=176.8735476213813
+Variable 'cNSHuulg.tree_0.Loxodonta_africana.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Loxodonta_africana.t=69.03785079849604
+Variable 'cNSHuulg.tree_0.Mammuthus_primigenius.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Mammuthus_primigenius.t=15.55451983221282
+Variable 'cNSHuulg.tree_0.Elephas_maximus.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Elephas_maximus.t=15.55451983221282
+Variable 'cNSHuulg.tree_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Node5.t=53.48333096628321
+Variable 'cNSHuulg.tree_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Node3.t=107.8356968228853
+Variable 'cNSHuulg.tree_0.Orycteropus_afer.t' was not initialized prior to being used
+models.generic.SetBranchLength: cNSHuulg.tree_0.Orycteropus_afer.t=222.13983427982
+Variable 'cNSHuulg.cNSHuulg.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 13888-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+cNSHuulg.model.theta_CT = 1
+cNSHuulg.model.theta_GT = 0.25
+cNSHuulg.model.theta_CG = 0.25
+cNSHuulg.model.theta_AC = 0.25
+cNSHuulg.model.theta_AT = 0.25
+cNSHuulg.tree_0.Trichechus_manatus.t = 176.874
+cNSHuulg.tree_0.Loxodonta_africana.t = 69.0379
+cNSHuulg.tree_0.Mammuthus_primigenius.t = 15.5545
+cNSHuulg.tree_0.Elephas_maximus.t = 15.5545
+cNSHuulg.tree_0.Node5.t = 53.4833
+cNSHuulg.tree_0.Node3.t = 107.836
+cNSHuulg.tree_0.Orycteropus_afer.t = 222.14
+Optimization finished in 23 loop passes.
+1118 likelihood evaluation calls and 4717 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'cNSHuulg.option' was not initialized prior to being used
+Variable 'relax.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'yOAyBwYm.initial_value' was not initialized prior to being used
+Variable 'xYiWtOuh.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6329-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.294485
+frequencies._aux.CF3x4.p0_1 = 0.317353
+frequencies._aux.CF3x4.p0_2 = 0.535115
+frequencies._aux.CF3x4.p1_0 = 0.347426
+frequencies._aux.CF3x4.p1_1 = 0.316056
+frequencies._aux.CF3x4.p1_2 = 0.307249
+frequencies._aux.CF3x4.p2_0 = 0.112132
+frequencies._aux.CF3x4.p2_1 = 0.384679
+frequencies._aux.CF3x4.p2_2 = 0.541723
+Optimization finished in 6 loop passes.
+166 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'xYiWtOuh.model_MGREV_pi' was not initialized prior to being used
+Model xYiWtOuh.model_MGREV assigned to Trichechus_manatus
+Model xYiWtOuh.model_MGREV assigned to Loxodonta_africana
+Model xYiWtOuh.model_MGREV assigned to Mammuthus_primigenius
+Model xYiWtOuh.model_MGREV assigned to Elephas_maximus
+Model xYiWtOuh.model_MGREV assigned to Node5
+Model xYiWtOuh.model_MGREV assigned to Node3
+Model xYiWtOuh.model_MGREV assigned to Orycteropus_afer
+The tips of the tree:xYiWtOuh.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,2,3,4,1}
+
+Pseudo-optimal path's cost 468 vs 618 for 1..k=> a 1.32051 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'xYiWtOuh.xYiWtOuh.likelihoodFunction' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Trichechus_manatus.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Loxodonta_africana.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Mammuthus_primigenius.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Elephas_maximus.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Orycteropus_afer.alpha' was not initialized prior to being used
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 76 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 51 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 47 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 18 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 63 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 73 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 25 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 3 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 1694-th LF evaluation.
+Initial guess for xYiWtOuh.tree_0.Node3.alpha is 8.43222e-05
+Initial guess for xYiWtOuh.tree_0.Loxodonta_africana.alpha is 6.58889e-05
+Initial guess for xYiWtOuh.tree_0.Node5.alpha is 5.99966e-06
+Initial guess for xYiWtOuh.tree_0.Mammuthus_primigenius.alpha is 1.00202e-05
+Initial guess for xYiWtOuh.tree_0.Elephas_maximus.alpha is 2.68036e-06
+Initial guess for xYiWtOuh.tree_0.Orycteropus_afer.alpha is 1.32455e-06
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+xYiWtOuh.model_MGREV.theta_GT = 1
+xYiWtOuh.model_MGREV.theta_CT = 1
+xYiWtOuh.model_MGREV.theta_AC = 1
+xYiWtOuh.model_MGREV.theta_CG = 1
+xYiWtOuh.model_MGREV.theta_AT = 1
+xYiWtOuh.model_MGREV.omega_0 = 1
+xYiWtOuh.tree_0.Trichechus_manatus.alpha = 0.1
+xYiWtOuh.tree_0.Loxodonta_africana.alpha = 6.58889e-05
+xYiWtOuh.tree_0.Mammuthus_primigenius.alpha = 1.00202e-05
+xYiWtOuh.tree_0.Elephas_maximus.alpha = 2.68036e-06
+xYiWtOuh.tree_0.Node5.alpha = 5.99966e-06
+xYiWtOuh.tree_0.Node3.alpha = 8.43222e-05
+xYiWtOuh.tree_0.Orycteropus_afer.alpha = 1.32455e-06
+xYiWtOuh.model_MGREV.omega_1 = 1
+Failing bound checks on xYiWtOuh.tree_0.Orycteropus_afer.beta =         10000.64043765038
+Optimization finished in 27 loop passes.
+1588 likelihood evaluation calls and 6618 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 5434-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.294485
+frequencies._aux.CF3x4.p0_1 = 0.317353
+frequencies._aux.CF3x4.p0_2 = 0.535115
+frequencies._aux.CF3x4.p1_0 = 0.347426
+frequencies._aux.CF3x4.p1_1 = 0.316056
+frequencies._aux.CF3x4.p1_2 = 0.307249
+frequencies._aux.CF3x4.p2_0 = 0.112132
+frequencies._aux.CF3x4.p2_1 = 0.384679
+frequencies._aux.CF3x4.p2_2 = 0.541723
+Optimization finished in 6 loop passes.
+165 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'xYiWtOuh.model_MGREV_pi' was not initialized prior to being used
+Model xYiWtOuh.model_MGREV assigned to Trichechus_manatus
+Model xYiWtOuh.model_MGREV assigned to Loxodonta_africana
+Model xYiWtOuh.model_MGREV assigned to Mammuthus_primigenius
+Model xYiWtOuh.model_MGREV assigned to Elephas_maximus
+Model xYiWtOuh.model_MGREV assigned to Node5
+Model xYiWtOuh.model_MGREV assigned to Node3
+Model xYiWtOuh.model_MGREV assigned to Orycteropus_afer
+The tips of the tree:xYiWtOuh.tree_0 were matched with the species names from the data in the following numeric order (0-based) {0,2,3,4,1}
+
+Pseudo-optimal path's cost 468 vs 618 for 1..k=> a 1.32051 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'xYiWtOuh.tree_0.Node5.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Elephas_maximus.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Node3.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Mammuthus_primigenius.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Trichechus_manatus.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Loxodonta_africana.alpha' was not initialized prior to being used
+Variable 'xYiWtOuh.tree_0.Orycteropus_afer.alpha' was not initialized prior to being used
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 76 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 51 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 8 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 47 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 18 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 1930-th LF evaluation.
+Initial guess for xYiWtOuh.tree_0.Node3.alpha is 8.43222e-05
+Initial guess for xYiWtOuh.tree_0.Loxodonta_africana.alpha is 6.58889e-05
+Initial guess for xYiWtOuh.tree_0.Node5.alpha is 5.99966e-06
+Initial guess for xYiWtOuh.tree_0.Mammuthus_primigenius.alpha is 1.00202e-05
+Initial guess for xYiWtOuh.tree_0.Elephas_maximus.alpha is 2.68036e-06
+Initial guess for xYiWtOuh.tree_0.Orycteropus_afer.alpha is 1.32455e-06
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+xYiWtOuh.model_MGREV.theta_CG = 1
+xYiWtOuh.model_MGREV.theta_AT = 1
+xYiWtOuh.model_MGREV.theta_AC = 1
+xYiWtOuh.model_MGREV.theta_CT = 1
+xYiWtOuh.model_MGREV.theta_GT = 1
+xYiWtOuh.model_MGREV.omega_0 = 1
+xYiWtOuh.tree_0.Trichechus_manatus.alpha = 0.1
+xYiWtOuh.tree_0.Loxodonta_africana.alpha = 6.58889e-05
+xYiWtOuh.tree_0.Mammuthus_primigenius.alpha = 1.00202e-05
+xYiWtOuh.tree_0.Elephas_maximus.alpha = 2.68036e-06
+xYiWtOuh.tree_0.Node5.alpha = 5.99966e-06
+xYiWtOuh.tree_0.Node3.alpha = 8.43222e-05
+xYiWtOuh.tree_0.Orycteropus_afer.alpha = 1.32455e-06
+xYiWtOuh.model_MGREV.omega_1 = 1
+Failing bound checks on xYiWtOuh.tree_0.Orycteropus_afer.beta =         10000.64043765038
+Optimization finished in 24 loop passes.
+1691 likelihood evaluation calls and 6996 matrix exponentiations calls were made
+
+Overwritten previously defined function:'ebuBisWn.rate_generator'
+Overwritten previously defined function:'ebuBisWn.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6410-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.294485
+frequencies._aux.CF3x4.p0_1 = 0.317353
+frequencies._aux.CF3x4.p0_2 = 0.535115
+frequencies._aux.CF3x4.p1_0 = 0.347426
+frequencies._aux.CF3x4.p1_1 = 0.316056
+frequencies._aux.CF3x4.p1_2 = 0.307249
+frequencies._aux.CF3x4.p2_0 = 0.112132
+frequencies._aux.CF3x4.p2_1 = 0.384679
+frequencies._aux.CF3x4.p2_2 = 0.541723
+Optimization finished in 6 loop passes.
+166 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'ebuBisWn.rate_generator'
+Overwritten previously defined function:'ebuBisWn.rate_generator'
+Overwritten previously defined function:'ebuBisWn.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 6250-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.294485
+frequencies._aux.CF3x4.p0_1 = 0.317353
+frequencies._aux.CF3x4.p0_2 = 0.535115
+frequencies._aux.CF3x4.p1_0 = 0.347426
+frequencies._aux.CF3x4.p1_1 = 0.316056
+frequencies._aux.CF3x4.p1_2 = 0.307249
+frequencies._aux.CF3x4.p2_0 = 0.112132
+frequencies._aux.CF3x4.p2_1 = 0.384679
+frequencies._aux.CF3x4.p2_2 = 0.541723
+Optimization finished in 6 loop passes.
+166 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.reference_pi' was not initialized prior to being used
+No nodel was assigned to Trichechus_manatus
+No nodel was assigned to Loxodonta_africana
+No nodel was assigned to Mammuthus_primigenius
+No nodel was assigned to Elephas_maximus
+No nodel was assigned to Node5
+No nodel was assigned to Node3
+No nodel was assigned to Orycteropus_afer
+The tips of the tree:OdJViRWc.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,2,3,4,1}
+
+Pseudo-optimal path's cost 468 vs 618 for 1..k=> a 1.32051 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'OdJViRWc.tree_id_0.Trichechus_manatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Trichechus_manatus.t=0.4354371611022987
+Variable 'OdJViRWc.tree_id_0.Loxodonta_africana.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Loxodonta_africana.t=0.06594387313534907
+Variable 'OdJViRWc.tree_id_0.Mammuthus_primigenius.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Mammuthus_primigenius.t=0
+Variable 'OdJViRWc.tree_id_0.Elephas_maximus.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Elephas_maximus.t=0.02619482104703401
+Variable 'OdJViRWc.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Node5.t=0.03870701122718986
+Variable 'OdJViRWc.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Node3.t=0.6703778318881772
+Variable 'OdJViRWc.tree_id_0.Orycteropus_afer.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Orycteropus_afer.t=1.021749762592314
+Variable 'OdJViRWc.OdJViRWc.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 195-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega2 = 0.4601
+relax.reference.omega3 = 7.27482
+relax.reference.bsrel_mixture_aux_1 = 0.818182
+relax.reference.bsrel_mixture_aux_0 = 0.45
+relax.reference.omega1 = 0.145496
+relax.test.theta_AC = 0.0671346
+relax.test.theta_GT = 0.167716
+relax.test.theta_AT = 0.279258
+relax.test.theta_CG = 0.186271
+relax.test.theta_CT = 0.769482
+relax.K = 1
+OdJViRWc.tree_id_0.Trichechus_manatus.t = 0.435437
+OdJViRWc.tree_id_0.Loxodonta_africana.t = 0.0659439
+OdJViRWc.tree_id_0.Mammuthus_primigenius.t = 0
+OdJViRWc.tree_id_0.Elephas_maximus.t = 0.0261948
+OdJViRWc.tree_id_0.Node5.t = 0.038707
+OdJViRWc.tree_id_0.Node3.t = 0.670378
+OdJViRWc.tree_id_0.Orycteropus_afer.t = 1.02175
+Optimization finished in 25 loop passes.
+2168 likelihood evaluation calls and 34530 matrix exponentiations calls were made
+
+Variable 'MPI_NODE_COUNT' was not initialized prior to being used
+No nodel was assigned to Trichechus_manatus
+No nodel was assigned to Loxodonta_africana
+No nodel was assigned to Mammuthus_primigenius
+No nodel was assigned to Elephas_maximus
+No nodel was assigned to Node5
+No nodel was assigned to Node3
+No nodel was assigned to Orycteropus_afer
+Likelihood function cleared because partition index '0' points to invalid components
+The tips of the tree:OdJViRWc.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {0,2,3,4,1}
+
+Pseudo-optimal path's cost 468 vs 618 for 1..k=> a 1.32051 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_0 was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_1 was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+relax.test.omega1 was already constrained in estimators.SetGlobals2
+relax.test.omega2 was already constrained in estimators.SetGlobals2
+relax.test.omega3 was already constrained in estimators.SetGlobals2
+Variable 'OdJViRWc.tree_id_0.Trichechus_manatus.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Trichechus_manatus.t=0.6782119027623145
+Variable 'OdJViRWc.tree_id_0.Loxodonta_africana.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Loxodonta_africana.t=0.1024595281938161
+Variable 'OdJViRWc.tree_id_0.Mammuthus_primigenius.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Mammuthus_primigenius.t=0
+Variable 'OdJViRWc.tree_id_0.Elephas_maximus.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Elephas_maximus.t=0.04057909557829188
+Variable 'OdJViRWc.tree_id_0.Node5.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Node5.t=0.06060997096575954
+Variable 'OdJViRWc.tree_id_0.Node3.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Node3.t=1.043816370607588
+Variable 'OdJViRWc.tree_id_0.Orycteropus_afer.t' was not initialized prior to being used
+models.generic.SetBranchLength: OdJViRWc.tree_id_0.Orycteropus_afer.t=1.604788009206153
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 196-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega2 = 0.627242
+relax.reference.omega3 = 1
+relax.reference.bsrel_mixture_aux_1 = 0.907565
+relax.reference.bsrel_mixture_aux_0 = 0.413832
+relax.reference.omega1 = 0.286386
+relax.test.theta_AC = 0.0669657
+relax.test.theta_GT = 0.166727
+relax.test.theta_AT = 0.278881
+relax.test.theta_CG = 0.185425
+relax.test.theta_CT = 0.766113
+relax.K = 1
+OdJViRWc.tree_id_0.Trichechus_manatus.t = 0.678212
+OdJViRWc.tree_id_0.Loxodonta_africana.t = 0.10246
+OdJViRWc.tree_id_0.Mammuthus_primigenius.t = 0
+OdJViRWc.tree_id_0.Elephas_maximus.t = 0.0405791
+OdJViRWc.tree_id_0.Node5.t = 0.06061
+OdJViRWc.tree_id_0.Node3.t = 1.04382
+OdJViRWc.tree_id_0.Orycteropus_afer.t = 1.60479
+Optimization finished in 24 loop passes.
+2152 likelihood evaluation calls and 33300 matrix exponentiations calls were made
+
+Variable 'dlyLSzwM.OdJViRWc.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 241-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega3 = 1
+relax.reference.omega2 = 0.695893
+relax.test.theta_AC = 0.0671002
+relax.reference.bsrel_mixture_aux_1 = 0.954395
+relax.reference.omega1 = 0.272408
+relax.reference.bsrel_mixture_aux_0 = 0.430194
+relax.test.theta_AT = 0.278139
+relax.test.theta_GT = 0.166596
+relax.test.theta_CT = 0.771459
+relax.test.theta_CG = 0.185478
+OdJViRWc.tree_id_0.Trichechus_manatus.t = 0.22147
+OdJViRWc.tree_id_0.Loxodonta_africana.t = 0.0334632
+OdJViRWc.tree_id_0.Mammuthus_primigenius.t = 0
+OdJViRWc.tree_id_0.Elephas_maximus.t = 0.0132445
+OdJViRWc.tree_id_0.Node5.t = 0.0198614
+OdJViRWc.tree_id_0.Node3.t = 0.341083
+OdJViRWc.tree_id_0.Orycteropus_afer.t = 0.525194
+Optimization finished in 3 loop passes.
+238 likelihood evaluation calls and 4149 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used
