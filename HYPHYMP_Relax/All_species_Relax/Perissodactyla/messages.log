@@ -1,0 +1,487 @@
+
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Loaded 'libv3/models/codon/MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Loaded '../tasks/genetic_code.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/genetic_code.bf
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Loaded 'GrabBag' from /usr/local/lib/hyphy/TemplateBatchFiles/Utility/GrabBag.bf
+Overwritten previously defined function:'_sortStringsAux'
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Already loaded 'DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded 'parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded 'frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'libv3/tasks/estimators.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/estimators.bf
+Already loaded '../models/model_functions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/model_functions.bf
+Loaded '../models/DNA/GTR.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA/GTR.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/alignments.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/alignments.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'libv3/tasks/trees.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/trees.bf
+Already loaded '../IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded '../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'TreeTools' from /usr/local/lib/hyphy/TemplateBatchFiles/TreeTools.ibf
+Loaded 'modules/io_functions.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/io_functions.ibf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Already loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Loaded 'modules/selection_lib.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/selection_lib.ibf
+Loaded 'libv3/models/codon/BS_REL.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/BS_REL.bf
+Already loaded '../codon.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon.bf
+Already loaded '../DNA.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/DNA.bf
+Already loaded '../parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Already loaded '../frequencies.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/frequencies.bf
+Already loaded '../../UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'MG_REV.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/codon/MG_REV.bf
+Loaded '../../convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Already loaded 'libv3/convenience/math.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/math.bf
+Loaded 'libv3/tasks/mpi.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/tasks/mpi.bf
+Already loaded '../all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Already loaded '../models/parameters.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/models/parameters.bf
+Variable 'NORMALIZE_SEQUENCE_NAMES' was not initialized prior to being used
+Variable 'ASSUME_REVERSIBLE_MODELS' was not initialized prior to being used
+Loaded 'modules/shared-load-file.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/shared-load-file.bf
+Variable 'MARKDOWN_OUTPUT' was not initialized prior to being used
+Already loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Variable 'SoRghIkR.skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'NEXUS_FILE_TREE_MATRIX' was not initialized prior to being used
+Variable 'utility.ToggleEnvVariable.cache' was not initialized prior to being used
+Variable 'TREE_NODE_NAME_MAPPING' was not initialized prior to being used
+Variable 'uQkTDZeW.PROMPT_FOR_FILE' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Rooted topology. Removing one branch - the left root child has been promoted to be the new root
+Variable 'INCLUDE_MODEL_SPECS' was not initialized prior to being used
+Variable 'utility.ForEachPair.warn_non_rentrant' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Row and/or column partition is empty. All the data will be used by default.
+Loaded 'modules/grid_compute.ibf' from /usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/modules/grid_compute.ibf
+Variable 'YyYoinpJ.cache' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Variable 'COUNT_GAPS_IN_FREQUENCIES' was not initialized prior to being used
+Variable 'ctYQXcLg.model_pi' was not initialized prior to being used
+Model ctYQXcLg.model assigned to Equus_caballus
+Model ctYQXcLg.model assigned to Equus_przewalskii
+Model ctYQXcLg.model assigned to Node2
+Model ctYQXcLg.model assigned to Equus_asinus
+Model ctYQXcLg.model assigned to Ceratotherium_simum_simum
+The tips of the tree:ctYQXcLg.tree_0 were matched with the species names from the data in the following numeric order (0-based) {1,2,3,0}
+
+Pseudo-optimal path's cost 71 vs 91 for 1..k=> a 1.28169 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'USE_LAST_RESULTS' was not initialized prior to being used
+Variable 'ctYQXcLg.tree_0.Equus_caballus.t' was not initialized prior to being used
+models.generic.SetBranchLength: ctYQXcLg.tree_0.Equus_caballus.t=6.955354145686472
+Variable 'ctYQXcLg.tree_0.Equus_przewalskii.t' was not initialized prior to being used
+models.generic.SetBranchLength: ctYQXcLg.tree_0.Equus_przewalskii.t=6.955354145686472
+Variable 'ctYQXcLg.tree_0.Node2.t' was not initialized prior to being used
+models.generic.SetBranchLength: ctYQXcLg.tree_0.Node2.t=13.77643504531722
+Variable 'ctYQXcLg.tree_0.Equus_asinus.t' was not initialized prior to being used
+models.generic.SetBranchLength: ctYQXcLg.tree_0.Equus_asinus.t=20.73178919100369
+Variable 'ctYQXcLg.tree_0.Ceratotherium_simum_simum.t' was not initialized prior to being used
+models.generic.SetBranchLength: ctYQXcLg.tree_0.Ceratotherium_simum_simum.t=146.0912494931185
+Variable 'ctYQXcLg.ctYQXcLg.likelihoodFunction' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 14285-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+ctYQXcLg.model.theta_AC = 0.25
+ctYQXcLg.model.theta_AT = 0.25
+ctYQXcLg.model.theta_CG = 0.25
+ctYQXcLg.model.theta_CT = 1
+ctYQXcLg.model.theta_GT = 0.25
+ctYQXcLg.tree_0.Equus_caballus.t = 6.95535
+ctYQXcLg.tree_0.Equus_przewalskii.t = 6.95535
+ctYQXcLg.tree_0.Node2.t = 13.7764
+ctYQXcLg.tree_0.Equus_asinus.t = 20.7318
+ctYQXcLg.tree_0.Ceratotherium_simum_simum.t = 146.091
+Optimization finished in 37 loop passes.
+2019 likelihood evaluation calls and 7738 matrix exponentiations calls were made
+
+Variable 'BRANCH_LENGTH_STENCIL' was not initialized prior to being used
+Variable 'ctYQXcLg.option' was not initialized prior to being used
+Variable 'relax.terms.json.nucleotide_gtr' was not initialized prior to being used
+Variable 'Unknown' was not initialized prior to being used
+Variable 'mVFHIblz.initial_value' was not initialized prior to being used
+Variable 'KZkZg_Pf.data_filter' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 5263-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.214973
+frequencies._aux.CF3x4.p0_1 = 0.338583
+frequencies._aux.CF3x4.p0_2 = 0.633598
+frequencies._aux.CF3x4.p1_0 = 0.300137
+frequencies._aux.CF3x4.p1_1 = 0.338567
+frequencies._aux.CF3x4.p1_2 = 0.381306
+frequencies._aux.CF3x4.p2_0 = 0.117445
+frequencies._aux.CF3x4.p2_1 = 0.366537
+frequencies._aux.CF3x4.p2_2 = 0.571253
+Optimization finished in 6 loop passes.
+232 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'KZkZg_Pf.model_MGREV_pi' was not initialized prior to being used
+Model KZkZg_Pf.model_MGREV assigned to Equus_caballus
+Model KZkZg_Pf.model_MGREV assigned to Equus_przewalskii
+Model KZkZg_Pf.model_MGREV assigned to Node2
+Model KZkZg_Pf.model_MGREV assigned to Equus_asinus
+Model KZkZg_Pf.model_MGREV assigned to Ceratotherium_simum_simum
+The tips of the tree:KZkZg_Pf.tree_0 were matched with the species names from the data in the following numeric order (0-based) {1,2,3,0}
+
+Pseudo-optimal path's cost 408 vs 508 for 1..k=> a 1.2451 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'KZkZg_Pf.KZkZg_Pf.likelihoodFunction' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Equus_caballus.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Equus_przewalskii.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Node2.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Equus_asinus.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Ceratotherium_simum_simum.alpha' was not initialized prior to being used
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 43 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 89 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 1618-th LF evaluation.
+Initial guess for KZkZg_Pf.tree_0.Equus_caballus.alpha is 7.52922e-22
+Initial guess for KZkZg_Pf.tree_0.Equus_przewalskii.alpha is 4.23519e-22
+Initial guess for KZkZg_Pf.tree_0.Equus_asinus.alpha is 5.59076e-06
+Initial guess for KZkZg_Pf.tree_0.Ceratotherium_simum_simum.alpha is 0.000130594
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+KZkZg_Pf.model_MGREV.theta_CT = 1
+KZkZg_Pf.model_MGREV.theta_GT = 1
+KZkZg_Pf.model_MGREV.theta_CG = 1
+KZkZg_Pf.model_MGREV.theta_AC = 1
+KZkZg_Pf.model_MGREV.theta_AT = 1
+KZkZg_Pf.model_MGREV.omega_0 = 1
+KZkZg_Pf.tree_0.Equus_caballus.alpha = 7.52922e-22
+KZkZg_Pf.tree_0.Equus_przewalskii.alpha = 4.23519e-22
+KZkZg_Pf.tree_0.Node2.alpha = 0.1
+KZkZg_Pf.tree_0.Equus_asinus.alpha = 5.59076e-06
+KZkZg_Pf.tree_0.Ceratotherium_simum_simum.alpha = 0.000130594
+KZkZg_Pf.model_MGREV.omega_1 = 1
+Optimization finished in 83 loop passes.
+4175 likelihood evaluation calls and 14979 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 5376-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.214973
+frequencies._aux.CF3x4.p0_1 = 0.338583
+frequencies._aux.CF3x4.p0_2 = 0.633598
+frequencies._aux.CF3x4.p1_0 = 0.300137
+frequencies._aux.CF3x4.p1_1 = 0.338567
+frequencies._aux.CF3x4.p1_2 = 0.381306
+frequencies._aux.CF3x4.p2_0 = 0.117445
+frequencies._aux.CF3x4.p2_1 = 0.366537
+frequencies._aux.CF3x4.p2_2 = 0.571253
+Optimization finished in 6 loop passes.
+233 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'KZkZg_Pf.model_MGREV_pi' was not initialized prior to being used
+Model KZkZg_Pf.model_MGREV assigned to Equus_caballus
+Model KZkZg_Pf.model_MGREV assigned to Equus_przewalskii
+Model KZkZg_Pf.model_MGREV assigned to Node2
+Model KZkZg_Pf.model_MGREV assigned to Equus_asinus
+Model KZkZg_Pf.model_MGREV assigned to Ceratotherium_simum_simum
+The tips of the tree:KZkZg_Pf.tree_0 were matched with the species names from the data in the following numeric order (0-based) {1,2,3,0}
+
+Pseudo-optimal path's cost 408 vs 508 for 1..k=> a 1.2451 x improvement
+Partition 0 is ASSUMED to have a reversible model
+Variable 'KZkZg_Pf.tree_0.Node2.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Equus_asinus.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Equus_przewalskii.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Equus_caballus.alpha' was not initialized prior to being used
+Variable 'KZkZg_Pf.tree_0.Ceratotherium_simum_simum.alpha' was not initialized prior to being used
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 43 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 89 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 61 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 94 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 1700-th LF evaluation.
+Initial guess for KZkZg_Pf.tree_0.Equus_caballus.alpha is 7.52922e-22
+Initial guess for KZkZg_Pf.tree_0.Equus_przewalskii.alpha is 4.23519e-22
+Initial guess for KZkZg_Pf.tree_0.Equus_asinus.alpha is 5.59076e-06
+Initial guess for KZkZg_Pf.tree_0.Ceratotherium_simum_simum.alpha is 0.000130594
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+KZkZg_Pf.model_MGREV.theta_AT = 1
+KZkZg_Pf.model_MGREV.theta_AC = 1
+KZkZg_Pf.model_MGREV.theta_CG = 1
+KZkZg_Pf.model_MGREV.theta_CT = 1
+KZkZg_Pf.model_MGREV.theta_GT = 1
+KZkZg_Pf.model_MGREV.omega_0 = 1
+KZkZg_Pf.tree_0.Equus_caballus.alpha = 7.52922e-22
+KZkZg_Pf.tree_0.Equus_przewalskii.alpha = 4.23519e-22
+KZkZg_Pf.tree_0.Node2.alpha = 0.1
+KZkZg_Pf.tree_0.Equus_asinus.alpha = 5.59076e-06
+KZkZg_Pf.tree_0.Ceratotherium_simum_simum.alpha = 0.000130594
+KZkZg_Pf.model_MGREV.omega_1 = 1
+Optimization finished in 74 loop passes.
+3543 likelihood evaluation calls and 12607 matrix exponentiations calls were made
+
+Overwritten previously defined function:'kFdwUyaf.rate_generator'
+Overwritten previously defined function:'kFdwUyaf.rate_generator'
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 5154-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.214973
+frequencies._aux.CF3x4.p0_1 = 0.338583
+frequencies._aux.CF3x4.p0_2 = 0.633598
+frequencies._aux.CF3x4.p1_0 = 0.300137
+frequencies._aux.CF3x4.p1_1 = 0.338567
+frequencies._aux.CF3x4.p1_2 = 0.381306
+frequencies._aux.CF3x4.p2_0 = 0.117445
+frequencies._aux.CF3x4.p2_1 = 0.366537
+frequencies._aux.CF3x4.p2_2 = 0.571253
+Optimization finished in 6 loop passes.
+232 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.test_pi' was not initialized prior to being used
+Overwritten previously defined function:'kFdwUyaf.rate_generator'
+Overwritten previously defined function:'kFdwUyaf.rate_generator'
+Overwritten previously defined function:'kFdwUyaf.rate_generator'
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 4464-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+frequencies._aux.CF3x4.p0_0 = 0.214973
+frequencies._aux.CF3x4.p0_1 = 0.338583
+frequencies._aux.CF3x4.p0_2 = 0.633598
+frequencies._aux.CF3x4.p1_0 = 0.300137
+frequencies._aux.CF3x4.p1_1 = 0.338567
+frequencies._aux.CF3x4.p1_2 = 0.381306
+frequencies._aux.CF3x4.p2_0 = 0.117445
+frequencies._aux.CF3x4.p2_1 = 0.366537
+frequencies._aux.CF3x4.p2_2 = 0.571253
+Optimization finished in 6 loop passes.
+231 likelihood evaluation calls and 0 matrix exponentiations calls were made
+
+Variable 'relax.reference_pi' was not initialized prior to being used
+No nodel was assigned to Equus_caballus
+No nodel was assigned to Equus_przewalskii
+No nodel was assigned to Node2
+No nodel was assigned to Equus_asinus
+No nodel was assigned to Ceratotherium_simum_simum
+The tips of the tree:Mdx_Mtgt.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {1,2,3,0}
+
+Pseudo-optimal path's cost 408 vs 508 for 1..k=> a 1.2451 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+Variable 'Mdx_Mtgt.tree_id_0.Equus_caballus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Equus_caballus.t=2.481541837659083e-24
+Variable 'Mdx_Mtgt.tree_id_0.Equus_przewalskii.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Equus_przewalskii.t=1.240770918829542e-24
+Variable 'Mdx_Mtgt.tree_id_0.Node2.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Node2.t=0.04459508342171346
+Variable 'Mdx_Mtgt.tree_id_0.Equus_asinus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Equus_asinus.t=0.05084998036431661
+Variable 'Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t=0.889248205228796
+Variable 'Mdx_Mtgt.Mdx_Mtgt.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 137-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.bsrel_mixture_aux_1 = 0.818182
+relax.reference.omega2 = 0.4601
+relax.reference.omega3 = 7.27482
+relax.reference.omega1 = 0.145496
+relax.test.theta_AC = 0.142386
+relax.reference.bsrel_mixture_aux_0 = 0.45
+relax.test.theta_AT = 7.96599e-15
+relax.test.theta_GT = 0.32565
+relax.test.theta_CG = 0.373106
+relax.test.theta_CT = 0.575735
+relax.K = 1
+Mdx_Mtgt.tree_id_0.Equus_caballus.t = 2.48154e-24
+Mdx_Mtgt.tree_id_0.Equus_przewalskii.t = 1.24077e-24
+Mdx_Mtgt.tree_id_0.Node2.t = 0.0445951
+Mdx_Mtgt.tree_id_0.Equus_asinus.t = 0.05085
+Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t = 0.889248
+Optimization finished in 81 loop passes.
+5230 likelihood evaluation calls and 62817 matrix exponentiations calls were made
+
+Variable 'MPI_NODE_COUNT' was not initialized prior to being used
+No nodel was assigned to Equus_caballus
+No nodel was assigned to Equus_przewalskii
+No nodel was assigned to Node2
+No nodel was assigned to Equus_asinus
+No nodel was assigned to Ceratotherium_simum_simum
+Likelihood function cleared because partition index '0' points to invalid components
+The tips of the tree:Mdx_Mtgt.tree_id_0 were matched with the species names from the data in the following numeric order (0-based) {1,2,3,0}
+
+Pseudo-optimal path's cost 408 vs 508 for 1..k=> a 1.2451 x improvement
+Partition 0 is ASSUMED to have a reversible model
+relax.reference.theta_AC was already constrained in estimators.SetGlobals2
+relax.reference.theta_AG was already constrained in estimators.SetGlobals2
+relax.reference.theta_AT was already constrained in estimators.SetGlobals2
+relax.reference.theta_CG was already constrained in estimators.SetGlobals2
+relax.reference.theta_CT was already constrained in estimators.SetGlobals2
+relax.reference.theta_GT was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_0 was already constrained in estimators.SetGlobals2
+relax.test.bsrel_mixture_aux_1 was already constrained in estimators.SetGlobals2
+relax.test.theta_AG was already constrained in estimators.SetGlobals2
+relax.test.omega1 was already constrained in estimators.SetGlobals2
+relax.test.omega2 was already constrained in estimators.SetGlobals2
+relax.test.omega3 was already constrained in estimators.SetGlobals2
+Variable 'Mdx_Mtgt.tree_id_0.Equus_caballus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Equus_caballus.t=4.135903062765138e-25
+Variable 'Mdx_Mtgt.tree_id_0.Equus_przewalskii.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Equus_przewalskii.t=2.067951531382569e-25
+Variable 'Mdx_Mtgt.tree_id_0.Node2.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Node2.t=0.02664466696936612
+Variable 'Mdx_Mtgt.tree_id_0.Equus_asinus.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Equus_asinus.t=0.02513821153641813
+Variable 'Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t' was not initialized prior to being used
+models.generic.SetBranchLength: Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t=1.332661709742791
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 84-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.bsrel_mixture_aux_1 = 0.839833
+relax.reference.omega2 = 1
+relax.reference.omega3 = 52.6099
+relax.reference.omega1 = 0.0746313
+relax.test.theta_AC = 0.0345258
+relax.reference.bsrel_mixture_aux_0 = 0.650372
+relax.test.theta_AT = 1.34841e-16
+relax.test.theta_GT = 0.238452
+relax.test.theta_CG = 0.206699
+relax.test.theta_CT = 0.393567
+relax.K = 1
+Mdx_Mtgt.tree_id_0.Equus_caballus.t = 4.1359e-25
+Mdx_Mtgt.tree_id_0.Equus_przewalskii.t = 2.06795e-25
+Mdx_Mtgt.tree_id_0.Node2.t = 0.0266447
+Mdx_Mtgt.tree_id_0.Equus_asinus.t = 0.0251382
+Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t = 1.33266
+Optimization finished in 18 loop passes.
+1587 likelihood evaluation calls and 18336 matrix exponentiations calls were made
+
+Variable 'LbptSyRg.Mdx_Mtgt.likelihoodFunction' was not initialized prior to being used
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 101-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+relax.reference.omega2 = 1
+relax.reference.omega3 = 55.9769
+relax.reference.bsrel_mixture_aux_1 = 0.77468
+relax.test.theta_AC = 0.0323797
+relax.test.theta_AT = 2.15745e-18
+relax.test.theta_CG = 0.19542
+relax.reference.omega1 = 0.171525
+relax.reference.bsrel_mixture_aux_0 = 0.738517
+relax.test.theta_GT = 0.23411
+relax.test.theta_CT = 0.387612
+Mdx_Mtgt.tree_id_0.Equus_caballus.t = 9.36266e-27
+Mdx_Mtgt.tree_id_0.Equus_przewalskii.t = 4.68133e-27
+Mdx_Mtgt.tree_id_0.Node2.t = 0.00814588
+Mdx_Mtgt.tree_id_0.Equus_asinus.t = 0.00763025
+Mdx_Mtgt.tree_id_0.Ceratotherium_simum_simum.t = 0.441982
+Optimization finished in 11 loop passes.
+756 likelihood evaluation calls and 9309 matrix exponentiations calls were made
+
+Variable 'USE_JSON_FOR_MATRIX' was not initialized prior to being used
