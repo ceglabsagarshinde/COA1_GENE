@@ -1,8 +1,0 @@
-Acinonyx_jubatus2
-Felis_catus2
-Lynx_lynx2
-Panthera_pardus2
-Panthera_leo2
-Panthera_tigris2
-Puma_concolor2
-Suricata_suricatta2

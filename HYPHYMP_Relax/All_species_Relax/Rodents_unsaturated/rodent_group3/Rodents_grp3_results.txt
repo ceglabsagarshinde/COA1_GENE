@@ -1,2 +1,0 @@
-Heterocephalus_glaber `Ochotona_princeps,Fukomys_damarensis,Node4,Cavia_porcellus,Cavia_aperea,Node8,Octodon_degus,Chinchilla_lanigera,Node11,Node7,Node3,Sciurus_vulgaris` 0.3880 2.31
-Oryctolagus_cuniculus `Ochotona_princeps,Fukomys_damarensis,Cavia_porcellus,Cavia_aperea,Node8,Octodon_degus,Chinchilla_lanigera,Node11,Node7,Node5,Sciurus_vulgaris,Node4` 0.3031 0.67
