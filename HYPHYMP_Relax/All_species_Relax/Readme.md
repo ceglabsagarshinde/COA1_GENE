@@ -1,49 +1,47 @@
+
 ## Relax test for groups
-For relax test on pseudogenized copy of COA1 gene in different groups, we labelled one pseudogenized species as foreground and functional species as background.
-For the groups of COA1 gene pseudogenized species associated folders with respective script (duplicate_relax.sh).
-All pseudogenized groups of COA1 gene mentined below with their folders and subfolders, each of them contains  code for relax test (pseudo_script.sh).
 
+For relax test on pseudogenized copy of COA1 gene in different groups, we labelled one pseudogenized species as foreground and functional species as background. For the groups of COA1 gene pseudogenized species associated folders with respective script (pseudo_script.sh). 
 
-Birds/pseudogene/
+Rodents_saturated_pseudogene
 
-Carnivore/Feliform/psedogene
+Rodents_unsaturated_pseudogene_group1
 
-Rodents_unsaturated/rodent_group1
+Rodents_unsaturated_pseudogene_group2
 
-Rodents_unsaturated/rodent_group2      
+Rodents_unsaturated_pseudogene_group3
 
-Rodents_unsaturated/rodent_group3
+Feliformia_pseudogene
 
-Rodents_saturated/ 
+Birds_pseudogene
 
-For relax test on a functional copy of the COA1 gene in different groups, we labeled one species as foreground and the remaining functional species as background.
-All functional groups of COA1 gene mentioned below with their folders and subfolders, each of them contains code for relax test (relax.sh).
+For relax test on a functional copy of the COA1 gene in different groups, we labeled one species as foreground and the remaining functional species as background. All functional groups of COA1 gene mentioned below with their folders and subfolders, each of them contains code for relax test (relax.sh).
 
 Afrotheria
 
 Amphibian_Reptiles
 
-Artiodactyla 
+Artiodactyla
 
-Birds/Functional
+Birds_functional
 
-Carnivore/Feliform/functional
+Perissodactyla
 
-Carnivore/Caniform
+Primates_functional
 
-Chiroptera 
+Caniformia
 
-Primates_functional 
+Chiroptera
 
-Rodents_unsaturated/functional_species 
+Feliformia_functional
 
-perissodactyla 
+Rodents_unsaturated_functional
 
-For relax test on a duplicated copy of the COA1 gene in different groups, we labeled one duplicated copy as foreground and functional species as background.
-All duplicated groups of COA1 gene mentioned below with their folders, and each folder contains code for relax test(duplicate_relax.sh).
 
-Feliformia_duplicate 
+For relax test on a duplicated copy of the COA1 gene in different groups, we labeled one duplicated copy as foreground and functional species as background. All duplicated groups of COA1 gene mentioned below with their folders, and each folder contains code for relax test(duplication_relax.sh).
 
-primates_duplicate
+Feliformia_duplicate
 
-Caniformia_duplicated
+Caniformia_duplicate
+
+Primates_duplicate
