@@ -1,0 +1,161 @@
+[2J[H     /HYPHY 2.3.14.20190729beta(MP) for Linux on x86_64\     
+***************** TYPES OF STANDARD ANALYSES *****************
+
+
+	(1) Selection Analyses
+	(2) Evolutionary Hypothesis Testing
+	(3) Relative evolutionary rate inference
+	(4) Coevolutionary analysis
+	(5) Basic Analyses
+	(6) Codon Selection Analyses
+	(7) Compartmentalization
+	(8) Data File Tools
+	(9) Miscellaneous
+	(10) Model Comparison
+	(11) Kernel Analysis Tools
+	(12) Molecular Clock
+	(13) Phylogeny Reconstruction
+	(14) Positive Selection
+	(15) Recombination
+	(16) Selection/Recombination
+	(17) Relative Rate
+	(18) Relative Ratio
+	(19) Substitution Rates
+
+ Please select type of analyses you want to list (or press ENTER to process custom batch file):[2J[H***************** FILES IN 'Selection Analyses' ***************** 
+
+
+	(1) [MEME] Test for episodic site-level selection using MEME (Mixed Effects Model of Evolution).
+	(2) [FEL] Test for pervasive site-level selection using FEL (Fixed Effects Likelihood).
+	(3) [SLAC] Test for pervasive site-level selection using SLAC (Single Likelihood Ancestor Counting).
+	(4) [FUBAR] Test for pervasive site-level selection using FUBAR (Fast Unconstrained Bayesian AppRoximation for inferring selection).
+	(5) [BUSTED] Test for episodic gene-wide selection using BUSTED (Branch-site Unrestricted Statistical Test of Episodic Diversification).
+	(6) [aBSREL] Test for lineage-specific evolution using the branch-site method aBS-REL (Adaptive Branch-Site Random Effects Likelihood).
+	(7) [RELAX] Test for relaxation of selection pressure along a specified set of test branches using RELAX (a random effects test of selection relaxation).
+
+ Please select the analysis you would like to perform (or press ENTER to return to the list of analysis types):
+Analysis Description
+--------------------
+RELAX (a random effects test of selection relaxation) uses a random
+effects branch-site model framework to test whether a set of 'Test'
+branches evolves under relaxed selection relative to a set of
+'Reference' branches (R), as measured by the relaxation parameter (K).
+Version 2.1 adds a check for stability in K estimates to try to mitigate
+convergence problems
+
+- __Requirements__: in-frame codon alignment and a phylogenetic tree, with at least two
+groups of branches defined using the {} notation (one group can be
+defined as all unlabeled branches)
+
+- __Citation__: RELAX: Detecting Relaxed Selection in a Phylogenetic Framework (2015).
+Mol Biol Evol 32 (3): 820-832
+
+- __Written by__: Sergei L Kosakovsky Pond, Ben Murrell, Steven Weaver and Temple iGEM /
+UCSD viral evolution group
+
+- __Contact Information__: spond@temple.edu
+
+- __Analysis Version__: 2.1
+
+
+
+####Choose Genetic Code
+
+1. [**Universal**] Universal code. (Genebank transl_table=1).
+2. [**Vertebrate mtDNA**] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+3. [**Yeast mtDNA**] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+4. [**Mold/Protozoan mtDNA**] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+5. [**Invertebrate mtDNA**] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+6. [**Ciliate Nuclear**] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+7. [**Echinoderm mtDNA**] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+8. [**Euplotid Nuclear**] Euplotid Nuclear code. (Genebank transl_table=10).
+9. [**Alt. Yeast Nuclear**] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+10. [**Ascidian mtDNA**] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+11. [**Flatworm mtDNA**] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+12. [**Blepharisma Nuclear**] Blepharisma Nuclear code. (Genebank transl_table=15).
+13. [**Chlorophycean mtDNA**] Chlorophycean Mitochondrial Code (transl_table=16).
+14. [**Trematode mtDNA**] Trematode Mitochondrial Code (transl_table=21).
+15. [**Scenedesmus obliquus mtDNA**] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+16. [**Thraustochytrium mtDNA**] Thraustochytrium Mitochondrial Code (transl_table=23).
+17. [**Pterobranchia mtDNA**] Pterobranchia Mitochondrial Code (transl_table=24).
+18. [**SR1 and Gracilibacteria**] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+19. [**Pachysolen Nuclear**] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+>Please choose an option (or press q to cancel selection):
+
+>Select a coding sequence alignment file (`/usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/`) 
+
+>Please select a tree file for the data: (`/usr/local/lib/hyphy/TemplateBatchFiles/SelectionAnalyses/`) 
+>Loaded a multiple sequence alignment with **88** sequences, **139** codons, and **1** partitions from `/home/ceglab5/Desktop/wrapper_relax/HYPHYMP_Relax/All_species_Relax/Birds_functional/Birds_functional.aln`
+
+
+####Choose the set of branches to use as the _test_ set
+
+1. [**Unlabeled branches**] Set of 172 unlabeled branches
+2. [**fg**] Set fg with 1 branches
+
+>Please choose an option (or press q to cancel selection):
+
+### Branch sets for RELAX analysis
+* Selected 1 branches as the _test_ set: `Sturnus_vulgaris`
+* Selected 172 branches as the _reference_ set: `Apteryx_rowi, Apteryx_australis_mantelli, Node5, Dromaius_novaehollandiae, Casuarius_casuarius, Node8, Node4, Rhea_americana, Node3, Struthio_camelus_australis, Node2, Nothoprocta_perdicaria, Alectura_lathami, Colinus_virginianus, Callipepla_squamata, Node20, Chrysolophus_pictus, Phasianus_colchicus, Node23, Node19, Penelope_pileata, Node18, Node16, Anseranas_semipalmata, Oxyura_jamaicensis, Cygnus_atratus, Anser_cygnoides, Node32, Node30, Aythya_fuligula, Anas_platyrhynchos, Node35, Node29, Node27, Node15, Corythaeola_cristata, Tauraco_erythrolophus, Node41, Cuculus_canorus, Node40, Picoides_pubescens, Apaloderma_vittatum, Node51, Colius_striatus, Node50, Buceros_rhinoceros, Node49, Merops_nubicus, Leptosomus_discolor, Node56, Node48, Melopsittacus_undulatus, Nestor_notabilis, Node60, Athene_cunicularia, Tyto_alba_alba, Node63, Node59, Node47, Acanthisitta_chloris, Corapipo_altera, Chiroxiphia_lanceolata, Node72, Pipra_filicauda, Lepidothrix_coronata, Manacus_vitellinus, Node77, Node75, Node71, Neopelma_chrysocephalum, Node70, Empidonax_traillii, Node69, Catharus_ustulatus, Ficedula_albicollis, Node87, Node86, Stachyridopsis_ruficeps, Node85, Parus_major, Cyanistes_caeruleus, Node93, Pseudopodoces_humilis, Node92, Node84, Zonotrichia_albicollis, Camarhynchus_parvulus, Geospiza_fortis, Node100, Node98, Passer_domesticus, Molothrus_ater, Serinus_canaria, Node106, Node104, Lonchura_Striata_domestica, Taeniopygia_guttata, Node110, Erythrura_gouldiae, Node109, Node103, Node97, Node83, Oriolus_oriolus, Corvus_brachyrhynchos, Corvus_moneduloides, Node117, Node115, Malurus_cyaneus, Node114, Node82, Node68, Node66, Node46, Columba_livia, Opisthocomus_hoazin, Node122, Cariama_cristata, Balearica_regulorum_gibbericeps, Chlamydotis_macqueenii, Node131, Rhynochetus_jubatus, Eurypyga_helias, Node135, Mesitornis_unicolor, Node134, Node130, Node128, Pterocles_gutturalis, Phaethon_lepturus, Egretta_garzetta, Nipponia_nippon, Node145, Pelecanus_crispus, Node144, Phalacrocorax_carbo, Node143, Node141, Node139, Node127, Fulmarus_glacialis, Pygoscelis_adeliae, Aptenodytes_forsteri, Node154, Node152, Gavia_stellata, Node151, Calidris_pugnax, Charadrius_vociferus, Node158, Node150, Node126, Falco_peregrinus, Falco_cherrug, Node162, Aquila_chrysaetos_chrysaetos, Buteo_japonicus, Node166, Haliaeetus_leucocephalus, Node165, Node161, Node125, Node121, Node45, Node39, Calypte_anna, Chaetura_pelagica, Node171, Antrostomus_carolinensis, Node170, Node38, Node14`
+
+
+####RELAX analysis type
+
+1. [**All**] [Default] Fit descriptive models AND run the relax test (4 models)
+2. [**Minimal**] Run only the RELAX test (2 models)
+
+>Please choose an option (or press q to cancel selection):
+
+### Obtaining branch lengths and nucleotide substitution biases under the nucleotide GTR model
+* Log(L) = -6785.02, AIC-c = 13933.85 (181 estimated parameters)
+
+### Obtaining the global omega estimate based on relative GTR branch lengths and nucleotide substitution biases
+* Log(L) = -6441.99, AIC-c = 13267.95 (189 estimated parameters)
+* non-synonymous/synonymous rate ratio for *Reference* =   0.2361
+* non-synonymous/synonymous rate ratio for *Test* =   0.4526
+
+### Improving branch lengths, nucleotide substitution biases, and global dN/dS ratios under a full codon model
+* Log(L) = -6441.99, AIC-c = 13267.95 (189 estimated parameters)
+* non-synonymous/synonymous rate ratio for *Reference* =   0.2364
+* non-synonymous/synonymous rate ratio for *Test* =   0.4537
+
+### Fitting the alternative model to test K != 1
+* Log(L) = -6420.00, AIC-c = 13232.21 (193 estimated parameters)
+* Relaxation/intensification parameter (K) =     2.10
+* The following rate distribution was inferred for **test** branches
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.000     |   59.140    |                                   |
+|        Negative selection         |     0.106     |   36.235    |                                   |
+|      Diversifying selection       |     9.964     |    4.626    |                                   |
+
+* The following rate distribution was inferred for **reference** branches
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.008     |   59.140    |                                   |
+|        Negative selection         |     0.344     |   36.235    |                                   |
+|      Diversifying selection       |     2.985     |    4.626    |                                   |
+
+
+### * Potential convergence issues due to flat likelihood surfaces; checking to see whether K > 1 or K < 1 is robustly inferred
+
+### Fitting the null (K := 1) model
+* Log(L) = -6420.12, AIC-c = 13230.40 (192 estimated parameters)
+* The following rate distribution for test/reference branches was inferred
+
+|          Selection mode           |     dN/dS     |Proportion, %|               Notes               |
+|-----------------------------------|---------------|-------------|-----------------------------------|
+|        Negative selection         |     0.079     |   71.824    |                                   |
+|        Negative selection         |     0.433     |   26.400    |                                   |
+|      Diversifying selection       |     5.924     |    1.775    |                                   |
+
+----
+## Test for relaxation (or intensification) of selection [RELAX]
+Likelihood ratio test **p =   0.6144**.
+>No significant evidence for relaxation (or intensification) of selection among **test** branches _relative_ to the **reference** branches at P<=0.05
+----
+
