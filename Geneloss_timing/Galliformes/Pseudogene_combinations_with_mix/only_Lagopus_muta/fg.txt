@@ -1,0 +1,8 @@
+Odontophorus_gujanensis
+Coturnix_japonica
+Meleagris_gallopavo
+Lagopus_muta
+Pavo_cristatus
+Gallus_gallus
+Syrmaticus_mikado
+Numida_meleagris
