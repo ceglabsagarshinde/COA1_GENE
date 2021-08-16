@@ -1,0 +1,3 @@
+Lyrurus_tetrix	37.2
+Centrocercus_minimus	37.2
+Lagopus_muta	37.2
