@@ -1,2 +1,0 @@
-Castor_canadensis_F1x4	0.37201	 16	-1888.879575
-Castor_canadensis_F3x4	0.33216	 16	-1903.134754
