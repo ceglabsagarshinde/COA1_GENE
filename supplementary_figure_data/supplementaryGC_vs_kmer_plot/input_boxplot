@@ -1,0 +1,266 @@
+Afrotheria	Elephas_maximus			85	41.17647059	149	47.65100671	77	54.54545455	100	49														
+Afrotheria	Loxodonta_africana			85	41.17647059	149	48.99328859	77	54.54545455	100	50														
+Afrotheria	Mammuthus_primigenius			85	41.17647059	149	47.65100671	77	54.54545455	100	49														
+Afrotheria	Orycteropus_afer_afer			85	45.88235294	149	45.63758389	77	51.94805195	97	44.32989691														
+Afrotheria	Trichechus_manatus			85	50.58823529	149	51.00671141	77	57.14285714	100	47														
+Alligators	Alligator_mississippiensis			94	35.10638298	152	48.68421053	71	39.43661972	97	46.39175258														
+Alligators	Alligator_sinensis			94	35.10638298	152	50	71	38.02816901	97	45.36082474														
+Alligators	Crocodylus_porosus			94	32.9787234	152	52.63157895	71	42.25352113	97	48.45360825														
+Alligators	Gavialis_gangeticus			94	37.23404255	152	52.63157895	71	42.25352113	97	45.36082474														
+Artiyodactyla	Balaenoptera_acutorostrata			85	56.47058824	149	54.36241611	77	55.84415584	100	52														
+Artiyodactyla	Balaenoptera_musculus			85	55.29411765	149	53.69127517	77	49.35064935	100	52														
+Artiyodactyla	Bison_bison_bison			85	56.47058824	149	55.03355705	77	51.94805195	97	51.54639175														
+Artiyodactyla	Bos_mutus			85	56.47058824	149	53.69127517	77	51.94805195	97	52.57731959														
+Artiyodactyla	Bos_taurus			85	56.47058824	149	55.03355705	77	51.94805195	97	52.57731959														
+Artiyodactyla	Bubalus_bubalis			85	57.64705882	149	53.69127517	77	51.94805195	97	52.57731959														
+Artiyodactyla	Camelus_bactrianus			85	60	149	58.38926174	77	54.54545455	103	53.39805825														
+Artiyodactyla	Camelus_dromedarius			85	60	149	58.38926174	77	54.54545455	103	53.39805825														
+Artiyodactyla	Camelus_ferus			85	60	149	58.38926174	77	54.54545455	103	52.42718447														
+Artiyodactyla	Capra_hircus			85	55.29411765	149	53.02013423	77	50.64935065	97	51.54639175														
+Artiyodactyla	Delphinapterus_leucas			85	55.29411765	149	51.67785235	77	49.35064935	100	52														
+Artiyodactyla	Globicephala_melas			85	56.47058824	149	51.00671141	77	49.35064935	100	52														
+Artiyodactyla	Lagenorhynchus_obliquidens			85	56.47058824	149	51.00671141	77	50.64935065	100	52														
+Artiyodactyla	Lipotes_vexillifer			85	54.11764706	149	51.00671141	77	49.35064935	100	52														
+Artiyodactyla	Monodon_monoceros			85	55.29411765	149	51.67785235	77	49.35064935	100	52														
+Artiyodactyla	Neophocaena_asiaeorientalis			85	56.47058824	149	51.67785235	77	49.35064935	100	51														
+Artiyodactyla	Odocoileus_virginianus_texanus			85	56.47058824	149	52.34899329	77	51.94805195	97	52.57731959														
+Artiyodactyla	Orcinus_orca			85	56.47058824	149	51.00671141	77	49.35064935	100	52														
+Artiyodactyla	Ovis_aries			85	56.47058824	149	53.69127517	77	50.64935065	97	52.57731959														
+Artiyodactyla	Phocoena_sinus			85	56.47058824	149	51.67785235	77	49.35064935	100	51														
+Artiyodactyla	Physeter_catodon			85	54.11764706	149	52.34899329	77	50.64935065	100	53														
+Artiyodactyla	Sus_scrofa			85	52.94117647	149	56.37583893	77	62.33766234	88	64.77272727														
+Artiyodactyla	Tursiops_truncatus			85	56.47058824	149	52.34899329	77	49.35064935	100	52														
+Artiyodactyla	Vicugna_pacos			85	57.64705882	149	58.38926174	77	53.24675325	100	56														
+Birds	Acanthisitta_chloris			94	45.74468085	152	53.28947368	77	45.45454545	88	50														
+Birds	Alectura_lathami			94	41.4893617	152	49.34210526	77	40.25974026	97	61.8556701														
+Birds	Anas_platyrhynchos			94	42.55319149	152	53.94736842	77	44.15584416	97	50.51546392														
+Birds	Anseranas_semipalmata			94	41.4893617	152	50.65789474	77	37.66233766	97	46.39175258														
+Birds	Anser_cygnoides			94	43.61702128	152	52.63157895	77	45.45454545	97	49.48453608														
+Birds	Antrostomus_carolinensis			94	44.68085106	152	53.94736842	77	42.85714286	97	49.48453608														
+Birds	Apaloderma_vittatum			94	46.80851064	152	52.63157895	77	48.05194805	97	45.36082474														
+Birds	Aptenodytes_forsteri			94	45.74468085	152	52.63157895	77	44.15584416	97	51.54639175														
+Birds	Apteryx_australis_mantelli			94	41.4893617	152	52.63157895	77	41.55844156	97	50.51546392														
+Birds	Apteryx_rowi			94	41.4893617	152	52.63157895	77	41.55844156	97	50.51546392														
+Birds	Aquila_chrysaetos_chrysaetos			94	44.68085106	152	53.94736842	77	45.45454545	97	50.51546392														
+Birds	Athene_cunicularia			94	45.74468085	152	53.28947368	77	49.35064935	97	48.45360825														
+Birds	Aythya_fuligula			94	43.61702128	152	55.26315789	77	42.85714286	97	51.54639175														
+Birds																									
+Birds	Buceros_rhinoceros			94	46.80851064	152	57.23684211	77	48.05194805	88	53.40909091														
+Birds	Buteo_japonicus			94	44.68085106	152	52.63157895	77	45.45454545	97	52.57731959														
+Birds	Calidris_pugnax			94	50	152	58.55263158	77	45.45454545	97	54.63917526														
+Birds	Callipepla_squamata			94	40.42553191	152	51.31578947	77	35.06493506	97	57.73195876														
+Birds	Calypte_anna			94	43.61702128	152	57.89473684	77	40.25974026	97	47.42268041														
+Birds	Camarhynchus_parvulus			94	47.87234043	152	53.94736842	77	46.75324675	97	48.45360825														
+Birds	Cariama_cristata			94	46.80851064	152	53.94736842	77	46.75324675	97	51.54639175														
+Birds	Casuarius_casuarius			94	40.42553191	152	53.94736842	77	41.55844156	97	50.51546392														
+Birds	Catharus_ustulatus			94	43.61702128	152	55.26315789	77	46.75324675	97	50.51546392														
+Birds	Chaetura_pelagica			94	44.68085106	152	54.60526316	77	48.05194805	97	51.54639175														
+Birds	Charadrius_vociferus			94	46.80851064	152	53.28947368	77	42.85714286	97	49.48453608														
+Birds	Chiroxiphia_lanceolata			94	43.61702128	152	51.31578947	77	46.75324675	97	49.48453608														
+Birds	Chlamydotis_macqueenii			94	43.61702128	152	53.28947368	77	45.45454545	97	49.48453608														
+Birds	Colius_striatus			94	47.87234043	152	54.60526316	77	46.75324675	97	50.51546392														
+Birds	Columba_livia			94	44.68085106	152	54.60526316	77	42.85714286	97	53.60824742														
+Birds	Corapipo_altera			94	45.74468085	152	50.65789474	77	45.45454545	97	50.51546392														
+Birds	Corvus_brachyrhynchos			94	44.68085106	152	55.26315789	77	50.64935065	97	48.45360825														
+Birds																									
+Birds	Corvus_moneduloides			94	45.74468085	152	54.60526316	77	50.64935065	97	48.45360825														
+Birds	Corythaeola_cristata			94	45.74468085	152	49.34210526	77	44.15584416	97	51.54639175														
+Birds	Cuculus_canorus			94	43.61702128	152	51.31578947	77	42.85714286	97	49.48453608														
+Birds	Cyanistes_caeruleus			94	45.74468085	152	53.94736842	77	46.75324675	97	49.48453608														
+Birds	Cygnus_atratus			94	43.61702128	152	52.63157895	77	45.45454545	97	50.51546392														
+Birds	Dromaius_novaehollandiae			94	41.4893617	152	53.28947368	77	40.25974026	97	49.48453608														
+Birds	Egretta_garzetta			94	43.61702128	152	55.26315789	77	44.15584416	97	52.57731959														
+Birds	Empidonax_traillii			94	42.55319149	152	52.63157895	77	46.75324675	97	51.54639175														
+Birds	Erythrura_gouldiae			94	47.87234043	152	50.65789474	77	46.75324675	97	49.48453608														
+Birds	Eurypyga_helias			94	45.74468085	152	51.97368421	77	44.15584416	97	55.67010309														
+Birds	Falco_cherrug			94	46.80851064	152	53.28947368	77	44.15584416	97	49.48453608														
+Birds	Falco_peregrinus			94	46.80851064	152	53.28947368	77	44.15584416	97	49.48453608														
+Birds	Ficedula_albicollis			94	43.61702128	152	58.55263158	77	50.64935065	97	51.54639175														
+Birds	Fulmarus_glacialis			94	44.68085106	152	54.60526316	77	46.75324675	97	51.54639175														
+Birds	Gavia_stellata			94	48.93617021	152	54.60526316	77	44.15584416	97	50.51546392														
+Birds	Geospiza_fortis			94	47.87234043	152	53.94736842	77	46.75324675	97	48.45360825														
+Birds	Haliaeetus_leucocephalus			94	44.68085106	152	53.28947368	77	46.75324675	97	51.54639175														
+Birds	Lepidothrix_coronata			94	44.68085106	152	51.97368421	77	48.05194805	97	49.48453608														
+Birds	Leptosomus_discolor			94	44.68085106	152	52.63157895	77	42.85714286	97	51.54639175														
+Birds																									
+Birds	Malurus_cyaneus			94	43.61702128	152	53.28947368	77	44.15584416	88	45.45454545														
+Birds	Manacus_vitellinus			94	44.68085106	152	51.97368421	77	46.75324675	97	49.48453608														
+Birds	Melopsittacus_undulatus			94	44.68085106	152	53.94736842	77	44.15584416	97	51.54639175														
+Birds	Merops_nubicus			94	47.87234043	152	54.60526316	77	45.45454545	97	54.63917526														
+Birds	Mesitornis_unicolor			94	43.61702128	152	51.97368421	77	44.15584416	97	50.51546392														
+Birds	Molothrus_ater			94	47.87234043	152	55.26315789	77	48.05194805	97	47.42268041														
+Birds	Neopelma_chrysocephalum			94	44.68085106	152	51.97368421	77	46.75324675	97	49.48453608														
+Birds	Nestor_notabilis			94	46.80851064	152	54.60526316	77	42.85714286	97	52.57731959														
+Birds	Nipponia_nippon			94	45.74468085	152	53.94736842	77	45.45454545	97	54.63917526														
+Birds	Nothoprocta_perdicaria			94	45.74468085	152	63.81578947	77	40.25974026	97	59.79381443														
+Birds	Opisthocomus_hoazin			94	45.74468085	152	53.94736842	77	49.35064935	97	49.48453608														
+Birds	Oriolus_oriolus			94	43.61702128	152	49.34210526	77	51.94805195	97	49.48453608														
+Birds	Oxyura_jamaicensis			94	44.68085106	152	53.94736842	77	42.85714286	97	48.45360825														
+Birds	Parus_major			94	44.68085106	152	53.94736842	77	46.75324675	97	49.48453608														
+Birds	Passer_domesticus			94	46.80851064	152	50	77	50.64935065	97	48.45360825														
+Birds	Pelecanus_crispus			94	46.80851064	152	53.94736842	77	44.15584416	88	50														
+Birds	Penelope_pileata			94	40.42553191	152	52.63157895	77	42.85714286	97	57.73195876														
+Birds	Phaethon_lepturus			94	42.55319149	152	50	77	42.85714286	97	50.51546392														
+Birds	Phalacrocorax_carbo			94	43.61702128	152	52.63157895	77	42.85714286	97	52.57731959														
+Birds	Picoides_pubescens			94	50	152	58.55263158	77	42.85714286	97	52.57731959														
+Birds	Pipra_filicauda			94	44.68085106	152	51.97368421	77	48.05194805	97	50.51546392														
+Birds	Pseudopodoces_humilis			94	45.74468085	152	53.94736842	77	46.75324675	97	48.45360825														
+Birds	Pterocles_gutturalis			94	45.74468085	152	50	77	45.45454545	97	51.54639175														
+Birds	Pygoscelis_adeliae			94	45.74468085	152	52.63157895	77	41.55844156	97	52.57731959														
+Birds	Rhea_americana			94	40.42553191	152	50.65789474	77	41.55844156	97	48.45360825														
+Birds	Rhynochetus_jubatus			94	48.93617021	152	50	77	45.45454545	97	59.79381443														
+Birds	Serinus_canaria			94	48.93617021	152	54.60526316	77	50.64935065	97	49.48453608														
+Birds	Stachyridopsis_ruficeps			94	44.68085106	152	55.26315789	77	45.45454545	97	52.57731959														
+Birds																									
+Birds	Struthio_camelus_australis			94	41.4893617	152	53.94736842	77	42.85714286	97	50.51546392														
+Birds	Sturnus_vulgaris			94	39.36170213	152	54.60526316	77	48.05194805	97	49.48453608														
+Birds	Taeniopygia_guttata			94	45.74468085	152	49.34210526	77	45.45454545	97	48.45360825														
+Birds	Tauraco_erythrolophus			94	47.87234043	152	55.26315789	77	49.35064935	97	50.51546392														
+Birds																									
+Birds	Tyto_alba_alba			94	44.68085106	152	57.23684211	77	45.45454545	97	50.51546392														
+Birds	Zonotrichia_albicollis			94	48.93617021	152	55.92105263	77	45.45454545	97	49.48453608														
+Caniformia	Ailuropoda_melanoleuca			85	49.41176471	149	58.38926174	77	51.94805195	100	44														
+Caniformia	Callorhinus_ursinus			85	49.41176471	149	57.04697987	77	49.35064935	100	48														
+Caniformia	Canis_lupus			85	45.88235294	149	56.37583893	77	50.64935065	100	48														
+Caniformia																									
+Caniformia	Eumetopias_jubatus			85	49.41176471	149	57.71812081	77	49.35064935	100	47														
+Caniformia	Leptonychotes_weddellii			79	49.36708861	149	57.71812081	77	49.35064935	100	48														
+Caniformia	Lontra_canadensis			85	71.76470588	149	66.44295302	77	59.74025974	100	50														
+Caniformia	Mirounga_leonina			79	48.10126582	149	56.37583893	77	50.64935065	100	48														
+Caniformia																									
+Caniformia																									
+Caniformia																									
+Caniformia																									
+Caniformia	Phoca_vitulina			85	49.41176471	149	58.38926174	77	50.64935065	100	47														
+Caniformia	Suricata_suricatta			85	48.23529412	149	63.08724832	77	50.64935065	100	56														
+Caniformia	Ursus_americanus			85	54.11764706	149	58.38926174	77	55.84415584	100	48														
+Caniformia																									
+Caniformia	Ursus_maritimus			85	54.11764706	149	58.38926174	77	55.84415584	100	48														
+Caniformia																									
+Caniformia	Vulpes_vulpes			85	47.05882353	149	56.37583893	77	50.64935065	103	50.48543689														
+Caniformia	Zalophus_californianus			85	49.41176471	149	57.71812081	77	49.35064935	100	48														
+Carnivores	Acinonyx_jubatus			85	49.41176471	145	56.55172414	160	57.5																
+Carnivores	Felis_catus			85	49.41176471	148	58.10810811	160	55.625																
+Carnivores	Puma_concolor			85	49.41176471	148	57.43243243	160	56.25																
+Carnivores	Lynx_lynx			85	49.41176471	148	57.43243243	163	55.21472393																
+Carnivores	Panthera_leo			85	49.41176471	148	57.43243243	163	55.82822086																
+Carnivores	Panthera_pardus			85	49.41176471	148	56.75675676	163	55.82822086																
+Carnivores	Panthera_tigris			85	49.41176471	148	58.10810811	163	55.82822086																
+Carnivores	Ailuropoda_melanoleuca			85	49.41176471	149	58.38926174	77	51.94805195	100	44														
+Carnivores	Callorhinus_ursinus			85	49.41176471	149	57.04697987	77	49.35064935	100	48														
+Carnivores	Canis_lupus			85	45.88235294	149	56.37583893	77	50.64935065	100	48														
+Carnivores																									
+Carnivores	Eumetopias_jubatus			85	49.41176471	149	57.71812081	77	49.35064935	100	47														
+Carnivores	Leptonychotes_weddellii			79	49.36708861	149	57.71812081	77	49.35064935	100	48														
+Carnivores	Lontra_canadensis			85	71.76470588	149	66.44295302	77	59.74025974	100	50														
+Carnivores	Mirounga_leonina			79	48.10126582	149	56.37583893	77	50.64935065	100	48														
+Carnivores																									
+Carnivores																									
+Carnivores																									
+Carnivores																									
+Carnivores	Phoca_vitulina			85	49.41176471	149	58.38926174	77	50.64935065	100	47														
+Carnivores	Suricata_suricatta			85	48.23529412	149	63.08724832	77	50.64935065	100	56														
+Carnivores	Ursus_americanus			85	54.11764706	149	58.38926174	77	55.84415584	100	48														
+Carnivores																									
+Carnivores	Ursus_maritimus			85	54.11764706	149	58.38926174	77	55.84415584	100	48														
+Carnivores																									
+Carnivores	Vulpes_vulpes			85	47.05882353	149	56.37583893	77	50.64935065	103	50.48543689														
+Carnivores	Zalophus_californianus			85	49.41176471	149	57.71812081	77	49.35064935	100	48														
+Chiroptera	Artibeus_jamaicensis			85	47.05882353	149	48.32214765	77	45.45454545	100	44														
+Chiroptera	Desmodus_rotundus			85	44.70588235	149	48.32214765	77	53.24675325	100	45														
+Chiroptera	Eptesicus_fuscus			88	46.59090909	149	53.02013423	78	50	99	46.46464646														
+Chiroptera	Hipposideros_armiger			85	49.41176471	149	51.00671141	77	46.75324675	100	46														
+Chiroptera	Miniopterus_natalensis			85	47.05882353	149	52.34899329	77	49.35064935	100	48														
+Chiroptera	Myotis_brandtii			88	47.72727273	149	51.67785235	78	51.28205128	99	47.47474747														
+Chiroptera	Myotis_lucifugus			88	47.72727273	149	51.67785235	78	52.56410256	99	47.47474747														
+Chiroptera	Myotis_myotis			88	46.59090909	149	53.02013423	78	52.56410256	99	47.47474747														
+Chiroptera	Phyllostomus_discolor			85	44.70588235	149	48.32214765	77	46.75324675	100	46														
+Chiroptera	Pipistrellus_kuhlii			88	46.59090909	149	53.02013423	78	50	105	43.80952381														
+Chiroptera	Pteropus_alecto			85	47.05882353	149	51.67785235	77	48.05194805	100	45														
+Chiroptera	Pteropus_vampyrus			85	48.23529412	149	51.67785235	77	49.35064935	100	45														
+Chiroptera	Rhinolophus_ferrumequinum			82	50	149	50.33557047	77	50.64935065	106	45.28301887														
+Galliform	Alectura_lathami			94	41.4893617	152	49.34210526	77	40.25974026	97	61.8556701														
+Galliform	Callipepla_squamata			94	40.42553191	152	51.31578947	77	35.06493506	97	57.73195876														
+Galliform	Chrysolophus_pictus			94	42.55319149	152	46.71052632	77	36.36363636	97	55.67010309														
+Galliform	Coturnix_japonica			97	38.1443299	152	48.68421053	77	35.06493506	97	52.57731959														
+Galliform	Gallus_gallus			94	38.29787234	152	47.36842105	77	36.36363636	97	52.57731959														
+Galliform	Meleagris_gallopavo			94	40.42553191	151	43.04635762	77	41.55844156	97	55.67010309														
+Galliform	Numida_meleagris			94	44.68085106	135	48.14814815	77	37.66233766	97	53.60824742														
+Galliform	Odontophorus_gujanensis			94	42.55319149	152	48.68421053	77	33.76623377	97	54.63917526														
+Galliform	Pavo_cristatus			93	41.93548387	152	51.31578947	77	37.66233766	96	54.16666667														
+Galliform	Penelope_pileata			94	40.42553191	152	52.63157895	77	42.85714286	97	57.73195876														
+Galliform																									
+Galliform	Tympanuchus_cupido			94	41.4893617	139	41.72661871	77	36.36363636	97	51.54639175														
+Galliform	Syrmaticus_mikado			95	41.05263158	151	46.35761589	77	37.66233766	86	55.81395349														
+Galliform	Lagopus_muta			94	42.55319149	139	44.60431655	77	37.66233766	97	54.63917526														
+Galliform	Centrocercus_minimus			94	40.42553191	139	43.16546763	77	36.36363636	97	51.54639175														
+Galliform	Lyrurus_tetrix			94	41.4893617	139	43.16546763	77	33.76623377	97	54.63917526														
+Galliform	Colinus_virginianus			94	40.42553191	152	50.65789474	77	36.36363636	97	57.73195876														
+Monotremata	Ornithorhynchus_anatinus			94	44.68085106	152	59.21052632	77	57.14285714	115	65.2173913														
+Perissodactyla	Ceratotherium_simum_simum			85	50.58823529	149	59.06040268	77	48.05194805	100	49														
+Perissodactyla	Equus_asinus			85	48.23529412	149	59.73154362	77	49.35064935	100	51														
+Perissodactyla	Equus_caballus			85	49.41176471	149	60.40268456	77	50.64935065	100	52														
+Perissodactyla	Equus_przewalskii			85	49.41176471	149	60.40268456	77	50.64935065	100	52														
+Reptile	Anolis_carolinensis			94	40.42553191	152	46.71052632	77	40.25974026	97	40.20618557														
+Reptile	Lacerta_agilis			94	43.61702128	152	49.34210526	77	42.85714286	97	47.42268041														
+Reptile	Notechis_scutatus			88	32.95454545	152	46.71052632	77	32.46753247	88	44.31818182														
+Reptile	Pantherophis_guttatus			88	34.09090909	152	45.39473684	77	32.46753247	88	43.18181818														
+Reptile	Podarcis_muralis			94	41.4893617	152	48.68421053	77	41.55844156	97	50.51546392														
+Reptile	Pseudonaja_textilis			88	32.95454545	152	46.71052632	77	33.76623377	88	44.31818182														
+Reptile	Python_bivittatus			88	42.04545455	152	46.71052632	77	35.06493506	88	46.59090909														
+Reptile	Thamnophis_sirtalis			88	32.95454545	152	47.36842105	77	35.06493506	88	43.18181818														
+Reptile	Zootoca_vivipara			94	44.68085106	152	47.36842105	77	41.55844156	97	47.42268041														
+Rodents	Sciurus_vulgaris			85	43.52941176	149	52.34899329	77	48.05194805	100	44														
+Rodents	Fukomys_damarensis			85	45.88235294	149	64.4295302	77	57.14285714	82	57.31707317														
+Rodents	Octodon_degus			85	48.23529412	149	66.44295302	77	55.84415584	82	54.87804878														
+Rodents	Cavia_aperea			85	49.41176471	149	65.77181208	77	58.44155844	82	65.85365854														
+Rodents	Cavia_porcellus			85	49.41176471	149	65.77181208	77	58.44155844	82	64.63414634														
+Rodents	Chinchilla_lanigera			85	50.58823529	149	67.11409396	77	59.74025974	82	60.97560976														
+Rodents	Ochotona_princeps			85	55.29411765	149	54.36241611	77	51.94805195	100	54														
+Rodents	Castor_canadensis			87	40.22988506	140	48.57142857	79	50.63291139	100	51														
+Rodents	Cavia_aperea			85	49.41176471	149	65.77181208	77	58.44155844	82	65.85365854														
+Rodents	Cavia_porcellus			85	49.41176471	149	65.77181208	77	58.44155844	82	64.63414634														
+Rodents	Chinchilla_lanigera			85	50.58823529	149	67.11409396	77	59.74025974	82	60.97560976														
+Rodents	Fukomys_damarensis			85	45.88235294	149	64.4295302	77	57.14285714	82	57.31707317														
+Rodents	Heterocephalus_glaber			84	51.19047619	150	63.33333333	77	57.14285714	82	52.43902439														
+Rodents	Ictidomys_tridecemlineatus			86	43.02325581	151	49.00662252	77	45.45454545	95	43.15789474														
+Rodents																									
+Rodents	Ochotona_princeps			85	55.29411765	149	54.36241611	77	51.94805195	100	54														
+Rodents	Octodon_degus			85	48.23529412	149	66.44295302	77	55.84415584	82	54.87804878														
+Rodents	Oryctolagus_cuniculus			83	48.19277108	147	59.18367347	81	55.55555556	106	48.11320755														
+Rodents	Sciurus_vulgaris			85	43.52941176	149	52.34899329	77	48.05194805	100	44														
+Rodents	Spermophilus_dauricus			86	41.86046512	151	48.34437086	77	45.45454545	95	45.26315789														
+Rodents	Urocitellus_parryii			86	43.02325581	151	48.34437086	77	42.85714286	98	42.85714286														
+Turtle	Chelonia_mydas			94	41.4893617	152	48.68421053	77	40.25974026	97	52.57731959														
+Turtle	Chelonoidis_abingdonii			94	41.4893617	152	48.68421053	77	41.55844156	97	53.60824742														
+Turtle																									
+Turtle	Gopherus_evgoodei			94	42.55319149	152	49.34210526	77	41.55844156	97	55.67010309														
+Turtle	Pelodiscus_sinensis			94	41.4893617	152	46.05263158	77	40.25974026	97	51.54639175														
+Turtle																									
+Primates	Cercocebus_atys	15	40	100	48	149	51.67785235	77	53.24675325	139	51.07913669														
+Primates	Chlorocebus_sabaeus	15	40	100	48	149	51.00671141	77	55.84415584	100	47														
+Primates	Colobus_angolensis	15	40	100	50	149	51.67785235	77	55.84415584	100	46														
+Primates	Gorilla_gorilla	15	40	100	49	149	51.00671141	77	53.24675325	100	49														
+Primates	Homo_sapiens	15	40	100	51	149	50.33557047	77	51.94805195	100	48														
+Primates	Macaca_fascicularis	15	40	100	50	149	50.33557047	77	54.54545455	100	49														
+Primates	Macaca_mulatta	15	40	100	50	149	50.33557047	77	54.54545455	100	49														
+Primates	Macaca_nemestrina	15	40	100	51	149	50.33557047	77	54.54545455	100	49														
+Primates	Mandrillus_leucophaeus	15	40	100	48	149	52.34899329	77	54.54545455	139	51.07913669														
+Primates	Microcebus_murinus	15	40	100	50	149	52.34899329	77	57.14285714	100	50														
+Primates	Nomascus_leucogenys	15	40	100	51	149	50.33557047	77	51.94805195	100	47														
+Primates	Pan_paniscus	15	40	100	50	149	51.00671141	77	53.24675325	100	48														
+Primates	Pan_troglodytes	15	40	100	50	149	51.00671141	77	53.24675325	100	48														
+Primates	Papio_anubis	15	40	100	49	149	51.00671141	77	55.84415584	139	53.23741007														
+Primates	Piliocolobus_tephrosceles	15	40	100	50	149	51.67785235	77	55.84415584	100	46														
+Primates	Pongo_abelii	15	40	100	52	149	50.33557047	77	51.94805195	100	48														
+Primates	Prolemur_simus	15	40	97	51.54639175	149	55.70469799	77	55.84415584	100	47														
+Primates	Propithecus_coquereli	15	40	100	48	149	58.38926174	77	54.54545455	100	51														
+Primates	Rhinopithecus_bieti	15	40	100	50	149	50.33557047	77	55.84415584	100	47														
+Primates	Rhinopithecus_roxellana	15	40	100	50	149	50.33557047	77	54.54545455	100	47														
+Primates	Saimiri_boliviensis	85	40	149	48.32214765	77	50.64935065	100	48																
+Primates	Theropithecus_gelada	15	40	100	50	149	49.66442953	77	55.84415584	139	52.51798561														
+Primates	Cebus_imitator	85	41.17647059	149	50.33557047	77	51.94805195	100	45																
+Primates	Callithrix_jacchus	85	42.35294118	149	53.69127517	77	50.64935065	100	49																
+Primates	Aotus_nancymaae	85	45.88235294	149	50.33557047	77	50.64935065	100	48																
+Primates	Otolemur_garnettii	15	46.66666667	97	47.42268041	149	51.00671141	77	48.05194805	100	46														
+Primates	Carlito_syrichta	82	48.7804878	149	58.38926174	77	50.64935065	100	46																
