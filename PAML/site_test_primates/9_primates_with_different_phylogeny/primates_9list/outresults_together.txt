@@ -1,6 +1,0 @@
-M0_tree__unrooted_tree__F3X4.tre.out	NEB	M1vsM2	F61	15..16	6.699	347.7
-M0_tree__unrooted_tree__F3X4.tre.out	NEB	M1vsM2	F61	16..5	9.063	347.7
-M0_tree__unrooted_tree__F3X4.tre.out	NEB	M1vsM2	F61	16..17	2.412	347.7
-M0_tree__unrooted_tree__F3X4.tre.out	NEB	M1vsM2	F61	17..6	6.651	347.7
-M0_tree__unrooted_tree__F3X4.tre.out	NEB	M1vsM2	F61	17..2	6.651	347.7
-M0_tree__unrooted_tree__F3X4.tre.out	NEB	M1vsM2	F61	15..4	15.762	347.7
