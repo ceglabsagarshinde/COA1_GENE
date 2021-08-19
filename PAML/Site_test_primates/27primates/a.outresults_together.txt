@@ -1,0 +1,9 @@
+primates_27list.aln.F3x4.M1vsM2.out	BEB	M1vsM2	F3x4	26	T	1.000
+primates_27list.aln.F3x4.M1vsM2.out	BEB	M1vsM2	F3x4	44	S	0.998
+primates_27list.aln.F3x4.M7vsM8.out	BEB	M7vsM8	F3x4	26	T	1.000
+primates_27list.aln.F3x4.M7vsM8.out	BEB	M7vsM8	F3x4	44	S	0.997
+primates_27list.aln.F61.M1vsM2.out	BEB	M1vsM2	F61	26	T	0.999
+primates_27list.aln.F61.M1vsM2.out	BEB	M1vsM2	F61	44	S	0.987
+primates_27list.aln.F61.M7vsM8.out	BEB	M7vsM8	F61	26	T	1.000
+primates_27list.aln.F61.M7vsM8.out	BEB	M7vsM8	F61	44	S	0.999
+primates_27list.aln.F61.M7vsM8.out	BEB	M7vsM8	F61	105	F	0.958
