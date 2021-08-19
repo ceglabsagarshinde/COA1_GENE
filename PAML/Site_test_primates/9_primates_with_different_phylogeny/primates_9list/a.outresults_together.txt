@@ -1,0 +1,9 @@
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	NEB	M7vsM8	F61	17	K	0.999
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	NEB	M7vsM8	F61	25	L	0.998
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	NEB	M7vsM8	F61	26	C	0.980
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	NEB	M7vsM8	F61	40	T	0.972
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	NEB	M7vsM8	F61	44	S	0.995
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	NEB	M7vsM8	F61	146	A	0.999
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	BEB	M7vsM8	F61	17	K	0.981
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	BEB	M7vsM8	F61	22	G	0.962
+MSA.PRANK.aln.With_Names.F61.M7vsM8.primates_9list.tre.out	BEB	M7vsM8	F61	26	C	0.982

@@ -1,0 +1,90 @@
+NEB	F3x4	M1vsM2	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.963
+17	K	0.982
+22	G	0.971
+26	C	0.998
+44	S	0.968
+51	L	0.954
+146	A	0.997
+BEB	F3x4	M1vsM2	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.993
+14	S	0.960
+17	K	0.996
+18	M	0.992
+22	G	0.995
+25	L	0.987
+26	C	0.999
+40	T	0.992
+44	S	0.994
+51	L	0.993
+146	A	0.999
+NEB	F3x4	M7vsM8	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.962
+17	K	0.982
+22	G	0.971
+26	C	0.998
+44	S	0.968
+51	L	0.954
+146	A	0.997
+BEB	F3x4	M7vsM8	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.997
+13	M	0.965
+14	S	0.981
+17	K	0.998
+18	M	0.997
+22	G	0.998
+23	S	0.977
+25	L	0.994
+26	C	1.000
+40	T	0.996
+44	S	0.997
+51	L	0.997
+105	H	0.974
+109	S	0.976
+146	A	1.000
+NEB	F61	M1vsM2	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.957
+17	K	0.986
+22	G	0.985
+26	C	0.998
+40	T	0.965
+44	S	0.982
+51	L	0.970
+146	A	0.996
+BEB	F61	M1vsM2	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.991
+17	K	0.996
+18	M	0.986
+22	G	0.996
+23	S	0.953
+25	L	0.977
+26	C	0.999
+40	T	0.992
+44	S	0.995
+51	L	0.992
+109	S	0.951
+146	A	0.998
+NEB	F61	M7vsM8	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.956
+17	K	0.986
+22	G	0.985
+26	C	0.998
+40	T	0.965
+44	S	0.982
+51	L	0.970
+146	A	0.996
+BEB	F61	M7vsM8	Ensembl78__9primates__with_taxon_id__unrooted.tre.out
+11	M	0.995
+14	S	0.973
+17	K	0.998
+18	M	0.993
+22	G	0.998
+23	S	0.975
+25	L	0.988
+26	C	1.000
+40	T	0.996
+44	S	0.997
+51	L	0.996
+105	H	0.962
+109	S	0.973
+146	A	0.999
