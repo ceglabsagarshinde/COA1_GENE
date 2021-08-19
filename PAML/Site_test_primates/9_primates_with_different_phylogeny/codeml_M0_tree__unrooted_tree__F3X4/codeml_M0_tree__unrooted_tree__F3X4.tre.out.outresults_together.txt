@@ -1,0 +1,72 @@
+NEB	F3x4	M1vsM2	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+17	K	0.974
+22	G	0.952
+26	C	0.996
+146	A	0.993
+BEB	F3x4	M1vsM2	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+11	M	0.984
+17	K	0.992
+18	M	0.980
+22	G	0.987
+25	L	0.970
+26	C	0.998
+40	T	0.980
+44	S	0.987
+51	L	0.982
+146	A	0.997
+NEB	F3x4	M7vsM8	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+17	K	0.974
+22	G	0.952
+26	C	0.996
+146	A	0.993
+BEB	F3x4	M7vsM8	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+11	M	0.994
+14	S	0.967
+17	K	0.997
+18	M	0.993
+22	G	0.995
+23	S	0.958
+25	L	0.987
+26	C	0.999
+40	T	0.992
+44	S	0.995
+51	L	0.993
+105	H	0.951
+109	S	0.957
+146	A	0.999
+NEB	F61	M1vsM2	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+17	K	0.978
+22	G	0.975
+26	C	0.996
+44	S	0.972
+146	A	0.989
+BEB	F61	M1vsM2	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+11	M	0.976
+17	K	0.991
+18	M	0.962
+22	G	0.990
+26	C	0.997
+40	T	0.980
+44	S	0.989
+51	L	0.982
+146	A	0.994
+NEB	F61	M7vsM8	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+17	K	0.978
+22	G	0.975
+26	C	0.996
+44	S	0.972
+146	A	0.989
+BEB	F61	M7vsM8	codeml_M0_tree__unrooted_tree__F3X4.tre.out
+11	M	0.989
+14	S	0.953
+17	K	0.996
+18	M	0.985
+22	G	0.995
+23	S	0.954
+25	L	0.976
+26	C	0.999
+40	T	0.991
+44	S	0.995
+51	L	0.992
+109	S	0.955
+146	A	0.998
