@@ -11,5 +11,5 @@ Perelman_et_al_9primates_unrooted.tre
 
 RAxML_bestTree_9primates_unrooted.tre
 
-Similarly, site test for 27 primates species was run using PAML version 4.9f in .
+Similarly, site test for 27 primates species was run using PAML version 4.9f in 27primates folder with species tree from TimeTree.
 
