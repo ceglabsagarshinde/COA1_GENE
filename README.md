@@ -24,7 +24,7 @@ Data is organised into the following folders:
 
 6.HYPHYMP_Relax:
 
-7.PAML:
+7.PAML:Branch test and site test run using 4.9f version in different groups.
 
 8.Tree_files_used_main_figure:
 
