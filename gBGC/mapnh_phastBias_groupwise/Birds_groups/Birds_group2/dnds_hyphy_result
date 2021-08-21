@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/Desktop/sagar_gbgc/phastBias_groupwise/Birds_groups/Birds_group2/`) 
+
+A tree was found in the data file:
+((Alectura_lathami:68.24105354,(((((Colinus_virginianus:8.8023205,Callipepla_squamata:8.8023205):11.0404365,Odontophorus_gujanensis:19.842757):26.009939,(Coturnix_japonica:42,((Meleagris_gallopavo:20.73109556,((Lyrurus_tetrix:6.83266425,(Tympanuchus_cupido:6.161088,Centrocercus_minimus:6.161088):0.67157625):4.85291325,Lagopus_muta:11.6855775):9.04551806):16.46890444,((Pavo_cristatus:32.97961233,Gallus_gallus:32.97961233):1.09883442,((Chrysolophus_pictus:14.47925671,Phasianus_colchicus:14.47925671):2.23359829,Syrmaticus_mikado:16.712855):17.36559175):3.12155325):4.8):3.852696):0.6666728,Numida_meleagris:46.5193688):18.94598174,Penelope_pileata:65.46535054):2.775703):11.71436281,(Anseranas_semipalmata:66.37585575,((Oxyura_jamaicensis:28.19665433,(Cygnus_atratus:20.278564,Anser_cygnoides:20.278564):7.91809033):2.1321121,(Aythya_fuligula:15.46003613,Anas_platyrhynchos:15.46003613):14.86873031):36.04708931):13.5795606)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :426
+Synonymous  sites      :98.2262821309768
+Nonsynonymous  sites   :311.6235488904733
+
+Total tree lengths:
+	E[syn]        : 0.3506070429099823
+	E[non-syn]    : 0.5634214095913973
+	dS            : 1.52055638307164
+	dN            : 0.7702162475862648
+
+
+E[Syn subs/nucleotide site] tree: 
+	(Alectura_lathami:0.02755864594571446,(((((Colinus_virginianus:0.004857470664432593,Callipepla_squamata:0.004919486253071905)Node7:0.002430855665369752,Odontophorus_gujanensis:0.0024154294742701)Node6:0.01929638276258917,(Coturnix_japonica:0.01595645143472388,((Meleagris_gallopavo:0.01211227369072425,((Lyrurus_tetrix:0.009787533939131324,(Tympanuchus_cupido:0.008105144535888693,Centrocercus_minimus:0.008080271861638058)Node19:0)Node17:0,Lagopus_muta:0.005206518695039757)Node16:0.005709904012048759)Node14:0.008354911454496477,((Pavo_cristatus:0.01016747854208977,Gallus_gallus:0.01020743243115725)Node24:0,((Chrysolophus_pictus:0.002777494711105246,Phasianus_colchicus:0.007253437889003247)Node28:0,Syrmaticus_mikado:0.005426810687041172)Node27:0.01232434620338775)Node23:0.0009032219867987323)Node13:0.007404924330045699)Node11:0.003451766525559865)Node5:0,Numida_meleagris:0.0120548876286725)Node4:0.01433957798761188,Penelope_pileata:0.02680201783811246)Node3:0.007529204887608886,(Anseranas_semipalmata:0.01859680816792871,((Oxyura_jamaicensis:0.01661849883108652,(Cygnus_atratus:0.002416788364240135,Anser_cygnoides:0)Node39:0.003274120895926904)Node37:0,(Aythya_fuligula:0.002414006132989517,Anas_platyrhynchos:0.002425759969451088)Node42:0.0126290572621135)Node36:0.01331609354163597)Node34:0.02348202770727642)
+
+E[Non-syn subs/nucleotide site] tree: 
+	(Alectura_lathami:0.01222069460438517,(((((Colinus_virginianus:0.00515630296036712,Callipepla_squamata:0.004654590216760379)Node7:0.007200979190836351,Odontophorus_gujanensis:0.0276201601709125)Node6:0.005301499835816063,(Coturnix_japonica:0.06339089127334289,((Meleagris_gallopavo:0.06962036536576151,((Lyrurus_tetrix:0.01869668530409688,(Tympanuchus_cupido:0.005051569901631228,Centrocercus_minimus:0.007601475233534691)Node19:0.005130007198116219)Node17:0.002400316018131485,Lagopus_muta:0)Node16:0.0242715287091108)Node14:0.01035437467614927,((Pavo_cristatus:0.02792394487495708,Gallus_gallus:0.01777006203455275)Node24:0.004348992355871627,((Chrysolophus_pictus:0.01805427631004054,Phasianus_colchicus:0.02507908930576327)Node28:0,Syrmaticus_mikado:0.0190616553473879)Node27:0.02461375035506532)Node23:0)Node13:0)Node11:0.02291858082884364)Node5:0.001597501123214223,Numida_meleagris:0.05685799860002733)Node4:0.01308832150835659,Penelope_pileata:0.009735957521639789)Node3:0,(Anseranas_semipalmata:0.004699082570961611,((Oxyura_jamaicensis:0.00240428423780704,(Cygnus_atratus:0,Anser_cygnoides:0.004810846575437512)Node39:0)Node37:0.003013317816955189,(Aythya_fuligula:0.00183601284996627,Anas_platyrhynchos:0.005412729622754748)Node42:0.002381592136406385)Node36:0.01678935846514307)Node34:0.01235261449129292)
+
+dS tree: 
+	(Alectura_lathami:0.119519775340983,(((((Colinus_virginianus:0.02106648504001265,Callipepla_squamata:0.02133544198500951)Node7:0.0105424382454657,Odontophorus_gujanensis:0.01047553601455678)Node6:0.08368696115263669,(Coturnix_japonica:0.06920193011202976,((Meleagris_gallopavo:0.05253002027877138,((Lyrurus_tetrix:0.04244779877253491,(Tympanuchus_cupido:0.03515140242898093,Centrocercus_minimus:0.03504353151092417)Node19:0)Node17:0,Lagopus_muta:0.02258028010394859)Node16:0.02476342437443919)Node14:0.03623462277508991,((Pavo_cristatus:0.04409558994765519,Gallus_gallus:0.04426886696042096)Node24:0,((Chrysolophus_pictus:0.012045785723144,Phasianus_colchicus:0.03145761474098313)Node28:0,Syrmaticus_mikado:0.02353566990957586)Node27:0.05344976282053006)Node23:0.003917205843780149)Node13:0.03211460004556826)Node11:0.01497005188415635)Node5:0,Numida_meleagris:0.05228114124249219)Node4:0.06218967154409099,Penelope_pileata:0.1162383361289332)Node3:0.0326535954791053,(Anseranas_semipalmata:0.08065295873637936,((Oxyura_jamaicensis:0.07207317989092721,(Cygnus_atratus:0.01048142941818233,Anser_cygnoides:0)Node39:0.01419961614555502)Node37:0,(Aythya_fuligula:0.01046936309044346,Anas_platyrhynchos:0.01052033859541017)Node42:0.05477127177109876)Node36:0.05775089645735444)Node34:0.1018397885604701)
+
+dN tree: 
+	(Alectura_lathami:0.01670610555589895,(((((Colinus_virginianus:0.007048841683939712,Callipepla_squamata:0.006362983283515707)Node7:0.009843983698338743,Odontophorus_gujanensis:0.03775769923262186)Node6:0.007247330755646516,(Coturnix_japonica:0.08665750640024764,((Meleagris_gallopavo:0.09517340955589473,((Lyrurus_tetrix:0.02555900530593298,(Tympanuchus_cupido:0.006905668027197964,Centrocercus_minimus:0.0103914754228793)Node19:0.007012894481750507)Node17:0.003281313711254229,Lagopus_muta:0)Node16:0.0331800060261662)Node14:0.01415478267847439,((Pavo_cristatus:0.03817298326485807,Gallus_gallus:0.02429227975123319)Node24:0.005945220604147838,((Chrysolophus_pictus:0.024680810341392,Phasianus_colchicus:0.0342839688537472)Node28:0,Syrmaticus_mikado:0.02605793177986458)Node27:0.03364783466651027)Node23:0)Node13:0)Node11:0.03133048021514868)Node5:0.002183838419504193,Numida_meleagris:0.07772681971517115)Node4:0.01789218107043502,Penelope_pileata:0.01330938537535327)Node3:0,(Anseranas_semipalmata:0.006423805846371465,((Oxyura_jamaicensis:0.003286738402641658,(Cygnus_atratus:0,Anser_cygnoides:0.006576591045295785)Node39:0)Node37:0.004119308038796788,(Aythya_fuligula:0.002509892069679661,Anas_platyrhynchos:0.007399385661010981)Node42:0.003255717527514931)Node36:0.02295162458555006)Node34:0.0168864445322786)
+
+Estimating pairwise dN/dS: total of 253 analyses
