@@ -1,0 +1,11 @@
+ALPHABET: A C G T 
+ORDER: 0
+SUBST_MOD: HKY85
+TRAINING_LNL: -1364.290363
+BACKGROUND: 0.270450 0.243006 0.259526 0.227018 
+RATE_MAT:
+  -1.011627    0.125139    0.769582    0.116906 
+   0.139272   -0.946105    0.133646    0.673187 
+   0.801977    0.125139   -1.044022    0.116906 
+   0.139272    0.720594    0.133646   -0.993513 
+TREE: ((Columba_livia:0.0393517,Opisthocomus_hoazin:0.0428335):0.00180574,((Cariama_cristata:0.0346244,((Balearica_regulorum_gibbericeps:0.0486178,Chlamydotis_macqueenii:0.0342258):0.00725981,((Rhynochetus_jubatus:0.0320419,Eurypyga_helias:0.0278617):0.0149278,Mesitornis_unicolor:0.0460359):0.00638637):0.00776793):0.00270648,Pterocles_gutturalis:0.0308275):0.00180574);
