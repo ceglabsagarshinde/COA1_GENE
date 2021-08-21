@@ -1,0 +1,242 @@
+
+Before deleting alignment gaps
+      7    417
+
+Nothoprocta_perdicaria          ATG CCA GCC TCC TTA AGA AGC CTG CGG GAA ATG GCT ATT TTT ATG GGA GTG TTC AGC ACT GGG GGA TGT GTA CTT ATG TAC AGT CTT ATG CAA AAG AGC TTT GCC AGG ACC CAG TAT TAC CAG CAG GGT TTG GAG CAG CTG AAC AAC CAC CCC GCT GCC CTG GAA GCC CTG GGG GCT CCC CCT CTG AAG GTT CAC AAC ATC CGA CTG ACG GAC GGC AGC AAC CGC GTG GAC CGC GAG CGA GCG CAG ATA AAG TTA CCG GTA TCT GGA GCA AAA TCA ACG GGG TAC CTC TAT ATT AAT TCA GAA ATG GAC CAT TCC CAT CAC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC CGG GAT GGC CAG AGC ATT CCC GTT TAC CAC TCC CCC GCG GAA AGC ATC AGC GTG CAG GGA AGC 
+Apteryx_rowi                    ATG CCA GCT TCT TTA AGA AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT GTA CTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC AGC CCT GCT GCC CTG GAA GCC CTG GGT GCT CCC CCT TTT AAG GTT CAC AAC ATC CGA CTG ATG GAT GGG AGT AAT CGC GTG AAC AGG GAA AGA GCA CAG ATA AAG TTA CCA GTA TCT GGA ACA AAA TCA GCA GGG TGC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT CAC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC CGG GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Apteryx_australis_mantelli      ATG CCA GCT TCT TTA AGA AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT GTA CTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC AGC CCT GCT GCC CTG GAA GCC CTG GGT GCT CCC CCT TTT AAG GTT CAC AAC ATC CGA CTG ATG GAT GGG AGT AAT CGC GTG AAC AGG GAA AGA GCA CAG ATA AAG TTA CCA GTA TCT GGA ACA AAA TCA GCA GGG TGC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT CAC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC CGG GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Dromaius_novaehollandiae        ATG CCA GCT TCT TTA AGA AAT CTG CAG GAA ATG GCT GTT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT ATA GTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC CAC CCT GCT GCC CTG GAA GCC CTG GGT GCC CCC CCG CTT AAA GTT CAT AAC ATC CAA CTG ATG GAT GGG AGT AAT CGC GTG GAC AGG GAA AGA GCA CAG ATA AAG TTA CCG GTA TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC TGT CAC TGC TGG TCC CTC CAG GAT GTC ACC TTG AAG CTG CRG GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Casuarius_casuarius             ATG CCA GCT TCT TTA AGA AAT CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT ATA GTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC CAC CCT GCT GCC CTG GAA GCC CTG GGT GCC CCC CCC CTT AAA GTT CAT AAC ATC CGA CTG ATG GAT GGG AGT AAT CGC GTG GAC AGG GAA AGA GCA CAG ATA AAG TTA CCG GTA TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT CAC TGC TGG TCC CTC CAG GAT GTC ACC TTG AAG CTC CGG GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Rhea_americana                  ATG CCT GCT TCT TTA AGA AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC AGC ACT ACG GGA TGC ATA GTT ATG TAC ACT CTC ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC AAC CCT GCT GCC CTG GAA GCC CTG GGT GCT CCC CCT CTT AAA GTT CAT AAC ATT CGA CTG ACA GAT GGA AGT AAT CGC GTG GAC AGG GAA AGA GCA CAG ATA AAG TTA CCA GTG TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT TGC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC CGA GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC TCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Struthio_camelus_australis      ATG CCA GCT TCT TTA AGG AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC AGT GGT GGG GGA TGT GTA GTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC CAC CCT GCT GCC CTG GAA GCG CTG GGT GCT CCC CCT CTT AAG GTT CAC AAC ATC CGA CTG ACA GAC GGG AGT AAT CGC GTG GAC ACA GAA AGA GCA CAG ATA AAG TTA CCT GTA TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT CAT TCA GAA ATG GAC CAT TCG CGT CGC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC CGG GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+
+
+
+After deleting gaps. 414 sites
+      7    414
+
+Nothoprocta_perdicaria          ATG CCA GCC TCC TTA AGA AGC CTG CGG GAA ATG GCT ATT TTT ATG GGA GTG TTC AGC ACT GGG GGA TGT GTA CTT ATG TAC AGT CTT ATG CAA AAG AGC TTT GCC AGG ACC CAG TAT TAC CAG CAG GGT TTG GAG CAG CTG AAC AAC CAC CCC GCT GCC CTG GAA GCC CTG GGG GCT CCC CCT CTG AAG GTT CAC AAC ATC CGA CTG ACG GAC GGC AGC AAC CGC GTG GAC CGC GAG CGA GCG CAG ATA AAG TTA CCG GTA TCT GGA GCA AAA TCA ACG GGG TAC CTC TAT ATT AAT TCA GAA ATG GAC CAT TCC CAT CAC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC GAT GGC CAG AGC ATT CCC GTT TAC CAC TCC CCC GCG GAA AGC ATC AGC GTG CAG GGA AGC 
+Apteryx_rowi                    ATG CCA GCT TCT TTA AGA AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT GTA CTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC AGC CCT GCT GCC CTG GAA GCC CTG GGT GCT CCC CCT TTT AAG GTT CAC AAC ATC CGA CTG ATG GAT GGG AGT AAT CGC GTG AAC AGG GAA AGA GCA CAG ATA AAG TTA CCA GTA TCT GGA ACA AAA TCA GCA GGG TGC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT CAC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Apteryx_australis_mantelli      ATG CCA GCT TCT TTA AGA AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT GTA CTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC AGC CCT GCT GCC CTG GAA GCC CTG GGT GCT CCC CCT TTT AAG GTT CAC AAC ATC CGA CTG ATG GAT GGG AGT AAT CGC GTG AAC AGG GAA AGA GCA CAG ATA AAG TTA CCA GTA TCT GGA ACA AAA TCA GCA GGG TGC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT CAC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Dromaius_novaehollandiae        ATG CCA GCT TCT TTA AGA AAT CTG CAG GAA ATG GCT GTT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT ATA GTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC CAC CCT GCT GCC CTG GAA GCC CTG GGT GCC CCC CCG CTT AAA GTT CAT AAC ATC CAA CTG ATG GAT GGG AGT AAT CGC GTG GAC AGG GAA AGA GCA CAG ATA AAG TTA CCG GTA TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC TGT CAC TGC TGG TCC CTC CAG GAT GTC ACC TTG AAG CTG GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Casuarius_casuarius             ATG CCA GCT TCT TTA AGA AAT CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC GGC ACT GGG GGA TGT ATA GTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC CAC CCT GCT GCC CTG GAA GCC CTG GGT GCC CCC CCC CTT AAA GTT CAT AAC ATC CGA CTG ATG GAT GGG AGT AAT CGC GTG GAC AGG GAA AGA GCA CAG ATA AAG TTA CCG GTA TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT CAC TGC TGG TCC CTC CAG GAT GTC ACC TTG AAG CTC GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Rhea_americana                  ATG CCT GCT TCT TTA AGA AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC AGC ACT ACG GGA TGC ATA GTT ATG TAC ACT CTC ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC AAC CCT GCT GCC CTG GAA GCC CTG GGT GCT CCC CCT CTT AAA GTT CAT AAC ATT CGA CTG ACA GAT GGA AGT AAT CGC GTG GAC AGG GAA AGA GCA CAG ATA AAG TTA CCA GTG TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT AAT TCA GAA ATG GAC CAT TCC CGT TGC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC TCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+Struthio_camelus_australis      ATG CCA GCT TCT TTA AGG AAA CTG CAG CAA ATG GCT ATT TTT ATG GGA GTG TTC AGT GGT GGG GGA TGT GTA GTT ATG TAC ACT CTT ATG CAA AAA AGT TTT GCC AGG ACC CAG TAT TAT CAG CAG GCT TTG GAG CAA CTG AAC AAC CAC CCT GCT GCC CTG GAA GCG CTG GGT GCT CCC CCT CTT AAG GTT CAC AAC ATC CGA CTG ACA GAC GGG AGT AAT CGC GTG GAC ACA GAA AGA GCA CAG ATA AAG TTA CCT GTA TCT GGA ACA AAA TCA GCA GGG TAC CTC TAC ATT CAT TCA GAA ATG GAC CAT TCG CGT CGC TGC TGG TGC CTC CAG GAT GTC ACC TTG AAG CTC GAT GGT CAG AAT ATT CCA GTT TAC CAC TCC CCT GTG GAA AGC ATC AGC ATG CAA GAA AGC 
+
+
+
+Printing out site pattern counts
+
+
+         7        300  P
+
+Nothoprocta_perdicaria          AAA AAC AAC AAG AAG AAG AAT ACC ACG ACG ACT AGA AGC AGC AGC AGC AGC AGG AGT ATA ATC ATC ATG ATT ATT CAA CAC CAC CAC CAC CAG CAG CAT CAT CCA CCC CCC CCC CCC CCG CCT CGA CGA CGC CGC CGG CTC CTC CTG CTG CTT CTT GAA GAA GAC GAC GAC GAG GAG GAT GCA GCC GCC GCC GCG GCG GCT GCT GGA GGA GGC GGC GGG GGG GGG GGT GTA GTA GTC GTG GTG GTT TAC TAC TAC TAT TAT TCA TCC TCC TCC TCT TGC TGC TGG TGT TTA TTC TTG TTT 
+Apteryx_rowi                    ... ... ..T ..A ... ... ... ... .T. G.A ... ... .AA .AT ... ..T G.. ... .C. ... ... ... ... ... ... ... AG. ... ... ... ..A ... ... .G. ... ..A ... ..T ..T ..A ... A.. ... A.G ... .A. ... ... ... T.T ... ... C.. ... A.. ... ..T ..A ... ... A.. ... ... ..T ..A .T. ... ... .A. ... ..G ..T ... ... ..T .C. ... ... ... A.. ... ... ... ..T .G. ..C ... ... ... ... ..T ... ... ... ... ... ... ... ... ... 
+Apteryx_australis_mantelli      ... ... ..T ..A ... ... ... ... .T. G.A ... ... .AA .AT ... ..T G.. ... .C. ... ... ... ... ... ... ... AG. ... ... ... ..A ... ... .G. ... ..A ... ..T ..T ..A ... A.. ... A.G ... .A. ... ... ... T.T ... ... C.. ... A.. ... ..T ..A ... ... A.. ... ... ..T ..A .T. ... ... .A. ... ..G ..T ... ... ..T .C. ... ... ... A.. ... ... ... ..T .G. ..C ... ... ... ... ..T ... ... ... ... ... ... ... ... ... 
+Dromaius_novaehollandiae        ... ... ..T ..A ..A ... ... ... .T. G.A ... ... .AT .AT ... ..T G.. ... .C. ... ... ... ... ... G.. ... ... ... ... ..T ..A ... ... TG. ... ..A ... ..T ..T ... ..G A.. .A. A.G ... .A. ... ..G ... ..T ... G.. ... ... ... ... ..T ..A ... ... A.. ... ... ..T ..A .T. ..C ... .A. ... ..G ..T ... ... ..T .C. A.. ... ... A.. ... ... ... ..T ... ..C ... ... ... ... ..T ... .C. ... ... ... ... ... ... ... 
+Casuarius_casuarius             ... ... ..T ..A ..A ... ... ... .T. G.A ... ... .AT .AT ... ..T G.. ... .C. ... ... ... ... ... ... ... ... ... ... ..T ..A ... ... .G. ... ..A ... ..T ..T ... ..C A.. ... A.G ... .A. ... ... ... ..T ... G.. C.. ... ... ... ..T ..A ... ... A.. ... ... ..T ..A .T. ..C ... .A. ... ..G ..T ... ... ..T .C. A.. ... ... A.. ... ... ... ..T ... ..C ... ... ... ... ..T ... .C. ... ... ... ... ... ... ... 
+Rhea_americana                  ... ... ..T ..A ..A ... ... ... ..A G.A ... ... .AA .AT ... ..T ... ... .C. ... ... ..T ... ... ... ... A.. ... TG. ..T ..A ... ... .G. ..T ..A ... ..T T.T ..A ... A.. ... A.G ... .A. ... ... ... ..T ..C G.. C.. ... ... ... ..T ..A ... ... A.. ... ... ..T ..A .T. ... ... .A. ... ..A ..T AC. ... ..T .C. A.. ..G ... A.. ... ... ... ..T ... ..C ... ... ... ... ..T ... ... ... ... ..C ... ... ... ... 
+Struthio_camelus_australis      ... ... ..T ..A ... ... C.. ... ..A G.A GG. ..G .AA .AT ... ..T ..T ... .C. ... ... ... ... ... ... ... ... ... .G. ... ..A ... ... .G. ... ..A ... ..T ..T ..T ... A.. ... ACA ... .A. ... ... ... ..T ... G.. C.. ... ... ... ... ..A ... ... A.. ... ..G ..T ..A .T. ... ... .A. ... ..G ..T ... ... ..T .C. ... ... ... A.. ... ... ... ..T ... ..C ... ... ... ..G ..T ... ... ... ... ... ... ... ... ... 
+
+    1    3    1    1    1    2    1    2    1    1    1    1    1    1    3
+    2    1    1    1    1    1    1    6    2    1    1    1    1    1    1
+    2    6    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    2    1    5    1    1    1    1    3    1    1    1    1    1    2
+    1    2    1    1    1    1    1    2    1    3    1    1    1    1    1
+    1    1    1    1    1    2    2    2    1    1    1    1    2    1    1
+    1    1    1    1    1    1    2    1    2    2
+
+CODONML (in paml version 4.9f, October 2017)  Birds_group1.aln
+Model: free dN/dS Ratios for branches for branches, 
+Codon frequency model: F3x4
+ns =   7  ls = 138
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   3   3   2   2   2 | Ser TCT   1   2   2   2   2   3 | Tyr TAT   2   2   2   2   2   2 | Cys TGT   1   1   1   2   1   0
+    TTC   1   1   1   1   1   1 |     TCC   3   2   2   3   3   2 |     TAC   4   3   3   4   4   4 |     TGC   2   3   3   1   1   4
+Leu TTA   2   2   2   2   2   2 |     TCA   2   2   2   2   2   2 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   2   2   2   2   2   2 |     TCG   0   0   0   0   0   0 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   1   1   1   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   2   2   2   2   2   1 | Pro CCT   1   3   3   2   2   3 | His CAT   2   1   1   2   2   2 | Arg CGT   0   1   1   0   1   1
+    CTC   3   3   3   2   3   4 |     CCC   4   1   1   1   2   1 |     CAC   4   3   3   3   3   1 |     CGC   2   1   1   1   1   1
+    CTA   0   0   0   0   0   0 |     CCA   1   3   3   2   2   2 | Gln CAA   1   4   4   4   4   4 |     CGA   2   1   1   0   1   1
+    CTG   6   5   5   6   5   5 |     CCG   1   0   0   2   1   0 |     CAG   8   7   7   7   7   7 |     CGG   1   0   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   3   3   3   2   3   4 | Thr ACT   1   2   2   2   2   2 | Asn AAT   1   3   3   4   4   3 | Ser AGT   1   2   2   2   2   2
+    ATC   2   2   2   2   2   1 |     ACC   2   2   2   2   2   2 |     AAC   4   4   4   3   3   4 |     AGC   8   4   4   3   3   4
+    ATA   1   1   1   2   2   2 |     ACA   0   1   1   1   1   2 | Lys AAA   1   3   3   3   3   4 | Arg AGA   1   2   2   2   2   2
+Met ATG   6   8   8   8   8   7 |     ACG   2   0   0   0   0   1 |     AAG   4   3   3   2   2   2 |     AGG   1   2   2   2   2   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   2   2   2   4   3   3 | Ala GCT   3   5   5   4   4   5 | Asp GAT   2   3   3   3   3   3 | Gly GGT   1   2   2   2   2   2
+    GTC   1   1   1   1   1   1 |     GCC   4   3   3   4   4   3 |     GAC   3   1   1   2   2   2 |     GGC   2   1   1   1   1   0
+    GTA   2   2   2   1   1   0 |     GCA   1   2   2   2   2   2 | Glu GAA   4   5   5   6   5   5 |     GGA   4   3   3   3   3   4
+    GTG   3   3   3   3   3   4 |     GCG   2   0   0   0   0   0 |     GAG   2   1   1   1   1   1 |     GGG   3   3   3   3   3   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   2 | Ser TCT   2 | Tyr TAT   2 | Cys TGT   1
+    TTC   1 |     TCC   1 |     TAC   4 |     TGC   2
+Leu TTA   2 |     TCA   2 | *** TAA   0 | *** TGA   0
+    TTG   2 |     TCG   1 |     TAG   0 | Trp TGG   1
+------------------------------------------------------
+Leu CTT   2 | Pro CCT   4 | His CAT   2 | Arg CGT   1
+    CTC   3 |     CCC   1 |     CAC   3 |     CGC   2
+    CTA   0 |     CCA   2 | Gln CAA   4 |     CGA   1
+    CTG   5 |     CCG   0 |     CAG   7 |     CGG   0
+------------------------------------------------------
+Ile ATT   3 | Thr ACT   1 | Asn AAT   2 | Ser AGT   3
+    ATC   2 |     ACC   2 |     AAC   3 |     AGC   3
+    ATA   1 |     ACA   3 | Lys AAA   3 | Arg AGA   1
+Met ATG   7 |     ACG   0 |     AAG   3 |     AGG   2
+------------------------------------------------------
+Val GTT   3 | Ala GCT   5 | Asp GAT   2 | Gly GGT   3
+    GTC   1 |     GCC   2 |     GAC   3 |     GGC   0
+    GTA   2 |     GCA   2 | Glu GAA   5 |     GGA   3
+    GTG   3 |     GCG   1 |     GAG   1 |     GGG   3
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Nothoprocta_perdicaria
+position  1:    T:0.16667    C:0.27536    A:0.27536    G:0.28261
+position  2:    T:0.27536    C:0.20290    A:0.30435    G:0.21739
+position  3:    T:0.18116    C:0.35507    A:0.15942    G:0.30435
+Average         T:0.20773    C:0.27778    A:0.24638    G:0.26812
+
+#2: Apteryx_rowi   
+position  1:    T:0.17391    C:0.25362    A:0.30435    G:0.26812
+position  2:    T:0.28986    C:0.20290    A:0.31159    G:0.19565
+position  3:    T:0.26812    C:0.25362    A:0.22464    G:0.25362
+Average         T:0.24396    C:0.23671    A:0.28019    G:0.23913
+
+#3: Apteryx_australis_mantelli
+position  1:    T:0.17391    C:0.25362    A:0.30435    G:0.26812
+position  2:    T:0.28986    C:0.20290    A:0.31159    G:0.19565
+position  3:    T:0.26812    C:0.25362    A:0.22464    G:0.25362
+Average         T:0.24396    C:0.23671    A:0.28019    G:0.23913
+
+#4: Dromaius_novaehollandiae
+position  1:    T:0.17391    C:0.24638    A:0.28986    G:0.28986
+position  2:    T:0.28986    C:0.21014    A:0.33333    G:0.16667
+position  3:    T:0.26812    C:0.24638    A:0.21739    G:0.26812
+Average         T:0.24396    C:0.23430    A:0.28019    G:0.24155
+
+#5: Casuarius_casuarius
+position  1:    T:0.16667    C:0.26087    A:0.29710    G:0.27536
+position  2:    T:0.28986    C:0.21014    A:0.32609    G:0.17391
+position  3:    T:0.26812    C:0.26087    A:0.21739    G:0.25362
+Average         T:0.24155    C:0.24396    A:0.28019    G:0.23430
+
+#6: Rhea_americana 
+position  1:    T:0.18116    C:0.23913    A:0.31884    G:0.26087
+position  2:    T:0.28261    C:0.21739    A:0.31884    G:0.18116
+position  3:    T:0.27536    C:0.25362    A:0.23188    G:0.23913
+Average         T:0.24638    C:0.23671    A:0.28986    G:0.22705
+
+#7: Struthio_camelus_australis
+position  1:    T:0.16667    C:0.26812    A:0.28261    G:0.28261
+position  2:    T:0.28261    C:0.21014    A:0.31884    G:0.18841
+position  3:    T:0.27536    C:0.23913    A:0.22464    G:0.26087
+Average         T:0.24155    C:0.23913    A:0.27536    G:0.24396
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      16 | Ser S TCT      14 | Tyr Y TAT      14 | Cys C TGT       7
+      TTC       7 |       TCC      16 |       TAC      26 |       TGC      16
+Leu L TTA      14 |       TCA      14 | *** * TAA       0 | *** * TGA       0
+      TTG      14 |       TCG       1 |       TAG       0 | Trp W TGG       7
+------------------------------------------------------------------------------
+Leu L CTT      13 | Pro P CCT      18 | His H CAT      12 | Arg R CGT       5
+      CTC      21 |       CCC      11 |       CAC      20 |       CGC       9
+      CTA       0 |       CCA      15 | Gln Q CAA      25 |       CGA       7
+      CTG      37 |       CCG       4 |       CAG      50 |       CGG       1
+------------------------------------------------------------------------------
+Ile I ATT      21 | Thr T ACT      12 | Asn N AAT      20 | Ser S AGT      14
+      ATC      13 |       ACC      14 |       AAC      25 |       AGC      29
+      ATA      10 |       ACA       9 | Lys K AAA      20 | Arg R AGA      12
+Met M ATG      52 |       ACG       3 |       AAG      19 |       AGG      13
+------------------------------------------------------------------------------
+Val V GTT      19 | Ala A GCT      31 | Asp D GAT      19 | Gly G GGT      14
+      GTC       7 |       GCC      23 |       GAC      14 |       GGC       6
+      GTA      10 |       GCA      13 | Glu E GAA      35 |       GGA      23
+      GTG      22 |       GCG       3 |       GAG       8 |       GGG      19
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.17184    C:0.25673    A:0.29607    G:0.27536
+position  2:    T:0.28571    C:0.20807    A:0.31781    G:0.18841
+position  3:    T:0.25776    C:0.26605    A:0.21429    G:0.26190
+Average         T:0.23844    C:0.24362    A:0.27605    G:0.24189
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01308680  0.01350726  0.01087939  0.01329703
+  0.00953060  0.00983681  0.00792303  0.00968370
+  0.01455669  0.01502438  0.00000000  0.00000000
+  0.00862970  0.00890696  0.00000000  0.00876833
+  0.01955136  0.02017952  0.01625354  0.01986544
+  0.01423849  0.01469595  0.01183682  0.01446722
+  0.02174735  0.02244606  0.01807912  0.02209670
+  0.01289256  0.01330678  0.01071791  0.01309967
+  0.02254713  0.02327154  0.01874400  0.02290934
+  0.01642019  0.01694775  0.01365052  0.01668397
+  0.02507960  0.02588537  0.02084931  0.02548249
+  0.01486804  0.01534572  0.01236018  0.01510688
+  0.02097041  0.02164416  0.01743323  0.02130728
+  0.01527193  0.01576259  0.01269594  0.01551726
+  0.02332578  0.02407521  0.01939131  0.02370049
+  0.01382831  0.01427260  0.01149583  0.01405046
+
+
+TREE #  1:  (((((2, 3), (4, 5)), 6), 7), 1);   MP score: 80
+This is a rooted tree.  Please check!
+lnL(ntime: 12  np: 25):   -987.402224      +0.000000
+   8..9     9..10   10..11   11..12   12..2    12..3    11..13   13..4    13..5    10..6     9..7     8..1  
+ 0.244159 0.000004 0.021745 0.044946 0.000004 0.000004 0.061465 0.044749 0.000004 0.116441 0.094325 0.111980 3.602387 0.000100 0.000100 999.000000 999.000000 0.000100 0.000100 0.222271 0.751622 0.000100 0.263570 0.208314 999.000000
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  0.739825
+
+(((((2: 0.000004, 3: 0.000004): 0.044946, (4: 0.044749, 5: 0.000004): 0.061465): 0.021745, 6: 0.116441): 0.000004, 7: 0.094325): 0.244159, 1: 0.111980);
+
+(((((Apteryx_rowi: 0.000004, Apteryx_australis_mantelli: 0.000004): 0.044946, (Dromaius_novaehollandiae: 0.044749, Casuarius_casuarius: 0.000004): 0.061465): 0.021745, Rhea_americana: 0.116441): 0.000004, Struthio_camelus_australis: 0.094325): 0.244159, Nothoprocta_perdicaria: 0.111980);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  3.60239
+
+w (dN/dS) for branches:  0.00010 0.00010 999.00000 999.00000 0.00010 0.00010 0.22227 0.75162 0.00010 0.26357 0.20831 999.00000
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   8..9      0.244   295.0   119.0  0.0001  0.0000  0.2830   0.0  33.7
+   9..10     0.000   295.0   119.0  0.0001  0.0000  0.0000   0.0   0.0
+  10..11     0.022   295.0   119.0 999.0000  0.0102  0.0000   3.0   0.0
+  11..12     0.045   295.0   119.0 999.0000  0.0210  0.0000   6.2   0.0
+  12..2      0.000   295.0   119.0  0.0001  0.0000  0.0000   0.0   0.0
+  12..3      0.000   295.0   119.0  0.0001  0.0000  0.0000   0.0   0.0
+  11..13     0.061   295.0   119.0  0.2223  0.0102  0.0459   3.0   5.5
+  13..4      0.045   295.0   119.0  0.7516  0.0136  0.0181   4.0   2.2
+  13..5      0.000   295.0   119.0  0.0001  0.0000  0.0000   0.0   0.0
+  10..6      0.116   295.0   119.0  0.2636  0.0215  0.0817   6.3   9.7
+   9..7      0.094   295.0   119.0  0.2083  0.0150  0.0721   4.4   8.6
+   8..1      0.112   295.0   119.0 999.0000  0.0524  0.0001  15.4   0.0
+
+tree length for dN:       0.1440
+tree length for dS:       0.5009
+
+dS tree:
+(((((Apteryx_rowi: 0.000005, Apteryx_australis_mantelli: 0.000005): 0.000021, (Dromaius_novaehollandiae: 0.018123, Casuarius_casuarius: 0.000005): 0.045949): 0.000010, Rhea_americana: 0.081659): 0.000005, Struthio_camelus_australis: 0.072123): 0.282987, Nothoprocta_perdicaria: 0.000052);
+dN tree:
+(((((Apteryx_rowi: 0.000000, Apteryx_australis_mantelli: 0.000000): 0.021020, (Dromaius_novaehollandiae: 0.013622, Casuarius_casuarius: 0.000000): 0.010213): 0.010169, Rhea_americana: 0.021523): 0.000000, Struthio_camelus_australis: 0.015024): 0.000028, Nothoprocta_perdicaria: 0.052369);
+
+w ratios as labels for TreeView:
+(((((Apteryx_rowi #0.0001 , Apteryx_australis_mantelli #0.0001 ) #999 , (Dromaius_novaehollandiae #0.751622 , Casuarius_casuarius #0.0001 ) #0.222271 ) #999 , Rhea_americana #0.26357 ) #0.0001 , Struthio_camelus_australis #0.208314 ) #0.0001 , Nothoprocta_perdicaria #999 );
+
+
+Time used:  0:48

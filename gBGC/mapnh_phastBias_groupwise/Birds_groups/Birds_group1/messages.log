@@ -1,0 +1,682 @@
+
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Overwritten previously defined function:'GaussLaguerreQuardature'
+Overwritten previously defined function:'GammaQuadWeight'
+Variable 'SKIP_HARVEST_FREQ' was not initialized prior to being used
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model MG94customModel assigned to Apteryx_rowi
+Apteryx_rowi has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Apteryx_australis_mantelli
+Apteryx_australis_mantelli has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node4
+Node4 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Dromaius_novaehollandiae
+Dromaius_novaehollandiae has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Casuarius_casuarius
+Casuarius_casuarius has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node7
+Node7 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node3
+Node3 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Rhea_americana
+Rhea_americana has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node2
+Node2 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Struthio_camelus_australis
+Struthio_camelus_australis has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node1
+Node1 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Nothoprocta_perdicaria
+Nothoprocta_perdicaria has 2 parameters - branch length not assigned
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+The tips of the tree:givenTree were matched with the species names from the data in the following numeric order (0-based) {1,2,3,4,5,6,0}
+
+Pseudo-optimal path's cost 884 vs 1092 for 1..k=> a 1.23529 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'theLnLik' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Variable 'givenTree.Apteryx_rowi.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Apteryx_rowi.synRate' was not initialized prior to being used
+Variable 'givenTree.Apteryx_australis_mantelli.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Apteryx_australis_mantelli.synRate' was not initialized prior to being used
+Variable 'givenTree.Dromaius_novaehollandiae.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Dromaius_novaehollandiae.synRate' was not initialized prior to being used
+Variable 'givenTree.Casuarius_casuarius.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Casuarius_casuarius.synRate' was not initialized prior to being used
+Variable 'givenTree.Rhea_americana.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Rhea_americana.synRate' was not initialized prior to being used
+Variable 'givenTree.Struthio_camelus_australis.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Struthio_camelus_australis.synRate' was not initialized prior to being used
+Variable 'givenTree.Nothoprocta_perdicaria.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Nothoprocta_perdicaria.synRate' was not initialized prior to being used
+Variable 'givenTree.Node4.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node4.synRate' was not initialized prior to being used
+Variable 'givenTree.Node7.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node7.synRate' was not initialized prior to being used
+Variable 'givenTree.Node3.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node3.synRate' was not initialized prior to being used
+Variable 'givenTree.Node2.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node2.synRate' was not initialized prior to being used
+Site 17 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 17 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 12 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 310-th LF evaluation.
+Initial guess for givenTree.Node3.nonSynRate is 0.00633096
+Initial guess for givenTree.Node3.synRate is -0.000563925
+Initial guess for givenTree.Node4.nonSynRate is 0.00308134
+Initial guess for givenTree.Node4.synRate is -0.00282914
+Initial guess for givenTree.Apteryx_rowi.nonSynRate is 1.27213e-17
+Initial guess for givenTree.Apteryx_rowi.synRate is -4.62593e-18
+Initial guess for givenTree.Apteryx_australis_mantelli.nonSynRate is 1.72481e-17
+Initial guess for givenTree.Apteryx_australis_mantelli.synRate is -5.05548e-18
+Initial guess for givenTree.Node7.nonSynRate is 0.0131098
+Initial guess for givenTree.Node7.synRate is 0.00440975
+Initial guess for givenTree.Dromaius_novaehollandiae.nonSynRate is 0.00652542
+Initial guess for givenTree.Dromaius_novaehollandiae.synRate is 0.0068894
+Initial guess for givenTree.Casuarius_casuarius.nonSynRate is 0.000782889
+Initial guess for givenTree.Casuarius_casuarius.synRate is 0.000374725
+Initial guess for givenTree.Rhea_americana.nonSynRate is 0.0302152
+Initial guess for givenTree.Rhea_americana.synRate is 0.00768867
+Initial guess for givenTree.Struthio_camelus_australis.nonSynRate is 0.0112629
+Initial guess for givenTree.Struthio_camelus_australis.synRate is 0.017513
+Initial guess for givenTree.Nothoprocta_perdicaria.nonSynRate is 0.0727908
+Initial guess for givenTree.Nothoprocta_perdicaria.synRate is 0.0276335
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+CT = 1
+GT = 1
+CG = 1
+AC = 1
+AT = 1
+givenTree.Apteryx_rowi.synRate = 0
+givenTree.Apteryx_rowi.nonSynRate = 1.27213e-17
+givenTree.Apteryx_australis_mantelli.synRate = 0
+givenTree.Apteryx_australis_mantelli.nonSynRate = 1.72481e-17
+givenTree.Node4.synRate = 0
+givenTree.Node4.nonSynRate = 0.00308134
+givenTree.Dromaius_novaehollandiae.synRate = 0.0068894
+givenTree.Dromaius_novaehollandiae.nonSynRate = 0.00652542
+givenTree.Casuarius_casuarius.synRate = 0.000374725
+givenTree.Casuarius_casuarius.nonSynRate = 0.000782889
+givenTree.Node7.synRate = 0.00440975
+givenTree.Node7.nonSynRate = 0.0131098
+givenTree.Node3.synRate = 0
+givenTree.Node3.nonSynRate = 0.00633096
+givenTree.Rhea_americana.synRate = 0.00768867
+givenTree.Rhea_americana.nonSynRate = 0.0302152
+givenTree.Node2.synRate = 0.1
+givenTree.Node2.nonSynRate = 0.1
+givenTree.Struthio_camelus_australis.synRate = 0.017513
+givenTree.Struthio_camelus_australis.nonSynRate = 0.0112629
+givenTree.Nothoprocta_perdicaria.synRate = 0.0276335
+givenTree.Nothoprocta_perdicaria.nonSynRate = 0.0727908
+Optimization finished in 17 loop passes.
+2384 likelihood evaluation calls and 9609 matrix exponentiations calls were made
+
+Variable 'lastDepth' was not initialized prior to being used
+No nodel was assigned to Apteryx_rowi
+Apteryx_rowi has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_australis_mantelli
+Apteryx_australis_mantelli has 0 parameters - branch length not assigned
+No nodel was assigned to Node4
+Node4 has 0 parameters - branch length not assigned
+No nodel was assigned to Dromaius_novaehollandiae
+Dromaius_novaehollandiae has 0 parameters - branch length not assigned
+No nodel was assigned to Casuarius_casuarius
+Casuarius_casuarius has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Rhea_americana
+Rhea_americana has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Struthio_camelus_australis
+Struthio_camelus_australis has 0 parameters - branch length not assigned
+No nodel was assigned to Nothoprocta_perdicaria
+Nothoprocta_perdicaria has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_rowi
+Apteryx_rowi has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_australis_mantelli
+Apteryx_australis_mantelli has 0 parameters - branch length not assigned
+No nodel was assigned to Node4
+Node4 has 0 parameters - branch length not assigned
+No nodel was assigned to Dromaius_novaehollandiae
+Dromaius_novaehollandiae has 0 parameters - branch length not assigned
+No nodel was assigned to Casuarius_casuarius
+Casuarius_casuarius has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Rhea_americana
+Rhea_americana has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Struthio_camelus_australis
+Struthio_camelus_australis has 0 parameters - branch length not assigned
+No nodel was assigned to Nothoprocta_perdicaria
+Nothoprocta_perdicaria has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_rowi
+Apteryx_rowi has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_australis_mantelli
+Apteryx_australis_mantelli has 0 parameters - branch length not assigned
+No nodel was assigned to Node4
+Node4 has 0 parameters - branch length not assigned
+No nodel was assigned to Dromaius_novaehollandiae
+Dromaius_novaehollandiae has 0 parameters - branch length not assigned
+No nodel was assigned to Casuarius_casuarius
+Casuarius_casuarius has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Rhea_americana
+Rhea_americana has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Struthio_camelus_australis
+Struthio_camelus_australis has 0 parameters - branch length not assigned
+No nodel was assigned to Nothoprocta_perdicaria
+Nothoprocta_perdicaria has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_rowi
+Apteryx_rowi has 0 parameters - branch length not assigned
+No nodel was assigned to Apteryx_australis_mantelli
+Apteryx_australis_mantelli has 0 parameters - branch length not assigned
+No nodel was assigned to Node4
+Node4 has 0 parameters - branch length not assigned
+No nodel was assigned to Dromaius_novaehollandiae
+Dromaius_novaehollandiae has 0 parameters - branch length not assigned
+No nodel was assigned to Casuarius_casuarius
+Casuarius_casuarius has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Node3
+Node3 has 0 parameters - branch length not assigned
+No nodel was assigned to Rhea_americana
+Rhea_americana has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Struthio_camelus_australis
+Struthio_camelus_australis has 0 parameters - branch length not assigned
+No nodel was assigned to Nothoprocta_perdicaria
+Nothoprocta_perdicaria has 0 parameters - branch length not assigned
+Variable 'nodeName' was not initialized prior to being used
+Variable 'speciesIndex' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_rowi
+Model MG94customModel assigned to Apteryx_australis_mantelli
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 'twoLnLik' was not initialized prior to being used
+Variable 't2.Apteryx_australis_mantelli.nonSynRate' was not initialized prior to being used
+Variable 't2.Apteryx_australis_mantelli.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Apteryx_australis_mantelli.nonSynRate = 0.1
+t2.Apteryx_australis_mantelli.synRate = 0.1
+Optimization finished in 6 loop passes.
+139 likelihood evaluation calls and 121 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_rowi
+Model MG94customModel assigned to Dromaius_novaehollandiae
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Dromaius_novaehollandiae.nonSynRate' was not initialized prior to being used
+Variable 't2.Dromaius_novaehollandiae.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Dromaius_novaehollandiae.nonSynRate = 0.1
+t2.Dromaius_novaehollandiae.synRate = 0.1
+Optimization finished in 6 loop passes.
+140 likelihood evaluation calls and 122 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_rowi
+Model MG94customModel assigned to Casuarius_casuarius
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Casuarius_casuarius.synRate' was not initialized prior to being used
+Variable 't2.Casuarius_casuarius.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Casuarius_casuarius.synRate = 0.1
+t2.Casuarius_casuarius.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+190 likelihood evaluation calls and 175 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_rowi
+Model MG94customModel assigned to Rhea_americana
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Rhea_americana.synRate' was not initialized prior to being used
+Variable 't2.Rhea_americana.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Rhea_americana.synRate = 0.1
+t2.Rhea_americana.nonSynRate = 0.1
+Optimization finished in 5 loop passes.
+205 likelihood evaluation calls and 190 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_rowi
+Model MG94customModel assigned to Struthio_camelus_australis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Struthio_camelus_australis.synRate' was not initialized prior to being used
+Variable 't2.Struthio_camelus_australis.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Struthio_camelus_australis.synRate = 0.1
+t2.Struthio_camelus_australis.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+194 likelihood evaluation calls and 179 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_rowi
+Model MG94customModel assigned to Nothoprocta_perdicaria
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nothoprocta_perdicaria.nonSynRate' was not initialized prior to being used
+Variable 't2.Nothoprocta_perdicaria.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nothoprocta_perdicaria.nonSynRate = 0.1
+t2.Nothoprocta_perdicaria.synRate = 0.1
+Optimization finished in 6 loop passes.
+182 likelihood evaluation calls and 168 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_australis_mantelli
+Model MG94customModel assigned to Dromaius_novaehollandiae
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Dromaius_novaehollandiae.nonSynRate' was not initialized prior to being used
+Variable 't2.Dromaius_novaehollandiae.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Dromaius_novaehollandiae.nonSynRate = 0.1
+t2.Dromaius_novaehollandiae.synRate = 0.1
+Optimization finished in 3 loop passes.
+58 likelihood evaluation calls and 52 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_australis_mantelli
+Model MG94customModel assigned to Casuarius_casuarius
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Casuarius_casuarius.synRate' was not initialized prior to being used
+Variable 't2.Casuarius_casuarius.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Casuarius_casuarius.synRate = 0.1
+t2.Casuarius_casuarius.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+64 likelihood evaluation calls and 56 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_australis_mantelli
+Model MG94customModel assigned to Rhea_americana
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Rhea_americana.nonSynRate' was not initialized prior to being used
+Variable 't2.Rhea_americana.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Rhea_americana.nonSynRate = 0.1
+t2.Rhea_americana.synRate = 0.1
+Optimization finished in 8 loop passes.
+186 likelihood evaluation calls and 172 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_australis_mantelli
+Model MG94customModel assigned to Struthio_camelus_australis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Struthio_camelus_australis.nonSynRate' was not initialized prior to being used
+Variable 't2.Struthio_camelus_australis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Struthio_camelus_australis.nonSynRate = 0.1
+t2.Struthio_camelus_australis.synRate = 0.1
+Optimization finished in 6 loop passes.
+66 likelihood evaluation calls and 55 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apteryx_australis_mantelli
+Model MG94customModel assigned to Nothoprocta_perdicaria
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nothoprocta_perdicaria.synRate' was not initialized prior to being used
+Variable 't2.Nothoprocta_perdicaria.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nothoprocta_perdicaria.synRate = 0.1
+t2.Nothoprocta_perdicaria.nonSynRate = 0.1
+Optimization finished in 7 loop passes.
+92 likelihood evaluation calls and 86 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Dromaius_novaehollandiae
+Model MG94customModel assigned to Casuarius_casuarius
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Casuarius_casuarius.nonSynRate' was not initialized prior to being used
+Variable 't2.Casuarius_casuarius.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Casuarius_casuarius.nonSynRate = 0.1
+t2.Casuarius_casuarius.synRate = 0.1
+Optimization finished in 6 loop passes.
+64 likelihood evaluation calls and 56 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Dromaius_novaehollandiae
+Model MG94customModel assigned to Rhea_americana
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Rhea_americana.nonSynRate' was not initialized prior to being used
+Variable 't2.Rhea_americana.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Rhea_americana.nonSynRate = 0.1
+t2.Rhea_americana.synRate = 0.1
+Optimization finished in 8 loop passes.
+186 likelihood evaluation calls and 172 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Dromaius_novaehollandiae
+Model MG94customModel assigned to Struthio_camelus_australis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Struthio_camelus_australis.nonSynRate' was not initialized prior to being used
+Variable 't2.Struthio_camelus_australis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Struthio_camelus_australis.nonSynRate = 0.1
+t2.Struthio_camelus_australis.synRate = 0.1
+Optimization finished in 6 loop passes.
+66 likelihood evaluation calls and 55 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Dromaius_novaehollandiae
+Model MG94customModel assigned to Nothoprocta_perdicaria
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nothoprocta_perdicaria.nonSynRate' was not initialized prior to being used
+Variable 't2.Nothoprocta_perdicaria.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nothoprocta_perdicaria.nonSynRate = 0.1
+t2.Nothoprocta_perdicaria.synRate = 0.1
+Optimization finished in 7 loop passes.
+93 likelihood evaluation calls and 87 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Casuarius_casuarius
+Model MG94customModel assigned to Rhea_americana
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Rhea_americana.nonSynRate' was not initialized prior to being used
+Variable 't2.Rhea_americana.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Rhea_americana.nonSynRate = 0.1
+t2.Rhea_americana.synRate = 0.1
+Optimization finished in 3 loop passes.
+119 likelihood evaluation calls and 112 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Casuarius_casuarius
+Model MG94customModel assigned to Struthio_camelus_australis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Struthio_camelus_australis.nonSynRate' was not initialized prior to being used
+Variable 't2.Struthio_camelus_australis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Struthio_camelus_australis.nonSynRate = 0.1
+t2.Struthio_camelus_australis.synRate = 0.1
+Optimization finished in 7 loop passes.
+106 likelihood evaluation calls and 97 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Casuarius_casuarius
+Model MG94customModel assigned to Nothoprocta_perdicaria
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nothoprocta_perdicaria.nonSynRate' was not initialized prior to being used
+Variable 't2.Nothoprocta_perdicaria.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nothoprocta_perdicaria.nonSynRate = 0.1
+t2.Nothoprocta_perdicaria.synRate = 0.1
+Optimization finished in 7 loop passes.
+128 likelihood evaluation calls and 112 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Rhea_americana
+Model MG94customModel assigned to Struthio_camelus_australis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Struthio_camelus_australis.nonSynRate' was not initialized prior to being used
+Variable 't2.Struthio_camelus_australis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Struthio_camelus_australis.nonSynRate = 0.1
+t2.Struthio_camelus_australis.synRate = 0.1
+Optimization finished in 6 loop passes.
+170 likelihood evaluation calls and 157 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Rhea_americana
+Model MG94customModel assigned to Nothoprocta_perdicaria
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nothoprocta_perdicaria.synRate' was not initialized prior to being used
+Variable 't2.Nothoprocta_perdicaria.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nothoprocta_perdicaria.synRate = 0.1
+t2.Nothoprocta_perdicaria.nonSynRate = 0.1
+Optimization finished in 7 loop passes.
+102 likelihood evaluation calls and 93 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Struthio_camelus_australis
+Model MG94customModel assigned to Nothoprocta_perdicaria
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 1420-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nothoprocta_perdicaria.synRate = 0.1
+t2.Nothoprocta_perdicaria.nonSynRate = 0.1
+Optimization finished in 5 loop passes.
+153 likelihood evaluation calls and 139 matrix exponentiations calls were made
