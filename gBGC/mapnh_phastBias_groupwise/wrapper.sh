@@ -42,7 +42,7 @@ cd ../
 
 ######################################################
 #collect output 
-
+rm -r output_phastbias_mapnh
 mkdir output_phastbias_mapnh 
 for j in `cat list.file`;
 do 
