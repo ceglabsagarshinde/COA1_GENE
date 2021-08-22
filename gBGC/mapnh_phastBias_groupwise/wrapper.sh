@@ -6,6 +6,7 @@ cd $d
 for j in `cat list_birds.group`
 do 
 cd $j
+chmod 777 mapnh.sh phast.sh
 ./mapnh.sh $j
 ./phast.sh $j
 cd - 
@@ -17,6 +18,7 @@ cd ../
 for j in `cat list.file`
 do 
 cd $j 
+chmod 777 mapnh.sh phast.sh
 ./mapnh.sh $j
 ./phast.sh $j
 cd - 
@@ -29,6 +31,7 @@ cd $d
 for j in `cat list.rodent`
 do 
 cd $j
+chmod 777 mapnh.sh phast.sh
 ./mapnh.sh $j
 ./phast.sh $j
 cd - 
@@ -75,6 +78,7 @@ done
 cd ../
 cd output_phastbias_mapnh
 cp ../script.sh ../gBGC.R ../transpose.sh ../ploting.sh . 
+chmod 777 script.sh gBGC.R transpose.sh ploting.sh
 
 ##make different groups from 1 big group 
 ./script.sh 10 Amphibian_Reptiles Amphibian_Reptiles.aln.phast.out
