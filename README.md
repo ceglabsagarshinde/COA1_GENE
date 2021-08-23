@@ -22,7 +22,7 @@ Data is organised into the following folders:
 
 5.Geneloss_timing:In this folder, three subfolders are available for inspecting the time of COA1 gene loss in few species of rodents, galliforms, and feliforms. The branch-free model is used in PAML with different combinations of labellings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labelling and unclear names readme provided inside those folders. All required files are provided in each folder/subfolders.   
 
-6.HYPHYMP_Relax:input and Output files kept in theis folder, running the RELAX program implemented in the HYPHY package.
+6.HYPHYMP_Relax:input and Output files kept in this folder, running the RELAX program implemented in the HYPHY package.
 
 7.PAML:Branch test and site test run using 4.9f version in different groups.
 
