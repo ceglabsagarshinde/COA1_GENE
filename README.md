@@ -68,13 +68,17 @@ PROTTER(1.0)
 
 HHblits (3.3.0)
 
-HHpred () 
+HHpred (https://toolkit.tuebingen.mpg.de/tools/hhpred) 
+
+HeliQuest(https://heliquest.ipmc.cnrs.fr/)
+
+PROTEUS2(2.0)
 
 jvarkit
 
 CodSeqGen ( https://doi.org/10.1016/j.ygeno.2019.02.002)
 
-CLAN
+CLAN 
 
 Gotree (https://github.com/evolbioinfo/gotree.git)
 
