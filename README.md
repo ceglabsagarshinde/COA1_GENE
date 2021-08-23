@@ -20,17 +20,17 @@ Data is organised into the following folders:
 
 4.Figure5 :The Figure5 folder contains the A to F folders with bam files for the main figure 5 from different bio-project IDs of woolly mammoth available raw read data from the short read archive. We checked reads support for COA1 gene exon sequences. The output files for the GC Vs. kmer plot are from 7 different project IDs of the woolly mammoth in the G folder. Required input files and script are provided in detail. 
 
-5.Geneloss_timing:In this folder, three subfolders are available for inspecting the time of COA1 gene loss in few species of rodents, galliforms, and feliforms. The branch-free model is used in PAML with different combinations of labelings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labeling and unclear names readme provided inside those folders. All required files are provided in each folder/subfolders.   
+5.Geneloss_timing:In this folder, three subfolders are available for inspecting the time of COA1 gene loss in few species of rodents, galliforms, and feliforms. The branch-free model is used in PAML with different combinations of labellings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labelling and unclear names readme provided inside those folders. All required files are provided in each folder/subfolders.   
 
-6.HYPHYMP_Relax:
+6.HYPHYMP_Relax:input and Output files kept in theis folder, running the RELAX program implemented in the HYPHY package.
 
 7.PAML:Branch test and site test run using 4.9f version in different groups.
 
-8.Tree_files_used_main_figure:
+8.Tree_files_used_main_figure:tree files used for main figure.
 
 9.gBGC:Inside this folder, calculated the GC* for the entire group as well as groups and in gBGC for groupwise. The input files, scripts, and results are provided inside respective folders.    
 
-10.supplementary_figure_data:Inside the 
+10.supplementary_figure_data:Inside this folder kept different supplementary data input and output. 
 
 # Prerequisites:
 
