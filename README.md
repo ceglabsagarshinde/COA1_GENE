@@ -64,6 +64,12 @@ FigTree (1.4.2)
 
 MODELLER(10.0)
 
+PROTTER(1.0)
+
+HHblits (3.3.0)
+
+HHpred () 
+
 jvarkit
 
 CodSeqGen ( https://doi.org/10.1016/j.ygeno.2019.02.002)
