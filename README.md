@@ -72,6 +72,18 @@ CLAN
 
 
 # R packages
+ape
+phytools
+ggplot2
+ggrepel
+cowplot
+dplyr
+ggplotify
+grid
+gridExtra
+reshape2
+
+
 
 
 
