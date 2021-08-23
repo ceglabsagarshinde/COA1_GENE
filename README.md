@@ -70,6 +70,8 @@ CodSeqGen ( https://doi.org/10.1016/j.ygeno.2019.02.002)
 
 CLAN
 
+Gotree (https://github.com/evolbioinfo/gotree.git)
+
 
 # R packages
 ape
