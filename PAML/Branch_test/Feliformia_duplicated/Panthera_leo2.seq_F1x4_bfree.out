@@ -1,0 +1,255 @@
+
+Before deleting alignment gaps
+      7    492
+
+Panthera_leo                    ATG CCA TTG CCT CTG GGG AAA CGG GTC CTT TTT TCC AGT GNA GTG GTC AGT GGG AGC TGT GCC CTT ACA TAT TAC CTT ATA CAA AAA GCT TTT TCC AGG GCT TCC TAT TAC GAG CTG GTA TTG GAG CAG CTG CAC AGC CAC CCN GAG TCC CTG GAA GCT CTG TGC ACT CCT CTC AAC ATC CAC TAT CTA CAC CTC ACN GAC AAG TAC AAC TTC GTG GAT ATT GCC AGT ACC CAG TNG AAG ATT CCT GTC TCT GGA TTC AAG TCA GAG GGC CAT CTC TAT GTC AGC TCA --- --- --- --- --- --- --- TCC AGA GAT GCC CCC TTT CAG AGA TGG CAC CTT CAG GAT GTC TTC TNA AAT CTC AAG GAT GGT NAG CAT ATT CTT GTG TTC AAG TTC AGT ATG GAC --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- AGG 
+Suricata_suricatta              ATG CCA TTG CCT CTG GGG AAA CTG GTC TTT CTT TCC AGT GTG GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ACA CAA AAG GCT TTT TCC AAG GCT TCC TAT TAC CAG CTG GCT TTG GAG CAG CTG CAC CGC CGG CCC GAG GCC TTG GAG GCT CTG GGC CCT CCT CTC CGC GTC CAC GAT CTC CGC CTC ACC GAC CAG TGC AAC TTC GTG GAC ATT GCT GAC GCC CAG TTG AAG ATT CCT GTC TCT GGA TCC AAG TCA GAG GGT CAT CTC TAT GTC AGC TCA --- --- --- --- --- --- --- TCC AGA GGT GCC CCC TTT CAG AGG TGG CAC CTT CAG GAG GTC TTC TTA GAA CTC AAG GAC GGT CAG CAG ATT CCC GTG TTC AAG CCC AGC GGG GAC ACT GAC GGT GAA GGA GGA AAG --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- CAG 
+Felis_catus                     ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCT TAT TAC CAG CTC GCA TTG GAG CAG CTG CAC AGC TAC CCC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TTG TCC ATT AGC TCC ACC TCA CCG ACA AGT ACA GCT TCG TGG ACA TTG CCG ATG CCC AGG TGG CAC CTT CAG AAG GTC --- TTA AAG CTC AAG GGT GGT CAG CAG ATT CCC GTG TTT AAG CTC AGC AGG GAC ACT GGT GAT GAA GGA GGA CAG GTG ATC AAA ACG ACT CTG CTT TCT CCA AGA GTG GCC TCC CCT CCT CAC CGG GTC CCT CCA GGG CCT 
+Puma_concolor                   ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTA GCA TTG GAG CAG CTG CAC AGC TAC CCC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TTG TCC ATT AGC TCC ACC TCA CCG ACA AGT ACA GCT TCG TGG ACA TTG CCA ATG CCC AGG TGG CAC CTT CAG AAG GTC --- TTA AAG CTC AAG GGT GGT CAG CAG ATT CCC GTG TTT AAG CTC AGC AGG GAC ACT GGT GAT GAA GGA GGA CAG GTG ATC AGA ACG ACT CTG CTT TCT CCA AGA GTG GCC TCC CCT CCT CAC CGG GTC CCT CCA GGG CCT 
+Lynx_lynx                       ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GTG GCC AGT GCG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTA GCA TTG GAG CAG CTG CAC AGC TAC CCC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TTG TCC ATT AGC TCC ACC TTA CCG ACA AGT ACA GCT TCG TGG ACA TTG CCG ATG CCC AGG TGG CAC CTT CAG AAG GTC TTC TTA AAG CTC AAG GGT GGT CAG CAG ATT CCC GTG TTT AAG CTC AGC AGG GAC ACT GGT GAT GAA GGA GGA CAG GTG ATC AAA ACG ACT CTG CTT TCT CCA AGA GTG GCC TCC GCT CCT CAC CGG GTC CCT CCA GGG CCT 
+Panthera_pardus                 ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTA GCA TTG GAG CAG CTG CAC AGC TAC CCA GAG GCC CTG GCG GCT CTG GGC CAT CCG CTT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TTG TCC ATT AGC TCC ACC TCA CGG ACA AGT ACA GCT TCG TGG ACA TTG CCC ATG CCC AGG TGG CAC CTT CAG AAG GTC TTC TTA AAG CTC AAG GGT GGT CAG CAG ATT CCC GTG TTT AAG CTC AGC TGG GAC ACT GGT GAT GAA GGA GGA CAG GTG ATC AAA ACG ACT CTG CTT TCT CCA AGC GTG GCC TCC CCT CCT CAC CGG GTC CCT CCA GGG CCT 
+Panthera_tigris                 ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTG GCA TTG GAG CAG CTG CAC AGC TAC CCC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- TTG TCC ATT AGC TCC ACC TCA CCG ACA AGT ACA GCT TCG TGG ACA TTG CCT ATG CCC AGG TGG CAC CTT CAG AAG GTC TTC TTA AAG CTC AAG GGT GGT CAG CAG ATT CCC GTG TTT AAG CTC AGC TGG GAC ACT GGT GAT GAA GGA GGA CAG GTG ATC AAA ACG ACT CTG CTT TCT CCA AGC GTG GCC TCC CCT CCT CAC CGG GTC CCT CCA GGG CCT 
+
+
+
+After deleting gaps. 273 sites
+      7    273
+
+Panthera_leo                    ATG CCA TTG CCT CTG GGG AAA CGG GTC CTT TTT TCC AGT GTG GTC AGT GGG AGC TGT GCC CTT ACA TAT TAC CTT ATA CAA AAA GCT TTT TCC AGG GCT TCC TAT TAC GAG CTG GTA TTG GAG CAG CTG CAC AGC CAC GAG TCC CTG GAA GCT CTG TGC ACT CCT CTC CTC TAT GTC AGC TCA TCC AGA GAT GCC CCC TTT CAG AGA TGG CAC CTT CAG GAT GTC AAT CTC AAG GAT GGT CAT ATT CTT GTG TTC AAG TTC AGT ATG GAC AGG 
+Suricata_suricatta              ATG CCA TTG CCT CTG GGG AAA CTG GTC TTT CTT TCC AGT GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ACA CAA AAG GCT TTT TCC AAG GCT TCC TAT TAC CAG CTG GCT TTG GAG CAG CTG CAC CGC CGG GAG GCC TTG GAG GCT CTG GGC CCT CCT CTC CTC TAT GTC AGC TCA TCC AGA GGT GCC CCC TTT CAG AGG TGG CAC CTT CAG GAG GTC GAA CTC AAG GAC GGT CAG ATT CCC GTG TTC AAG CCC AGC GGG GAC CAG 
+Felis_catus                     ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCT TAT TAC CAG CTC GCA TTG GAG CAG CTG CAC AGC TAC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT TTG TCC ATT AGC TCC TCG TGG ACA TTG CCG ATG CCC AGG TGG CAC CTT CAG AAG GTC AAG CTC AAG GGT GGT CAG ATT CCC GTG TTT AAG CTC AGC AGG GAC CCT 
+Puma_concolor                   ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTA GCA TTG GAG CAG CTG CAC AGC TAC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT TTG TCC ATT AGC TCC TCG TGG ACA TTG CCA ATG CCC AGG TGG CAC CTT CAG AAG GTC AAG CTC AAG GGT GGT CAG ATT CCC GTG TTT AAG CTC AGC AGG GAC CCT 
+Lynx_lynx                       ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GCC AGT GCG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTA GCA TTG GAG CAG CTG CAC AGC TAC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT TTG TCC ATT AGC TCC TCG TGG ACA TTG CCG ATG CCC AGG TGG CAC CTT CAG AAG GTC AAG CTC AAG GGT GGT CAG ATT CCC GTG TTT AAG CTC AGC AGG GAC CCT 
+Panthera_pardus                 ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTA GCA TTG GAG CAG CTG CAC AGC TAC GAG GCC CTG GCG GCT CTG GGC CAT CCG CTT TTG TCC ATT AGC TCC TCG TGG ACA TTG CCC ATG CCC AGG TGG CAC CTT CAG AAG GTC AAG CTC AAG GGT GGT CAG ATT CCC GTG TTT AAG CTC AGC TGG GAC CCT 
+Panthera_tigris                 ATG CCA TTG CCT CTG GGG AAA CTG GTC CTT CTT TCC AGT GTG GCC AGT GGG AGC TGC ACC CTT ATA TAT TAC CTT ATA CGA AAA GCT TTT TCC AGG GCT TCC TAT TAC CAG CTG GCA TTG GAG CAG CTG CAC AGC TAC GAG GCC CTG GCG GCT CTG GGC CCT CCG CTT TTG TCC ATT AGC TCC TCG TGG ACA TTG CCT ATG CCC AGG TGG CAC CTT CAG AAG GTC AAG CTC AAG GGT GGT CAG ATT CCC GTG TTT AAG CTC AGC TGG GAC CCT 
+
+
+
+Printing out site pattern counts
+
+
+         7        219  P
+
+Panthera_leo                    AAA AAA AAG AAT ACA ACT AGA AGA AGC AGC AGG AGG AGT AGT ATA ATG ATG ATT CAA CAC CAC CAG CAG CAT CCA CCC CCT CCT CGG CTC CTC CTC CTG CTG CTG CTT CTT CTT GAA GAC GAG GAG GAT GAT GAT GCC GCC GCT GGG GGG GGT GTA GTC GTC GTC GTG TAC TAT TAT TCA TCC TCC TCC TCC TGC TGG TGT TTC TTC TTG TTT TTT TTT 
+Suricata_suricatta              ... ..G ... G.A .T. C.. ... ..G ... C.. .A. CA. ..C ... .C. ... GG. ... ... ... .GG ... ... ..G ... ... ... ... .T. ... ... ... ... ... T.. .CC ... T.. ..G ... C.. ... ..C ..G .G. A.. ... ... ... ... ... .CT .C. ... ... ... ... ... ... ... G.. ... ... ... G.. ... ..C CC. ... ... C.. ... ... 
+Felis_catus                     ... ... ... ..G .T. C.. T.G ..G ... ... ... CCT ..C ... ... ... .G. ... .G. ... T.. ... .CC ..G ... ..G ..G ... .T. ... ..T T.G ..C ... ... .CC ... ... .CG ... C.. ... .G. A.G ACA A.. TTG ... ... ... ... .C. .C. A.T ... ... ... ... .CC ..C G.. ... ..G ..T G.. ... ..C C.. ..T ... C.. A.G ... 
+Puma_concolor                   ... ... ... ..G .T. C.. T.G ..G ... ... ... CCT ..C ... ... ... .G. ... .G. ... T.. ... .CC ..G ... ..A ..G ... .T. ... ..T T.G ..A ... ... .CC ... ... .CG ... C.. ... .G. A.G ACA A.. TTG ... ... ... ... .C. .C. A.T ... ... ... ... .CC ..C G.. ... ..G ... G.. ... ..C C.. ..T ... C.. A.G ... 
+Lynx_lynx                       ... ... ... ..G .T. C.. T.G ..G ... ... ... CCT ..C ... ... ... .G. ... .G. ... T.. ... .CC ..G ... ..G ..G ... .T. ... ..T T.G ..A ... ... .CC ... ... .CG ... C.. ... .G. A.G ACA A.. TTG ... .C. ... ... .C. .C. A.T ... ... ... ... .CC ..C G.. ... ..G ... G.. ... ..C C.. ..T ... C.. A.G ... 
+Panthera_pardus                 ... ... ... ..G .T. CA. T.G ..G ... ... ... CCT ..C ... ... ... TG. ... .G. ... T.. ... .CC ..G ... ... ..G ... .T. ... ..T T.G ..A ... ... .CC ... ... .CG ... C.. ... .G. A.G ACA A.. TTG ... ... ... ... .C. .C. A.T ... ... ... ... .CC ..C G.. ... ..G ... G.. ... ..C C.. ..T ... C.. A.G ... 
+Panthera_tigris                 ... ... ... ..G .T. C.. T.G ..G ... ... ... CCT ..C ... ... ... TG. ... .G. ... T.. ... .CC ..G ... ..T ..G ... .T. ... ..T T.G ... ... ... .CC ... ... .CG ... C.. ... .G. A.G ACA A.. TTG ... ... ... ... .C. .C. A.T ... ... ... ... .CC ..C G.. ... ..G ... G.. ... ..C C.. ..T ... C.. A.G ... 
+
+    1    1    2    1    1    1    1    1    2    1    1    1    1    2    1
+    1    1    1    1    2    1    2    1    1    1    1    1    1    1    1
+    1    1    1    3    1    1    3    1    1    1    1    2    1    1    1
+    1    1    3    1    1    1    1    1    1    2    2    2    2    1    1
+    1    2    1    1    1    1    1    1    1    2    1    1    1
+
+CODONML (in paml version 4.8, March 2014)  Panthera_leo2.seq.fasta
+Model: several dN/dS ratios for branches for branches, 
+Codon frequency model: F1x4
+ns =   7  ls =  91
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   3   3   2   2   2   2 | Ser TCT   0   0   1   0   0   0 | Tyr TAT   3   3   2   2   2   2 | Cys TGT   1   0   0   0   0   0
+    TTC   2   1   0   0   0   0 |     TCC   5   4   4   5   5   5 |     TAC   2   2   3   3   3   3 |     TGC   1   1   1   1   1   1
+Leu TTA   0   0   0   0   0   0 |     TCA   1   1   0   0   0   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   2   3   4   4   4   4 |     TCG   0   0   1   1   1   1 |     TAG   0   0   0   0   0   0 | Trp TGG   1   1   2   2   2   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   5   4   6   6   6   6 | Pro CCT   2   3   3   3   3   2 | His CAT   1   0   0   0   0   1 | Arg CGT   0   0   0   0   0   0
+    CTC   3   3   3   2   2   2 |     CCC   1   3   2   2   2   3 |     CAC   3   2   2   2   2   2 |     CGC   0   1   0   0   0   0
+    CTA   0   0   0   1   1   1 |     CCA   1   1   1   2   1   1 | Gln CAA   1   1   0   0   0   0 |     CGA   0   0   1   1   1   1
+    CTG   5   5   5   5   5   5 |     CCG   0   0   2   1   2   1 |     CAG   3   6   4   4   4   4 |     CGG   1   1   0   0   0   0
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   1   1   2   2   2   2 | Thr ACT   1   0   0   0   0   0 | Asn AAT   1   0   0   0   0   0 | Ser AGT   3   2   2   2   2   2
+    ATC   0   0   0   0   0   0 |     ACC   0   1   1   1   1   1 |     AAC   0   0   0   0   0   0 |     AGC   3   3   4   4   4   4
+    ATA   1   1   2   2   2   2 |     ACA   1   1   1   1   1   1 | Lys AAA   2   1   2   2   2   2 | Arg AGA   2   1   0   0   0   0
+Met ATG   2   1   2   2   2   2 |     ACG   0   0   0   0   0   0 |     AAG   2   4   4   4   4   4 |     AGG   2   1   3   3   3   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   0   0   0   0   0 | Ala GCT   3   4   3   3   3   3 | Asp GAT   3   0   0   0   0   0 | Gly GGT   1   2   2   2   2   2
+    GTC   4   3   2   2   2   2 |     GCC   2   3   2   2   2   2 |     GAC   1   2   1   1   1   1 |     GGC   0   1   1   1   1   1
+    GTA   1   0   0   0   0   0 |     GCA   0   0   1   1   1   1 | Glu GAA   1   1   0   0   0   0 |     GGA   0   0   0   0   0   0
+    GTG   2   2   2   2   2   2 |     GCG   0   0   1   1   2   1 |     GAG   3   4   2   2   2   2 |     GGG   2   3   2   2   1   2
+--------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------
+Phe TTT   2 | Ser TCT   0 | Tyr TAT   2 | Cys TGT   0
+    TTC   0 |     TCC   5 |     TAC   3 |     TGC   1
+Leu TTA   0 |     TCA   0 | *** TAA   0 | *** TGA   0
+    TTG   4 |     TCG   1 |     TAG   0 | Trp TGG   3
+------------------------------------------------------
+Leu CTT   6 | Pro CCT   4 | His CAT   0 | Arg CGT   0
+    CTC   2 |     CCC   2 |     CAC   2 |     CGC   0
+    CTA   0 |     CCA   1 | Gln CAA   0 |     CGA   1
+    CTG   6 |     CCG   1 |     CAG   4 |     CGG   0
+------------------------------------------------------
+Ile ATT   2 | Thr ACT   0 | Asn AAT   0 | Ser AGT   2
+    ATC   0 |     ACC   1 |     AAC   0 |     AGC   4
+    ATA   2 |     ACA   1 | Lys AAA   2 | Arg AGA   0
+Met ATG   2 |     ACG   0 |     AAG   4 |     AGG   2
+------------------------------------------------------
+Val GTT   0 | Ala GCT   3 | Asp GAT   0 | Gly GGT   2
+    GTC   2 |     GCC   2 |     GAC   1 |     GGC   1
+    GTA   0 |     GCA   1 | Glu GAA   0 |     GGA   0
+    GTG   2 |     GCG   1 |     GAG   2 |     GGG   2
+------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Panthera_leo   
+position  1:    T:0.23077    C:0.28571    A:0.23077    G:0.25275
+position  2:    T:0.34066    C:0.18681    A:0.28571    G:0.18681
+position  3:    T:0.30769    C:0.29670    A:0.12088    G:0.27473
+Average         T:0.29304    C:0.25641    A:0.21245    G:0.23810
+
+#2: Suricata_suricatta
+position  1:    T:0.20879    C:0.32967    A:0.18681    G:0.27473
+position  2:    T:0.29670    C:0.23077    A:0.28571    G:0.18681
+position  3:    T:0.24176    C:0.32967    A:0.08791    G:0.34066
+Average         T:0.24908    C:0.29670    A:0.18681    G:0.26740
+
+#3: Felis_catus    
+position  1:    T:0.21978    C:0.31868    A:0.25275    G:0.20879
+position  2:    T:0.32967    C:0.25275    A:0.21978    G:0.19780
+position  3:    T:0.25275    C:0.28571    A:0.08791    G:0.37363
+Average         T:0.26740    C:0.28571    A:0.18681    G:0.26007
+
+#4: Puma_concolor  
+position  1:    T:0.21978    C:0.31868    A:0.25275    G:0.20879
+position  2:    T:0.32967    C:0.25275    A:0.21978    G:0.19780
+position  3:    T:0.24176    C:0.28571    A:0.10989    G:0.36264
+Average         T:0.26374    C:0.28571    A:0.19414    G:0.25641
+
+#5: Lynx_lynx      
+position  1:    T:0.21978    C:0.31868    A:0.25275    G:0.20879
+position  2:    T:0.32967    C:0.26374    A:0.21978    G:0.18681
+position  3:    T:0.24176    C:0.28571    A:0.09890    G:0.37363
+Average         T:0.26374    C:0.28938    A:0.19048    G:0.25641
+
+#6: Panthera_pardus
+position  1:    T:0.23077    C:0.31868    A:0.24176    G:0.20879
+position  2:    T:0.32967    C:0.24176    A:0.23077    G:0.19780
+position  3:    T:0.24176    C:0.29670    A:0.09890    G:0.36264
+Average         T:0.26740    C:0.28571    A:0.19048    G:0.25641
+
+#7: Panthera_tigris
+position  1:    T:0.23077    C:0.31868    A:0.24176    G:0.20879
+position  2:    T:0.32967    C:0.25275    A:0.21978    G:0.19780
+position  3:    T:0.25275    C:0.28571    A:0.08791    G:0.37363
+Average         T:0.27106    C:0.28571    A:0.18315    G:0.26007
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      16 | Ser S TCT       1 | Tyr Y TAT      16 | Cys C TGT       1
+      TTC       3 |       TCC      33 |       TAC      19 |       TGC       7
+Leu L TTA       0 |       TCA       2 | *** * TAA       0 | *** * TGA       0
+      TTG      25 |       TCG       5 |       TAG       0 | Trp W TGG      14
+------------------------------------------------------------------------------
+Leu L CTT      39 | Pro P CCT      20 | His H CAT       2 | Arg R CGT       0
+      CTC      17 |       CCC      15 |       CAC      15 |       CGC       1
+      CTA       3 |       CCA       8 | Gln Q CAA       2 |       CGA       5
+      CTG      36 |       CCG       7 |       CAG      29 |       CGG       2
+------------------------------------------------------------------------------
+Ile I ATT      12 | Thr T ACT       1 | Asn N AAT       1 | Ser S AGT      15
+      ATC       0 |       ACC       6 |       AAC       0 |       AGC      26
+      ATA      12 |       ACA       7 | Lys K AAA      13 | Arg R AGA       3
+Met M ATG      13 |       ACG       0 |       AAG      26 |       AGG      16
+------------------------------------------------------------------------------
+Val V GTT       0 | Ala A GCT      22 | Asp D GAT       3 | Gly G GGT      13
+      GTC      17 |       GCC      15 |       GAC       8 |       GGC       6
+      GTA       1 |       GCA       5 | Glu E GAA       2 |       GGA       0
+      GTG      14 |       GCG       6 |       GAG      17 |       GGG      14
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.22292    C:0.31554    A:0.23705    G:0.22449
+position  2:    T:0.32653    C:0.24019    A:0.24019    G:0.19309
+position  3:    T:0.25432    C:0.29513    A:0.09890    G:0.35165
+Average         T:0.26792    C:0.28362    A:0.19205    G:0.25641
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01995591  0.02112520  0.01430433  0.01909843
+  0.02112520  0.02236300  0.01514248  0.02021747
+  0.01430433  0.01514248  0.00000000  0.00000000
+  0.01909843  0.02021747  0.00000000  0.01827779
+  0.02112520  0.02236300  0.01514248  0.02021747
+  0.02236300  0.02367333  0.01602973  0.02140209
+  0.01514248  0.01602973  0.01085408  0.01449182
+  0.02021747  0.02140209  0.01449182  0.01934876
+  0.01430433  0.01514248  0.01025330  0.01368969
+  0.01514248  0.01602973  0.01085408  0.01449182
+  0.01025330  0.01085408  0.00734953  0.00981273
+  0.01368969  0.01449182  0.00981273  0.01310146
+  0.01909843  0.02021747  0.01368969  0.01827779
+  0.02021747  0.02140209  0.01449182  0.01934876
+  0.01368969  0.01449182  0.00981273  0.01310146
+  0.01827779  0.01934876  0.01310146  0.01749242
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+Panthera_leo        
+Suricata_suricatta   0.8415 (0.1431 0.1700)
+Felis_catus          0.5138 (0.1940 0.3775) 0.3899 (0.1450 0.3719)
+Puma_concolor        0.5519 (0.1942 0.3518) 0.4181 (0.1451 0.3471)-1.0000 (0.0000 0.0448)
+Lynx_lynx            0.5698 (0.2005 0.3518) 0.4353 (0.1511 0.3471) 0.1662 (0.0049 0.0296) 0.3368 (0.0049 0.0146)
+Panthera_pardus      0.6209 (0.2061 0.3320) 0.4593 (0.1506 0.3279) 0.2174 (0.0098 0.0452) 0.6679 (0.0098 0.0147) 1.0052 (0.0148 0.0147)
+Panthera_tigris      0.6070 (0.2002 0.3298) 0.4449 (0.1449 0.3258) 0.1091 (0.0049 0.0450) 0.1659 (0.0049 0.0296) 0.3329 (0.0099 0.0296) 0.1639 (0.0049 0.0299)
+
+
+TREE #  1:  (2, ((7, (6, 1)), ((5, 3), 4)));   MP score: 76
+This is a rooted tree.  Please check!
+check convergence..
+lnL(ntime: 12  np: 15):   -790.491895      +0.000000
+   8..2     8..9     9..10   10..7    10..11   11..6    11..1     9..12   12..13   13..5    13..3    12..4  
+ 0.170977 0.434435 0.000004 0.021718 0.000004 0.012832 0.720286 0.022429 0.006081 0.011364 0.022757 0.005836 1.908349 0.362616 0.628854
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   1.42872
+
+(2: 0.170977, ((7: 0.021718, (6: 0.012832, 1: 0.720286): 0.000004): 0.000004, ((5: 0.011364, 3: 0.022757): 0.006081, 4: 0.005836): 0.022429): 0.434435);
+
+(Suricata_suricatta: 0.170977, ((Panthera_tigris: 0.021718, (Panthera_pardus: 0.012832, Panthera_leo: 0.720286): 0.000004): 0.000004, ((Lynx_lynx: 0.011364, Felis_catus: 0.022757): 0.006081, Puma_concolor: 0.005836): 0.022429): 0.434435);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.90835
+
+w (dN/dS) for branches:  0.36262 0.62885
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   8..2      0.171   192.6    80.4  0.3626  0.0375  0.1036   7.2   8.3
+   8..9      0.434   192.6    80.4  0.3626  0.0954  0.2631  18.4  21.2
+   9..10     0.000   192.6    80.4  0.3626  0.0000  0.0000   0.0   0.0
+  10..7      0.022   192.6    80.4  0.3626  0.0048  0.0132   0.9   1.1
+  10..11     0.000   192.6    80.4  0.3626  0.0000  0.0000   0.0   0.0
+  11..6      0.013   192.6    80.4  0.3626  0.0028  0.0078   0.5   0.6
+  11..1      0.720   192.6    80.4  0.6289  0.2045  0.3253  39.4  26.2
+   9..12     0.022   192.6    80.4  0.3626  0.0049  0.0136   0.9   1.1
+  12..13     0.006   192.6    80.4  0.3626  0.0013  0.0037   0.3   0.3
+  13..5      0.011   192.6    80.4  0.3626  0.0025  0.0069   0.5   0.6
+  13..3      0.023   192.6    80.4  0.3626  0.0050  0.0138   1.0   1.1
+  12..4      0.006   192.6    80.4  0.3626  0.0013  0.0035   0.2   0.3
+
+tree length for dN:       0.3601
+tree length for dS:       0.7543
+
+dS tree:
+(Suricata_suricatta: 0.103552, ((Panthera_tigris: 0.013153, (Panthera_pardus: 0.007772, Panthera_leo: 0.325251): 0.000002): 0.000002, ((Lynx_lynx: 0.006883, Felis_catus: 0.013783): 0.003683, Puma_concolor: 0.003534): 0.013584): 0.263116);
+dN tree:
+(Suricata_suricatta: 0.037550, ((Panthera_tigris: 0.004770, (Panthera_pardus: 0.002818, Panthera_leo: 0.204536): 0.000001): 0.000001, ((Lynx_lynx: 0.002496, Felis_catus: 0.004998): 0.001335, Puma_concolor: 0.001282): 0.004926): 0.095410);
+
+w ratios as labels for TreeView:
+(Suricata_suricatta #0.3626 , ((Panthera_tigris #0.3626 , (Panthera_pardus #0.3626 , Panthera_leo #0.6289 ) #0.3626 ) #0.3626 , ((Lynx_lynx #0.3626 , Felis_catus #0.3626 ) #0.3626 , Puma_concolor #0.3626 ) #0.3626 ) #0.3626 );
+
+
+Time used:  0:24
