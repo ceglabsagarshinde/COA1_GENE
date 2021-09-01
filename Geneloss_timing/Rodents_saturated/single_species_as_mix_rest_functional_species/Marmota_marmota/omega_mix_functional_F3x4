@@ -1,0 +1,184 @@
+CODONML (in paml version 4.9f, October 2017)  MSA.PRANK.aln.With_Names
+Model: several dN/dS ratios for branches for branches,  kappa = 1.000 fixed
+
+Codon frequency model: F3x4
+ns =   8  ls = 161
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT   4   2   2   2   1   1 | Ser TCT   4   1   1   1   1   1 | Tyr TAT   3   1   1   1   1   1 | Cys TGT   1   0   1   1   1   0
+    TTC   6   2   1   1   1   2 |     TCC   3   1   0   0   1   2 |     TAC   3   3   4   4   4   5 |     TGC   0   2   0   0   2   1
+Leu TTA   1   0   0   0   0   1 |     TCA   2   0   2   2   1   0 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   7   0   1   1   0   1 |     TCG   1   1   1   1   1   2 |     TAG   0   0   0   0   0   0 | Trp TGG   3   1   1   1   2   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   3   2   4   4   5   3 | Pro CCT   3   3   2   2   3   2 | His CAT   0   1   2   2   1   1 | Arg CGT   0   0   1   1   0   0
+    CTC   2   9   5   5   8   4 |     CCC   4   5   7   7   3   4 |     CAC   3   6   4   4   4   5 |     CGC   0   0   0   0   1   2
+    CTA   1   0   1   1   0   1 |     CCA   5   0   0   0   1   1 | Gln CAA   2   2   1   1   3   1 |     CGA   0   0   0   0   0   1
+    CTG   4   8   8   8   7   9 |     CCG   1   1   1   1   0   1 |     CAG   2   7   6   5   5   9 |     CGG   0   2   3   4   3   1
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT   0   1   1   1   2   3 | Thr ACT   2   0   2   2   1   0 | Asn AAT   0   0   0   0   0   0 | Ser AGT   4   1   1   1   2   3
+    ATC   1   2   3   3   3   2 |     ACC   3   4   4   4   2   2 |     AAC   1   2   0   0   1   1 |     AGC   3   5   3   3   3   3
+    ATA   1   1   1   1   2   1 |     ACA   3   0   0   0   1   1 | Lys AAA   8   2   1   1   2   3 | Arg AGA   4   2   2   2   2   1
+Met ATG   6   2   3   3   3   3 |     ACG   0   1   3   3   1   1 |     AAG   0   5   4   4   5   5 |     AGG   6   3   4   4   2   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   0   0   0   0   0 | Ala GCT   2   0   0   0   1   1 | Asp GAT   2   2   1   1   1   1 | Gly GGT   3   0   0   0   0   2
+    GTC   0   4   0   0   2   2 |     GCC   2   2   2   2   5   3 |     GAC   0   2   4   4   3   2 |     GGC   2   2   5   5   3   2
+    GTA   1   0   1   1   0   0 |     GCA   3   3   2   2   4   2 | Glu GAA   1   2   1   1   2   2 |     GGA   0   1   2   2   1   3
+    GTG   1   6   7   7   3   4 |     GCG   0   4   3   3   1   3 |     GAG   5   6   6   6   7   5 |     GGG   2   5   4   4   5   3
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Phe TTT   2   5 | Ser TCT   3   1 | Tyr TAT   3   4 | Cys TGT   0   1
+    TTC   4   2 |     TCC   4   2 |     TAC   3   2 |     TGC   0   0
+Leu TTA   0   0 |     TCA   2   3 | *** TAA   0   0 | *** TGA   0   0
+    TTG   1   5 |     TCG   0   0 |     TAG   0   0 | Trp TGG   1   2
+----------------------------------------------------------------------
+Leu CTT   2   4 | Pro CCT   5   4 | His CAT   2   2 | Arg CGT   0   0
+    CTC   8   3 |     CCC   2   4 |     CAC   4   3 |     CGC   0   0
+    CTA   2   0 |     CCA   0   1 | Gln CAA   0   3 |     CGA   1   1
+    CTG   5   4 |     CCG   0   1 |     CAG   6   5 |     CGG   2   0
+----------------------------------------------------------------------
+Ile ATT   4   3 | Thr ACT   1   1 | Asn AAT   1   1 | Ser AGT   3   3
+    ATC   1   0 |     ACC   1   5 |     AAC   1   1 |     AGC   0   1
+    ATA   1   1 |     ACA   0   0 | Lys AAA   2   5 | Arg AGA   2   2
+Met ATG   3   5 |     ACG   0   0 |     AAG   7   5 |     AGG   3   2
+----------------------------------------------------------------------
+Val GTT   1   5 | Ala GCT   2   1 | Asp GAT   1   2 | Gly GGT   3   2
+    GTC   3   4 |     GCC   4   2 |     GAC   2   1 |     GGC   6   4
+    GTA   0   2 |     GCA   0   2 | Glu GAA   4   2 |     GGA   1   1
+    GTG   5   2 |     GCG   1   1 |     GAG   7   7 |     GGG   4   1
+----------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Marmota_marmota
+position  1:    T:0.28358    C:0.22388    A:0.31343    G:0.17910
+position  2:    T:0.28358    C:0.28358    A:0.22388    G:0.20896
+position  3:    T:0.23134    C:0.24627    A:0.23881    G:0.28358
+Average         T:0.26617    C:0.25124    A:0.25871    G:0.22388
+
+#2: Chinchilla_lanigera
+position  1:    T:0.10769    C:0.35385    A:0.23846    G:0.30000
+position  2:    T:0.30000    C:0.20000    A:0.31538    G:0.18462
+position  3:    T:0.10769    C:0.39231    A:0.10000    G:0.40000
+Average         T:0.17179    C:0.31538    A:0.21795    G:0.29487
+
+#3: Cavia_porcellus
+position  1:    T:0.11538    C:0.34615    A:0.24615    G:0.29231
+position  2:    T:0.29231    C:0.23077    A:0.26923    G:0.20769
+position  3:    T:0.14615    C:0.32308    A:0.10769    G:0.42308
+Average         T:0.18462    C:0.30000    A:0.20769    G:0.30769
+
+#4: Cavia_aperea   
+position  1:    T:0.11538    C:0.34615    A:0.24615    G:0.29231
+position  2:    T:0.29231    C:0.23077    A:0.26154    G:0.21538
+position  3:    T:0.14615    C:0.32308    A:0.10769    G:0.42308
+Average         T:0.18462    C:0.30000    A:0.20513    G:0.31026
+
+#5: Octodon_degus  
+position  1:    T:0.12308    C:0.33846    A:0.24615    G:0.29231
+position  2:    T:0.28462    C:0.20769    A:0.30000    G:0.20769
+position  3:    T:0.15385    C:0.35385    A:0.14615    G:0.34615
+Average         T:0.18718    C:0.30000    A:0.23077    G:0.28205
+
+#6: Fukomys_damarensis
+position  1:    T:0.13846    C:0.34615    A:0.24615    G:0.26923
+position  2:    T:0.28462    C:0.20000    A:0.31538    G:0.20000
+position  3:    T:0.14615    C:0.32308    A:0.13846    G:0.39231
+Average         T:0.18974    C:0.28974    A:0.23333    G:0.28718
+
+#7: Ochotona_princeps
+position  1:    T:0.16912    C:0.28676    A:0.22059    G:0.32353
+position  2:    T:0.30882    C:0.18382    A:0.31618    G:0.19118
+position  3:    T:0.24265    C:0.31618    A:0.11029    G:0.33088
+Average         T:0.24020    C:0.26225    A:0.21569    G:0.28186
+
+#8: Sciurus_vulgaris
+position  1:    T:0.19853    C:0.25735    A:0.25735    G:0.28676
+position  2:    T:0.33088    C:0.20588    A:0.31618    G:0.14706
+position  3:    T:0.28676    C:0.25000    A:0.16912    G:0.29412
+Average         T:0.27206    C:0.23775    A:0.24755    G:0.24265
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      19 | Ser S TCT      13 | Tyr Y TAT      15 | Cys C TGT       5
+      TTC      19 |       TCC      13 |       TAC      28 |       TGC       5
+Leu L TTA       2 |       TCA      12 | *** * TAA       0 | *** * TGA       0
+      TTG      16 |       TCG       7 |       TAG       0 | Trp W TGG      12
+------------------------------------------------------------------------------
+Leu L CTT      27 | Pro P CCT      24 | His H CAT      11 | Arg R CGT       2
+      CTC      44 |       CCC      36 |       CAC      33 |       CGC       3
+      CTA       6 |       CCA       8 | Gln Q CAA      13 |       CGA       3
+      CTG      53 |       CCG       6 |       CAG      45 |       CGG      15
+------------------------------------------------------------------------------
+Ile I ATT      15 | Thr T ACT       9 | Asn N AAT       2 | Ser S AGT      18
+      ATC      15 |       ACC      25 |       AAC       7 |       AGC      21
+      ATA       9 |       ACA       5 | Lys K AAA      24 | Arg R AGA      17
+Met M ATG      28 |       ACG       9 |       AAG      35 |       AGG      27
+------------------------------------------------------------------------------
+Val V GTT       6 | Ala A GCT       7 | Asp D GAT      11 | Gly G GGT      10
+      GTC      15 |       GCC      22 |       GAC      18 |       GGC      29
+      GTA       5 |       GCA      18 | Glu E GAA      15 |       GGA      11
+      GTG      35 |       GCG      16 |       GAG      49 |       GGG      28
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.15720    C:0.31155    A:0.25189    G:0.27936
+position  2:    T:0.29735    C:0.21780    A:0.28977    G:0.19508
+position  3:    T:0.18371    C:0.31534    A:0.14015    G:0.36080
+Average         T:0.21275    C:0.28157    A:0.22727    G:0.27841
+
+TREE #  1:  (7, ((6, ((3, 4), (5, 2))), (8, 1)));   MP score: -1
+This is a rooted tree.  Please check!
+lnL(ntime: 14  np: 16):  -2278.474101      +0.000000
+   9..7     9..10   10..11   11..6    11..12   12..13   13..3    13..4    12..14   14..5    14..2    10..15   15..8    15..1  
+ 0.392156 0.361157 0.476217 0.318357 0.147254 0.321283 0.000004 0.007528 0.028582 0.305964 0.161347 0.264980 0.162407 1.542882 0.294844 0.623112
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  4.490119
+
+(7: 0.392156, ((6: 0.318357, ((3: 0.000004, 4: 0.007528): 0.321283, (5: 0.305964, 2: 0.161347): 0.028582): 0.147254): 0.476217, (8: 0.162407, 1: 1.542882): 0.264980): 0.361157);
+
+(Ochotona_princeps: 0.392156, ((Fukomys_damarensis: 0.318357, ((Cavia_porcellus: 0.000004, Cavia_aperea: 0.007528): 0.321283, (Octodon_degus: 0.305964, Chinchilla_lanigera: 0.161347): 0.028582): 0.147254): 0.476217, (Sciurus_vulgaris: 0.162407, Marmota_marmota: 1.542882): 0.264980): 0.361157);
+
+Detailed output identifying parameters
+
+w (dN/dS) for branches:  0.29484 0.62311
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   9..7      0.392   373.9   109.1  0.2948  0.0849  0.2878  31.7  31.4
+   9..10     0.361   373.9   109.1  0.2948  0.0782  0.2651  29.2  28.9
+  10..11     0.476   373.9   109.1  0.2948  0.1031  0.3495  38.5  38.1
+  11..6      0.318   373.9   109.1  0.2948  0.0689  0.2337  25.8  25.5
+  11..12     0.147   373.9   109.1  0.2948  0.0319  0.1081  11.9  11.8
+  12..13     0.321   373.9   109.1  0.2948  0.0695  0.2358  26.0  25.7
+  13..3      0.000   373.9   109.1  0.2948  0.0000  0.0000   0.0   0.0
+  13..4      0.008   373.9   109.1  0.2948  0.0016  0.0055   0.6   0.6
+  12..14     0.029   373.9   109.1  0.2948  0.0062  0.0210   2.3   2.3
+  14..5      0.306   373.9   109.1  0.2948  0.0662  0.2246  24.8  24.5
+  14..2      0.161   373.9   109.1  0.2948  0.0349  0.1184  13.1  12.9
+  10..15     0.265   373.9   109.1  0.2948  0.0573  0.1945  21.4  21.2
+  15..8      0.162   373.9   109.1  0.2948  0.0351  0.1192  13.1  13.0
+  15..1      1.543   373.9   109.1  0.6231  0.4525  0.7261 169.2  79.2
+
+tree length for dN:       1.0903
+tree length for dS:       2.8893
+
+dS tree:
+(Ochotona_princeps: 0.287832, ((Fukomys_damarensis: 0.233665, ((Cavia_porcellus: 0.000003, Cavia_aperea: 0.005526): 0.235813, (Octodon_degus: 0.224569, Chinchilla_lanigera: 0.118424): 0.020978): 0.108081): 0.349530, (Sciurus_vulgaris: 0.119202, Marmota_marmota: 0.726140): 0.194488): 0.265079);
+dN tree:
+(Ochotona_princeps: 0.084865, ((Fukomys_damarensis: 0.068895, ((Cavia_porcellus: 0.000001, Cavia_aperea: 0.001629): 0.069528, (Octodon_degus: 0.066213, Chinchilla_lanigera: 0.034917): 0.006185): 0.031867): 0.103057, (Sciurus_vulgaris: 0.035146, Marmota_marmota: 0.452467): 0.057344): 0.078157);
+
+w ratios as labels for TreeView:
+(Ochotona_princeps #0.294844 , ((Fukomys_damarensis #0.294844 , ((Cavia_porcellus #0.294844 , Cavia_aperea #0.294844 ) #0.294844 , (Octodon_degus #0.294844 , Chinchilla_lanigera #0.294844 ) #0.294844 ) #0.294844 ) #0.294844 , (Sciurus_vulgaris #0.294844 , Marmota_marmota #0.623112 ) #0.294844 ) #0.294844 );
+
+
+Time used:  0:06
