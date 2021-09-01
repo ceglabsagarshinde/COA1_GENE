@@ -1,8 +1,0 @@
-Acinonyx_jubatus	13
-Oryctolagus_cuniculus	51.43
-Heterocephalus_glaber	33.83
-Castor_canadensis	70.54
-Urocitellus_parryii	34.7
-Spermophilus_dauricus	34.7
-Ictidomys_tridecemlineatus	34.7
-Marmota_marmota	34.7
