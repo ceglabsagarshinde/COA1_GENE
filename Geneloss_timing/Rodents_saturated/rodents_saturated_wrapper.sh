@@ -117,5 +117,5 @@ done
 #bash Tp_estimation_multiple_label.sh
 #cd ..
 #done
-
-./multiple_label.sh
+chmod 777 multiple_label.sh
+bash multiple_label.sh
