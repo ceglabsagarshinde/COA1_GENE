@@ -5,6 +5,7 @@ do
 cd $dir
 for script in `ls -1 *sh`
 do
+chmod 777 $script
 sh $script
 done
 cd ..
