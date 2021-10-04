@@ -38,6 +38,7 @@ split=`cut -f3 fg.pairwise.txt |sort -n|head -n1`
 echo -e "$fg\t$split" >> split_time.txt
 rm fg.pairwise.txt
 done
+rm codeml.ctl
 for ctl in `ls *ctl`
 do
 codeml "$ctl"
