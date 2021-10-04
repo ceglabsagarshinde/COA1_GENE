@@ -4,6 +4,7 @@
 echo -e "Feliformia\tForeground\tBackgrounds\tmodel\tTm\twf\twm\tTf\tTp\tTf2\tTp2" > outfilecompile
 for ctl in `ls *ctl`
 do
+rm codeml.ctl
 codeml "$ctl"
 tree=`ls -1 *nwk`
 sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/:/\n/g' -e 's/,/\n/g' $tree |grep "^[A-Z]" |grep "#" |sed -e 's/#.*//g'  -e 's/ //g' > fg.txt 
