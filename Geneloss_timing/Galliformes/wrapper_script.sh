@@ -59,6 +59,7 @@ done
 done
 cd ..
 done
+rm codeml.ctl
 else
 for ctl in `ls *ctl`
 do
