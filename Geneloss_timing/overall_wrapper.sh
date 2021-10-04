@@ -6,10 +6,11 @@ cd $dir
 for script in `ls -1 *sh`
 do
 chmod 777 $script
-sh $script
+bash $script
 done
 cd ..
 done
 
-sh compiling_script.sh
+chmod 777 compiling_script.sh
+bash compiling_script.sh
 Rscript Pseudogenization_time_compile.r
