@@ -37,6 +37,7 @@ split=`cut -f3 fg.pairwise.txt |sort -n|head -n1`
 echo -e "$fg\t$split" >> split_time.txt
 rm fg.pairwise.txt
 done
+rm codeml.ctl
 for ctl in `ls *ctl`
 do
 codeml "$ctl"
@@ -107,6 +108,7 @@ done
 
 
 cd All_Birds_multiple_label/
+rm codeml.ctl
 chmod 777 Tp_estimation_multiple_label_birds.sh
 bash Tp_estimation_multiple_label_birds.sh
 
