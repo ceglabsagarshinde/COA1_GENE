@@ -1,3 +1,4 @@
+cp -r ../Geneloss_timing .
 mkdir Geneloss_runs
 cp nwk.list Geneloss_timing
 mv Geneloss_timing Geneloss_runs
