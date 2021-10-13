@@ -1,6 +1,5 @@
-## This script will run codeml and compile the results of the gene loss timing estimation in Galliformes with different combinations of background and foreground. The All_Birds_multiple_label folder is excluded from the compilation of results. Please refer to the script Tp_estimation_multiple_label_birds.sh in that folder.
-## The input file for running this script are present in the input_files folder in every species folder respectively.
-## This script requires  ape and reshape2 package in R.
+## This script will run codeml and compile the results of the gene loss timing estimation in Felliformes.
+## The Feliformia group on TimeTree shows different split time for Acinonyx jubatus and Puma concolor. from the previously published science article "The Late Miocene Radiation of Modern Felidae: A Genetic Assessment". According to the above-mentioned article, Acinonyx jubatus and Puma concolor diverged after the Felis catus. We used the tree provided in this article (Feliformia.nwk)
 echo -e "Feliformia\tForeground\tBackgrounds\tmodel\tTm\twf\twm\tTf\tTp\tTf2\tTp2" > outfilecompile
 for ctl in `ls *ctl`
 do
