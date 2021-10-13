@@ -1,5 +1,5 @@
 ## This script will run codeml and compile the results of the gene loss timing estimation in Felliformes.
-## The Feliformia group on TimeTree shows different split time for Acinonyx jubatus and Puma concolor. from the previously published science article "The Late Miocene Radiation of Modern Felidae: A Genetic Assessment". According to the above-mentioned article, Acinonyx jubatus and Puma concolor diverged after the Felis catus. We used the tree provided in this article (Feliformia.nwk)
+## The feliformia group on TimeTree shows different split time for Acinonyx jubatus and Puma concolor. According to the published science article "The Late Miocene Radiation of Modern Felidae: A Genetic Assessment", Acinonyx jubatus and Puma concolor diverged after the Felis catus. We used the tree provided in this article.
 echo -e "Feliformia\tForeground\tBackgrounds\tmodel\tTm\twf\twm\tTf\tTp\tTf2\tTp2" > outfilecompile
 for ctl in `ls *ctl`
 do
