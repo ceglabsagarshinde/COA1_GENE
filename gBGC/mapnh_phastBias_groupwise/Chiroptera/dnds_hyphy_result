@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/unrooted_branched_GBGC/gBGC/mapnh_phastBias_groupwise/Chiroptera/`) 
+
+A tree was found in the data file:
+((Hipposideros_armiger:46.1,Rhinolophus_ferrumequinum:46.1):11.97847476,(Pteropus_vampyrus:12.9449,Pteropus_alecto:12.9449):45.13357476,(((Artibeus_jamaicensis:29.4,Phyllostomus_discolor:29.4):0,Desmodus_rotundus:29.4):23.2460235,(((Pipistrellus_kuhlii:28.2,Eptesicus_fuscus:28.2):3.122325,(Myotis_myotis:18.14394667,(Myotis_brandtii:14.191748,Myotis_lucifugus:14.191748):3.95219867):13.17837833):13.51340429,Miniopterus_natalensis:44.83572929):7.81029421):12.59791746)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :417
+Synonymous  sites      :94.85846354394732
+Nonsynonymous  sites   :307.530674613748
+
+Total tree lengths:
+	E[syn]        : 0.1761505756703358
+	E[non-syn]    : 0.2530040819483204
+	dS            : 0.7743620053523099
+	dN            : 0.3430639961524448
+
+
+E[Syn subs/nucleotide site] tree: 
+	((Hipposideros_armiger:0.0190772006982027,Rhinolophus_ferrumequinum:0.00603186226055609)Node1:0.01084336811832958,(Pteropus_vampyrus:0.002523385409474414,Pteropus_alecto:0)Node4:0.007955496865051282,(((Artibeus_jamaicensis:0.01025643246685317,Phyllostomus_discolor:0.01283009991401719)Node9:0,Desmodus_rotundus:0.007575239896602519)Node8:0.01292293631398742,(((Pipistrellus_kuhlii:0.0156471091193117,Eptesicus_fuscus:0.007962744545877722)Node15:0.004962384297414029,(Myotis_myotis:0.007725779543765035,(Myotis_brandtii:7.963720631935618e-20,Myotis_lucifugus:0.002504549615645521)Node20:0.002442052604902141)Node18:0.002596805978421136)Node14:0.008125532930657788,Miniopterus_natalensis:0.01886207608251115)Node13:0.003066004325655168)Node7:0.01223951468310004)
+
+E[Non-syn subs/nucleotide site] tree: 
+	((Hipposideros_armiger:0.01026981739030827,Rhinolophus_ferrumequinum:0.01748923003940978)Node1:0.002999520458165506,(Pteropus_vampyrus:0.00510832859415765,Pteropus_alecto:0.004810270267329444)Node4:0.0325673087495696,(((Artibeus_jamaicensis:0.007475871140370718,Phyllostomus_discolor:0.005025855899411917)Node9:0.00248173545808247,Desmodus_rotundus:0.01769153308113108)Node8:0.01715384865889922,(((Pipistrellus_kuhlii:0.0311550811866224,Eptesicus_fuscus:0.007180010852182887)Node15:0.0181053504215137,(Myotis_myotis:0.004945934522198833,(Myotis_brandtii:0,Myotis_lucifugus:0)Node20:0)Node18:0.005771966734516119)Node14:0.02785456143259739,Miniopterus_natalensis:0.01854672889084662)Node13:0.005104308900195046)Node7:0.01126681927081167)
+
+dS tree: 
+	((Hipposideros_armiger:0.08386381556206562,Rhinolophus_ferrumequinum:0.02651620602611356)Node1:0.04766769707637702,(Pteropus_vampyrus:0.01109286063086326,Pteropus_alecto:0)Node4:0.03497254824488523,(((Artibeus_jamaicensis:0.04508751437552325,Phyllostomus_discolor:0.05640141600719136)Node9:0,Desmodus_rotundus:0.03330092981550101)Node8:0.05680952696894702,(((Pipistrellus_kuhlii:0.06878505363656939,Eptesicus_fuscus:0.03500440921745122)Node15:0.02181475616103512,(Myotis_myotis:0.03396270558670234,(Myotis_brandtii:3.50087001143405e-19,Myotis_lucifugus:0.01101005804548289)Node20:0.01073531974057754)Node18:0.01141561915031365)Node14:0.03572003072255643,Miniopterus_natalensis:0.08291812277523471)Node13:0.01347822593822504)Node7:0.05380518967069418)
+
+dN tree: 
+	((Hipposideros_armiger:0.01392548518009559,Rhinolophus_ferrumequinum:0.02371473654000123)Node1:0.004067236650867411,(Pteropus_vampyrus:0.00692670097524155,Pteropus_alecto:0.006522545121704443)Node4:0.04416004278476424,(((Artibeus_jamaicensis:0.0101369994048562,Phyllostomus_discolor:0.00681487111062019)Node9:0.003365139712713803,Desmodus_rotundus:0.02398905183717845)Node8:0.02325997203285554,(((Pipistrellus_kuhlii:0.04224511545438126,Eptesicus_fuscus:0.009735824008843168)Node15:0.02455017254865313,(Myotis_myotis:0.006706500736381216,(Myotis_brandtii:0,Myotis_lucifugus:0)Node20:0)Node18:0.007826569272532731)Node14:0.03776973510685316,Miniopterus_natalensis:0.0251486651118519)Node13:0.00692125042178209)Node7:0.01527738214026742)
+
+Estimating pairwise dN/dS: total of 78 analyses
