@@ -1,0 +1,253 @@
+
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Overwritten previously defined function:'GaussLaguerreQuardature'
+Overwritten previously defined function:'GammaQuadWeight'
+Variable 'SKIP_HARVEST_FREQ' was not initialized prior to being used
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model MG94customModel assigned to Equus_caballus
+Equus_caballus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Equus_przewalskii
+Equus_przewalskii has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node1
+Node1 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Equus_asinus
+Equus_asinus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Ceratotherium_simum_simum
+Ceratotherium_simum_simum has 2 parameters - branch length not assigned
+The tips of the tree:givenTree were matched with the species names from the data in the following numeric order (0-based) {1,2,3,0}
+
+Pseudo-optimal path's cost 408 vs 508 for 1..k=> a 1.2451 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'theLnLik' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Variable 'givenTree.Equus_caballus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Equus_caballus.synRate' was not initialized prior to being used
+Variable 'givenTree.Equus_przewalskii.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Equus_przewalskii.synRate' was not initialized prior to being used
+Variable 'givenTree.Equus_asinus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Equus_asinus.synRate' was not initialized prior to being used
+Variable 'givenTree.Ceratotherium_simum_simum.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Ceratotherium_simum_simum.synRate' was not initialized prior to being used
+Variable 'givenTree.Node1.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node1.synRate' was not initialized prior to being used
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 28 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 45 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 593-th LF evaluation.
+Initial guess for givenTree.Equus_caballus.nonSynRate is 2.89121e-18
+Initial guess for givenTree.Equus_caballus.synRate is 1.15648e-18
+Initial guess for givenTree.Equus_przewalskii.nonSynRate is 3.25261e-19
+Initial guess for givenTree.Equus_przewalskii.synRate is 0
+Initial guess for givenTree.Equus_asinus.nonSynRate is 0.00456099
+Initial guess for givenTree.Equus_asinus.synRate is 6.93889e-19
+Initial guess for givenTree.Ceratotherium_simum_simum.nonSynRate is 0.0487537
+Initial guess for givenTree.Ceratotherium_simum_simum.synRate is 0.035549
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+GT = 1
+CT = 1
+AC = 1
+CG = 1
+AT = 1
+givenTree.Equus_caballus.synRate = 1.15648e-18
+givenTree.Equus_caballus.nonSynRate = 2.89121e-18
+givenTree.Equus_przewalskii.synRate = 0
+givenTree.Equus_przewalskii.nonSynRate = 3.25261e-19
+givenTree.Node1.synRate = 0.1
+givenTree.Node1.nonSynRate = 0.1
+givenTree.Equus_asinus.synRate = 6.93889e-19
+givenTree.Equus_asinus.nonSynRate = 0.00456099
+givenTree.Ceratotherium_simum_simum.synRate = 0.035549
+givenTree.Ceratotherium_simum_simum.nonSynRate = 0.0487537
+Optimization finished in 19 loop passes.
+1398 likelihood evaluation calls and 4180 matrix exponentiations calls were made
+
+Variable 'lastDepth' was not initialized prior to being used
+No nodel was assigned to Equus_caballus
+Equus_caballus has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_przewalskii
+Equus_przewalskii has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_asinus
+Equus_asinus has 0 parameters - branch length not assigned
+No nodel was assigned to Ceratotherium_simum_simum
+Ceratotherium_simum_simum has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_caballus
+Equus_caballus has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_przewalskii
+Equus_przewalskii has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_asinus
+Equus_asinus has 0 parameters - branch length not assigned
+No nodel was assigned to Ceratotherium_simum_simum
+Ceratotherium_simum_simum has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_caballus
+Equus_caballus has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_przewalskii
+Equus_przewalskii has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_asinus
+Equus_asinus has 0 parameters - branch length not assigned
+No nodel was assigned to Ceratotherium_simum_simum
+Ceratotherium_simum_simum has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_caballus
+Equus_caballus has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_przewalskii
+Equus_przewalskii has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Equus_asinus
+Equus_asinus has 0 parameters - branch length not assigned
+No nodel was assigned to Ceratotherium_simum_simum
+Ceratotherium_simum_simum has 0 parameters - branch length not assigned
+Variable 'nodeName' was not initialized prior to being used
+Variable 'speciesIndex' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Equus_caballus
+Model MG94customModel assigned to Equus_przewalskii
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 'twoLnLik' was not initialized prior to being used
+Variable 't2.Equus_przewalskii.nonSynRate' was not initialized prior to being used
+Variable 't2.Equus_przewalskii.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Equus_przewalskii.nonSynRate = 0.1
+t2.Equus_przewalskii.synRate = 0.1
+Optimization finished in 9 loop passes.
+167 likelihood evaluation calls and 153 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Equus_caballus
+Model MG94customModel assigned to Equus_asinus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Equus_asinus.nonSynRate' was not initialized prior to being used
+Variable 't2.Equus_asinus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Equus_asinus.nonSynRate = 0.1
+t2.Equus_asinus.synRate = 0.1
+Optimization finished in 9 loop passes.
+166 likelihood evaluation calls and 152 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Equus_caballus
+Model MG94customModel assigned to Ceratotherium_simum_simum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Ceratotherium_simum_simum.synRate' was not initialized prior to being used
+Variable 't2.Ceratotherium_simum_simum.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Ceratotherium_simum_simum.synRate = 0.1
+t2.Ceratotherium_simum_simum.nonSynRate = 0.1
+Optimization finished in 4 loop passes.
+124 likelihood evaluation calls and 110 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Equus_przewalskii
+Model MG94customModel assigned to Equus_asinus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Equus_asinus.nonSynRate' was not initialized prior to being used
+Variable 't2.Equus_asinus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Equus_asinus.nonSynRate = 0.1
+t2.Equus_asinus.synRate = 0.1
+Optimization finished in 3 loop passes.
+63 likelihood evaluation calls and 57 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Equus_przewalskii
+Model MG94customModel assigned to Ceratotherium_simum_simum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Ceratotherium_simum_simum.synRate' was not initialized prior to being used
+Variable 't2.Ceratotherium_simum_simum.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Ceratotherium_simum_simum.synRate = 0.1
+t2.Ceratotherium_simum_simum.nonSynRate = 0.1
+Optimization finished in 3 loop passes.
+104 likelihood evaluation calls and 91 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Equus_asinus
+Model MG94customModel assigned to Ceratotherium_simum_simum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 1557-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Ceratotherium_simum_simum.synRate = 0.1
+t2.Ceratotherium_simum_simum.nonSynRate = 0.1
+Optimization finished in 3 loop passes.
+104 likelihood evaluation calls and 91 matrix exponentiations calls were made
