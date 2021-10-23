@@ -1,0 +1,3145 @@
+
+Loaded 'libv3/convenience/matrix.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/matrix.bf
+Loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'IOFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/IOFunctions.bf
+Already loaded 'libv3/UtilityFunctions.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/UtilityFunctions.bf
+Loaded 'convenience/regexp.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/convenience/regexp.bf
+Loaded 'libv3/all-terms.bf' from /usr/local/lib/hyphy/TemplateBatchFiles/libv3/all-terms.bf
+Variable 'skipCodeSelectionStep' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Overwritten previously defined function:'GaussLaguerreQuardature'
+Overwritten previously defined function:'GammaQuadWeight'
+Variable 'SKIP_HARVEST_FREQ' was not initialized prior to being used
+Variable '_WRAP_PASSTHROUGH_FLAG_' was not initialized prior to being used
+Variable 'END_OF_FILE' was not initialized prior to being used
+Variable '_DO_TREE_REBALANCE_' was not initialized prior to being used
+Variable '_KEEP_I_LABELS_' was not initialized prior to being used
+Model MG94customModel assigned to Corythaeola_cristata
+Corythaeola_cristata has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Tauraco_erythrolophus
+Tauraco_erythrolophus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node2
+Node2 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Cuculus_canorus
+Cuculus_canorus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node1
+Node1 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Picoides_pubescens
+Picoides_pubescens has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Apaloderma_vittatum
+Apaloderma_vittatum has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node10
+Node10 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Colius_striatus
+Colius_striatus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node9
+Node9 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Buceros_rhinoceros
+Buceros_rhinoceros has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node8
+Node8 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Merops_nubicus
+Merops_nubicus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Leptosomus_discolor
+Leptosomus_discolor has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node15
+Node15 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node7
+Node7 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Melopsittacus_undulatus
+Melopsittacus_undulatus has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Nestor_notabilis
+Nestor_notabilis has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node19
+Node19 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Athene_cunicularia
+Athene_cunicularia has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Tyto_alba_alba
+Tyto_alba_alba has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node22
+Node22 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node18
+Node18 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node6
+Node6 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Calypte_anna
+Calypte_anna has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Chaetura_pelagica
+Chaetura_pelagica has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node26
+Node26 has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Antrostomus_carolinensis
+Antrostomus_carolinensis has 2 parameters - branch length not assigned
+Model MG94customModel assigned to Node25
+Node25 has 2 parameters - branch length not assigned
+The tips of the tree:givenTree were matched with the species names from the data in the following numeric order (0-based) {4,9,11,13,10,0,14,12,5,1,6,3,15,2,7,8}
+
+Pseudo-optimal path's cost 2893 vs 3625 for 1..k=> a 1.25302 x improvement
+Partition 0 reversible model flag computed as 1
+Variable 'theLnLik' was not initialized prior to being used
+Variable 'SAVE_OPT_STATUS_TO' was not initialized prior to being used
+Variable 'givenTree.Corythaeola_cristata.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Corythaeola_cristata.synRate' was not initialized prior to being used
+Variable 'givenTree.Tauraco_erythrolophus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Tauraco_erythrolophus.synRate' was not initialized prior to being used
+Variable 'givenTree.Cuculus_canorus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Cuculus_canorus.synRate' was not initialized prior to being used
+Variable 'givenTree.Picoides_pubescens.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Picoides_pubescens.synRate' was not initialized prior to being used
+Variable 'givenTree.Apaloderma_vittatum.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Apaloderma_vittatum.synRate' was not initialized prior to being used
+Variable 'givenTree.Colius_striatus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Colius_striatus.synRate' was not initialized prior to being used
+Variable 'givenTree.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Variable 'givenTree.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Merops_nubicus.synRate' was not initialized prior to being used
+Variable 'givenTree.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Leptosomus_discolor.synRate' was not initialized prior to being used
+Variable 'givenTree.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Variable 'givenTree.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Nestor_notabilis.synRate' was not initialized prior to being used
+Variable 'givenTree.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Athene_cunicularia.synRate' was not initialized prior to being used
+Variable 'givenTree.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Tyto_alba_alba.synRate' was not initialized prior to being used
+Variable 'givenTree.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Calypte_anna.synRate' was not initialized prior to being used
+Variable 'givenTree.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Chaetura_pelagica.synRate' was not initialized prior to being used
+Variable 'givenTree.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Variable 'givenTree.Node2.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node2.synRate' was not initialized prior to being used
+Variable 'givenTree.Node1.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node1.synRate' was not initialized prior to being used
+Variable 'givenTree.Node10.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node10.synRate' was not initialized prior to being used
+Variable 'givenTree.Node9.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node9.synRate' was not initialized prior to being used
+Variable 'givenTree.Node8.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node8.synRate' was not initialized prior to being used
+Variable 'givenTree.Node15.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node15.synRate' was not initialized prior to being used
+Variable 'givenTree.Node7.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node7.synRate' was not initialized prior to being used
+Variable 'givenTree.Node19.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node19.synRate' was not initialized prior to being used
+Variable 'givenTree.Node22.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node22.synRate' was not initialized prior to being used
+Variable 'givenTree.Node18.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node18.synRate' was not initialized prior to being used
+Variable 'givenTree.Node6.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node6.synRate' was not initialized prior to being used
+Variable 'givenTree.Node26.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node26.synRate' was not initialized prior to being used
+Variable 'givenTree.Node25.nonSynRate' was not initialized prior to being used
+Variable 'givenTree.Node25.synRate' was not initialized prior to being used
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 16 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Site 83 evaluated to a 0 probability in ComputeTreeBlockByBranch
+Auto-benchmarked an optimal number (1) of threads.
+Set GUI update interval to every 97-th LF evaluation.
+Initial guess for givenTree.Node2.nonSynRate is -0.00379638
+Initial guess for givenTree.Node2.synRate is -0.00236415
+Initial guess for givenTree.Corythaeola_cristata.nonSynRate is 0.0171056
+Initial guess for givenTree.Corythaeola_cristata.synRate is 0.00489327
+Initial guess for givenTree.Tauraco_erythrolophus.nonSynRate is 0.0337657
+Initial guess for givenTree.Tauraco_erythrolophus.synRate is 0.0023534
+Initial guess for givenTree.Cuculus_canorus.nonSynRate is 0.0438587
+Initial guess for givenTree.Cuculus_canorus.synRate is 0.0255927
+Initial guess for givenTree.Node6.nonSynRate is 0.00641625
+Initial guess for givenTree.Node6.synRate is 0.012013
+Initial guess for givenTree.Node7.nonSynRate is 0.00165903
+Initial guess for givenTree.Node7.synRate is 0.000824623
+Initial guess for givenTree.Node8.nonSynRate is 0.00456284
+Initial guess for givenTree.Node8.synRate is 0.00014848
+Initial guess for givenTree.Node9.nonSynRate is -0.000144432
+Initial guess for givenTree.Node9.synRate is -0.000822017
+Initial guess for givenTree.Node10.nonSynRate is -0.00494553
+Initial guess for givenTree.Node10.synRate is 0.00200859
+Initial guess for givenTree.Picoides_pubescens.nonSynRate is 0.0584228
+Initial guess for givenTree.Picoides_pubescens.synRate is 0.0194214
+Initial guess for givenTree.Apaloderma_vittatum.nonSynRate is 0.0420393
+Initial guess for givenTree.Apaloderma_vittatum.synRate is 0.00768117
+Initial guess for givenTree.Colius_striatus.nonSynRate is 0.0627031
+Initial guess for givenTree.Colius_striatus.synRate is 0.0326264
+Initial guess for givenTree.Buceros_rhinoceros.nonSynRate is 0.0373491
+Initial guess for givenTree.Buceros_rhinoceros.synRate is 0.0127316
+Initial guess for givenTree.Node15.nonSynRate is 0.00835881
+Initial guess for givenTree.Node15.synRate is -0.002337
+Initial guess for givenTree.Merops_nubicus.nonSynRate is 0.0333852
+Initial guess for givenTree.Merops_nubicus.synRate is 0.0101457
+Initial guess for givenTree.Leptosomus_discolor.nonSynRate is 0.0346757
+Initial guess for givenTree.Leptosomus_discolor.synRate is 0.00693004
+Initial guess for givenTree.Node18.nonSynRate is -0.00437182
+Initial guess for givenTree.Node18.synRate is -0.000118355
+Initial guess for givenTree.Node19.nonSynRate is 0.00117897
+Initial guess for givenTree.Node19.synRate is -0.000127993
+Initial guess for givenTree.Melopsittacus_undulatus.nonSynRate is 0.0162877
+Initial guess for givenTree.Melopsittacus_undulatus.synRate is 0.000355444
+Initial guess for givenTree.Nestor_notabilis.nonSynRate is 0.0238943
+Initial guess for givenTree.Nestor_notabilis.synRate is 0.00446394
+Initial guess for givenTree.Node22.nonSynRate is 0.00771597
+Initial guess for givenTree.Node22.synRate is 0.00268729
+Initial guess for givenTree.Athene_cunicularia.nonSynRate is 0.0291513
+Initial guess for givenTree.Athene_cunicularia.synRate is 0.0046478
+Initial guess for givenTree.Tyto_alba_alba.nonSynRate is 0.0192002
+Initial guess for givenTree.Tyto_alba_alba.synRate is 0.00748919
+Initial guess for givenTree.Node25.nonSynRate is -0.000747542
+Initial guess for givenTree.Node25.synRate is -0.000248039
+Initial guess for givenTree.Node26.nonSynRate is 0.00378663
+Initial guess for givenTree.Node26.synRate is 0.00372826
+Initial guess for givenTree.Calypte_anna.nonSynRate is 0.0307912
+Initial guess for givenTree.Calypte_anna.synRate is 0.00411414
+Initial guess for givenTree.Chaetura_pelagica.nonSynRate is 0.04302
+Initial guess for givenTree.Chaetura_pelagica.synRate is 0.0154495
+Initial guess for givenTree.Antrostomus_carolinensis.nonSynRate is 0.0254601
+Initial guess for givenTree.Antrostomus_carolinensis.synRate is 0.0133442
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+GT = 1
+CT = 1
+AC = 1
+CG = 1
+AT = 1
+givenTree.Corythaeola_cristata.synRate = 0.00489327
+givenTree.Corythaeola_cristata.nonSynRate = 0.0171056
+givenTree.Tauraco_erythrolophus.synRate = 0.0023534
+givenTree.Tauraco_erythrolophus.nonSynRate = 0.0337657
+givenTree.Node2.synRate = 0
+givenTree.Node2.nonSynRate = 0
+givenTree.Cuculus_canorus.synRate = 0.0255927
+givenTree.Cuculus_canorus.nonSynRate = 0.0438587
+givenTree.Node1.synRate = 0.1
+givenTree.Node1.nonSynRate = 0.1
+givenTree.Picoides_pubescens.synRate = 0.0194214
+givenTree.Picoides_pubescens.nonSynRate = 0.0584228
+givenTree.Apaloderma_vittatum.synRate = 0.00768117
+givenTree.Apaloderma_vittatum.nonSynRate = 0.0420393
+givenTree.Node10.synRate = 0.00200859
+givenTree.Node10.nonSynRate = 0
+givenTree.Colius_striatus.synRate = 0.0326264
+givenTree.Colius_striatus.nonSynRate = 0.0627031
+givenTree.Node9.synRate = 0
+givenTree.Node9.nonSynRate = 0
+givenTree.Buceros_rhinoceros.synRate = 0.0127316
+givenTree.Buceros_rhinoceros.nonSynRate = 0.0373491
+givenTree.Node8.synRate = 0.00014848
+givenTree.Node8.nonSynRate = 0.00456284
+givenTree.Merops_nubicus.synRate = 0.0101457
+givenTree.Merops_nubicus.nonSynRate = 0.0333852
+givenTree.Leptosomus_discolor.synRate = 0.00693004
+givenTree.Leptosomus_discolor.nonSynRate = 0.0346757
+givenTree.Node15.synRate = 0
+givenTree.Node15.nonSynRate = 0.00835881
+givenTree.Node7.synRate = 0.000824623
+givenTree.Node7.nonSynRate = 0.00165903
+givenTree.Melopsittacus_undulatus.synRate = 0.000355444
+givenTree.Melopsittacus_undulatus.nonSynRate = 0.0162877
+givenTree.Nestor_notabilis.synRate = 0.00446394
+givenTree.Nestor_notabilis.nonSynRate = 0.0238943
+givenTree.Node19.synRate = 0
+givenTree.Node19.nonSynRate = 0.00117897
+givenTree.Athene_cunicularia.synRate = 0.0046478
+givenTree.Athene_cunicularia.nonSynRate = 0.0291513
+givenTree.Tyto_alba_alba.synRate = 0.00748919
+givenTree.Tyto_alba_alba.nonSynRate = 0.0192002
+givenTree.Node22.synRate = 0.00268729
+givenTree.Node22.nonSynRate = 0.00771597
+givenTree.Node18.synRate = 0
+givenTree.Node18.nonSynRate = 0
+givenTree.Node6.synRate = 0.012013
+givenTree.Node6.nonSynRate = 0.00641625
+givenTree.Calypte_anna.synRate = 0.00411414
+givenTree.Calypte_anna.nonSynRate = 0.0307912
+givenTree.Chaetura_pelagica.synRate = 0.0154495
+givenTree.Chaetura_pelagica.nonSynRate = 0.04302
+givenTree.Node26.synRate = 0.00372826
+givenTree.Node26.nonSynRate = 0.00378663
+givenTree.Antrostomus_carolinensis.synRate = 0.0133442
+givenTree.Antrostomus_carolinensis.nonSynRate = 0.0254601
+givenTree.Node25.synRate = 0
+givenTree.Node25.nonSynRate = 0
+Optimization finished in 32 loop passes.
+4997 likelihood evaluation calls and 22043 matrix exponentiations calls were made
+
+Variable 'lastDepth' was not initialized prior to being used
+No nodel was assigned to Corythaeola_cristata
+Corythaeola_cristata has 0 parameters - branch length not assigned
+No nodel was assigned to Tauraco_erythrolophus
+Tauraco_erythrolophus has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Cuculus_canorus
+Cuculus_canorus has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Picoides_pubescens
+Picoides_pubescens has 0 parameters - branch length not assigned
+No nodel was assigned to Apaloderma_vittatum
+Apaloderma_vittatum has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to Colius_striatus
+Colius_striatus has 0 parameters - branch length not assigned
+No nodel was assigned to Node9
+Node9 has 0 parameters - branch length not assigned
+No nodel was assigned to Buceros_rhinoceros
+Buceros_rhinoceros has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to Merops_nubicus
+Merops_nubicus has 0 parameters - branch length not assigned
+No nodel was assigned to Leptosomus_discolor
+Leptosomus_discolor has 0 parameters - branch length not assigned
+No nodel was assigned to Node15
+Node15 has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Melopsittacus_undulatus
+Melopsittacus_undulatus has 0 parameters - branch length not assigned
+No nodel was assigned to Nestor_notabilis
+Nestor_notabilis has 0 parameters - branch length not assigned
+No nodel was assigned to Node19
+Node19 has 0 parameters - branch length not assigned
+No nodel was assigned to Athene_cunicularia
+Athene_cunicularia has 0 parameters - branch length not assigned
+No nodel was assigned to Tyto_alba_alba
+Tyto_alba_alba has 0 parameters - branch length not assigned
+No nodel was assigned to Node22
+Node22 has 0 parameters - branch length not assigned
+No nodel was assigned to Node18
+Node18 has 0 parameters - branch length not assigned
+No nodel was assigned to Node6
+Node6 has 0 parameters - branch length not assigned
+No nodel was assigned to Calypte_anna
+Calypte_anna has 0 parameters - branch length not assigned
+No nodel was assigned to Chaetura_pelagica
+Chaetura_pelagica has 0 parameters - branch length not assigned
+No nodel was assigned to Node26
+Node26 has 0 parameters - branch length not assigned
+No nodel was assigned to Antrostomus_carolinensis
+Antrostomus_carolinensis has 0 parameters - branch length not assigned
+No nodel was assigned to Node25
+Node25 has 0 parameters - branch length not assigned
+No nodel was assigned to Corythaeola_cristata
+Corythaeola_cristata has 0 parameters - branch length not assigned
+No nodel was assigned to Tauraco_erythrolophus
+Tauraco_erythrolophus has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Cuculus_canorus
+Cuculus_canorus has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Picoides_pubescens
+Picoides_pubescens has 0 parameters - branch length not assigned
+No nodel was assigned to Apaloderma_vittatum
+Apaloderma_vittatum has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to Colius_striatus
+Colius_striatus has 0 parameters - branch length not assigned
+No nodel was assigned to Node9
+Node9 has 0 parameters - branch length not assigned
+No nodel was assigned to Buceros_rhinoceros
+Buceros_rhinoceros has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to Merops_nubicus
+Merops_nubicus has 0 parameters - branch length not assigned
+No nodel was assigned to Leptosomus_discolor
+Leptosomus_discolor has 0 parameters - branch length not assigned
+No nodel was assigned to Node15
+Node15 has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Melopsittacus_undulatus
+Melopsittacus_undulatus has 0 parameters - branch length not assigned
+No nodel was assigned to Nestor_notabilis
+Nestor_notabilis has 0 parameters - branch length not assigned
+No nodel was assigned to Node19
+Node19 has 0 parameters - branch length not assigned
+No nodel was assigned to Athene_cunicularia
+Athene_cunicularia has 0 parameters - branch length not assigned
+No nodel was assigned to Tyto_alba_alba
+Tyto_alba_alba has 0 parameters - branch length not assigned
+No nodel was assigned to Node22
+Node22 has 0 parameters - branch length not assigned
+No nodel was assigned to Node18
+Node18 has 0 parameters - branch length not assigned
+No nodel was assigned to Node6
+Node6 has 0 parameters - branch length not assigned
+No nodel was assigned to Calypte_anna
+Calypte_anna has 0 parameters - branch length not assigned
+No nodel was assigned to Chaetura_pelagica
+Chaetura_pelagica has 0 parameters - branch length not assigned
+No nodel was assigned to Node26
+Node26 has 0 parameters - branch length not assigned
+No nodel was assigned to Antrostomus_carolinensis
+Antrostomus_carolinensis has 0 parameters - branch length not assigned
+No nodel was assigned to Node25
+Node25 has 0 parameters - branch length not assigned
+No nodel was assigned to Corythaeola_cristata
+Corythaeola_cristata has 0 parameters - branch length not assigned
+No nodel was assigned to Tauraco_erythrolophus
+Tauraco_erythrolophus has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Cuculus_canorus
+Cuculus_canorus has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Picoides_pubescens
+Picoides_pubescens has 0 parameters - branch length not assigned
+No nodel was assigned to Apaloderma_vittatum
+Apaloderma_vittatum has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to Colius_striatus
+Colius_striatus has 0 parameters - branch length not assigned
+No nodel was assigned to Node9
+Node9 has 0 parameters - branch length not assigned
+No nodel was assigned to Buceros_rhinoceros
+Buceros_rhinoceros has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to Merops_nubicus
+Merops_nubicus has 0 parameters - branch length not assigned
+No nodel was assigned to Leptosomus_discolor
+Leptosomus_discolor has 0 parameters - branch length not assigned
+No nodel was assigned to Node15
+Node15 has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Melopsittacus_undulatus
+Melopsittacus_undulatus has 0 parameters - branch length not assigned
+No nodel was assigned to Nestor_notabilis
+Nestor_notabilis has 0 parameters - branch length not assigned
+No nodel was assigned to Node19
+Node19 has 0 parameters - branch length not assigned
+No nodel was assigned to Athene_cunicularia
+Athene_cunicularia has 0 parameters - branch length not assigned
+No nodel was assigned to Tyto_alba_alba
+Tyto_alba_alba has 0 parameters - branch length not assigned
+No nodel was assigned to Node22
+Node22 has 0 parameters - branch length not assigned
+No nodel was assigned to Node18
+Node18 has 0 parameters - branch length not assigned
+No nodel was assigned to Node6
+Node6 has 0 parameters - branch length not assigned
+No nodel was assigned to Calypte_anna
+Calypte_anna has 0 parameters - branch length not assigned
+No nodel was assigned to Chaetura_pelagica
+Chaetura_pelagica has 0 parameters - branch length not assigned
+No nodel was assigned to Node26
+Node26 has 0 parameters - branch length not assigned
+No nodel was assigned to Antrostomus_carolinensis
+Antrostomus_carolinensis has 0 parameters - branch length not assigned
+No nodel was assigned to Node25
+Node25 has 0 parameters - branch length not assigned
+No nodel was assigned to Corythaeola_cristata
+Corythaeola_cristata has 0 parameters - branch length not assigned
+No nodel was assigned to Tauraco_erythrolophus
+Tauraco_erythrolophus has 0 parameters - branch length not assigned
+No nodel was assigned to Node2
+Node2 has 0 parameters - branch length not assigned
+No nodel was assigned to Cuculus_canorus
+Cuculus_canorus has 0 parameters - branch length not assigned
+No nodel was assigned to Node1
+Node1 has 0 parameters - branch length not assigned
+No nodel was assigned to Picoides_pubescens
+Picoides_pubescens has 0 parameters - branch length not assigned
+No nodel was assigned to Apaloderma_vittatum
+Apaloderma_vittatum has 0 parameters - branch length not assigned
+No nodel was assigned to Node10
+Node10 has 0 parameters - branch length not assigned
+No nodel was assigned to Colius_striatus
+Colius_striatus has 0 parameters - branch length not assigned
+No nodel was assigned to Node9
+Node9 has 0 parameters - branch length not assigned
+No nodel was assigned to Buceros_rhinoceros
+Buceros_rhinoceros has 0 parameters - branch length not assigned
+No nodel was assigned to Node8
+Node8 has 0 parameters - branch length not assigned
+No nodel was assigned to Merops_nubicus
+Merops_nubicus has 0 parameters - branch length not assigned
+No nodel was assigned to Leptosomus_discolor
+Leptosomus_discolor has 0 parameters - branch length not assigned
+No nodel was assigned to Node15
+Node15 has 0 parameters - branch length not assigned
+No nodel was assigned to Node7
+Node7 has 0 parameters - branch length not assigned
+No nodel was assigned to Melopsittacus_undulatus
+Melopsittacus_undulatus has 0 parameters - branch length not assigned
+No nodel was assigned to Nestor_notabilis
+Nestor_notabilis has 0 parameters - branch length not assigned
+No nodel was assigned to Node19
+Node19 has 0 parameters - branch length not assigned
+No nodel was assigned to Athene_cunicularia
+Athene_cunicularia has 0 parameters - branch length not assigned
+No nodel was assigned to Tyto_alba_alba
+Tyto_alba_alba has 0 parameters - branch length not assigned
+No nodel was assigned to Node22
+Node22 has 0 parameters - branch length not assigned
+No nodel was assigned to Node18
+Node18 has 0 parameters - branch length not assigned
+No nodel was assigned to Node6
+Node6 has 0 parameters - branch length not assigned
+No nodel was assigned to Calypte_anna
+Calypte_anna has 0 parameters - branch length not assigned
+No nodel was assigned to Chaetura_pelagica
+Chaetura_pelagica has 0 parameters - branch length not assigned
+No nodel was assigned to Node26
+Node26 has 0 parameters - branch length not assigned
+No nodel was assigned to Antrostomus_carolinensis
+Antrostomus_carolinensis has 0 parameters - branch length not assigned
+No nodel was assigned to Node25
+Node25 has 0 parameters - branch length not assigned
+Variable 'nodeName' was not initialized prior to being used
+Variable 'speciesIndex' was not initialized prior to being used
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Tauraco_erythrolophus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 'twoLnLik' was not initialized prior to being used
+Variable 't2.Tauraco_erythrolophus.nonSynRate' was not initialized prior to being used
+Variable 't2.Tauraco_erythrolophus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tauraco_erythrolophus.nonSynRate = 0.1
+t2.Tauraco_erythrolophus.synRate = 0.1
+Optimization finished in 5 loop passes.
+185 likelihood evaluation calls and 167 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Cuculus_canorus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Cuculus_canorus.nonSynRate' was not initialized prior to being used
+Variable 't2.Cuculus_canorus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Cuculus_canorus.nonSynRate = 0.1
+t2.Cuculus_canorus.synRate = 0.1
+Optimization finished in 5 loop passes.
+173 likelihood evaluation calls and 154 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Picoides_pubescens
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Picoides_pubescens.synRate' was not initialized prior to being used
+Variable 't2.Picoides_pubescens.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Picoides_pubescens.synRate = 0.1
+t2.Picoides_pubescens.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+173 likelihood evaluation calls and 158 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Apaloderma_vittatum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Apaloderma_vittatum.synRate' was not initialized prior to being used
+Variable 't2.Apaloderma_vittatum.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Apaloderma_vittatum.synRate = 0.1
+t2.Apaloderma_vittatum.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+146 likelihood evaluation calls and 130 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Colius_striatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Colius_striatus.synRate' was not initialized prior to being used
+Variable 't2.Colius_striatus.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Colius_striatus.synRate = 0.1
+t2.Colius_striatus.nonSynRate = 0.1
+Optimization finished in 6 loop passes.
+177 likelihood evaluation calls and 159 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Buceros_rhinoceros
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 't2.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Buceros_rhinoceros.nonSynRate = 0.1
+t2.Buceros_rhinoceros.synRate = 0.1
+Optimization finished in 6 loop passes.
+158 likelihood evaluation calls and 142 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 6 loop passes.
+163 likelihood evaluation calls and 149 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.synRate = 0.1
+t2.Leptosomus_discolor.nonSynRate = 0.1
+Optimization finished in 7 loop passes.
+138 likelihood evaluation calls and 129 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 6 loop passes.
+160 likelihood evaluation calls and 142 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 6 loop passes.
+164 likelihood evaluation calls and 148 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 6 loop passes.
+160 likelihood evaluation calls and 141 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+178 likelihood evaluation calls and 163 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 6 loop passes.
+164 likelihood evaluation calls and 149 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 7 loop passes.
+125 likelihood evaluation calls and 114 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Corythaeola_cristata
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 7 loop passes.
+161 likelihood evaluation calls and 142 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Cuculus_canorus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Cuculus_canorus.nonSynRate' was not initialized prior to being used
+Variable 't2.Cuculus_canorus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Cuculus_canorus.nonSynRate = 0.1
+t2.Cuculus_canorus.synRate = 0.1
+Optimization finished in 7 loop passes.
+148 likelihood evaluation calls and 135 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Picoides_pubescens
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Picoides_pubescens.nonSynRate' was not initialized prior to being used
+Variable 't2.Picoides_pubescens.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Picoides_pubescens.nonSynRate = 0.1
+t2.Picoides_pubescens.synRate = 0.1
+Optimization finished in 7 loop passes.
+105 likelihood evaluation calls and 98 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Apaloderma_vittatum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Apaloderma_vittatum.nonSynRate' was not initialized prior to being used
+Variable 't2.Apaloderma_vittatum.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Apaloderma_vittatum.nonSynRate = 0.1
+t2.Apaloderma_vittatum.synRate = 0.1
+Optimization finished in 4 loop passes.
+104 likelihood evaluation calls and 93 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Colius_striatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Colius_striatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Colius_striatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Colius_striatus.nonSynRate = 0.1
+t2.Colius_striatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+157 likelihood evaluation calls and 143 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Buceros_rhinoceros
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 't2.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Buceros_rhinoceros.nonSynRate = 0.1
+t2.Buceros_rhinoceros.synRate = 0.1
+Optimization finished in 6 loop passes.
+84 likelihood evaluation calls and 78 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 7 loop passes.
+216 likelihood evaluation calls and 201 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 6 loop passes.
+89 likelihood evaluation calls and 82 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 6 loop passes.
+154 likelihood evaluation calls and 134 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 6 loop passes.
+169 likelihood evaluation calls and 150 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 6 loop passes.
+175 likelihood evaluation calls and 160 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+140 likelihood evaluation calls and 122 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 8 loop passes.
+125 likelihood evaluation calls and 116 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 7 loop passes.
+140 likelihood evaluation calls and 130 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tauraco_erythrolophus
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 7 loop passes.
+123 likelihood evaluation calls and 112 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Picoides_pubescens
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Picoides_pubescens.nonSynRate' was not initialized prior to being used
+Variable 't2.Picoides_pubescens.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Picoides_pubescens.nonSynRate = 0.1
+t2.Picoides_pubescens.synRate = 0.1
+Optimization finished in 5 loop passes.
+159 likelihood evaluation calls and 144 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Apaloderma_vittatum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Apaloderma_vittatum.nonSynRate' was not initialized prior to being used
+Variable 't2.Apaloderma_vittatum.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Apaloderma_vittatum.nonSynRate = 0.1
+t2.Apaloderma_vittatum.synRate = 0.1
+Optimization finished in 5 loop passes.
+133 likelihood evaluation calls and 122 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Colius_striatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Colius_striatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Colius_striatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Colius_striatus.nonSynRate = 0.1
+t2.Colius_striatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+144 likelihood evaluation calls and 126 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Buceros_rhinoceros
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 't2.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Buceros_rhinoceros.nonSynRate = 0.1
+t2.Buceros_rhinoceros.synRate = 0.1
+Optimization finished in 5 loop passes.
+150 likelihood evaluation calls and 137 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 6 loop passes.
+171 likelihood evaluation calls and 153 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 5 loop passes.
+156 likelihood evaluation calls and 139 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+145 likelihood evaluation calls and 127 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 5 loop passes.
+66 likelihood evaluation calls and 57 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 7 loop passes.
+139 likelihood evaluation calls and 127 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 5 loop passes.
+192 likelihood evaluation calls and 175 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 6 loop passes.
+162 likelihood evaluation calls and 150 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+127 likelihood evaluation calls and 115 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Cuculus_canorus
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8333-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 3 loop passes.
+97 likelihood evaluation calls and 87 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Apaloderma_vittatum
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Apaloderma_vittatum.nonSynRate' was not initialized prior to being used
+Variable 't2.Apaloderma_vittatum.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Apaloderma_vittatum.nonSynRate = 0.1
+t2.Apaloderma_vittatum.synRate = 0.1
+Optimization finished in 5 loop passes.
+164 likelihood evaluation calls and 151 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Colius_striatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Colius_striatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Colius_striatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Colius_striatus.nonSynRate = 0.1
+t2.Colius_striatus.synRate = 0.1
+Optimization finished in 3 loop passes.
+104 likelihood evaluation calls and 94 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Buceros_rhinoceros
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 't2.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 7812-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Buceros_rhinoceros.nonSynRate = 0.1
+t2.Buceros_rhinoceros.synRate = 0.1
+Optimization finished in 6 loop passes.
+151 likelihood evaluation calls and 135 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8333-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 6 loop passes.
+157 likelihood evaluation calls and 139 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (6) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 3 loop passes.
+100 likelihood evaluation calls and 90 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8064-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+174 likelihood evaluation calls and 156 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 6 loop passes.
+135 likelihood evaluation calls and 120 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 6 loop passes.
+193 likelihood evaluation calls and 176 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+137 likelihood evaluation calls and 123 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8333-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 5 loop passes.
+54 likelihood evaluation calls and 48 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+210 likelihood evaluation calls and 194 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Picoides_pubescens
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+192 likelihood evaluation calls and 173 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Colius_striatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Colius_striatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Colius_striatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Colius_striatus.nonSynRate = 0.1
+t2.Colius_striatus.synRate = 0.1
+Optimization finished in 8 loop passes.
+138 likelihood evaluation calls and 125 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Buceros_rhinoceros
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 't2.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Buceros_rhinoceros.nonSynRate = 0.1
+t2.Buceros_rhinoceros.synRate = 0.1
+Optimization finished in 6 loop passes.
+169 likelihood evaluation calls and 152 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 5 loop passes.
+214 likelihood evaluation calls and 198 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 5 loop passes.
+66 likelihood evaluation calls and 57 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 7 loop passes.
+124 likelihood evaluation calls and 113 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 8 loop passes.
+129 likelihood evaluation calls and 114 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 5 loop passes.
+196 likelihood evaluation calls and 180 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+153 likelihood evaluation calls and 136 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 5 loop passes.
+175 likelihood evaluation calls and 157 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+163 likelihood evaluation calls and 145 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Apaloderma_vittatum
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8333-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 7 loop passes.
+62 likelihood evaluation calls and 54 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Buceros_rhinoceros
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Buceros_rhinoceros.nonSynRate' was not initialized prior to being used
+Variable 't2.Buceros_rhinoceros.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Buceros_rhinoceros.nonSynRate = 0.1
+t2.Buceros_rhinoceros.synRate = 0.1
+Optimization finished in 5 loop passes.
+137 likelihood evaluation calls and 119 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 5 loop passes.
+193 likelihood evaluation calls and 174 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 6 loop passes.
+65 likelihood evaluation calls and 59 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+164 likelihood evaluation calls and 147 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 5 loop passes.
+182 likelihood evaluation calls and 163 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 6 loop passes.
+129 likelihood evaluation calls and 118 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+120 likelihood evaluation calls and 105 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 5 loop passes.
+144 likelihood evaluation calls and 130 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+140 likelihood evaluation calls and 124 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Colius_striatus
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8333-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+192 likelihood evaluation calls and 177 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Merops_nubicus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Merops_nubicus.nonSynRate' was not initialized prior to being used
+Variable 't2.Merops_nubicus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Merops_nubicus.nonSynRate = 0.1
+t2.Merops_nubicus.synRate = 0.1
+Optimization finished in 6 loop passes.
+184 likelihood evaluation calls and 167 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 5 loop passes.
+167 likelihood evaluation calls and 154 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+193 likelihood evaluation calls and 177 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 6 loop passes.
+151 likelihood evaluation calls and 135 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 5 loop passes.
+68 likelihood evaluation calls and 59 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 6250-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+92 likelihood evaluation calls and 82 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 6 loop passes.
+190 likelihood evaluation calls and 173 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+231 likelihood evaluation calls and 214 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Buceros_rhinoceros
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+66 likelihood evaluation calls and 60 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Leptosomus_discolor
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Leptosomus_discolor.nonSynRate' was not initialized prior to being used
+Variable 't2.Leptosomus_discolor.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Leptosomus_discolor.nonSynRate = 0.1
+t2.Leptosomus_discolor.synRate = 0.1
+Optimization finished in 6 loop passes.
+91 likelihood evaluation calls and 84 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+192 likelihood evaluation calls and 174 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 6 loop passes.
+170 likelihood evaluation calls and 157 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8474-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 5 loop passes.
+160 likelihood evaluation calls and 143 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 5 loop passes.
+205 likelihood evaluation calls and 188 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 5 loop passes.
+152 likelihood evaluation calls and 131 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+159 likelihood evaluation calls and 144 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Merops_nubicus
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 7 loop passes.
+167 likelihood evaluation calls and 154 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Melopsittacus_undulatus
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Melopsittacus_undulatus.nonSynRate' was not initialized prior to being used
+Variable 't2.Melopsittacus_undulatus.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Melopsittacus_undulatus.nonSynRate = 0.1
+t2.Melopsittacus_undulatus.synRate = 0.1
+Optimization finished in 5 loop passes.
+151 likelihood evaluation calls and 138 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10204-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 6 loop passes.
+197 likelihood evaluation calls and 181 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 6 loop passes.
+170 likelihood evaluation calls and 155 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 10000-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+97 likelihood evaluation calls and 87 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9615-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 6 loop passes.
+117 likelihood evaluation calls and 108 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9433-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+181 likelihood evaluation calls and 164 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Leptosomus_discolor
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+179 likelihood evaluation calls and 160 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Melopsittacus_undulatus
+Model MG94customModel assigned to Nestor_notabilis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Nestor_notabilis.nonSynRate' was not initialized prior to being used
+Variable 't2.Nestor_notabilis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9803-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Nestor_notabilis.nonSynRate = 0.1
+t2.Nestor_notabilis.synRate = 0.1
+Optimization finished in 5 loop passes.
+151 likelihood evaluation calls and 134 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Melopsittacus_undulatus
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8620-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 6 loop passes.
+187 likelihood evaluation calls and 173 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Melopsittacus_undulatus
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+160 likelihood evaluation calls and 144 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Melopsittacus_undulatus
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 5 loop passes.
+87 likelihood evaluation calls and 80 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Melopsittacus_undulatus
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 5 loop passes.
+146 likelihood evaluation calls and 127 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Melopsittacus_undulatus
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 8 loop passes.
+123 likelihood evaluation calls and 114 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Nestor_notabilis
+Model MG94customModel assigned to Athene_cunicularia
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Athene_cunicularia.nonSynRate' was not initialized prior to being used
+Variable 't2.Athene_cunicularia.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Athene_cunicularia.nonSynRate = 0.1
+t2.Athene_cunicularia.synRate = 0.1
+Optimization finished in 5 loop passes.
+193 likelihood evaluation calls and 175 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Nestor_notabilis
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8928-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+73 likelihood evaluation calls and 59 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Nestor_notabilis
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 5 loop passes.
+196 likelihood evaluation calls and 177 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Nestor_notabilis
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+195 likelihood evaluation calls and 171 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Nestor_notabilis
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+194 likelihood evaluation calls and 174 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Athene_cunicularia
+Model MG94customModel assigned to Tyto_alba_alba
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Tyto_alba_alba.nonSynRate' was not initialized prior to being used
+Variable 't2.Tyto_alba_alba.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (2) of threads.
+Set GUI update interval to every 8064-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Tyto_alba_alba.nonSynRate = 0.1
+t2.Tyto_alba_alba.synRate = 0.1
+Optimization finished in 6 loop passes.
+178 likelihood evaluation calls and 163 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Athene_cunicularia
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 6 loop passes.
+182 likelihood evaluation calls and 165 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Athene_cunicularia
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9433-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 6 loop passes.
+206 likelihood evaluation calls and 190 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Athene_cunicularia
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (6) of threads.
+Set GUI update interval to every 9433-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+142 likelihood evaluation calls and 126 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tyto_alba_alba
+Model MG94customModel assigned to Calypte_anna
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Calypte_anna.nonSynRate' was not initialized prior to being used
+Variable 't2.Calypte_anna.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 8771-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Calypte_anna.nonSynRate = 0.1
+t2.Calypte_anna.synRate = 0.1
+Optimization finished in 8 loop passes.
+163 likelihood evaluation calls and 145 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tyto_alba_alba
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 7 loop passes.
+119 likelihood evaluation calls and 102 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Tyto_alba_alba
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (3) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 5 loop passes.
+54 likelihood evaluation calls and 46 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Calypte_anna
+Model MG94customModel assigned to Chaetura_pelagica
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Chaetura_pelagica.nonSynRate' was not initialized prior to being used
+Variable 't2.Chaetura_pelagica.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (4) of threads.
+Set GUI update interval to every 9090-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Chaetura_pelagica.nonSynRate = 0.1
+t2.Chaetura_pelagica.synRate = 0.1
+Optimization finished in 5 loop passes.
+140 likelihood evaluation calls and 123 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Calypte_anna
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Variable 't2.Antrostomus_carolinensis.nonSynRate' was not initialized prior to being used
+Variable 't2.Antrostomus_carolinensis.synRate' was not initialized prior to being used
+Auto-benchmarked an optimal number (5) of threads.
+Set GUI update interval to every 9259-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+62 likelihood evaluation calls and 56 matrix exponentiations calls were made
+
+Row and/or column partition is empty. All the data will be used by default.
+Model MG94customModel assigned to Chaetura_pelagica
+Model MG94customModel assigned to Antrostomus_carolinensis
+One branch tree supplied - hopefully this IS what you meant to do.
+Rooted tree. Removing one branch - the left root child has been promoted to be the new root
+Partition 0 reversible model flag computed as 1
+Auto-benchmarked an optimal number (6) of threads.
+Set GUI update interval to every 1106-th LF evaluation.
+Optimization settings:
+	OPTIMIZATION_METHOD = 4
+	OPTIMIZATION_PRECISION = 0.001
+	MAXIMUM_ITERATIONS_PER_VARIABLE = 5000
+
+Initial parameter values
+
+t2.Antrostomus_carolinensis.nonSynRate = 0.1
+t2.Antrostomus_carolinensis.synRate = 0.1
+Optimization finished in 6 loop passes.
+139 likelihood evaluation calls and 124 matrix exponentiations calls were made
