@@ -1,0 +1,389 @@
+Supplemental results for CODEML (seqf: Primates_duplicated.aln  treef: Primates_duplicated.nwk)
+
+
+TREE #  1
+
+Ancestral reconstruction by CODONML.
+
+((Callithrix_jacchus: 50.000000, Aotus_nancymaae: 0.256353): 0.000004, (Saimiri_boliviensis: 2.531607, Cebus_imitator: 0.000004): 0.000004, ((((((Mandrillus_leucophaeus: 2.854114, Cercocebus_atys: 0.000004): 0.000004, (Papio_anubis: 50.000000, Theropithecus_gelada: 1.603140): 0.606429): 0.000004, ((Macaca_mulatta: 50.000000, Macaca_fascicularis: 0.000004): 0.000004, Macaca_nemestrina: 0.188330): 0.000004): 0.000004, Chlorocebus_sabaeus: 0.000004): 0.000004, ((Rhinopithecus_roxellana: 0.000004, Rhinopithecus_bieti: 2.659875): 0.000004, (Piliocolobus_tephrosceles: 0.000004, Colobus_angolensis: 0.000004): 50.000000): 0.000004): 0.431841, ((Gorilla_gorilla: 0.000004, ((Pan_troglodytes: 0.000004, Pan_paniscus: 0.000004): 0.000004, Homo_sapiens: 0.000004): 0.000004): 0.000004, Pongo_abelii: 50.000000): 0.000004): 2.882815);
+
+((2, 1), (20, 3), ((((((12, 4), (15, 21)), ((10, 9), 11)), 5), ((19, 18), (16, 6))), ((7, ((14, 13), 8)), 17)));
+
+  22..23   23..2    23..1    22..24   24..20   24..3    22..25   25..26   26..27   27..28   28..29   29..30   30..12   30..4    29..31   31..15   31..21   28..32   32..33   33..10   33..9    32..11   27..5    26..34   34..35   35..19   35..18   34..36   36..16   36..6    25..37   37..38   38..7    38..39   39..40   40..14   40..13   39..8    37..17 
+
+tree with node labels for Rod Page's TreeView
+((2_Callithrix_jacchus, 1_Aotus_nancymaae) 23 , (20_Saimiri_boliviensis, 3_Cebus_imitator) 24 , ((((((12_Mandrillus_leucophaeus, 4_Cercocebus_atys) 30 , (15_Papio_anubis, 21_Theropithecus_gelada) 31 ) 29 , ((10_Macaca_mulatta, 9_Macaca_fascicularis) 33 , 11_Macaca_nemestrina) 32 ) 28 , 5_Chlorocebus_sabaeus) 27 , ((19_Rhinopithecus_roxellana, 18_Rhinopithecus_bieti) 35 , (16_Piliocolobus_tephrosceles, 6_Colobus_angolensis) 36 ) 34 ) 26 , ((7_Gorilla_gorilla, ((14_Pan_troglodytes, 13_Pan_paniscus) 40 , 8_Homo_sapiens) 39 ) 38 , 17_Pongo_abelii) 37 ) 25 ) 22 ;
+
+Nodes 22 to 40 are ancestral
+
+(1) Marginal reconstruction of ancestral sequences
+(eqn. 4 in Yang et al. 1995 Genetics 141:1641-1650).
+
+Prob of best state at each node, listed by site
+
+   site   Freq   Data: 
+
+   1      1   TCA (S) TCG (S) TCA (S) TCC (S) TCC (S) TCG (S) TCC (S) TCC (S) TCC (S) TCG (S) TCC (S) TCG (S) TCC (S) TCC (S) TCG (S) TCG (S) TTG (L) TCC (S) TCC (S) GCA (A) TCA (S) :  TCA S 1.000 (S 1.000) TCA S 1.000 (S 1.000) TCA S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCA S 0.996 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCG S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000) TCC S 1.000 (S 1.000)
+   2      1   ACA (T) TTT (F) ACA (T) CAA (Q) CAA (Q) TGT (C) CAA (Q) CAA (Q) CAA (Q) TGT (C) CAA (Q) TGT (C) CAA (Q) CAA (Q) TGT (C) TGT (C) TAT (Y) CGA (R) CAA (Q) AGT (S) ACA (T) :  ACA T 1.000 (T 1.000) ACA T 1.000 (T 1.000) ACA T 1.000 (T 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 0.999 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) TGT C 1.000 (C 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000) CAA Q 1.000 (Q 1.000)
+   3      1   TTC (F) TTG (L) TTC (F) GGG (G) GGG (G) TTG (L) GGG (G) GGG (G) GGG (G) TTG (L) GGG (G) TTG (L) GGG (G) GGG (G) TTG (L) TTG (L) TTG (L) CTC (L) GGG (G) CTG (L) ATC (I) :  TTC F 1.000 (F 1.000) TTC F 1.000 (F 1.000) TTC F 1.000 (F 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGC G 0.691 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) TTG L 1.000 (L 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000)
+   4      1   GGC (G) GGG (G) GGC (G) GAG (E) GAG (E) AGA (R) GGG (G) GGG (G) GAG (E) AGA (R) GGG (G) GAG (E) GGG (G) GGG (G) AGA (R) AGA (R) AGA (R) GGC (G) GAG (E) GGC (G) GAG (E) :  GGC G 1.000 (G 1.000) GGC G 1.000 (G 1.000) GGC G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) GAG E 0.997 (E 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) GAG E 1.000 (E 1.000) AGA R 1.000 (R 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000) GGG G 1.000 (G 1.000)
+   5      1   GCC (A) CCA (P) CCC (P) CCG (P) CCG (P) AGT (S) CCA (P) CCA (P) CCG (P) TTC (F) CCG (P) CTG (L) CCA (P) CCA (P) AGT (S) AGT (S) AGT (S) CCC (P) CCG (P) CCC (P) CCG (P) :  CCC P 1.000 (P 1.000) CCC P 1.000 (P 1.000) CCC P 1.000 (P 1.000) CCA P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 0.997 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) CCG P 1.000 (P 1.000) AGT S 1.000 (S 1.000) CCA P 1.000 (P 1.000) CCA P 1.000 (P 1.000) CCA P 1.000 (P 1.000) CCA P 1.000 (P 1.000)
+
+Summary of changes along branches.
+Check root of tree for directions of change.
+
+Branch 1:   22..23 (n= 0.0 s= 0.0)
+
+
+
+Branch 2:   23..2  (Callithrix_jacchus)  (n= 3.3 s= 3.7)
+
+	   1 TCA (S) 1.000 -> TCG (S)
+	   2 ACA (T) 1.000 -> TTT (F)
+	   3 TTC (F) 1.000 -> TTG (L)
+	   4 GGC (G) 1.000 -> GGG (G)
+	   5 CCC (P) 1.000 -> CCA (P)
+
+
+Branch 3:   23..1  (Aotus_nancymaae)  (n= 1.0 s= 0.0)
+
+	   5 CCC (P) 1.000 -> GCC (A)
+
+
+Branch 4:   22..24 (n= 0.0 s= 0.0)
+
+
+
+Branch 5:   24..20 (Saimiri_boliviensis)  (n= 3.5 s= 1.5)
+
+	   1 TCA (S) 1.000 -> GCA (A)
+	   2 ACA (T) 1.000 -> AGT (S)
+	   3 TTC (F) 1.000 -> CTG (L)
+
+
+Branch 6:   24..3  (Cebus_imitator)  (n= 0.0 s= 0.0)
+
+
+
+Branch 7:   22..25 (n= 4.5 s= 3.5)
+
+	   1 TCA (S) 1.000 -> TCC (S) 1.000
+	   2 ACA (T) 1.000 -> CAA (Q) 1.000
+	   3 TTC (F) 1.000 -> GGG (G) 1.000
+	   4 GGC (G) 1.000 -> GGG (G) 1.000
+	   5 CCC (P) 1.000 -> CCA (P) 1.000
+
+
+Branch 8:   25..26 (n= 1.0 s= 1.0)
+
+	   4 GGG (G) 1.000 -> GAG (E) 1.000
+	   5 CCA (P) 1.000 -> CCG (P) 1.000
+
+
+Branch 9:   26..27 (n= 0.0 s= 0.0)
+
+
+
+Branch 10:   27..28 (n= 0.0 s= 0.0)
+
+
+
+Branch 11:   28..29 (n= 0.0 s= 0.0)
+
+
+
+Branch 12:   29..30 (n= 0.0 s= 0.0)
+
+
+
+Branch 13:   30..12 (Mandrillus_leucophaeus)  (n= 5.7 s= 1.3)
+
+	   1 TCC (S) 1.000 -> TCG (S)
+	   2 CAA (Q) 1.000 -> TGT (C)
+	   3 GGG (G) 1.000 -> TTG (L)
+	   5 CCG (P) 1.000 -> CTG (L)
+
+
+Branch 14:   30..4  (Cercocebus_atys)  (n= 0.0 s= 0.0)
+
+
+
+Branch 15:   29..31 (n= 0.0 s= 2.0)
+
+	   1 TCC (S) 1.000 -> TCA (S) 1.000
+	   3 GGG (G) 1.000 -> GGC (G) 1.000
+
+
+Branch 16:   31..15 (Papio_anubis)  (n= 9.3 s= 3.7)
+
+	   1 TCA (S) 1.000 -> TCG (S)
+	   2 CAA (Q) 1.000 -> TGT (C)
+	   3 GGC (G) 1.000 -> TTG (L)
+	   4 GAG (E) 1.000 -> AGA (R)
+	   5 CCG (P) 1.000 -> AGT (S)
+
+
+Branch 17:   31..21 (Theropithecus_gelada)  (n= 4.0 s= 0.0)
+
+	   2 CAA (Q) 1.000 -> ACA (T)
+	   3 GGC (G) 1.000 -> ATC (I)
+
+
+Branch 18:   28..32 (n= 0.0 s= 0.0)
+
+
+
+Branch 19:   32..33 (n= 0.0 s= 0.0)
+
+
+
+Branch 20:   33..10 (Macaca_mulatta)  (n= 8.8 s= 3.2)
+
+	   1 TCC (S) 1.000 -> TCG (S)
+	   2 CAA (Q) 1.000 -> TGT (C)
+	   3 GGG (G) 1.000 -> TTG (L)
+	   4 GAG (E) 1.000 -> AGA (R)
+	   5 CCG (P) 1.000 -> TTC (F)
+
+
+Branch 21:   33..9  (Macaca_fascicularis)  (n= 0.0 s= 0.0)
+
+
+
+Branch 22:   32..11 (Macaca_nemestrina)  (n= 1.0 s= 0.0)
+
+	   4 GAG (E) 1.000 -> GGG (G)
+
+
+Branch 23:   27..5  (Chlorocebus_sabaeus)  (n= 0.0 s= 0.0)
+
+
+
+Branch 24:   26..34 (n= 0.0 s= 0.0)
+
+
+
+Branch 25:   34..35 (n= 0.0 s= 0.0)
+
+
+
+Branch 26:   35..19 (Rhinopithecus_roxellana)  (n= 0.0 s= 0.0)
+
+
+
+Branch 27:   35..18 (Rhinopithecus_bieti)  (n= 4.5 s= 2.5)
+
+	   2 CAA (Q) 1.000 -> CGA (R)
+	   3 GGG (G) 1.000 -> CTC (L)
+	   4 GAG (E) 1.000 -> GGC (G)
+	   5 CCG (P) 1.000 -> CCC (P)
+
+
+Branch 28:   34..36 (n= 8.8 s= 3.2)
+
+	   1 TCC (S) 1.000 -> TCG (S) 1.000
+	   2 CAA (Q) 1.000 -> TGT (C) 1.000
+	   3 GGG (G) 1.000 -> TTG (L) 1.000
+	   4 GAG (E) 1.000 -> AGA (R) 1.000
+	   5 CCG (P) 1.000 -> AGT (S) 1.000
+
+
+Branch 29:   36..16 (Piliocolobus_tephrosceles)  (n= 0.0 s= 0.0)
+
+
+
+Branch 30:   36..6  (Colobus_angolensis)  (n= 0.0 s= 0.0)
+
+
+
+Branch 31:   25..37 (n= 0.0 s= 0.0)
+
+
+
+Branch 32:   37..38 (n= 0.0 s= 0.0)
+
+
+
+Branch 33:   38..7  (Gorilla_gorilla)  (n= 0.0 s= 0.0)
+
+
+
+Branch 34:   38..39 (n= 0.0 s= 0.0)
+
+
+
+Branch 35:   39..40 (n= 0.0 s= 0.0)
+
+
+
+Branch 36:   40..14 (Pan_troglodytes)  (n= 0.0 s= 0.0)
+
+
+
+Branch 37:   40..13 (Pan_paniscus)  (n= 0.0 s= 0.0)
+
+
+
+Branch 38:   39..8  (Homo_sapiens)  (n= 0.0 s= 0.0)
+
+
+
+Branch 39:   37..17 (Pongo_abelii)  (n= 8.7 s= 2.3)
+
+	   1 TCC (S) 1.000 -> TTG (L)
+	   2 CAA (Q) 1.000 -> TAT (Y)
+	   3 GGG (G) 1.000 -> TTG (L)
+	   4 GGG (G) 1.000 -> AGA (R)
+	   5 CCA (P) 1.000 -> AGT (S)
+
+
+
+
+List of extant and reconstructed sequences
+
+    40     15
+
+Aotus_nancymaae   TCA ACA TTC GGC GCC 
+Callithrix_jacchus   TCG TTT TTG GGG CCA 
+Cebus_imitator    TCA ACA TTC GGC CCC 
+Cercocebus_atys   TCC CAA GGG GAG CCG 
+Chlorocebus_sabaeus   TCC CAA GGG GAG CCG 
+Colobus_angolensis   TCG TGT TTG AGA AGT 
+Gorilla_gorilla   TCC CAA GGG GGG CCA 
+Homo_sapiens      TCC CAA GGG GGG CCA 
+Macaca_fascicularis   TCC CAA GGG GAG CCG 
+Macaca_mulatta    TCG TGT TTG AGA TTC 
+Macaca_nemestrina   TCC CAA GGG GGG CCG 
+Mandrillus_leucophaeus   TCG TGT TTG GAG CTG 
+Pan_paniscus      TCC CAA GGG GGG CCA 
+Pan_troglodytes   TCC CAA GGG GGG CCA 
+Papio_anubis      TCG TGT TTG AGA AGT 
+Piliocolobus_tephrosceles   TCG TGT TTG AGA AGT 
+Pongo_abelii      TTG TAT TTG AGA AGT 
+Rhinopithecus_bieti   TCC CGA CTC GGC CCC 
+Rhinopithecus_roxellana   TCC CAA GGG GAG CCG 
+Saimiri_boliviensis   GCA AGT CTG GGC CCC 
+Theropithecus_gelada   TCA ACA ATC GAG CCG 
+node #22          TCA ACA TTC GGC CCC 
+node #23          TCA ACA TTC GGC CCC 
+node #24          TCA ACA TTC GGC CCC 
+node #25          TCC CAA GGG GGG CCA 
+node #26          TCC CAA GGG GAG CCG 
+node #27          TCC CAA GGG GAG CCG 
+node #28          TCC CAA GGG GAG CCG 
+node #29          TCC CAA GGG GAG CCG 
+node #30          TCC CAA GGG GAG CCG 
+node #31          TCA CAA GGC GAG CCG 
+node #32          TCC CAA GGG GAG CCG 
+node #33          TCC CAA GGG GAG CCG 
+node #34          TCC CAA GGG GAG CCG 
+node #35          TCC CAA GGG GAG CCG 
+node #36          TCG TGT TTG AGA AGT 
+node #37          TCC CAA GGG GGG CCA 
+node #38          TCC CAA GGG GGG CCA 
+node #39          TCC CAA GGG GGG CCA 
+node #40          TCC CAA GGG GGG CCA 
+
+
+Overall accuracy of the 19 ancestral sequences:
+  1.00000  1.00000  1.00000  0.99999  1.00000  1.00000  1.00000  1.00000  1.00000  0.93619  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000  1.00000
+for a site.
+
+  1.00000  0.99999  1.00000  0.99996  1.00000  1.00000  1.00000  1.00000  1.00000  0.68420  1.00000  1.00000  1.00000  1.00000  1.00000  0.99998  1.00000  1.00000  1.00000
+for the sequence.
+
+
+Amino acid sequences inferred by codonml.
+
+Node #22          STFGP
+Node #23          STFGP
+Node #24          STFGP
+Node #25          SQGGP
+Node #26          SQGEP
+Node #27          SQGEP
+Node #28          SQGEP
+Node #29          SQGEP
+Node #30          SQGEP
+Node #31          SQGEP
+Node #32          SQGEP
+Node #33          SQGEP
+Node #34          SQGEP
+Node #35          SQGEP
+Node #36          SCLRS
+Node #37          SQGGP
+Node #38          SQGGP
+Node #39          SQGGP
+Node #40          SQGGP
+
+
+Counts of changes at sites, listed by site
+
+   1  TCA.TCG  TCC.TCG  TCC.TCG  TCA.TCG  TCC.TTG  TCA.GCA  TCA.TCC  TCC.TCA  TCC.TCG (S N:   1.075  1.925 Sd Nd:    7.5   2.5)
+   2  ACA.TTT  CAA.TGT  CAA.TGT  CAA.TGT  CAA.TAT  CAA.CGA  ACA.AGT  CAA.ACA  ACA.CAA  CAA.TGT (S N:   0.456  2.544 Sd Nd:    2.5  21.5)
+   3  TTC.TTG  GGG.TTG  GGG.TTG  GGC.TTG  GGG.TTG  GGG.CTC  TTC.CTG  GGC.ATC  TTC.GGG  GGG.GGC  GGG.TTG (S N:   0.814  2.186 Sd Nd:    4.0  19.0)
+   4  GGC.GGG  GAG.AGA  GAG.GGG  GAG.AGA  GGG.AGA  GAG.GGC  GGC.GGG  GGG.GAG  GAG.AGA (S N:   0.723  2.277 Sd Nd:    6.5  10.5)
+   5  CCC.GCC  CCC.CCA  CCG.TTC  CCG.CTG  CCG.AGT  CCA.AGT  CCG.CCC  CCC.CCA  CCA.CCG  CCG.AGT (S N:   0.749  2.251 Sd Nd:    7.3  10.7)
+
+
+(2) Joint reconstruction of ancestral sequences
+(eqn. 2 in Yang et al. 1995 Genetics 141:1641-1650), using the algorithm of Pupko et al. (2000 Mol Biol Evol 17:890-896),
+modified to generate sub-optimal reconstructions.
+
+Reconstruction (prob.), listed by pattern (use the observed data to find the right site).
+
+Pattern Freq   Data:
+
+   1       1  ACA (T) TTT (F) ACA (T) CAA (Q) CAA (Q) TGT (C) CAA (Q) CAA (Q) CAA (Q) TGT (C) CAA (Q) TGT (C) CAA (Q) CAA (Q) TGT (C) TGT (C) TAT (Y) CGA (R) CAA (Q) AGT (S) ACA (T) : ACA ACA ACA CAA CAA CAA CAA CAA CAA CAA CAA CAA CAA CAA TGT CAA CAA CAA CAA  (0.999) ACA ACA ACA CAA CAA CAA CAA CAA CAA CAG CAA CAA CAA CAA TGT CAA CAA CAA CAA  (0.001) ACA ACA ACA CAA CAA CAA CAA CAA CAA CCA CAA CAA CAA CAA TGT CAA CAA CAA CAA  (0.000) ACA ACA ACA CAA CAA CAA CAA CAA CAA AAA CAA CAA CAA CAA TGT CAA CAA CAA CAA  (0.000) ACA TCA ACA CAA CAA CAA CAA CAA CAA CAA CAA CAA CAA CAA TGT CAA CAA CAA CAA  (0.000) AGA AGA AGA CAA CAA CAA CAA CAA CAA CAA CAA CAA CAA CAA TGT CAA CAA CAA CAA  (0.000)  (total  1.000)
+   2       1  GCC (A) CCA (P) CCC (P) CCG (P) CCG (P) AGT (S) CCA (P) CCA (P) CCG (P) TTC (F) CCG (P) CTG (L) CCA (P) CCA (P) AGT (S) AGT (S) AGT (S) CCC (P) CCG (P) CCC (P) CCG (P) : CCC CCC CCC CCA CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG AGT CCA CCA CCA CCA  (0.997) CCC CCC CCC CCA CCG CCG CCG CCG CCG CCC CCG CCG CCG CCG AGT CCA CCA CCA CCA  (0.002) CCC CCC CCC CCA CCG CCG CCG CCG CCG CCT CCG CCG CCG CCG AGT CCA CCA CCA CCA  (0.001) CCC CCC CCC CCA CCG CCG CCG CCG CCG CCA CCG CCG CCG CCG AGT CCA CCA CCA CCA  (0.000) CCC GCC CCC CCA CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG AGT CCA CCA CCA CCA  (0.000) GCC GCC CCC CCA CCG CCG CCG CCG CCG CCG CCG CCG CCG CCG AGT CCA CCA CCA CCA  (0.000)  (total  1.000)
+   3       1  GGC (G) GGG (G) GGC (G) GAG (E) GAG (E) AGA (R) GGG (G) GGG (G) GAG (E) AGA (R) GGG (G) GAG (E) GGG (G) GGG (G) AGA (R) AGA (R) AGA (R) GGC (G) GAG (E) GGC (G) GAG (E) : GGC GGC GGC GGG GAG GAG GAG GAG GAG GAG GAG GAG GAG GAG AGA GGG GGG GGG GGG  (0.997) GGC GGC GGC GGG GAG GAG GAG GAG GAG GAA GAG GAG GAG GAG AGA GGG GGG GGG GGG  (0.003) GGC GGC GGC GGG GAG GAG GAG GAG GAG GCG GAG GAG GAG GAG AGA GGG GGG GGG GGG  (0.000) GGC GGC GGC GGG GAG GAG GAG GAG GAG GGG GAG GAG GAG GAG AGA GGG GGG GGG GGG  (0.000) GGC CGC GGC GGG GAG GAG GAG GAG GAG GAG GAG GAG GAG GAG AGA GGG GGG GGG GGG  (0.000) GGC TGC GGC GGG GAG GAG GAG GAG GAG GAG GAG GAG GAG GAG AGA GGG GGG GGG GGG  (0.000)  (total  1.000)
+   4       1  TCA (S) TCG (S) TCA (S) TCC (S) TCC (S) TCG (S) TCC (S) TCC (S) TCC (S) TCG (S) TCC (S) TCG (S) TCC (S) TCC (S) TCG (S) TCG (S) TTG (L) TCC (S) TCC (S) GCA (A) TCA (S) : TCA TCA TCA TCC TCC TCC TCC TCC TCC TCA TCC TCC TCC TCC TCG TCC TCC TCC TCC  (0.996) TCA TCA TCA TCC TCC TCC TCC TCC TCC TCC TCC TCC TCC TCC TCG TCC TCC TCC TCC  (0.003) TCA TCA TCA TCC TCC TCC TCC TCC TCC TCG TCC TCC TCC TCC TCG TCC TCC TCC TCC  (0.001) TCA TCA TCA TCC TCC TCC TCC TCC TCC TCT TCC TCC TCC TCC TCG TCC TCC TCC TCC  (0.001) TCA GCA TCA TCC TCC TCC TCC TCC TCC TCA TCC TCC TCC TCC TCG TCC TCC TCC TCC  (0.000) GCA GCA GCA TCC TCC TCC TCC TCC TCC TCA TCC TCC TCC TCC TCG TCC TCC TCC TCC  (0.000)  (total  1.000)
+   5       1  TTC (F) TTG (L) TTC (F) GGG (G) GGG (G) TTG (L) GGG (G) GGG (G) GGG (G) TTG (L) GGG (G) TTG (L) GGG (G) GGG (G) TTG (L) TTG (L) TTG (L) CTC (L) GGG (G) CTG (L) ATC (I) : TTC TTC TTC GGG GGG GGG GGG GGG GGG GGC GGG GGG GGG GGG TTG GGG GGG GGG GGG  (0.691) TTC TTC TTC GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG TTG GGG GGG GGG GGG  (0.289) TTC TTC TTC GGG GGG GGG GGG GGG GGG GGA GGG GGG GGG GGG TTG GGG GGG GGG GGG  (0.018) TTC TTC TTC GGG GGG GGG GGG GGG GGG GGT GGG GGG GGG GGG TTG GGG GGG GGG GGG  (0.002) TTG TTG TTG GGG GGG GGG GGG GGG GGG GGC GGG GGG GGG GGG TTG GGG GGG GGG GGG  (0.000) TTG TTG TTG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG GGG TTG GGG GGG GGG GGG  (0.000)  (total  1.000)
+
+
+
+List of extant and reconstructed sequences
+
+    40     15
+
+Aotus_nancymaae   TCA ACA TTC GGC GCC 
+Callithrix_jacchus   TCG TTT TTG GGG CCA 
+Cebus_imitator    TCA ACA TTC GGC CCC 
+Cercocebus_atys   TCC CAA GGG GAG CCG 
+Chlorocebus_sabaeus   TCC CAA GGG GAG CCG 
+Colobus_angolensis   TCG TGT TTG AGA AGT 
+Gorilla_gorilla   TCC CAA GGG GGG CCA 
+Homo_sapiens      TCC CAA GGG GGG CCA 
+Macaca_fascicularis   TCC CAA GGG GAG CCG 
+Macaca_mulatta    TCG TGT TTG AGA TTC 
+Macaca_nemestrina   TCC CAA GGG GGG CCG 
+Mandrillus_leucophaeus   TCG TGT TTG GAG CTG 
+Pan_paniscus      TCC CAA GGG GGG CCA 
+Pan_troglodytes   TCC CAA GGG GGG CCA 
+Papio_anubis      TCG TGT TTG AGA AGT 
+Piliocolobus_tephrosceles   TCG TGT TTG AGA AGT 
+Pongo_abelii      TTG TAT TTG AGA AGT 
+Rhinopithecus_bieti   TCC CGA CTC GGC CCC 
+Rhinopithecus_roxellana   TCC CAA GGG GAG CCG 
+Saimiri_boliviensis   GCA AGT CTG GGC CCC 
+Theropithecus_gelada   TCA ACA ATC GAG CCG 
+node #22          TCA ACA TTC GGC CCC 
+node #23          TCA ACA TTC GGC CCC 
+node #24          TCA ACA TTC GGC CCC 
+node #25          TCC CAA GGG GGG CCA 
+node #26          TCC CAA GGG GAG CCG 
+node #27          TCC CAA GGG GAG CCG 
+node #28          TCC CAA GGG GAG CCG 
+node #29          TCC CAA GGG GAG CCG 
+node #30          TCC CAA GGG GAG CCG 
+node #31          TCA CAA GGC GAG CCG 
+node #32          TCC CAA GGG GAG CCG 
+node #33          TCC CAA GGG GAG CCG 
+node #34          TCC CAA GGG GAG CCG 
+node #35          TCC CAA GGG GAG CCG 
+node #36          TCG TGT TTG AGA AGT 
+node #37          TCC CAA GGG GGG CCA 
+node #38          TCC CAA GGG GGG CCA 
+node #39          TCC CAA GGG GGG CCA 
+node #40          TCC CAA GGG GGG CCA 
+
+
