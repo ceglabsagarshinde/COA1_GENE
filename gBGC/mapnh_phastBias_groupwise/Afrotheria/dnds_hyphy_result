@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/unrooted_branched_GBGC/gBGC/mapnh_phastBias_groupwise/Afrotheria/`) 
+
+A tree was found in the data file:
+(Trichechus_manatus:66.31683529,(Loxodonta_africana:25.885,(Mammuthus_primigenius:5.832,Elephas_maximus:5.832):20.053):40.43183529,Orycteropus_afer:100.26105042)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :408
+Synonymous  sites      :90.25240314272736
+Nonsynonymous  sites   :303.1609879306411
+
+Total tree lengths:
+	E[syn]        : 0.09808471056991325
+	E[non-syn]    : 0.1206618361989952
+	dS            : 0.443407161682313
+	dN            : 0.16238906432266
+
+
+E[Syn subs/nucleotide site] tree: 
+	(Trichechus_manatus:0.003472302506154134,(Loxodonta_africana:0.002522752911844145,(Mammuthus_primigenius:0,Elephas_maximus:0)Node4:0.005018238766215765)Node2:0.02125898729064828,Orycteropus_afer:0.06581242909505093)
+
+E[Non-syn subs/nucleotide site] tree: 
+	(Trichechus_manatus:0.0336109912921747,(Loxodonta_africana:0.002494046629494986,(Mammuthus_primigenius:0,Elephas_maximus:0.002490709473003914)Node4:0)Node2:0.04304153685868371,Orycteropus_afer:0.03902455194563787)
+
+dS tree: 
+	(Trichechus_manatus:0.01569708255048326,(Loxodonta_africana:0.0114044961928014,(Mammuthus_primigenius:0,Elephas_maximus:0)Node4:0.02268572741911545)Node2:0.09610455248341418,Orycteropus_afer:0.2975153030364987)
+
+dN tree: 
+	(Trichechus_manatus:0.04523433091049527,(Loxodonta_africana:0.003356536841299515,(Mammuthus_primigenius:0,Elephas_maximus:0.003352045630680196)Node4:0)Node2:0.05792614398776352,Orycteropus_afer:0.05252000695242155)
+
+Estimating pairwise dN/dS: total of 10 analyses

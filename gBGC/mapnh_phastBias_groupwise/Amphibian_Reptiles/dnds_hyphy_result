@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/unrooted_branched_GBGC/gBGC/mapnh_phastBias_groupwise/Amphibian_Reptiles/`) 
+
+A tree was found in the data file:
+(((((Pseudonaja_textilis:27.6,Notechis_scutatus:27.6):23.793106,(Pantherophis_guttatus:47.6,Thamnophis_sirtalis:47.6):3.793106):39.406894,Python_molurus:90.8):76.32419034,Anolis_carolinensis:167.12419034):10.87262926,((Lacerta_agilis:29.9814025,Zootoca_vivipara:29.9814025):15.5591185,Podarcis_muralis:45.540521):132.4562986,(((Crocodylus_porosus:44.34907143,Gavialis_gangeticus:44.34907143):36.0195859,(Alligator_sinensis:52.228286,Alligator_mississippiensis:52.228286):28.14037133):173.36555085,(Pelodiscus_sinensis:161.22384,(((Chrysemys_picta:28.93666667,Trachemys_scripta:28.93666667):51.52509133,(Chelonoidis_abingdonii:53.4,Gopherus_agassizii:53.4):27.061758):20.19096123,Chelonia_mydas:100.65271923):60.57112077):92.51036818):127.58292555)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :417
+Synonymous  sites      :97.85718382299348
+Nonsynonymous  sites   :303.3498288734999
+
+Total tree lengths:
+	E[syn]        : 0.6887703865719028
+	E[non-syn]    : 0.707739810461519
+	dS            : 2.935065571884934
+	dN            : 0.9728948984689383
+
+
+E[Syn subs/nucleotide site] tree: 
+	(((((Pseudonaja_textilis:0,Notechis_scutatus:0)Node4:0.003840064400139164,(Pantherophis_guttatus:0.008254114731141892,Thamnophis_sirtalis:0.01124462109222361)Node7:0.007351358936930105)Node3:0.03635479924220058,Python_molurus:0.03008143181099718)Node2:0.06817672338973634,Anolis_carolinensis:0.107937199269172)Node1:0,((Lacerta_agilis:0.01300657903241132,Zootoca_vivipara:0.01004442041769979)Node13:0.006860453735764841,Podarcis_muralis:0.008835399694345415)Node12:0.04694510254609022,(((Crocodylus_porosus:0.01296539372300516,Gavialis_gangeticus:0.01017175659559214)Node19:0,(Alligator_sinensis:0.00259082423556577,Alligator_mississippiensis:0.01037230456172681)Node22:0.007869069723511748)Node18:0.05796731028426255,(Pelodiscus_sinensis:0.0458954926052669,(((Chrysemys_picta:0,Trachemys_scripta:0)Node29:0.00482405311691059,(Chelonoidis_abingdonii:0.00978997424776133,Gopherus_agassizii:0.00480534477989498)Node32:0.002422585543473424)Node28:0,Chelonia_mydas:0.009890909076178737)Node27:0.0145867053090526)Node25:0.04625023469283698)Node17:0.08943615977801067)
+
+E[Non-syn subs/nucleotide site] tree: 
+	(((((Pseudonaja_textilis:0.002513117012307696,Notechis_scutatus:0)Node4:0.01095130175413418,(Pantherophis_guttatus:0,Thamnophis_sirtalis:0.01003867876070009)Node7:0.006819397359260278)Node3:0.01644742619359466,Python_molurus:0.02127777710460165)Node2:0.1336833742968041,Anolis_carolinensis:0.0778138699430916)Node1:0.005485496217838687,((Lacerta_agilis:0.01757908384640861,Zootoca_vivipara:0.007723253632812531)Node13:0.004373848416434888,Podarcis_muralis:0.005505282251288151)Node12:0.05079966747636158,(((Crocodylus_porosus:0.02221502948198302,Gavialis_gangeticus:0.007155640096803763)Node19:0.01525829333327722,(Alligator_sinensis:0.004789048152429505,Alligator_mississippiensis:0.007278334432846631)Node22:0.02811816433417945)Node18:0.0905772844391593,(Pelodiscus_sinensis:0.0227770248488771,(((Chrysemys_picta:0.004853598027837807,Trachemys_scripta:0.004844349714642564)Node29:0.002522533076757297,(Chelonoidis_abingdonii:0.002522118635686966,Gopherus_agassizii:0.01460041039251858)Node32:0)Node28:0.00719669459290967,Chelonia_mydas:0.004852612193724457)Node27:0)Node25:0.0346383782050971)Node17:0.06252872223714974)
+
+dS tree: 
+	(((((Pseudonaja_textilis:0,Notechis_scutatus:0)Node4:0.01636371283435374,(Pantherophis_guttatus:0.03517335885234632,Thamnophis_sirtalis:0.04791683974820733)Node7:0.03132643467693529)Node3:0.1549191453477687,Python_molurus:0.1281863689013946)Node2:0.2905222952761893,Anolis_carolinensis:0.4599540916348012)Node1:0,((Lacerta_agilis:0.05542509241146897,Zootoca_vivipara:0.04280241010978936)Node13:0.02923453441076582,Podarcis_muralis:0.03765039549070208)Node12:0.2000477327973118,(((Crocodylus_porosus:0.05524958895478425,Gavialis_gangeticus:0.04334502930346203)Node19:0,(Alligator_sinensis:0.01104031062435981,Alligator_mississippiensis:0.04419962677511448)Node22:0.03353256190817713)Node18:0.2470167998321009,(Pelodiscus_sinensis:0.1955750172722562,(((Chrysemys_picta:0,Trachemys_scripta:0)Node29:0.02055679584434397,(Chelonoidis_abingdonii:0.04171813557092402,Gopherus_agassizii:0.02047707378173464)Node32:0.01032339305263194)Node28:0,Chelonia_mydas:0.04214825037502661)Node27:0.06215850360947841)Node25:0.1970866840169716)Node17:0.3811153884715338)
+
+dN tree: 
+	(((((Pseudonaja_textilis:0.003454657607765864,Notechis_scutatus:0)Node4:0.01505421265089394,(Pantherophis_guttatus:0,Thamnophis_sirtalis:0.01379967497841443)Node7:0.009374288125929305)Node3:0.02260946296953104,Python_molurus:0.02924950736108362)Node2:0.1837679199911927,Anolis_carolinensis:0.1069668767797477)Node1:0.007540640228258131,((Lacerta_agilis:0.02416509675042302,Zootoca_vivipara:0.01061677462236463)Node13:0.006012513000012049,Podarcis_muralis:0.007567839109427986)Node12:0.06983178931172733,(((Crocodylus_porosus:0.03053790182901329,Gavialis_gangeticus:0.009836504379936502)Node19:0.02097482086475783,(Alligator_sinensis:0.006583267532996987,Alligator_mississippiensis:0.01000516621277772)Node22:0.03865264922315944)Node18:0.124512111153622,(Pelodiscus_sinensis:0.03131044905234651,(((Chrysemys_picta:0.006672001052792335,Trachemys_scripta:0.006659287854249459)Node29:0.003467601405657772,(Chelonoidis_abingdonii:0.003467031694024938,Gopherus_agassizii:0.02007046173815105)Node32:0)Node28:0.009892939964356437,Chelonia_mydas:0.006670645875415793)Node27:0)Node25:0.04761566461126596)Node17:0.08595514053764237)
+
+Estimating pairwise dN/dS: total of 171 analyses

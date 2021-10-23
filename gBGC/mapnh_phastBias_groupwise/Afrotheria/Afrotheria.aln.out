@@ -1,0 +1,196 @@
+
+Before deleting alignment gaps
+      5    408
+
+Trichechus_manatus              ATG CCA GTG CCT CTG GGA AAA CTG TTC CTT TTC ACT GGC GTG GTT ACT GGC GGG GGC AGC ACC CTT GTG TAT TAT CTT ACA CAA AAA ATG TTT TCC AAG ACT TCG TAT TAC CAG TCG GCA TTG GAG CAC CTG CGT AGT CAC CCC GAG GCA CTG GAA GCT CTG GGC CTT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACC GAC AGG TTC AAT TTC ATC GAC ATT ACT GAC GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC CAC CTC TAC GTC AGC TCA TCC AGG GGT GCC CCC TTT AAG AGG TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AGA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGT GAG GAG AAC AGT GAT GAC ACA AAG AAA GAG 
+Orycteropus_afer                ATG CCA ATG CCT CTG GGA AAA TTG TTT CTT TTC AGT GGT GTG GTG GCT AGC GGG ACC TGT ACC CTT ATG TAT TTC GTG ACA CAA AAA AAG TTT TCC AAG ACT TTG TAT TAC CAA CTG GCA TTG GAA CAC TTG CAT AGC CAC CTT GAG GCC CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTT CAT CTC ACC GAC AGG TTC AAC TTC ATT GAC ATT ACT AAT GCC CAG TTG AAG ATT CCT GTC TCT GGG TCT AAG GCC AAG GGC TAC CTC TAC GTC AGG TCA TCC AAG GAT GCC CCC TTT AAG AGG TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAG AGT GGT CAG AAG ATT CCC ATG TTC AAG TCC AAT GAG GAG AAC AGA AAT GAC ACA AAG AAG --- 
+Loxodonta_africana              ATG TCA AAG CCC CTG GGA AAA CTG TTT CTT TAC ACT GGC GTG TTT ACT AGT GGA ACC TGC ACC CTC ATG TAT TAT CTT ATA CAA AAA ATG TTT TCC AAG GCT TTG TAT TAC CAG TTG GCA TTG GAG CAC CTG TAT AGT CAT CCC GAG TCA CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACC GAC AGG TTC AAC TTC GTC GAC ATT ACT GAA GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC TAC CTC TAC GTC TTC TCG TCC AGG GAT GCC CCC TTT AAG AGC TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGC AAG GAG AAC GGT GGT GAC GCA AAG AAG GAG 
+Mammuthus_primigenius           ATG TCA AAG CCC CTG GGA AAA CTG TTT CTT TAC ACT GGC GTG TTT ACT AGT GGA ACC TGC ACC CTC ATG TAT TAT CTT ATA CAA AAA ATG TTT TCC AAG GCT TTG TAT TAC CAG TTG GCA TTG GAG CAC CTG TAT AGT CAT CCT GAG TCA CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACT GAC AGG TTC AAC TTC GTC GAC ATT ACT GAA GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC TAC CTC TAC GTC ATC TCG TCC AGG GAT GCC CCC TTT AAG AGC TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGC AAG GAG AAC GGT GGT GAC GCA AAG AAA GAG 
+Elephas_maximus                 ATG TCA AAG CCC CTG GGA AAA CTG TTT CTT TAC ACT GGC GTG TTT ACT AGT GGA ACC TGC ACC CTC ATG TAT TAT CTT ATA CAA AAA ATG TTT TCC AAG GCT TTG TAT TAC CAG TTG GCA TTG GAG CAC CTG TAT AGT CAT CCT GAG TCA CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACT GAC AGG TTC AAC TTC GTC GAC ATT ACT GAA GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC TAC CTC TAC GTC ATC TCG TCC AGG GAT GCC CCC TTT AAG AGG TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGC AAG GAG AAC GGT GGT GAC GCA AAG AAA GAG 
+
+
+
+After deleting gaps. 405 sites
+      5    405
+
+Trichechus_manatus              ATG CCA GTG CCT CTG GGA AAA CTG TTC CTT TTC ACT GGC GTG GTT ACT GGC GGG GGC AGC ACC CTT GTG TAT TAT CTT ACA CAA AAA ATG TTT TCC AAG ACT TCG TAT TAC CAG TCG GCA TTG GAG CAC CTG CGT AGT CAC CCC GAG GCA CTG GAA GCT CTG GGC CTT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACC GAC AGG TTC AAT TTC ATC GAC ATT ACT GAC GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC CAC CTC TAC GTC AGC TCA TCC AGG GGT GCC CCC TTT AAG AGG TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AGA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGT GAG GAG AAC AGT GAT GAC ACA AAG AAA 
+Orycteropus_afer                ATG CCA ATG CCT CTG GGA AAA TTG TTT CTT TTC AGT GGT GTG GTG GCT AGC GGG ACC TGT ACC CTT ATG TAT TTC GTG ACA CAA AAA AAG TTT TCC AAG ACT TTG TAT TAC CAA CTG GCA TTG GAA CAC TTG CAT AGC CAC CTT GAG GCC CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTT CAT CTC ACC GAC AGG TTC AAC TTC ATT GAC ATT ACT AAT GCC CAG TTG AAG ATT CCT GTC TCT GGG TCT AAG GCC AAG GGC TAC CTC TAC GTC AGG TCA TCC AAG GAT GCC CCC TTT AAG AGG TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAG AGT GGT CAG AAG ATT CCC ATG TTC AAG TCC AAT GAG GAG AAC AGA AAT GAC ACA AAG AAG 
+Loxodonta_africana              ATG TCA AAG CCC CTG GGA AAA CTG TTT CTT TAC ACT GGC GTG TTT ACT AGT GGA ACC TGC ACC CTC ATG TAT TAT CTT ATA CAA AAA ATG TTT TCC AAG GCT TTG TAT TAC CAG TTG GCA TTG GAG CAC CTG TAT AGT CAT CCC GAG TCA CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACC GAC AGG TTC AAC TTC GTC GAC ATT ACT GAA GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC TAC CTC TAC GTC TTC TCG TCC AGG GAT GCC CCC TTT AAG AGC TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGC AAG GAG AAC GGT GGT GAC GCA AAG AAG 
+Mammuthus_primigenius           ATG TCA AAG CCC CTG GGA AAA CTG TTT CTT TAC ACT GGC GTG TTT ACT AGT GGA ACC TGC ACC CTC ATG TAT TAT CTT ATA CAA AAA ATG TTT TCC AAG GCT TTG TAT TAC CAG TTG GCA TTG GAG CAC CTG TAT AGT CAT CCT GAG TCA CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACT GAC AGG TTC AAC TTC GTC GAC ATT ACT GAA GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC TAC CTC TAC GTC ATC TCG TCC AGG GAT GCC CCC TTT AAG AGC TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGC AAG GAG AAC GGT GGT GAC GCA AAG AAA 
+Elephas_maximus                 ATG TCA AAG CCC CTG GGA AAA CTG TTT CTT TAC ACT GGC GTG TTT ACT AGT GGA ACC TGC ACC CTC ATG TAT TAT CTT ATA CAA AAA ATG TTT TCC AAG GCT TTG TAT TAC CAG TTG GCA TTG GAG CAC CTG TAT AGT CAT CCT GAG TCA CTG GAA GCT CTG GGC CCT CCT GTC AAC ATT CAC TAT CTC CAC CTC ACT GAC AGG TTC AAC TTC GTC GAC ATT ACT GAA GCC CAG TTG AAG ATT CCT GTC TCT GGG TCC AAG GCC AAG GGC TAC CTC TAC GTC ATC TCG TCC AGG GAT GCC CCC TTT AAG AGG TGG AAC CTT CAG GAG GTC TTC TTA GAG CTC AAA GGA GGT CAG CAG ATT CCC ATG TTC AAG TCC AGC AAG GAG AAC GGT GGT GAC GCA AAG AAA 
+
+
+
+Printing out site pattern counts
+
+
+         5        270  P
+
+Trichechus_manatus              AAA AAA AAC AAG AAT ACA ACA ACC ACC ACT ACT ACT ACT AGA AGC AGC AGG AGG AGG AGT AGT AGT ATC ATG ATG ATT CAA CAC CAC CAC CAC CAG CAG CAG CCA CCC CCC CCT CCT CGT CTC CTC CTG CTG CTT CTT CTT CTT GAA GAC GAC GAG GAG GAG GAT GCA GCA GCC GCT GGA GGA GGC GGC GGC GGC GGG GGG GGT GGT GTC GTG GTG GTG GTT TAC TAT TAT TCA TCC TCC TCG TCG TCT TGG TTA TTC TTC TTC TTG TTT 
+Orycteropus_afer                ... ..G ... ... ..C ... ... ... ... ... ... .G. G.. .AG ..G T.T .A. ... ... .A. ..A ..C ..T .A. ... ... ... ... ... ..T T.. A.. ..A ... ... ... .TT ... ... .A. ... ..T ... T.. .C. ... ... G.G ... A.T ... ..A ... ... A.. ... ..C ... ... A.T ... AC. A.. ... ..T ... ... .A. ... ... A.. A.. ... ..G ... ... .TC ... ... ..T CT. .T. ... ... ... ... ... ..T ... ... 
+Loxodonta_africana              ... ..G ... ... ..C .T. G.. ... ... ... G.. ... ... .A. TT. T.. ... ..C ... ..C G.. ... G.. ... ... ... ... ... ..T ... T.. ... ... ... T.. ... ... ..C ... TA. ... ... ... ... .C. ..C ... ... ... ..A ... ... A.. ... .G. ... T.. ... ... ... ... AC. A.T ... ... ..A ... .A. ... ... AA. A.. ... T.. ... ... ... ..G ... ... .T. .T. ... ... ... .A. ... ..T ... ... 
+Mammuthus_primigenius           ... ... ... ... ..C .T. G.. ... ..T ... G.. ... ... .A. .T. T.. ... ..C ... ..C G.. ... G.. ... ... ... ... ... ..T ... T.. ... ... ... T.. ... ..T ..C ... TA. ... ... ... ... .C. ..C ... ... ... ..A ... ... A.. ... .G. ... T.. ... ... ... ... AC. A.T ... ... ..A ... .A. ... ... AA. A.. ... T.. ... ... ... ..G ... ... .T. .T. ... ... ... .A. ... ..T ... ... 
+Elephas_maximus                 ... ... ... ... ..C .T. G.. ... ..T ... G.. ... ... .A. .T. T.. ... ... ... ..C G.. ... G.. ... ... ... ... ... ..T ... T.. ... ... ... T.. ... ..T ..C ... TA. ... ... ... ... .C. ..C ... ... ... ..A ... ... A.. ... .G. ... T.. ... ... ... ... AC. A.T ... ... ..A ... .A. ... ... AA. A.. ... T.. ... ... ... ..G ... ... .T. .T. ... ... ... .A. ... ..T ... ... 
+
+    2    1    3    7    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    2    4    1    2    1    1
+    1    1    1    3    1    2    1    1    2    1    3    1    3    2    1
+    1    2    1    1    1    3    1    1    4    1    1    1    3    1    1
+    1    1    1    2    1    1    1    1    1    4    1    1    1    1    2
+    3    1    1    3    1    1    1    1    1    1    1    4    1    2    2
+
+
+CODONML (in paml version 4.9f, October 2017)  Afrotheria.aln
+Model: free dN/dS Ratios for branches for branches, 
+Codon frequency model: F3x4
+ns =   5  ls = 135
+
+Codon usage in sequences
+----------------------------------------------------------------------------------------------------------------------
+Phe TTT   2   3   4   4   4 | Ser TCT   1   2   1   1   1 | Tyr TAT   4   3   5   5   5 | Cys TGT   0   1   0   0   0
+    TTC   6   6   5   4   4 |     TCC   4   3   4   4   4 |     TAC   2   3   4   4   4 |     TGC   0   0   1   1   1
+Leu TTA   1   1   1   1   1 |     TCA   1   1   2   2   2 | *** TAA   0   0   0   0   0 | *** TGA   0   0   0   0   0
+    TTG   2   5   4   4   4 |     TCG   2   0   1   1   1 |     TAG   0   0   0   0   0 | Trp TGG   1   1   1   1   1
+----------------------------------------------------------------------------------------------------------------------
+Leu CTT   5   5   3   3   3 | Pro CCT   3   4   3   4   4 | His CAT   0   2   1   1   1 | Arg CGT   1   0   0   0   0
+    CTC   4   3   5   5   5 |     CCC   3   2   4   3   3 |     CAC   5   3   3   3   3 |     CGC   0   0   0   0   0
+    CTA   0   0   0   0   0 |     CCA   1   1   0   0   0 | Gln CAA   1   2   1   1   1 |     CGA   0   0   0   0   0
+    CTG   5   4   5   5   5 |     CCG   0   0   0   0   0 |     CAG   5   3   5   5   5 |     CGG   0   0   0   0   0
+----------------------------------------------------------------------------------------------------------------------
+Ile ATT   4   5   4   4   4 | Thr ACT   4   2   3   4   4 | Asn AAT   1   3   0   0   0 | Ser AGT   3   2   2   2   2
+    ATC   1   0   0   1   1 |     ACC   2   3   3   2   2 |     AAC   3   4   4   4   4 |     AGC   2   2   2   2   1
+    ATA   0   0   1   1   1 |     ACA   2   2   0   0   0 | Lys AAA   3   2   3   4   4 | Arg AGA   1   1   0   0   0
+Met ATG   3   4   4   4   4 |     ACG   0   0   0   0   0 |     AAG   7  12  10   9   9 |     AGG   3   3   2   2   3
+----------------------------------------------------------------------------------------------------------------------
+Val GTT   1   0   0   0   0 | Ala GCT   1   2   2   2   2 | Asp GAT   1   1   1   1   1 | Gly GGT   2   2   3   3   3
+    GTC   4   4   5   5   5 |     GCC   3   4   3   3   3 |     GAC   4   3   3   3   3 |     GGC   5   2   3   3   3
+    GTA   0   0   0   0   0 |     GCA   2   1   2   2   2 | Glu GAA   1   2   2   2   2 |     GGA   2   1   3   3   3
+    GTG   3   3   1   1   1 |     GCG   0   0   0   0   0 |     GAG   6   5   5   5   5 |     GGG   2   2   1   1   1
+----------------------------------------------------------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: Trichechus_manatus
+position  1:    T:0.19259    C:0.24444    A:0.28889    G:0.27407
+position  2:    T:0.30370    C:0.21481    A:0.31852    G:0.16296
+position  3:    T:0.24444    C:0.35556    A:0.11111    G:0.28889
+Average         T:0.24691    C:0.27160    A:0.23951    G:0.24198
+
+#2: Orycteropus_afer
+position  1:    T:0.21481    C:0.21481    A:0.33333    G:0.23704
+position  2:    T:0.31852    C:0.20000    A:0.35556    G:0.12593
+position  3:    T:0.27407    C:0.31111    A:0.10370    G:0.31111
+Average         T:0.26914    C:0.24198    A:0.26420    G:0.22469
+
+#3: Loxodonta_africana
+position  1:    T:0.24444    C:0.22222    A:0.28148    G:0.25185
+position  2:    T:0.31111    C:0.20741    A:0.34815    G:0.13333
+position  3:    T:0.23704    C:0.36296    A:0.11111    G:0.28889
+Average         T:0.26420    C:0.26420    A:0.24691    G:0.22469
+
+#4: Mammuthus_primigenius
+position  1:    T:0.23704    C:0.22222    A:0.28889    G:0.25185
+position  2:    T:0.31111    C:0.20741    A:0.34815    G:0.13333
+position  3:    T:0.25185    C:0.34815    A:0.11852    G:0.28148
+Average         T:0.26667    C:0.25926    A:0.25185    G:0.22222
+
+#5: Elephas_maximus
+position  1:    T:0.23704    C:0.22222    A:0.28889    G:0.25185
+position  2:    T:0.31111    C:0.20741    A:0.34815    G:0.13333
+position  3:    T:0.25185    C:0.34074    A:0.11852    G:0.28889
+Average         T:0.26667    C:0.25679    A:0.25185    G:0.22469
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      17 | Ser S TCT       6 | Tyr Y TAT      22 | Cys C TGT       1
+      TTC      25 |       TCC      19 |       TAC      17 |       TGC       3
+Leu L TTA       5 |       TCA       8 | *** * TAA       0 | *** * TGA       0
+      TTG      19 |       TCG       5 |       TAG       0 | Trp W TGG       5
+------------------------------------------------------------------------------
+Leu L CTT      19 | Pro P CCT      18 | His H CAT       5 | Arg R CGT       1
+      CTC      22 |       CCC      15 |       CAC      17 |       CGC       0
+      CTA       0 |       CCA       2 | Gln Q CAA       6 |       CGA       0
+      CTG      24 |       CCG       0 |       CAG      23 |       CGG       0
+------------------------------------------------------------------------------
+Ile I ATT      21 | Thr T ACT      17 | Asn N AAT       4 | Ser S AGT      11
+      ATC       3 |       ACC      12 |       AAC      19 |       AGC       9
+      ATA       3 |       ACA       4 | Lys K AAA      16 | Arg R AGA       2
+Met M ATG      19 |       ACG       0 |       AAG      47 |       AGG      13
+------------------------------------------------------------------------------
+Val V GTT       1 | Ala A GCT       9 | Asp D GAT       5 | Gly G GGT      13
+      GTC      23 |       GCC      16 |       GAC      16 |       GGC      16
+      GTA       0 |       GCA       9 | Glu E GAA       9 |       GGA      12
+      GTG       9 |       GCG       0 |       GAG      26 |       GGG       7
+------------------------------------------------------------------------------
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.22519    C:0.22519    A:0.29630    G:0.25333
+position  2:    T:0.31111    C:0.20741    A:0.34370    G:0.13778
+position  3:    T:0.25185    C:0.34370    A:0.11259    G:0.29185
+Average         T:0.26272    C:0.25877    A:0.25086    G:0.22765
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.01828022  0.02494712  0.00817233  0.02118355
+  0.01218681  0.01663141  0.00544822  0.01412236
+  0.02019529  0.02756063  0.00000000  0.00000000
+  0.00809553  0.01104801  0.00000000  0.00938129
+  0.01828022  0.02494712  0.00817233  0.02118355
+  0.01218681  0.01663141  0.00544822  0.01412236
+  0.02019529  0.02756063  0.00902848  0.02340278
+  0.00809553  0.01104801  0.00361918  0.00938129
+  0.02405292  0.03282516  0.01075307  0.02787309
+  0.01603528  0.02188344  0.00716871  0.01858206
+  0.02657275  0.03626399  0.01187958  0.03079313
+  0.01065201  0.01453686  0.00476207  0.01234380
+  0.02056525  0.02806551  0.00919387  0.02383149
+  0.01371016  0.01871034  0.00612925  0.01588766
+  0.02271970  0.03100571  0.01015704  0.02632812
+  0.00910747  0.01242901  0.00407157  0.01055395
+
+
+TREE #  1:  (1, (3, (4, 5)), 2);   MP score: 72
+lnL(ntime:  7  np: 15):   -894.302349      +0.000000
+   6..1     6..7     7..3     7..8     8..4     8..5     6..2  
+ 0.102083 0.206467 0.015283 0.015613 0.000004 0.007615 0.329810 4.766258 998.999998 0.664158 0.373098 0.000100 7.955247 738.627190 0.203087
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =  0.676874
+
+(1: 0.102083, (3: 0.015283, (4: 0.000004, 5: 0.007615): 0.015613): 0.206467, 2: 0.329810);
+
+(Trichechus_manatus: 0.102083, (Loxodonta_africana: 0.015283, (Mammuthus_primigenius: 0.000004, Elephas_maximus: 0.007615): 0.015613): 0.206467, Orycteropus_afer: 0.329810);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  4.76626
+
+w (dN/dS) for branches:  999.00000 0.66416 0.37310 0.00010 7.95525 738.62719 0.20309
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   6..1      0.102   293.9   111.1 999.0000  0.0469  0.0000  13.8   0.0
+   6..7      0.206   293.9   111.1  0.6642  0.0604  0.0910  17.8  10.1
+   7..3      0.015   293.9   111.1  0.3731  0.0035  0.0093   1.0   1.0
+   7..8      0.016   293.9   111.1  0.0001  0.0000  0.0190   0.0   2.1
+   8..4      0.000   293.9   111.1  7.9552  0.0000  0.0000   0.0   0.0
+   8..5      0.008   293.9   111.1 738.6272  0.0035  0.0000   1.0   0.0
+   6..2      0.330   293.9   111.1  0.2031  0.0529  0.2607  15.6  29.0
+
+tree length for dN:       0.1672
+tree length for dS:       0.3800
+
+dS tree:
+(Trichechus_manatus: 0.000047, (Loxodonta_africana: 0.009345, (Mammuthus_primigenius: 0.000000, Elephas_maximus: 0.000005): 0.018961): 0.090997, Orycteropus_afer: 0.260663);
+dN tree:
+(Trichechus_manatus: 0.046878, (Loxodonta_africana: 0.003487, (Mammuthus_primigenius: 0.000002, Elephas_maximus: 0.003497): 0.000002): 0.060437, Orycteropus_afer: 0.052937);
+
+w ratios as labels for TreeView:
+(Trichechus_manatus #999 , (Loxodonta_africana #0.373098 , (Mammuthus_primigenius #7.95525 , Elephas_maximus #738.627 ) #0.0001 ) #0.664158 , Orycteropus_afer #0.203087 );
+
+
+Time used:  0:12
