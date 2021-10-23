@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/unrooted_branched_GBGC/gBGC/mapnh_phastBias_groupwise/Birds_groups/Birds_group6/`) 
+
+A tree was found in the data file:
+((Phaethon_lepturus:78.78662878,(((Egretta_garzetta:64.92795196,Nipponia_nippon:64.92795196):1.520145,Pelecanus_crispus:66.44809696):6.61023321,Phalacrocorax_carbo:73.05833016):5.72829861):2.51337122,(((Fulmarus_glacialis:72.13472494,(Pygoscelis_adeliae:23.29648,Aptenodytes_forsteri:23.29648):48.83824494):2.67262246,Gavia_stellata:74.8073474):1.78399828,(Calidris_pugnax:67.84094143,Charadrius_vociferus:67.84094143):8.75040425):4.70865432,((Falco_peregrinus:2.49259067,Falco_cherrug:2.49259067):75.77886019,((Aquila_chrysaetos_chrysaetos:28.4222436,Buteo_japonicus:28.4222436):3.0607124,Haliaeetus_leucocephalus:31.482956):46.78849486):3.02854914)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :417
+Synonymous  sites      :97.22112312691181
+Nonsynonymous  sites   :304.5385436506381
+
+Total tree lengths:
+	E[syn]        : 0.3250259202129436
+	E[non-syn]    : 0.09328161872821542
+	dS            : 1.394098364322226
+	dN            : 0.1277291030007995
+
+
+E[Syn subs/nucleotide site] tree: 
+	((Phaethon_lepturus:0.02336071162088887,(((Egretta_garzetta:0.01797159160865366,Nipponia_nippon:0.01252675788707325)Node5:0,Pelecanus_crispus:0.01548702474234655)Node4:0,Phalacrocorax_carbo:0.02588915130147711)Node3:0)Node1:0,(((Fulmarus_glacialis:0.01774508800162356,(Pygoscelis_adeliae:0.004704469260120538,Aptenodytes_forsteri:0.002773959805598083)Node14:0.002444657004531703)Node12:0.002764313028363266,Gavia_stellata:0.03001733091124321)Node11:0,(Calidris_pugnax:0.05967961022593313,Charadrius_vociferus:0.0264302586759369)Node18:0)Node10:0,((Falco_peregrinus:0,Falco_cherrug:0)Node22:0.03907863242682935,((Aquila_chrysaetos_chrysaetos:0.007449657066266893,Buteo_japonicus:0.002488582514000948)Node26:0,Haliaeetus_leucocephalus:0.002487288486684551)Node25:0.009918669232923031)Node21:0.02180816641244906)
+
+E[Non-syn subs/nucleotide site] tree: 
+	((Phaethon_lepturus:0.004841249276116876,(((Egretta_garzetta:0.002409582969281302,Nipponia_nippon:0.00262614066825289)Node5:0,Pelecanus_crispus:0.007471228041006996)Node4:0,Phalacrocorax_carbo:0.002424087105222625)Node3:0)Node1:0,(((Fulmarus_glacialis:0.004872699470822634,(Pygoscelis_adeliae:0.002419335840035875,Aptenodytes_forsteri:0.002421458042275056)Node14:0.002430835767460328)Node12:0.002410147708209483,Gavia_stellata:0.007290137212768885)Node11:0,(Calidris_pugnax:0.01967128786150476,Charadrius_vociferus:0.002411700495607807)Node18:0)Node10:0,((Falco_peregrinus:0,Falco_cherrug:0)Node22:0.02234554153223658,((Aquila_chrysaetos_chrysaetos:0.002411903736995946,Buteo_japonicus:0.002412047458709431)Node26:0,Haliaeetus_leucocephalus:0)Node25:0.002412235541707945)Node21:0)
+
+dS tree: 
+	((Phaethon_lepturus:0.1001985621292842,(((Egretta_garzetta:0.07708359520827339,Nipponia_nippon:0.05372966152726517)Node5:0,Pelecanus_crispus:0.06642681250583955)Node4:0,Phalacrocorax_carbo:0.1110435237270734)Node3:0)Node1:0,(((Fulmarus_glacialis:0.07611207789707905,(Pygoscelis_adeliae:0.02017836883975709,Aptenodytes_forsteri:0.0118980443933403)Node14:0.01048560166867208)Node12:0.0118566675199044,Gavia_stellata:0.1287500759855295)Node11:0,(Calidris_pugnax:0.255977267735609,Charadrius_vociferus:0.1133644367950615)Node18:0)Node10:0,((Falco_peregrinus:0,Falco_cherrug:0)Node22:0.1676157320330009,((Aquila_chrysaetos_chrysaetos:0.03195300462203137,Buteo_japonicus:0.01067400658377231)Node26:0,Haliaeetus_leucocephalus:0.01066845625300486)Node25:0.04254307024132694)Node21:0.0935393986564011)
+
+dN tree: 
+	((Phaethon_lepturus:0.006629049065318557,(((Egretta_garzetta:0.003299405343393871,Nipponia_nippon:0.003595934509747106)Node5:0,Pelecanus_crispus:0.01023023902246664)Node4:0,Phalacrocorax_carbo:0.003319265636330944)Node3:0)Node1:0,(((Fulmarus_glacialis:0.006672113339006507,(Pygoscelis_adeliae:0.003312759801111782,Aptenodytes_forsteri:0.003315665700388538)Node14:0.003328506476979184)Node12:0.003300178631826358,Gavia_stellata:0.009982274103247998)Node11:0,(Calidris_pugnax:0.02693559554043758,Charadrius_vociferus:0.003302304840014455)Node18:0)Node10:0,((Falco_peregrinus:0,Falco_cherrug:0)Node22:0.03059741045334551,((Aquila_chrysaetos_chrysaetos:0.003302583135358742,Buteo_japonicus:0.003302779931316996)Node26:0,Haliaeetus_leucocephalus:0)Node25:0.00330303747050872)Node21:0)
+
+Estimating pairwise dN/dS: total of 120 analyses
