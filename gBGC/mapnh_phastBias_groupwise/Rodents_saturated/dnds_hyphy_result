@@ -1,0 +1,85 @@
+
+
+This example analysis fits the local MG94xREV model 
+(separate alpha and beta on each branch) to a codon dataset,
+and computes several distance measures between sequences:
+ - expected number of substitutions per codon
+ - expected number of syn. substitutions per codon
+ - expected number of nonsyn. substitutions per codon
+ - dS
+ - dN
+and provides the example contrasting the estimation of dN and dS
+between a pair of sequences based on the phylogenetic tree and
+direct pairwise estimation.
+
+
+			+-------------------+
+			|Choose Genetic Code|
+			+-------------------+
+
+
+	(1):[Universal] Universal code. (Genebank transl_table=1).
+	(2):[Vertebrate mtDNA] Vertebrate mitochondrial DNA code. (Genebank transl_table=2).
+	(3):[Yeast mtDNA] Yeast mitochondrial DNA code. (Genebank transl_table=3).
+	(4):[Mold/Protozoan mtDNA] Mold, Protozoan and Coelenterate mitochondrial DNA and the Mycloplasma/Spiroplasma code. (Genebank transl_table=4).
+	(5):[Invertebrate mtDNA] Invertebrate mitochondrial DNA code. (Genebank transl_table=5).
+	(6):[Ciliate Nuclear] Ciliate, Dasycladacean and Hexamita Nuclear code. (Genebank transl_table=6).
+	(7):[Echinoderm mtDNA] Echinoderm mitochondrial DNA code. (Genebank transl_table=9).
+	(8):[Euplotid Nuclear] Euplotid Nuclear code. (Genebank transl_table=10).
+	(9):[Alt. Yeast Nuclear] Alternative Yeast Nuclear code. (Genebank transl_table=12).
+	(10):[Ascidian mtDNA] Ascidian mitochondrial DNA code. (Genebank transl_table=13).
+	(11):[Flatworm mtDNA] Flatworm mitochondrial DNA code. (Genebank transl_table=14).
+	(12):[Blepharisma Nuclear] Blepharisma Nuclear code. (Genebank transl_table=15).
+	(13):[Chlorophycean mtDNA] Chlorophycean Mitochondrial Code (transl_table=16).
+	(14):[Trematode mtDNA] Trematode Mitochondrial Code (transl_table=21).
+	(15):[Scenedesmus obliquus mtDNA] Scenedesmus obliquus mitochondrial Code (transl_table=22).
+	(16):[Thraustochytrium mtDNA] Thraustochytrium Mitochondrial Code (transl_table=23).
+	(17):[Pterobranchia mtDNA] Pterobranchia Mitochondrial Code (transl_table=24).
+	(18):[SR1 and Gracilibacteria] Candidate Division SR1 and Gracilibacteria Code (transl_table=25).
+	(19):[Pachysolen Nuclear] Pachysolen tannophilus Nuclear Code (transl_table=26).
+
+Please choose an option (or press q to cancel selection):
+
+			+---------+
+			|Alignment|
+			+---------+
+
+
+	(1):[Flu H5N1 HA] Use the example Influenza H5N1 hemagglutinin alignment (5 sequences)
+	(2):[Drospophila adh] Use the example Drosophila ADH alignment (6 sequences).
+	(3):[Custom] Load your own alignment and tree.
+
+Please choose an option (or press q to cancel selection):
+Choose a nucleotide alignment (`/home/sagar/unrooted_branched_GBGC/gBGC/mapnh_phastBias_groupwise/Rodents_saturated/`) 
+
+A tree was found in the data file:
+(Oryctolagus_cuniculus:51.428351,Ochotona_princeps:51.428351,(((Heterocephalus_glaber:33.832859,Fukomys_damarensis:33.832859):9.52561392,((Cavia_porcellus:5.65679,Cavia_aperea:5.65679):30.1222095,(Octodon_degus:32.85536467,Chinchilla_lanigera:32.85536467):2.92363483):7.57947342):29.51823524,(Castor_canadensis:70.54492789,(Sciurus_vulgaris:34.7,((Urocitellus_parryii:7.8480075,Spermophilus_dauricus:7.8480075):3.4797025,(Ictidomys_tridecemlineatus:8.625255,Marmota_marmota:8.625255):2.702455):23.37229):35.84492789):2.33178026):39.97653862)
+
+Would you like to use it:(Y/N)?
+
+Fitting local MG94xREV to observed data... 
+
+Total nucleotide sites :546
+Synonymous  sites      :133.1095430267157
+Nonsynonymous  sites   :392.5228954673024
+
+Total tree lengths:
+	E[syn]        : 1.217212135112859
+	E[non-syn]    : 1.779523987655866
+	dS            : 4.992863852280172
+	dN            : 2.475320824542934
+
+
+E[Syn subs/nucleotide site] tree: 
+	(Oryctolagus_cuniculus:0.1382479464568699,Ochotona_princeps:0.1193720009252883,(((Heterocephalus_glaber:0.05114971799703456,Fukomys_damarensis:0.01802398592911537)Node5:0.01745599814546912,((Cavia_porcellus:0,Cavia_aperea:5.435889582009161e-18)Node9:0.07662367520189725,(Octodon_degus:0.05308176143599971,Chinchilla_lanigera:0.01303121118837818)Node12:0.006013078696782424)Node8:0.01731883806582148)Node4:0.117850455782856,(Castor_canadensis:0.3360702284666778,(Sciurus_vulgaris:0.03131976319610925,((Urocitellus_parryii:0.002894023212937016,Spermophilus_dauricus:0.004760630445092469)Node20:0,(Ictidomys_tridecemlineatus:0.002938337226070318,Marmota_marmota:0.008539290614894628)Node23:0)Node19:0.1607572932164327)Node17:0.04176389890912657)Node15:6.116946812340039e-15)Node3:0)
+
+E[Non-syn subs/nucleotide site] tree: 
+	(Oryctolagus_cuniculus:0.1916946953205101,Ochotona_princeps:0.08868684621180196,(((Heterocephalus_glaber:0.07228458764616962,Fukomys_damarensis:0.03815541147877193)Node5:0.03323716801065266,((Cavia_porcellus:0,Cavia_aperea:0.002592848006267962)Node9:0.04812288518397189,(Octodon_degus:0.05200794289444694,Chinchilla_lanigera:0.03796064139398137)Node12:0)Node8:0.02759288478548496)Node4:0.08009943625533017,(Castor_canadensis:0.6561732671351912,(Sciurus_vulgaris:0.03562663429638332,((Urocitellus_parryii:0.01739490779517163,Spermophilus_dauricus:0.002430235472841587)Node20:0,(Ictidomys_tridecemlineatus:0.004883015425175563,Marmota_marmota:0.03425113489959383)Node23:0)Node19:0.2881305972057564)Node17:0)Node15:0.02048411560259015)Node3:0.04771473263577306)
+
+dS tree: 
+	(Oryctolagus_cuniculus:0.567077138491123,Ochotona_princeps:0.4896501860285557,(((Heterocephalus_glaber:0.2098102464432294,Fukomys_damarensis:0.07393231239116972)Node5:0.07160249198296192,((Cavia_porcellus:0,Cavia_aperea:2.229739239042622e-17)Node9:0.3143014821397074,(Octodon_degus:0.2177352658947893,Chinchilla_lanigera:0.05345252599527339)Node12:0.02466495559814417)Node8:0.07103987714870787)Node4:0.483408983265195,(Castor_canadensis:1.378521333410167,(Sciurus_vulgaris:0.1284700579405,((Urocitellus_parryii:0.01187094958282946,Spermophilus_dauricus:0.01952755725785037)Node20:0,(Ictidomys_tridecemlineatus:0.01205272055597394,Marmota_marmota:0.03502718565262215)Node23:0)Node19:0.6594078839152481)Node17:0.1713106985860993)Node15:2.509101063375552e-14)Node3:0)
+
+dN tree: 
+	(Oryctolagus_cuniculus:0.2666476398030067,Ochotona_princeps:0.1233635504853692,(((Heterocephalus_glaber:0.1005479815586867,Fukomys_damarensis:0.05307424078436942)Node5:0.0462329559456948,((Cavia_porcellus:0,Cavia_aperea:0.00360665588624304)Node9:0.06693901327505468,(Octodon_degus:0.07234313500760742,Chinchilla_lanigera:0.05280331527270202)Node12:0)Node8:0.03838174859822867)Node4:0.1114184489629431,(Castor_canadensis:0.9127381051983979,(Sciurus_vulgaris:0.04955670752063348,((Urocitellus_parryii:0.02419634565483549,Spermophilus_dauricus:0.003380461581971693)Node20:0,(Ictidomys_tridecemlineatus:0.006792282572388058,Marmota_marmota:0.0476433855735074)Node23:0)Node19:0.4007901396096979)Node17:0)Node15:0.02849343884946933)Node3:0.06637127240212737)
+
+Estimating pairwise dN/dS: total of 91 analyses
