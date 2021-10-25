@@ -1,5 +1,0 @@
-## This folder contains all branch test results in a file named compiled_result.txt and an demo.ctl file as a control file for codeml used by the wrapper_script_branch_test.sh.
-## wrapper_script_branch_test.sh was run on each folder to generate the results except in case of duplicated gene species (folders named as speciesname_duplicated).
-## There are two files namely for_functional.sh and for_duplicate.sh which are used by the wrapper_script_branch_test.sh script for folder with species name and folders with species_duplicated name respectively.
-## In order to run branch test in duplicated gene species, please refer to the script in their respective input_files folders.
-## The script requires phytools package in R.

@@ -1,9 +1,0 @@
-     8
-Suricata_suricatta   
-Acinonyx_jubatus       0.3247
-Puma_concolor          0.3265  0.0121
-Felis_catus            0.3465  0.0498  0.0372
-Lynx_lynx              0.3273  0.0245  0.0122  0.0246
-Panthera_leo           0.3278  0.0371  0.0246  0.0502  0.0247
-Panthera_tigris        0.3091  0.0371  0.0246  0.0373  0.0247  0.0373
-Panthera_pardus        0.3255  0.0371  0.0247  0.0503  0.0247  0.0000  0.0374

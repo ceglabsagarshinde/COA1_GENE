@@ -1,6 +1,0 @@
-library(ape)
-a<-read.tree("Caniformia_duplicate.nwk")
-b<-read.table("Zalophus_californianus2.seq.fasta.list")
-c<-as.character(b$V1)
-d<-keep.tip(a,c)
-write.tree(d,file="Zalophus_californianus2.seq.nwk")

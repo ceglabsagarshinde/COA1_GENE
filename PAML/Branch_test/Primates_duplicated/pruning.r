@@ -1,6 +1,0 @@
-library(ape)
-a<-read.tree("Primates.nwk")
-b<-read.table("Theropithecus_gelada2.seq.fasta.list")
-c<-as.character(b$V1)
-d<-keep.tip(a,c)
-write.tree(d,file="Theropithecus_gelada2.seq.nwk")
