@@ -1,15 +1,14 @@
 echo -e "dir\tmdl\tfgspecies\tbgspecies\tom0\tlnlm0\tnpm0\tombnfg\tombnbg\tlnlbn\tnpbn\tombffg\tombfbg\tlnlbf\tnpbf" > compiled_result.txt
 for dir in `ls -d */|sed 's/\///g'`
 do
-cd $dir
-echo $dir
-
+cd "$dir"
+echo "$dir"
 ## For taking one species as a foregorund and rest as background
 echo -e "2\tF3x4" > cffile
 echo -e "1\tF1x4" >> cffile
 echo -e 'M0\t0\t0\t0.4\nbfree\t2\t0\t0.4\nbneutral\t2\t1\t1' > model_details
 
-## labelling foreground species in tree and running branch model using PAML. 
+## labelling foreground species in tree and running branch model using PAML.
 tree=`ls *.nwk`
 for i in `ls *.aln`
 do
@@ -30,19 +29,18 @@ OMG=`grep "$m" model_details|awk '{print $4}'`
 sed -i "s/mdl/$mdl/g" $x.ctl
 sed -i "s/FO/$FO/g" $x.ctl
 sed -i "s/OMG/$OMG/g" $x.ctl
-echo $x
-#codeml $x.ctl
+echo "$x"
+#codeml "$x".ctl
 done
 done
 done
 
 ls *.out|cut -f1,2 -d "_"|sort -u > speciesnames
 #for sp in `cat speciesnames`
-do
-
+#do
 for cf in F1x4 F3x4
 do
-for m0 in `ls */*M0.out`
+for m0 in `ls *M0.out`
 do
 mdl=`grep "Codon frequency model:" $m0|awk -F ":" '{print $2}'|awk '{print $1}'`
 om0=`grep "(dN/dS)" $m0|awk '{print $4}'`
@@ -50,7 +48,7 @@ lnlm0=`grep "lnL" $m0|awk '{print $5}'`
 npm0=`grep "lnL" $m0|awk '{print $4}'|cut -f1 -d ")"`
 echo "$mdl $om0 $lnlm0 $npm0"
 done
-for bfree in `ls */*bfree.out`
+for bfree in `ls *bfree.out`
 do
 ombffg=`grep "(dN/dS)" $bfree|awk '{print $6}'`
 ombfbg=`grep "(dN/dS)" $bfree|awk '{print $5}'`
@@ -58,7 +56,7 @@ lnlbf=`grep "lnL" $bfree|awk '{print $5}'`
 npbf=`grep "lnL" $bfree|awk '{print $4}'|cut -f1 -d ")"`
 echo "$ombffg $ombfbg $lnlbf $npbf"
 done
-for bneutral in `ls */*bneutral.out`
+for bneutral in `ls *bneutral.out`
 do
 ombnfg=`grep "(dN/dS)" $bneutral|awk '{print $6}'`
 ombnbg=`grep "(dN/dS)" $bneutral|awk '{print $5}'`
@@ -66,14 +64,13 @@ lnlbn=`grep "lnL" $bneutral|awk '{print $5}'`
 npbn=`grep "lnL" $bneutral|awk '{print $4}'|cut -f1 -d ")"`
 bgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep -v "#1"|awk '{print $1}'|tr '\n' ','|sed 's/,$/\n/g'`
 fgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep "#1"|awk '{print $1}'| sed -z 's/\n/,/g' |sed 's/,$//g'`
-echo -e "$dir\t$mdl\t$fgspecies\t$bgspecies\t$om0\t$lnlm0\t$npm0\t$ombnfg\t$ombnbg\t$lnlbn\t$npbn\t$ombffg\t$ombfbg\t$lnlbf\t$npbf" >> compiled_result.txt
+echo -e "$dir\t$mdl\t$fgspecies\t$bgspecies\t$om0\t$lnlm0\t$npm0\t$ombnfg\t$ombnbg\t$lnlbn\t$npbn\t$ombffg\t$ombfbg\t$lnlbf\t$npbf" >> ../compiled_result.txt
 done
 done
 cd ..
 done
 echo 'b<-read.table("compiled_result.txt",header=F,skip=1)' > likelihood.r
 echo 'd<-as.data.frame(matrix(ncol = 15, nrow = 0))' >> likelihood.r
-
 echo 'colnames(d)<-colnames(b)' >> likelihood.r
 echo 'l=dim(b)[1]' >> likelihood.r
 echo 'for (i in seq (1,l,1)){' >> likelihood.r
