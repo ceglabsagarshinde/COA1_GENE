@@ -1,0 +1,2 @@
+## Woolly mammoth dataset comparison
+The A to F folders contain bam files from different bio-project IDs of woolly mammoth generated to compare reads support for COA1 gene exon sequences. The script_fig5.sh is used for generating figures 5A to 5F. In the G folder, there are the output files for the GC Vs. kmer plot from 7 different project IDs of the woolly mammoth. The output files are used to generate the 5G plot. This folder also contains the getGC_script.sh with detailed information and other input files required to plot the 5G plot.
