@@ -1,7 +1,0 @@
-Fukomys_damarensis
-Cavia_porcellus
-Cavia_aperea
-Octodon_degus
-Chinchilla_lanigera
-Sciurus_vulgaris
-Ochotona_princeps
