@@ -1,2 +1,2 @@
 # MHY4 gene relax test
- We checked the relax test on MHY4 gene in two groups : We labelled the tree with human as foreground and the remaining primates as background in MYH4_Primate. In this study, we labelled the primate group as foreground and the rodent group as background. The labelled tree is kept in the MYH4.primate_rodent.
+We checked the relax test on the MHY4 gene in two groups: We labelled the human as foreground and the remaining primates as background. All required tree files, result file alignment files are provided in the MYH4_Primate folder. In the second study, we labelled the primate group as foreground and the rodent group as background. The labelled tree and relax result is kept in the MYH4.primate_rodent folder.
