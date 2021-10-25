@@ -39,7 +39,7 @@ sed -i "s/CF/$cfreq/g" "$file"_"$cm"_"$models".ctl
 sed -i "s/oooooo/$file.$cm.$models.out/g" "$file"_"$cm"_"$models".ctl
 ns=`grep "$models" nssitesdetails|cut -f2`
 sed -i "s/nnnnnn/$ns/g" "$file"_"$cm"_"$models".ctl
-#codeml "$file"_"$cm"_"$models".ctl
+codeml "$file"_"$cm"_"$models".ctl
 done
 done
 ##compiling the results in one file
