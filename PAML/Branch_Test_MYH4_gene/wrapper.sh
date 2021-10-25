@@ -30,7 +30,7 @@ sed -i "s/mdl/$mdl/g" $x.ctl
 sed -i "s/FO/$FO/g" $x.ctl
 sed -i "s/OMG/$OMG/g" $x.ctl
 echo "$x"
-#codeml "$x".ctl
+codeml "$x".ctl
 done
 done
 done
