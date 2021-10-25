@@ -1,2 +1,0 @@
-## Gene loss different groups
-Branch-free model from PAML was used with codon frequency models F1x4 and F3x4. The folders are the groups of species where gene loss was analyzed using PAML version 4.9f. The results of this study are provided in supplementary_tables_1.0. Each folder contains the associated alignment file (either .aln or MSA.PRANK.aln.With.Names), labelled newick tree file (.nwk), and the control files (*.ctl) to run the model.

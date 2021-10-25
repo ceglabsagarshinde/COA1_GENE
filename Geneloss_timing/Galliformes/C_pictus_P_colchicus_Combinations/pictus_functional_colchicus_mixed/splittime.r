@@ -1,7 +1,0 @@
-library(ape)
-library(reshape2)
-a<-read.tree("pictus_functional_colchicus_mixed.nwk")
-cophenetic(a)->v
-subset(melt(v), value!=0)->v1
-v1$value= round(v1$value/2,digit=2)
-write.table(v1,file="pairwise.txt",quote=F,sep="\t",row.names=F,col.names=F)

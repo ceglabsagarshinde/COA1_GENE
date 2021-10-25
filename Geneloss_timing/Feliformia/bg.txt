@@ -1,6 +1,0 @@
-Panthera_tigris
-Panthera_pardus
-Panthera_leo
-Lynx_lynx
-Puma_concolor
-Felis_catus

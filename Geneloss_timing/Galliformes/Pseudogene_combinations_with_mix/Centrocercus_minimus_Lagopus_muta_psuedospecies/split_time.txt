@@ -1,9 +1,0 @@
-Odontophorus_gujanensis	19.84
-Coturnix_japonica	42
-Meleagris_gallopavo	37.2
-Centrocercus_minimus	37.2
-Lagopus_muta	37.2
-Pavo_cristatus	34.08
-Gallus_gallus	34.08
-Syrmaticus_mikado	16.71
-Numida_meleagris	46.52
