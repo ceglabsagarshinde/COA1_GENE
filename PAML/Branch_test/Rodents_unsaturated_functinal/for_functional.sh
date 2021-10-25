@@ -28,7 +28,6 @@ done
 # made groupwise folder and do alignment
 #guidance=/Path/to/guidance.pl
 guidance=`locate guidance.pl|head -n1`
-#guidance=/home/nagarjun/guidance.v2.02/www/Guidance/guidance.pl
 for i in `ls *.fa`
 do
 j=`echo $i|sed 's/.fa//g'`
@@ -71,7 +70,7 @@ OMG=`grep "$m" model_details|awk '{print $4}'`
 sed -i "s/mdl/$mdl/g" $x.ctl
 sed -i "s/FO/$FO/g" $x.ctl
 sed -i "s/OMG/$OMG/g" $x.ctl
-#codeml $x.ctl
+codeml $x.ctl
 done
 done
 done
