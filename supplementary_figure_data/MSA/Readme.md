@@ -1,2 +1,2 @@
 # COA1 gene multiple sequence alignment 
-240 species COA1 gene fasta file provided (COA1_240.fa) and alingned output using Guidance PRANK (COA1_240.fa.PRANK.aln) 
+Two hundred forty species COA1 gene sequences file provided (COA1_240.fa) with aligned output file using Guidance PRANK (COA1_240.fa.PRANK.aln).
