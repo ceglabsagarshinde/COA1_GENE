@@ -1,0 +1,6 @@
+## This folder contains the input and script files for Tp estimation of Galliformes with multiple labels with all birds as background species.
+## The input files are control files, labelled tree, output files and script.
+## The name of the script is compiling_birds_multiple_label_tp_estimate.sh.
+## For estimation of Tp in other combination, please refer to wrapper_script.sh.
+## The output file is outfilecompile.
+
