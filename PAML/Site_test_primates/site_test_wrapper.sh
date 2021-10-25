@@ -1,19 +1,20 @@
 for i in 27primates
-do 
+do
 cd $i
 chmod 777 sitemodel.sh
-./sitemodel.sh
+bash sitemodel.sh
 cd -
 done
 
 for j in 9_primates_with_different_phylogeny
-do 
+do
+cp site_model_compare_trees.sh $j
 cd $j
 for i in `cat list.file`
-do 
+do
 cd $i
 chmod 777 site_model_compare_trees.sh
-./site_model_compare_trees.sh
+bash site_model_compare_trees.sh
 cd -
 done
 done
