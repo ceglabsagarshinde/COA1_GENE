@@ -9,6 +9,7 @@
 
 
 
+
 #making these two below files to tell the program which argument to select for nucleotide frequency model and codon models
 echo -e "2\tF3x4" > cffile
 echo -e "3\tF61" >> cffile
@@ -30,7 +31,7 @@ sed -i "s/CF/$cfreq/g" "$file"_"$cm"_"$models"."$tree".ctl
 sed -i "s/oooooo/$file.$cm.$models.$tree.out/g" "$file"_"$cm"_"$models"."$tree".ctl
 ns=`grep "$models" nssitesdetails|cut -f2`
 sed -i "s/nnnnnn/$ns/g" "$file"_"$cm"_"$models"."$tree".ctl
-codeml "$file"_"$cm"_"$models"."$tree".ctl
+#codeml "$file"_"$cm"_"$models"."$tree".ctl
 done
 done
 done
