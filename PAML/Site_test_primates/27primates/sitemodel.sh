@@ -6,6 +6,7 @@
 #cp "$seqfile".100_PRANK/MSA.PRANK.aln.With_Names .
 
 ###the below two files we need to give relevant input to the control file for CodeML
+echo $PWD
 echo -e "2\tF3x4" > cffile
 echo -e "3\tF61" >> cffile
 echo -e "M1vsM2\t1 2" > nssitesdetails
@@ -13,6 +14,18 @@ echo -e "M7vsM8\t7 8" >> nssitesdetails
 
 file=primates_27list.aln
 tree=primates_27list.nwk # the tree is species tree downloaded from timetree.org
+for i in "$tree"
+do
+echo 'library(ape)' > tree_script.r
+echo "a<-read.tree(\"$i\")" >> tree_script.r
+echo 'b<-unroot(a)' >> tree_script.r
+echo 'b$node.label<-NULL' >> tree_script.r
+echo "write.tree(b,\"$i.tree\")" >> tree_script.r
+Rscript tree_script.r
+mv $i.tree $i
+cat "$tree"
+done
+
 ##running the programs with on above mentioned files with two different codon models and comparing two different site models
 for cm in `echo F3x4 F61`
 do
@@ -26,11 +39,11 @@ sed -i "s/CF/$cfreq/g" "$file"_"$cm"_"$models".ctl
 sed -i "s/oooooo/$file.$cm.$models.out/g" "$file"_"$cm"_"$models".ctl
 ns=`grep "$models" nssitesdetails|cut -f2`
 sed -i "s/nnnnnn/$ns/g" "$file"_"$cm"_"$models".ctl
-codeml "$file"_"$cm"_"$models".ctl
+#codeml "$file"_"$cm"_"$models".ctl
 done
 done
 ##compiling the results in one file
-rm $tree.outresults_together.txt
+rm a.outresults_together.txt
 rm 2NG.t 2NG.dS 2NG.dN
 
 for ctl in `ls *ctl|grep -v "demo.ctl\|codeml.ctl"`
