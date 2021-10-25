@@ -1,1 +1,2 @@
+Based on cor value, we collected the top fifty coexpressed genes with the COA1 gene in a human obtained from the COXPRESdb online database.  The same 50 genes list was used to find orthologous genes in chicken. Out of 50 genes, two genes are primate-specific, which are not present in chicken, and two were not annotated in the chicken genome assembly. We extracted those two genes using blastn. 46 gene showed the RNA expression, provided the igv screenshot in this directory. 
 
