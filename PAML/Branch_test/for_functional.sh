@@ -28,7 +28,6 @@ done
 # made groupwise folder and do alignment
 #guidance=/Path/to/guidance.pl
 guidance=`locate guidance.pl|head -n1`
-#guidance=/home/nagarjun/guidance.v2.02/www/Guidance/guidance.pl
 for i in `ls *.fa`
 do
 j=`echo $i|sed 's/.fa//g'`
