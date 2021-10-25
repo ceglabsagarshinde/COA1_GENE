@@ -1,2 +1,2 @@
 ## Woolly mammoth TIMM21 data
-These are the bam files from the blastn result using a query as TIMM21 sequence provided in this folder. Their respective indexed files are also present. The result is available in the supplementary figure.
+We provided the Woolly mammoth TIMM21 gene alignment bam files obtained from the blastn results using a query as TIMM21 sequence provided in this folder. Their respective indexed files are also present. The results are shown in the supplementary figure.
