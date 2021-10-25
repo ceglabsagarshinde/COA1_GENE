@@ -36,7 +36,7 @@ done
 done
 done
 ##compiling the results in one file
-rm $tree.outresults_together.txt
+rm a.outresults_together.txt
 rm 2NG.t 2NG.dS 2NG.dN
 
 for ctl in `ls *ctl|grep -v "demo.ctl\|codeml.ctl"`
@@ -47,12 +47,12 @@ model=`grep "^NSsites =" $ctl|awk '{print "M"$3,"M"$4}' OFS='vs'`
 cminti=`grep "CodonFreq =" $ctl|awk '{print $3}'`
 cm=`grep "^$cminti" cffile|cut -f2`
 echo $outfile $tree
-j=`grep -n "BEB" $outfile |cut -f1 -d ':'` 
+j=`grep -n "BEB" $outfile |cut -f1 -d ':'`
 k=`expr $j - 3`
 m=`grep -n "NEB" $outfile |cut -f1 -d ':'`
 n=`expr $m + 5`
 o=`expr $k - $n`
-j1=`grep -n "^The grid" $outfile |cut -f1 -d ':'` 
+j1=`grep -n "^The grid" $outfile |cut -f1 -d ':'`
 k1=`expr $j1 - 3`
 m1=`grep -n "BEB" $outfile |cut -f1 -d ':'`
 n1=`expr $m1 + 5`
