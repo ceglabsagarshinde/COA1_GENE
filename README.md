@@ -19,7 +19,7 @@ Data is organised into the following folders:
 
 4.HYPHYMP_Relax: input and Output files kept in this folder, running the RELAX program implemented in the HYPHY package.
 
-5. PAML: Branch test and site test run using 4.9f version in different groups.
+5.PAML: Branch test and site test run using 4.9f version in different groups.
 
 6.Tree_files_used_main_figure:tree files used for main figure.
 
