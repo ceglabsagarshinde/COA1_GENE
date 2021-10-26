@@ -15,9 +15,9 @@ cp for_functional.sh $dir
 fi
 cd $dir
 echo $dir
-#cp input_files/*.fa input_files/*.nwk input_files/demo.ctl .
-#run_script=`ls *.sh`
-#bash $run_script
+cp input_files/*.fa input_files/*.nwk input_files/demo.ctl .
+run_script=`ls *.sh`
+bash $run_script
 ls *M0.out|sed 's/_F.*//g'|sort -u > speciesnames
 for sp in `cat speciesnames`
 do
