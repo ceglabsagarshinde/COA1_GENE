@@ -30,40 +30,39 @@ sed -i "s/mdl/$mdl/g" $x.ctl
 sed -i "s/FO/$FO/g" $x.ctl
 sed -i "s/OMG/$OMG/g" $x.ctl
 echo "$x"
-codeml "$x".ctl
+#codeml "$x".ctl
 done
 done
 done
 
-ls *.out|cut -f1,2 -d "_"|sort -u > speciesnames
-#for sp in `cat speciesnames`
-#do
+ls *.aln > speciesnames
+for sp in `cat speciesnames`
+do
 for cf in F1x4 F3x4
 do
-for m0 in `ls *M0.out`
+for m0 in `ls "$sp"*"$cf"*M0.out`
 do
 mdl=`grep "Codon frequency model:" $m0|awk -F ":" '{print $2}'|awk '{print $1}'`
 om0=`grep "(dN/dS)" $m0|awk '{print $4}'`
-lnlm0=`grep "lnL" $m0|awk '{print $5}'`
-npm0=`grep "lnL" $m0|awk '{print $4}'|cut -f1 -d ")"`
-echo "$mdl $om0 $lnlm0 $npm0"
+lnlm0=`grep "lnL" $m0|awk '{print $4}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
+npm0=`grep "lnL" $m0|awk '{print $3}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
 done
-for bfree in `ls *bfree.out`
+for bfree in `ls "$sp"*"$cf"*bfree.out`
 do
 ombffg=`grep "(dN/dS)" $bfree|awk '{print $6}'`
 ombfbg=`grep "(dN/dS)" $bfree|awk '{print $5}'`
-lnlbf=`grep "lnL" $bfree|awk '{print $5}'`
-npbf=`grep "lnL" $bfree|awk '{print $4}'|cut -f1 -d ")"`
-echo "$ombffg $ombfbg $lnlbf $npbf"
+lnlbf=`grep "lnL" $bfree|awk '{print $4}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
+npbf=`grep "lnL" $bfree|awk '{print $3}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
 done
-for bneutral in `ls *bneutral.out`
+for bneutral in `ls "$sp"*"$cf"*bneutral.out`
 do
 ombnfg=`grep "(dN/dS)" $bneutral|awk '{print $6}'`
 ombnbg=`grep "(dN/dS)" $bneutral|awk '{print $5}'`
-lnlbn=`grep "lnL" $bneutral|awk '{print $5}'`
-npbn=`grep "lnL" $bneutral|awk '{print $4}'|cut -f1 -d ")"`
+lnlbn=`grep "lnL" $bneutral|awk '{print $4}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
+npbn=`grep "lnL" $bneutral|awk '{print $3}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
 bgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep -v "#1"|awk '{print $1}'|tr '\n' ','|sed 's/,$/\n/g'`
-fgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep "#1"|awk '{print $1}'| sed -z 's/\n/,/g' |sed 's/,$//g'`
+fgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep "#1"|awk '{print $1}'|tr '\n' ','|sed 's/,$/\n/g' `
+done
 echo -e "$dir\t$mdl\t$fgspecies\t$bgspecies\t$om0\t$lnlm0\t$npm0\t$ombnfg\t$ombnbg\t$lnlbn\t$npbn\t$ombffg\t$ombfbg\t$lnlbf\t$npbf" >> ../compiled_result.txt
 done
 done
