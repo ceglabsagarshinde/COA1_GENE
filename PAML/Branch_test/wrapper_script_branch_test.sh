@@ -15,9 +15,9 @@ cp for_functional.sh $dir
 fi
 cd $dir
 echo $dir
-cp input_files/*.fa input_files/*.nwk input_files/demo.ctl .
-run_script=`ls *.sh`
-bash $run_script
+#cp input_files/*.fa input_files/*.nwk input_files/demo.ctl .
+#run_script=`ls *.sh`
+#bash $run_script
 ls *M0.out|sed 's/_F.*//g'|sort -u > speciesnames
 for sp in `cat speciesnames`
 do
@@ -43,8 +43,8 @@ ombnfg=`grep "(dN/dS)" $bneutral|awk '{print $6}'`
 ombnbg=`grep "(dN/dS)" $bneutral|awk '{print $5}'`
 lnlbn=`grep "lnL" $bneutral|awk '{print $4}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
 npbn=`grep "lnL" $bneutral|awk '{print $3}' FS=':'|awk '{print $1}' FS=')'|awk '{print $1}'`
-bgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep -v "#1"|awk '{print $1}'|tr '\n' ','|sed 's/,$/\n/g'`
-fgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|grep "#1$"|awk '{print $1}'`
+bgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|sed 's/#/\t/g'|awk '$2!=1{print $1}'|tr '\n' ','|sed 's/,$/\n/g'`
+fgspecies=`grep -A1 "w ratios as labels for TreeView" $bneutral|tail -n1|sed -e 's/(/\n/g' -e 's/)/\n/g' -e 's/,/\n/g'|grep "[A-Z]"|awk '{print $1"\t"$2}'|sed 's/#/\t/g'|awk '$2==1{print $1}'`
 done
 echo "$dir $mdl $fgspecies $bgspecies $om0 $lnlm0 $npm0 $ombnfg $ombnbg $lnlbn $npbn $ombffg $ombfbg $lnlbf $npbf" |sed 's/ /\t/g'  >> ../compiled_result.txt
 done
