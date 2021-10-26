@@ -13,7 +13,7 @@ Data is organised into the following folders:
 
 1.AlphaFold_model_comparision :The folder contains the input and results from files of the models compared from the AlphaFold website and the modeled structures from MODELLER (COA1). Its subdirectory "for_TIMM21" contains the input and result files of the models compared from the AlphaFold website and RCSB PDB website (TIM21).
 
-2.CLANS_Results: The folder CLANS results contain human_COA1.fa, which is used as an input for HHblits, outputs of HHblits, and CLANS. The required supplementary files are provided inside the folder.
+2.Figure1: The folder Figure1 contain human_COA1.fa, which is used as an input for HHblits, outputs of HHblits, and CLANS. The required supplementary files are provided inside the folder.
 
 3.Geneloss_timing:In this folder, three subfolders are available for inspecting the time of COA1 gene loss in few species of rodents, galliforms, and feliforms. The branch-free model is used in PAML with different combinations of labellings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labelling and unclear names readme provided inside those folders. All required files are provided in each folder/subfolders.   
 
