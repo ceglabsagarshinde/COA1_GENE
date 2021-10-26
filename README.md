@@ -11,21 +11,21 @@ The code and data provided in this project are part of the below manuscript. The
 
 Data is organised into the following folders:
 
-1.AlphaFold_model_comparision :The folder contains the input and results from files of the models compared from the AlphaFold website and the modeled structures from MODELLER (COA1). Its subdirectory "for_TIMM21" contains the input and result files of the models compared from the AlphaFold website and RCSB PDB website (TIM21).
+1.AlphaFold_model_comparision : The folder contains the input and results from files of the models compared from the AlphaFold website and the modeled structures from MODELLER (COA1). Its subdirectory "for_TIMM21" contains the input and result files of the models compared from the AlphaFold website and RCSB PDB website (TIM21).
 
 2.Figure1: The folder Figure1 contain human_COA1.fa, which is used as an input for HHblits, outputs of HHblits, and CLANS. The required supplementary files are provided inside the folder.
 
-3.Geneloss_timing:In this folder, three subfolders are available for inspecting the time of COA1 gene loss in few species of rodents, galliforms, and feliforms. The branch-free model is used in PAML with different combinations of labellings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labelling and unclear names readme provided inside those folders. All required files are provided in each folder/subfolders.   
+3.Geneloss_timing: In this folder, three subfolders are available for inspecting the time of COA1 gene loss in a few species of rodents, galliforms, and feliforms. The branch-free model is used in PAML with different combinations of labellings like pseudogene species, mixed species, and functional species with background species number variation. In combinations, folder name defines the labelling and unclear names readme provided inside those folders. All required files are provided in each folder/subfolders.
 
-4.HYPHYMP_Relax:input and Output files kept in this folder, running the RELAX program implemented in the HYPHY package.
+4.HYPHYMP_Relax: input and Output files kept in this folder, running the RELAX program implemented in the HYPHY package.
 
-5.PAML:Branch test and site test run using 4.9f version in different groups.
+5. PAML: Branch test and site test run using 4.9f version in different groups.
 
 6.Tree_files_used_main_figure:tree files used for main figure.
 
-7.gBGC:Inside this folder, calculated the GC* for the entire group as well as groups and in gBGC for groupwise. The input files, scripts, and results are provided inside respective folders.    
+7.gBGC: Inside this folder, calculated the GC* for the entire group and groups and in gBGC for groupwise. The input files, scripts, and results are provided inside respective folders.
 
-8.supplementary_figure_data:Inside this folder kept different supplementary data input and output. 
+8.supplementary_figure_data: Inside this folder kept different supplementary data input and output.
 
 # Prerequisites:
 
