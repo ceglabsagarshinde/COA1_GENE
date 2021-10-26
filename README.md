@@ -21,7 +21,7 @@ Data is organised into the following folders:
 
 5.PAML: Branch test and site test run using 4.9f version in different groups.
 
-6.Tree_files_used_main_figure:tree files used for main figure.
+6.Tree_files_for_main_figures:Tree files used for main figures provided in *nwk format.
 
 7.gBGC: Inside this folder, calculated the GC* for the entire group and groups and in gBGC for groupwise. The input files, scripts, and results are provided inside respective folders.
 
