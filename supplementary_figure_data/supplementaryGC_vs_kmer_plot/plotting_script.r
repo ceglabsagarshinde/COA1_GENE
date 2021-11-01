@@ -16,7 +16,7 @@ R[order(R$V1), ]->R1
 
 jpeg("1final.jpeg",width=2100,height=1300)
 par(mfrow=c(2,1),mai=c(3,3,0.5,0.5),mgp=c(7,0.5,0.2))
-plot(M1$V1,M1$V2/sum(M1$V2),type="l",ylim=c(0,0.3),xlab="GC percentage",ylab="Kmer abundance",cex.lab=4,cex.axis=2,lwd=5,lty=1,col="black")
+plot(M1$V1,M1$V2/sum(M1$V2),type="l",ylim=c(0,0.3),xlab="GC percentage",ylab="k-mer abundance",cex.lab=4,cex.axis=2,lwd=5,lty=1,col="black")
 lines(N1$V1,N1$V2/sum(N1$V2),lty=1,ylim=c(0,0.3),xlab="GC percent",ylab="Kmer abundance",cex.lab=4,cex.axis=2,lwd=5,col="red")
 lines(O1$V1,O1$V2/sum(O1$V2),lty=2,ylim=c(0,0.3),xlab="GC percent",ylab="Kmer abundance",cex.lab=4,cex.axis=2,lwd=5,col="red")
 lines(P1$V1,P1$V2/sum(P1$V2),lty=1,ylim=c(0,0.3),xlab="GC percent",ylab="Kmer abundance",cex.lab=4,cex.axis=2,lwd=5,col="orange")

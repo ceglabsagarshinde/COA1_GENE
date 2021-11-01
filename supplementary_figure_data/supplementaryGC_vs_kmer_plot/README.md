@@ -1,3 +1,4 @@
-## GC Vs. kmer abundance plot with different species using a variety of sequencing platforms
+## GC Vs. kmer abundance plot across variety of sequecing plateforms used for different species.
 
-The database fasta file is given as an input to get_GC.sh script which generates file with extension .counts. These output files are used for plotting. The all_gc_input.txt is taken from the supplementary table S20, where all the species' exonwise GC content was provided. This folder also contains the plotting_script.r, used to generate the figure "1final.jpeg".
+The input file with extension .counts is generated from get_GC.sh script provided earlier and the all_gc_input.txt is taken from the supplementary table S20 where the exonwise GC content of all the species is provided.
+This folder also contains the plotting_script.r, which is used to generate the figure "1final.jpeg".
