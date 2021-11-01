@@ -2,6 +2,7 @@
  used
 
 #Genome digester refer HICUP documents  
+e.g hicup_digester --genome name --re1 A^AGCTT,HindIII *.fa
 
 #run Hicup
 hicup --config hicup_cheetah.conf
