@@ -1,8 +1,8 @@
 #Genome index using bowtie2-build
- used
+ example: bowtie2-build Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.1.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.2.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.3.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.4.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.5.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.6.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.7.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.8.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.9.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.10.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.11.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.12.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.13.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.14.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.15.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.16.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.17.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.18.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.19.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.20.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.21.fa,,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.X.fa,Oryctolagus_cuniculus.OryCun2.0.dna_sm.chromosome.MT.fa Oryctolagus_cuniculus
 
 #Genome digester refer HICUP documents  
-e.g hicup_digester --genome name --re1 A^AGCTT,HindIII *.fa
+e.g hicup_digester --genome Oryctolagus_cuniculus --re1 A^AGCTT,HindIII *.fa
 
 #run Hicup
 hicup --config hicup_cheetah.conf
