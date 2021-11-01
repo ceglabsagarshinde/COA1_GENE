@@ -1,0 +1,28 @@
+#Genome index using bowtie2-build
+ used
+
+#Genome digester refer HICUP documents  
+
+#run Hicup
+hicup --config hicup_cheetah.conf
+hicup --config hicup_chicken.conf
+hicup --config hicup_DOG.conf
+hicup --config hicup_Human.conf
+hicup --config hicup_Macaca_mulatta.conf
+hicup --config hicup_mouse.conf
+hicup --config hicup_Naked_mole_rat.conf
+hicup --config hicup_rabbit.conf
+
+#hicup paired bam file to prejuicer file
+for i in *bam
+do
+hicup2juicer $i
+done
+
+#prejuicer file to hic file
+for i in *prejuicer
+do
+java -Xmx4096m -jar juicer_tools.jar pre $i $i.hic chromosomesize
+done
+
+
