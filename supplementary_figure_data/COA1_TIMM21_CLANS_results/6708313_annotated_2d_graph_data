@@ -1,0 +1,625 @@
+ID	NAME	X	Y
+0	UniRef100_A0A034W4D8 Cytochrome c oxidase assembly protein 1-like protein n=1 Tax=Bactrocera dorsalis TaxID=27457 RepID=A0A034W4D8_BACDO	0.25034872	0.3631667
+1	UniRef100_A0A023BXU8 Uncharacterized protein n=1 Tax=Aquimarina atlantica TaxID=1317122 RepID=A0A023BXU8_9FLAO	0.41670963	0.48769537
+2	UniRef100_A0A023XYT3 Membrane protein n=1 Tax=Stenotrophomonas rhizophila TaxID=216778 RepID=A0A023XYT3_9GAMM	0.4027613	0.49577475
+3	UniRef100_A0A090KKT4 Uncultured bacterium genome assembly Metasoil_fosmids_resub n=1 Tax=uncultured bacterium TaxID=77133 RepID=A0A090KKT4_9BACT	0.40002844	0.45279583
+4	UniRef100_A0A085W5P7 Uncharacterized protein n=1 Tax=Hyalangium minutum TaxID=394096 RepID=A0A085W5P7_9DELT	0.4434817	0.45540413
+5	UniRef100_A0A452SHD8 Uncharacterized protein n=1 Tax=Ursus americanus TaxID=9643 RepID=A0A452SHD8_URSAM	0.23958091	0.38856605
+6	UniRef100_A0A2U4BSU7 cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Tursiops truncatus TaxID=9739 RepID=A0A2U4BSU7_TURTR	0.25041023	0.3976659
+7	UniRef100_A0A2V8SFA3 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8SFA3_9BACT	0.43576416	0.5014934
+8	UniRef100_A0A1T4Y307 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Prosthecobacter debontii TaxID=48467 RepID=A0A1T4Y307_9BACT	0.39689124	0.53441125
+9	UniRef100_A0A1Q6VN12 Uncharacterized protein n=1 Tax=Verrucomicrobia bacterium 13_2_20CM_54_12 TaxID=1805419 RepID=A0A1Q6VN12_9BACT	0.40192452	0.4613875
+10	UniRef100_UPI0013A62248 cytochrome c oxidase assembly factor 1 homolog isoform X4 n=1 Tax=Camelus ferus TaxID=419612 RepID=UPI0013A62248	0.25741002	0.3952481
+11	UniRef100_A0A0S2DP03 Uncharacterized protein n=1 Tax=Lysobacter enzymogenes TaxID=69 RepID=A0A0S2DP03_LYSEN	0.37976125	0.48143524
+12	UniRef100_A0A023EE92 Putative cytochrome oxidase complex assembly protein 1 n=1 Tax=Aedes albopictus TaxID=7160 RepID=A0A023EE92_AEDAL	0.2754091	0.37464914
+13	UniRef100_A0A023FP12 TIM21-like protein, mitochondrial n=1 Tax=Amblyomma cajennense TaxID=34607 RepID=A0A023FP12_AMBCJ	0.5924137	0.15503378
+14	UniRef100_UPI000328F002 cytochrome c oxidase assembly factor 1 homolog isoform X3 n=1 Tax=Dasypus novemcinctus TaxID=9361 RepID=UPI000328F002	0.25527728	0.39043897
+15	UniRef100_A0A023FN96 Putative cytochrome oxidase complex assembly protein 1 n=1 Tax=Amblyomma cajennense TaxID=34607 RepID=A0A023FN96_AMBCJ	0.26015395	0.36590096
+16	UniRef100_A0A023EK46 TIM21-like protein, mitochondrial n=1 Tax=Aedes albopictus TaxID=7160 RepID=A0A023EK46_AEDAL	0.59992266	0.15621369
+17	UniRef100_A0A0B6YXQ7 Uncharacterized protein n=1 Tax=Arion vulgaris TaxID=1028688 RepID=A0A0B6YXQ7_9EUPU	0.25518012	0.37709078
+18	UniRef100_A0A287BMR0 Cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Sus scrofa TaxID=9823 RepID=A0A287BMR0_PIG	0.2489447	0.40237948
+19	UniRef100_A0A2V6JL90 Uncharacterized protein (Fragment) n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V6JL90_9BACT	0.39691886	0.49706134
+20	UniRef100_S7NZF3 Uncharacterized protein n=1 Tax=Myotis brandtii TaxID=109478 RepID=S7NZF3_MYOBR	0.24571952	0.40471715
+21	UniRef100_A0A060XGW1 Uncharacterized protein n=1 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A060XGW1_ONCMY	0.22755148	0.39901644
+22	UniRef100_A0A087QX22 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Aptenodytes forsteri TaxID=9233 RepID=A0A087QX22_APTFO	0.6013756	0.15051374
+23	UniRef100_A0A0L8G8H2 TIM21-like protein, mitochondrial n=2 Tax=Octopus bimaculoides TaxID=37653 RepID=A0A0L8G8H2_OCTBM	0.6003987	0.1482412
+24	UniRef100_A0A034WFX5 TIM21-like protein, mitochondrial n=1 Tax=Bactrocera dorsalis TaxID=27457 RepID=A0A034WFX5_BACDO	0.6039835	0.15196382
+25	UniRef100_A0A091E743 TIM21-like protein, mitochondrial n=1 Tax=Fukomys damarensis TaxID=885580 RepID=A0A091E743_FUKDA	0.5926974	0.158858
+26	UniRef100_A0A068S3J2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Lichtheimia corymbifera JMRC:FSU:9682 TaxID=1263082 RepID=A0A068S3J2_9FUNG	0.5983862	0.134582
+27	UniRef100_UPI0007A6BAC4 cytochrome c oxidase assembly factor 1 homolog isoform X1 n=1 Tax=Miniopterus natalensis TaxID=291302 RepID=UPI0007A6BAC4	0.24085598	0.3970847
+28	UniRef100_A0A022PFK5 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Photorhabdus luminescens BA1 TaxID=1393736 RepID=A0A022PFK5_PHOLU	0.3876667	0.50046825
+29	UniRef100_A0A066UXU3 Uncharacterized protein n=1 Tax=Vibrio fortis TaxID=212667 RepID=A0A066UXU3_9VIBR	0.36429572	0.598915
+30	UniRef100_A0A0M4ESW4 CG31913 n=1 Tax=Drosophila busckii TaxID=30019 RepID=A0A0M4ESW4_DROBS	0.27651742	0.3813591
+31	UniRef100_A0A384D402 cytochrome c oxidase assembly factor 1 homolog isoform X2 n=2 Tax=Ursus TaxID=9639 RepID=A0A384D402_URSMA	0.23962644	0.3920166
+32	UniRef100_A0A673TLF4 Uncharacterized protein n=3 Tax=Suricata suricatta TaxID=37032 RepID=A0A673TLF4_SURSU	0.24054782	0.40260044
+33	UniRef100_A0A010RPW4 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Colletotrichum fioriniae PJ7 TaxID=1445577 RepID=A0A010RPW4_9PEZI	0.6024031	0.11782745
+34	UniRef100_A0A5G2R7X8 Cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Sus scrofa TaxID=9823 RepID=A0A5G2R7X8_PIG	0.25257614	0.40251845
+35	UniRef100_K1ZP17 Uncharacterized protein n=1 Tax=uncultured bacterium TaxID=77133 RepID=K1ZP17_9BACT	0.40912732	0.47728226
+36	UniRef100_UPI000788FB3E cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Rousettus aegyptiacus TaxID=9407 RepID=UPI000788FB3E	0.2356899	0.40491262
+37	UniRef100_A0A150V0M7 Mitochondrial import inner membrane translocase subunit TIM21 (Fragment) n=1 Tax=Acidomyces richmondensis BFW TaxID=766039 RepID=A0A150V0M7_9PEZI	0.5849056	0.1046202
+38	UniRef100_UPI00064A671F cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Sorex araneus TaxID=42254 RepID=UPI00064A671F	0.24478385	0.3932752
+39	UniRef100_A0A0Q5H3W7 Uncharacterized protein n=1 Tax=Xanthomonas sp. Leaf131 TaxID=1736270 RepID=A0A0Q5H3W7_9XANT	0.40164843	0.51256955
+40	UniRef100_A0A480TTA0 Cytochrome c oxidase assembly factor 1 homolog isoform X1 (Fragment) n=1 Tax=Sus scrofa TaxID=9823 RepID=A0A480TTA0_PIG	0.24292476	0.40857035
+41	UniRef100_A0A0C4DYR2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Magnaporthiopsis poae (strain ATCC 64411 / 73-15) TaxID=644358 RepID=A0A0C4DYR2_MAGP6	0.60403734	0.12270412
+42	UniRef100_A0A060W0Y5 TIM21-like protein, mitochondrial n=1 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A060W0Y5_ONCMY	0.6039928	0.15465921
+43	UniRef100_A0A508B2Z3 Uncharacterized protein n=2 Tax=Lysobacter maris TaxID=1605891 RepID=A0A508B2Z3_9GAMM	0.41235697	0.5068754
+44	UniRef100_A0A026VS29 Uncharacterized protein n=1 Tax=Ooceraea biroi TaxID=2015173 RepID=A0A026VS29_OOCBI	0.2210106	0.30714744
+45	UniRef100_A0A371JXH3 Uncharacterized protein n=2 Tax=Lysobacter sp. zong2l5 TaxID=2293254 RepID=A0A371JXH3_9GAMM	0.3876657	0.45260206
+46	UniRef100_A0A1C3EQ32 Uncharacterized protein n=1 Tax=Enterovibrio pacificus TaxID=1080227 RepID=A0A1C3EQ32_9GAMM	0.35135508	0.61076754
+47	UniRef100_A0A0E9NBX2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804) TaxID=698492 RepID=A0A0E9NBX2_SAICN	0.6081432	0.124183506
+48	UniRef100_A0A077ZFZ9 TIM21-like protein, mitochondrial n=1 Tax=Trichuris trichiura TaxID=36087 RepID=A0A077ZFZ9_TRITR	0.5820864	0.15386634
+49	UniRef100_A0A197K0I9 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Mortierella elongata AG-77 TaxID=1314771 RepID=A0A197K0I9_9FUNG	0.6005902	0.1309972
+50	UniRef100_A0A286RK97 Uncharacterized protein n=1 Tax=Thermogutta terrifontis TaxID=1331910 RepID=A0A286RK97_9BACT	0.45467934	0.5567292
+51	UniRef100_A0A0K2TEQ8 TIM21-like protein, mitochondrial n=1 Tax=Lepeophtheirus salmonis TaxID=72036 RepID=A0A0K2TEQ8_LEPSM	0.5895264	0.14243051
+52	UniRef100_A0A0L0FWT8 Uncharacterized protein n=1 Tax=Sphaeroforma arctica JP610 TaxID=667725 RepID=A0A0L0FWT8_9EUKA	0.5942078	0.14138144
+53	UniRef100_A0A401NWX2 TIM21-like protein, mitochondrial n=1 Tax=Scyliorhinus torazame TaxID=75743 RepID=A0A401NWX2_SCYTO	0.59709924	0.1543295
+54	UniRef100_A0A1Q8ZIR4 Uncharacterized protein n=2 Tax=Leptolyngbya sp. 'hensonii' TaxID=1922337 RepID=A0A1Q8ZIR4_9CYAN	0.35928804	0.46944988
+55	UniRef100_A0A2Y9KRM1 uncharacterized protein LOC111157005 n=1 Tax=Enhydra lutris kenyoni TaxID=391180 RepID=A0A2Y9KRM1_ENHLU	0.2488615	0.3929733
+56	UniRef100_A0A067MEY8 Uncharacterized protein n=1 Tax=Botryobasidium botryosum FD-172 SS1 TaxID=930990 RepID=A0A067MEY8_9AGAM	0.6693961	0.7335854
+57	UniRef100_A0A2V5RBS7 Uncharacterized protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5RBS7_9BACT	0.39398915	0.47639835
+58	UniRef100_A0A0E2E755 Uncharacterized protein n=1 Tax=Treponema denticola H-22 TaxID=999432 RepID=A0A0E2E755_TREDN	0.398202	0.56282187
+59	UniRef100_A0A0G2ZK36 Uncharacterized protein n=1 Tax=Archangium gephyra TaxID=48 RepID=A0A0G2ZK36_9DELT	0.3714989	0.50492495
+60	UniRef100_A0A091VLJ8 TIM21-like protein, mitochondrial n=1 Tax=Nipponia nippon TaxID=128390 RepID=A0A091VLJ8_NIPNI	0.5983668	0.1513351
+61	UniRef100_A0A061RG26 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Tetraselmis sp. GSL018 TaxID=582737 RepID=A0A061RG26_9CHLO	0.6257861	0.14284268
+62	UniRef100_A0A1E3PEQ9 DUF1783-domain-containing protein (Fragment) n=1 Tax=Nadsonia fulvescens var. elongata DSM 6958 TaxID=857566 RepID=A0A1E3PEQ9_9ASCO	0.69740874	0.7165815
+63	UniRef100_A0A0J7KHY4 TIM21-like protein, mitochondrial n=1 Tax=Lasius niger TaxID=67767 RepID=A0A0J7KHY4_LASNI	0.59276766	0.14897665
+64	UniRef100_A0A010RKM4 Uncharacterized protein n=1 Tax=Colletotrichum fioriniae PJ7 TaxID=1445577 RepID=A0A010RKM4_9PEZI	0.6883527	0.7235984
+65	UniRef100_A0A0B8RNZ7 TIM21-like protein, mitochondrial n=1 Tax=Boiga irregularis TaxID=92519 RepID=A0A0B8RNZ7_BOIIR	0.5948581	0.15303515
+66	UniRef100_A0A232EWU8 Uncharacterized protein n=1 Tax=Trichomalopsis sarcophagae TaxID=543379 RepID=A0A232EWU8_9HYME	0.23123182	0.3408006
+67	UniRef100_A0A2S8K6N6 Uncharacterized protein n=1 Tax=Desulfobacteraceae bacterium SEEP-SAG9 TaxID=2100161 RepID=A0A2S8K6N6_9DELT	0.42501816	0.50355077
+68	UniRef100_A0A0B2W1H9 TIM21-like protein, mitochondrial n=1 Tax=Toxocara canis TaxID=6265 RepID=A0A0B2W1H9_TOXCA	0.6119523	0.15072583
+69	UniRef100_A0A015J897 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Rhizophagus irregularis (strain DAOM 197198w) TaxID=1432141 RepID=A0A015J897_RHIIW	0.58830214	0.13202545
+70	UniRef100_A0A3B8ZA65 Uncharacterized protein n=1 Tax=Planctomycetaceae bacterium TaxID=2026779 RepID=A0A3B8ZA65_9PLAN	0.3937214	0.51872754
+71	UniRef100_UPI000B510B86 uncharacterized protein LOC105731528 n=1 Tax=Aotus nancymaae TaxID=37293 RepID=UPI000B510B86	0.24874334	0.40892166
+72	UniRef100_A0A023BX91 Uncharacterized protein n=2 Tax=Aquimarina atlantica TaxID=1317122 RepID=A0A023BX91_9FLAO	0.44139853	0.5244043
+73	UniRef100_A0A061APD7 CYFA0S01e08856g1_1 n=1 Tax=Cyberlindnera fabianii TaxID=36022 RepID=A0A061APD7_CYBFA	0.6939413	0.7122467
+74	UniRef100_A0A162ZH57 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Didymella rabiei TaxID=5454 RepID=A0A162ZH57_DIDRA	0.6111683	0.12131506
+75	UniRef100_A0A095DBI1 Uncharacterized protein n=1 Tax=Cryptococcus gattii serotype B (strain R265) TaxID=294750 RepID=A0A095DBI1_CRYGR	0.6645763	0.7274281
+76	UniRef100_A0A4D9DYQ0 Cytochrome c oxidase assembly factor 1-like protein n=1 Tax=Platysternon megacephalum TaxID=55544 RepID=A0A4D9DYQ0_9SAUR	0.23375964	0.40095407
+77	UniRef100_A0A061DUJ0 Subunit Tim21 isoform 1 n=1 Tax=Theobroma cacao TaxID=3641 RepID=A0A061DUJ0_THECC	0.6247573	0.15399274
+78	UniRef100_A0A5F4CZK8 Cytochrome c oxidase assembly factor 1 homolog n=2 Tax=Canis lupus familiaris TaxID=9615 RepID=A0A5F4CZK8_CANLF	0.23641959	0.39785874
+79	UniRef100_UPI000719D770 mitochondrial import inner membrane translocase subunit Tim21-like n=1 Tax=Priapulus caudatus TaxID=37621 RepID=UPI000719D770	0.5976601	0.147904
+80	UniRef100_UPI00071D9368 uncharacterized protein LOC106890876 isoform X2 n=1 Tax=Calidris pugnax TaxID=198806 RepID=UPI00071D9368	0.23321083	0.39241675
+81	UniRef100_A0A177TQT7 Uncharacterized protein n=1 Tax=Tilletia indica TaxID=43049 RepID=A0A177TQT7_9BASI	0.6542875	0.71159244
+82	UniRef100_A0A016WVX4 TIM21-like protein, mitochondrial n=1 Tax=Ancylostoma ceylanicum TaxID=53326 RepID=A0A016WVX4_9BILA	0.6100605	0.14344253
+83	UniRef100_A0A066W2Y5 Uncharacterized protein (Fragment) n=1 Tax=Rhizoctonia solani AG-8 WAC10335 TaxID=1287689 RepID=A0A066W2Y5_9AGAM	0.66020393	0.74098337
+84	UniRef100_UPI000DBE6D9E hypothetical protein n=1 Tax=Winogradskyella tangerina TaxID=2023240 RepID=UPI000DBE6D9E	0.38309607	0.46964005
+85	UniRef100_A0A017S9R9 DUF1783-domain-containing protein n=1 Tax=Aspergillus ruber CBS 135680 TaxID=1388766 RepID=A0A017S9R9_9EURO	0.69194144	0.73329514
+86	UniRef100_A0A5J6Q0E9 Uncharacterized protein n=1 Tax=Synechococcus sp. RSCCF101 TaxID=2511069 RepID=A0A5J6Q0E9_9SYNE	0.415821	0.47322413
+87	UniRef100_A0A401P784 Uncharacterized protein n=1 Tax=Scyliorhinus torazame TaxID=75743 RepID=A0A401P784_SCYTO	0.22915252	0.38748476
+88	UniRef100_A0A493T5S5 Uncharacterized protein n=1 Tax=Anas platyrhynchos platyrhynchos TaxID=8840 RepID=A0A493T5S5_ANAPP	0.22989918	0.39550215
+89	UniRef100_A0A0G2FVZ5 Putative cytochrome oxidase assembly n=1 Tax=Diaporthe ampelina TaxID=1214573 RepID=A0A0G2FVZ5_9PEZI	0.691478	0.7250922
+90	UniRef100_A0A068VIP7 Uncharacterized protein n=1 Tax=Coffea canephora TaxID=49390 RepID=A0A068VIP7_COFCA	0.62037444	0.16196518
+91	UniRef100_A0A088A371 TIM21-like protein, mitochondrial n=1 Tax=Apis mellifera TaxID=7460 RepID=A0A088A371_APIME	0.59289896	0.16720979
+92	UniRef100_A0A0G2I955 Uncharacterized protein n=2 Tax=Emmonsia crescens TaxID=73230 RepID=A0A0G2I955_9EURO	0.68502206	0.73726845
+93	UniRef100_A0A3E0NP31 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A3E0NP31_9BACT	0.41953036	0.4988365
+94	UniRef100_A0A059LIQ2 Uncharacterized protein (Fragment) n=1 Tax=Helicosporidium sp. ATCC 50920 TaxID=1291522 RepID=A0A059LIQ2_9CHLO	0.6197277	0.14850411
+95	UniRef100_A0A022RTU2 Uncharacterized protein n=1 Tax=Erythranthe guttata TaxID=4155 RepID=A0A022RTU2_ERYGU	0.6223782	0.15020835
+96	UniRef100_A0A0C3ABZ2 Uncharacterized protein (Fragment) n=1 Tax=Piloderma croceum (strain F 1598) TaxID=765440 RepID=A0A0C3ABZ2_PILCF	0.6701756	0.743793
+97	UniRef100_A0A0A2MJP5 Uncharacterized protein n=1 Tax=Flavobacterium subsaxonicum WB 4.1-42 = DSM 21790 TaxID=1121898 RepID=A0A0A2MJP5_9FLAO	0.36954916	0.6406788
+98	UniRef100_A0A2U9BM09 Putative cytochrome c oxidase assembly protein 1-like n=1 Tax=Scophthalmus maximus TaxID=52904 RepID=A0A2U9BM09_SCOMX	0.21149302	0.40205872
+99	UniRef100_A0A3Q2UZK1 Uncharacterized protein n=1 Tax=Haplochromis burtoni TaxID=8153 RepID=A0A3Q2UZK1_HAPBU	0.21704711	0.39972657
+100	UniRef100_T1FDP0 Uncharacterized protein n=1 Tax=Helobdella robusta TaxID=6412 RepID=T1FDP0_HELRO	0.2344269	0.37067664
+101	UniRef100_A0A0L0NW47 Uncharacterized protein n=1 Tax=Candida auris TaxID=498019 RepID=A0A0L0NW47_CANAR	0.70045847	0.7231823
+102	UniRef100_A0A0C7MLS0 LALA0S01e18712g1_1 n=1 Tax=Lachancea lanzarotensis TaxID=1245769 RepID=A0A0C7MLS0_9SACH	0.7071073	0.7223394
+103	UniRef100_A0A1S1XKK3 Uncharacterized protein n=1 Tax=Xanthomonas alfalfae TaxID=366650 RepID=A0A1S1XKK3_9XANT	0.40988964	0.5140775
+104	UniRef100_A0A0E9NS11 Uncharacterized protein n=2 Tax=Saitoella complicata (strain BCRC 22490 / CBS 7301 / JCM 7358 / NBRC 10748 / NRRL Y-17804) TaxID=698492 RepID=A0A0E9NS11_SAICN	0.68835247	0.71486366
+105	UniRef100_E1BTY5 TIM21-like protein, mitochondrial n=2 Tax=Phasianidae TaxID=9005 RepID=E1BTY5_CHICK	0.5964195	0.1572007
+106	UniRef100_A0A016U551 Uncharacterized protein n=1 Tax=Ancylostoma ceylanicum TaxID=53326 RepID=A0A016U551_9BILA	0.20616926	0.35292086
+107	UniRef100_C3YDB5 Uncharacterized protein n=1 Tax=Branchiostoma floridae TaxID=7739 RepID=C3YDB5_BRAFL	0.24002525	0.37798744
+108	UniRef100_A0A0K9NH26 Putative Import inner membrane translocase subunit tim21, mitochondrial,putative (Fragment) n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9NH26_ZOSMR	0.6258356	0.15769272
+109	UniRef100_T1KDB5 TIM21-like protein, mitochondrial n=1 Tax=Tetranychus urticae TaxID=32264 RepID=T1KDB5_TETUR	0.5825814	0.13806704
+110	UniRef100_A0A2T2T777 Uncharacterized protein n=1 Tax=Bacteroidetes bacterium QH_8_67_23 TaxID=1919100 RepID=A0A2T2T777_9BACT	0.36952502	0.45120877
+111	UniRef100_A0A0R3SDH9 TIM21-like protein, mitochondrial n=1 Tax=Hymenolepis diminuta TaxID=6216 RepID=A0A0R3SDH9_HYMDI	0.60195696	0.14095783
+112	UniRef100_UPI00109F2F76 cytochrome c oxidase assembly factor 1 homolog isoform X1 n=2 Tax=Erpetoichthys calabaricus TaxID=27687 RepID=UPI00109F2F76	0.22338527	0.38828903
+113	UniRef100_A0A182F1A2 TIM21-like protein, mitochondrial n=2 Tax=Anopheles albimanus TaxID=7167 RepID=A0A182F1A2_ANOAL	0.5954612	0.16309163
+114	UniRef100_A0A1Y1VXU9 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Basidiobolus meristosporus CBS 931.73 TaxID=1314790 RepID=A0A1Y1VXU9_9FUNG	0.59579724	0.13656583
+115	UniRef100_A0A1D1ZTM1 Uncharacterized protein n=1 Tax=Auxenochlorella protothecoides TaxID=3075 RepID=A0A1D1ZTM1_AUXPR	0.6219891	0.14335506
+116	UniRef100_A0A183H1G2 TIM21-like protein, mitochondrial n=1 Tax=Onchocerca flexuosa TaxID=387005 RepID=A0A183H1G2_9BILA	0.61775213	0.1365212
+117	UniRef100_A0A022W0J1 Uncharacterized protein n=5 Tax=Trichophyton TaxID=5550 RepID=A0A022W0J1_TRIRU	0.6859209	0.726794
+118	UniRef100_A0A0Q5UVB1 Transporter n=1 Tax=Flavobacterium sp. Leaf359 TaxID=1736351 RepID=A0A0Q5UVB1_9FLAO	0.36595228	0.6517296
+119	UniRef100_A0A1B4YFK1 Uncharacterized protein n=1 Tax=Rhizobium loti TaxID=381 RepID=A0A1B4YFK1_RHILI	0.38743353	0.55054086
+120	UniRef100_A0A060SGW2 Uncharacterized protein n=1 Tax=Pycnoporus cinnabarinus TaxID=5643 RepID=A0A060SGW2_PYCCI	0.6586868	0.7315058
+121	UniRef100_V5FWA7 Cytochrome c oxidase assembly protein n=1 Tax=Anoplophora glabripennis TaxID=217634 RepID=V5FWA7_ANOGL	0.27962613	0.38518178
+122	UniRef100_A0A059CG57 Uncharacterized protein n=2 Tax=Eucalyptus grandis TaxID=71139 RepID=A0A059CG57_EUCGR	0.6281182	0.15244137
+123	UniRef100_A0A3B3DWV5 Ribosomal protein L37 n=2 Tax=Oryzias melastigma TaxID=30732 RepID=A0A3B3DWV5_ORYME	0.22177912	0.40202042
+124	UniRef100_F0SFS3 Uncharacterized protein n=1 Tax=Rubinisphaera brasiliensis (strain ATCC 49424 / DSM 5305 / JCM 21570 / NBRC 103401 / IFAM 1448) TaxID=756272 RepID=F0SFS3_RUBBR	0.39821377	0.48251322
+125	UniRef100_A0A4Q5ZBW5 Uncharacterized protein (Fragment) n=1 Tax=Myxococcaceae bacterium TaxID=2484252 RepID=A0A4Q5ZBW5_9DELT	0.37421268	0.4611886
+126	UniRef100_A0A087VXM4 TIM21-like protein, mitochondrial n=1 Tax=Echinococcus multilocularis TaxID=6211 RepID=A0A087VXM4_ECHMU	0.6016877	0.14489155
+127	UniRef100_A0A3M0JXC6 Uncharacterized protein n=1 Tax=Hirundo rustica rustica TaxID=333673 RepID=A0A3M0JXC6_HIRRU	0.2263906	0.39198574
+128	UniRef100_A0A0A8KZW6 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Kluyveromyces dobzhanskii CBS 2104 TaxID=1427455 RepID=A0A0A8KZW6_9SACH	0.59306633	0.100272745
+129	UniRef100_A0A0M3IL51 TIM21-like protein, mitochondrial n=1 Tax=Ascaris lumbricoides TaxID=6252 RepID=A0A0M3IL51_ASCLU	0.6096808	0.14784385
+130	UniRef100_A0A0C2TJ71 Uncharacterized protein n=1 Tax=Amanita muscaria Koide BX008 TaxID=946122 RepID=A0A0C2TJ71_AMAMU	0.6687694	0.73812115
+131	UniRef100_A0A0C4F3Z3 Uncharacterized protein n=1 Tax=Puccinia triticina (isolate 1-1 / race 1 (BBBD)) TaxID=630390 RepID=A0A0C4F3Z3_PUCT1	0.664954	0.7337661
+132	UniRef100_A0A2E9VVW8 Uncharacterized protein n=2 Tax=Planctomycetaceae TaxID=126 RepID=A0A2E9VVW8_9PLAN	0.42418852	0.49161196
+133	UniRef100_A0A4R3YUL5 TM2 domain-containing membrane protein YozV n=1 Tax=Biostraticola tofi TaxID=466109 RepID=A0A4R3YUL5_9ENTR	0.3822924	0.49495232
+134	UniRef100_K9Q0E2 Uncharacterized protein n=1 Tax=Leptolyngbya sp. PCC 7376 TaxID=111781 RepID=K9Q0E2_9CYAN	0.38601762	0.53403336
+135	UniRef100_A0A0C9M680 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Mucor ambiguus TaxID=91626 RepID=A0A0C9M680_9FUNG	0.59219897	0.13629486
+136	UniRef100_A0A212FAL9 Sm domain-containing protein n=2 Tax=Danaus plexippus plexippus TaxID=278856 RepID=A0A212FAL9_DANPL	0.2577598	0.34745878
+137	UniRef100_UPI0014926557 hypothetical protein n=1 Tax=Empedobacter stercoris TaxID=1628248 RepID=UPI0014926557	0.40545905	0.53186506
+138	UniRef100_A0A226EYY7 Cytochrome c oxidase assembly factor 1 n=1 Tax=Folsomia candida TaxID=158441 RepID=A0A226EYY7_FOLCA	0.23234698	0.34889093
+139	UniRef100_A0A074Z754 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Opisthorchis viverrini TaxID=6198 RepID=A0A074Z754_9TREM	0.600877	0.13790974
+140	UniRef100_A0A2S6H3W7 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Methylobacter tundripaludum TaxID=173365 RepID=A0A2S6H3W7_9GAMM	0.40611303	0.55308616
+141	UniRef100_A0A4V1J5T0 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Dimargaris cristalligena TaxID=215637 RepID=A0A4V1J5T0_9FUNG	0.60828286	0.13600145
+142	UniRef100_A0A0J1BDA0 Putative transmembrane protein n=1 Tax=Rhodopirellula islandica TaxID=595434 RepID=A0A0J1BDA0_RHOIS	0.042322394	0.6691916
+143	UniRef100_A0A0L0HMQ7 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Spizellomyces punctatus (strain DAOM BR117) TaxID=645134 RepID=A0A0L0HMQ7_SPIPD	0.5795583	0.14473611
+144	UniRef100_A0A0C3M0G4 Uncharacterized protein n=1 Tax=Tulasnella calospora MUT 4182 TaxID=1051891 RepID=A0A0C3M0G4_9AGAM	0.66464037	0.73985946
+145	UniRef100_UPI0005F38938 uncharacterized protein LOC105596924 isoform X1 n=2 Tax=Cercocebus atys TaxID=9531 RepID=UPI0005F38938	0.2289948	0.41815543
+146	UniRef100_UPI00136357FE mitochondrial import inner membrane translocase subunit Tim21 n=1 Tax=Corvus moneduloides TaxID=1196302 RepID=UPI00136357FE	0.6005594	0.15296471
+147	UniRef100_UPI00052A0D6A cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Colius striatus TaxID=57412 RepID=UPI00052A0D6A	0.23075494	0.4033851
+148	UniRef100_A0A3S2U280 Uncharacterized protein n=1 Tax=Oryzias javanicus TaxID=123683 RepID=A0A3S2U280_ORYJA	0.21538357	0.39516515
+149	UniRef100_A0A1Z9EU44 Uncharacterized protein n=1 Tax=Planctomycetaceae bacterium TMED138 TaxID=1986834 RepID=A0A1Z9EU44_9PLAN	0.26887196	0.5636332
+150	UniRef100_W4Y5G7 TIM21-like protein, mitochondrial n=1 Tax=Strongylocentrotus purpuratus TaxID=7668 RepID=W4Y5G7_STRPU	0.5955424	0.14915876
+151	UniRef100_A0A3M0FV88 Uncharacterized protein n=2 Tax=Dokdonia sinensis TaxID=2479847 RepID=A0A3M0FV88_9FLAO	0.43334988	0.451549
+152	UniRef100_A0A369SK83 TIM21-like protein, mitochondrial n=1 Tax=Trichoplax sp. H2 TaxID=287889 RepID=A0A369SK83_9METZ	0.5889132	0.15484007
+153	UniRef100_UPI000BB0C581 cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Crassostrea virginica TaxID=6565 RepID=UPI000BB0C581	0.2386485	0.36359683
+154	UniRef100_A0A2Y9RFL1 cytochrome c oxidase assembly factor 1 homolog n=1 Tax=Trichechus manatus latirostris TaxID=127582 RepID=A0A2Y9RFL1_TRIMA	0.24580498	0.3990903
+155	UniRef100_L8Y3B2 TIM21-like protein, mitochondrial n=1 Tax=Tupaia chinensis TaxID=246437 RepID=L8Y3B2_TUPCH	0.6018189	0.16107792
+156	UniRef100_A0A484C593 TIM21-like protein, mitochondrial n=1 Tax=Perca flavescens TaxID=8167 RepID=A0A484C593_PERFV	0.602448	0.15627533
+157	UniRef100_UPI0014036D69 cytochrome c oxidase assembly factor 1 homolog isoform X1 n=2 Tax=Petromyzon marinus TaxID=7757 RepID=UPI0014036D69	0.22522405	0.38224575
+158	UniRef100_A0A3B3S000 Uncharacterized protein n=1 Tax=Paramormyrops kingsleyae TaxID=1676925 RepID=A0A3B3S000_9TELE	0.22342806	0.39746976
+159	UniRef100_A0A183JR95 TIM21-like protein, mitochondrial n=1 Tax=Schistosoma curassoni TaxID=6186 RepID=A0A183JR95_9TREM	0.5850068	0.14321524
+160	UniRef100_A0A0B7MW95 Chitin synthase export chaperone n=1 Tax=Parasitella parasitica TaxID=35722 RepID=A0A0B7MW95_9FUNG	0.5887556	0.13788012
+161	UniRef100_UPI001480ACFE cytochrome c oxidase assembly factor 1 homolog isoform X1 n=1 Tax=Pangasianodon hypophthalmus TaxID=310915 RepID=UPI001480ACFE	0.21887058	0.39004636
+162	UniRef100_A0A5C8S8G0 Uncharacterized protein n=3 Tax=unclassified Methylobacterium TaxID=2615210 RepID=A0A5C8S8G0_9RHIZ	0.40005994	0.52435946
+163	UniRef100_A0A6J3J440 TIM21-like protein, mitochondrial n=1 Tax=Sapajus apella TaxID=9515 RepID=A0A6J3J440_SAPAP	0.5997426	0.15930407
+164	UniRef100_A0A2V8CTQ4 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8CTQ4_9BACT	0.39666966	0.5058731
+165	UniRef100_A0A1S2ZK91 TIM21-like protein, mitochondrial n=1 Tax=Erinaceus europaeus TaxID=9365 RepID=A0A1S2ZK91_ERIEU	0.6072938	0.16033182
+166	UniRef100_A0A067C2U8 Uncharacterized protein n=1 Tax=Saprolegnia parasitica (strain CBS 223.65) TaxID=695850 RepID=A0A067C2U8_SAPPC	0.33672655	0.31226093
+167	UniRef100_B3RVP3 TIM21-like protein, mitochondrial n=1 Tax=Trichoplax adhaerens TaxID=10228 RepID=B3RVP3_TRIAD	0.5873896	0.1525179
+168	UniRef100_A0A060T9M3 ARAD1B00242p n=1 Tax=Blastobotrys adeninivorans TaxID=409370 RepID=A0A060T9M3_BLAAD	0.70006245	0.7089899
+169	UniRef100_A0A068SGR7 Uncharacterized protein n=1 Tax=Lichtheimia corymbifera JMRC:FSU:9682 TaxID=1263082 RepID=A0A068SGR7_9FUNG	0.6843112	0.74408686
+170	UniRef100_A0A139AJ77 Uncharacterized protein n=1 Tax=Gonapodya prolifera (strain JEL478) TaxID=1344416 RepID=A0A139AJ77_GONPJ	0.66758955	0.6850995
+171	UniRef100_A0A066WAT8 DUF1783-domain-containing protein n=1 Tax=Tilletiaria anomala (strain ATCC 24038 / CBS 436.72 / UBC 951) TaxID=1037660 RepID=A0A066WAT8_TILAU	0.6575331	0.7158927
+172	UniRef100_A0A0L0HLS4 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Spizellomyces punctatus (strain DAOM BR117) TaxID=645134 RepID=A0A0L0HLS4_SPIPD	0.5768904	0.14308034
+173	UniRef100_A0A5N5T1S2 TIM21-like protein, mitochondrial n=1 Tax=Armadillidium nasatum TaxID=96803 RepID=A0A5N5T1S2_9CRUS	0.6080797	0.15252413
+174	UniRef100_A0A6A0H573 TIM21-like protein, mitochondrial n=2 Tax=Hyalella azteca TaxID=294128 RepID=A0A6A0H573_HYAAZ	0.5900558	0.1514102
+175	UniRef100_A0A022PWB9 Uncharacterized protein (Fragment) n=1 Tax=Erythranthe guttata TaxID=4155 RepID=A0A022PWB9_ERYGU	0.62801105	0.14520402
+176	UniRef100_A0A4Y7NJE5 TIM21-like protein, mitochondrial n=1 Tax=Moina brachiata TaxID=675436 RepID=A0A4Y7NJE5_9CRUS	0.60059595	0.16485351
+177	UniRef100_A0A087UF70 Uncharacterized protein (Fragment) n=1 Tax=Stegodyphus mimosarum TaxID=407821 RepID=A0A087UF70_STEMI	0.22738796	0.36162764
+178	UniRef100_A0A088AHM1 Uncharacterized protein n=1 Tax=Apis mellifera TaxID=7460 RepID=A0A088AHM1_APIME	0.18996355	0.29490924
+179	UniRef100_L7J4V2 Mitochondrial import inner membrane translocase subunit TIM21 n=3 Tax=Magnaporthe oryzae TaxID=318829 RepID=L7J4V2_MAGOP	0.59998244	0.12134294
+180	UniRef100_A0A2V7D338 Uncharacterized protein n=1 Tax=Candidatus Rokubacteria bacterium TaxID=2053607 RepID=A0A2V7D338_9BACT	0.31435	0.49772325
+181	UniRef100_UPI0009FB1E11 hypothetical protein n=1 Tax=Agarivorans gilvus TaxID=680279 RepID=UPI0009FB1E11	0.4073726	0.54014456
+182	UniRef100_A0A5N6RKA7 Uncharacterized protein n=1 Tax=Carpinus fangiana TaxID=176857 RepID=A0A5N6RKA7_9ROSI	0.6231964	0.14675966
+183	UniRef100_A0A674CV70 Uncharacterized protein n=1 Tax=Salmo trutta TaxID=8032 RepID=A0A674CV70_SALTR	0.21990472	0.3945226
+184	UniRef100_A0A061AUI2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Cyberlindnera fabianii TaxID=36022 RepID=A0A061AUI2_CYBFA	0.60508376	0.1003439
+185	UniRef100_E4ZHA9 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Leptosphaeria maculans (strain JN3 / isolate v23.1.3 / race Av1-4-5-6-7-8) TaxID=985895 RepID=E4ZHA9_LEPMJ	0.61084914	0.11221696
+186	UniRef100_A0A1B6HU98 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Homalodisca liturata TaxID=320908 RepID=A0A1B6HU98_9HEMI	0.6081166	0.1658381
+187	UniRef100_A0A2V8L8G3 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8L8G3_9BACT	0.3563394	0.6811253
+188	UniRef100_A0A4Q6A513 Uncharacterized protein n=1 Tax=Myxococcaceae bacterium TaxID=2484252 RepID=A0A4Q6A513_9DELT	0.34698156	0.48869926
+189	UniRef100_A0A1Q7CM41 Uncharacterized protein n=3 Tax=unclassified Acidobacteria TaxID=305072 RepID=A0A1Q7CM41_9BACT	0.22599836	0.5777333
+190	UniRef100_A0A498LP79 TIM21-like protein, mitochondrial n=1 Tax=Labeo rohita TaxID=84645 RepID=A0A498LP79_LABRO	0.5955587	0.16016194
+191	UniRef100_A0A0N4UVX5 TIM21-like protein, mitochondrial n=1 Tax=Enterobius vermicularis TaxID=51028 RepID=A0A0N4UVX5_ENTVE	0.61411214	0.14457701
+192	UniRef100_A0A1U8Q678 probable mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Nelumbo nucifera TaxID=4432 RepID=A0A1U8Q678_NELNU	0.62182987	0.15357582
+193	UniRef100_A0A024GGX2 Uncharacterized protein n=1 Tax=Albugo candida TaxID=65357 RepID=A0A024GGX2_9STRA	0.63489574	0.17641798
+194	UniRef100_A0A0P8YF53 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Oxobacter pfennigii TaxID=36849 RepID=A0A0P8YF53_9CLOT	0.3778087	0.610804
+195	UniRef100_A0A176VLG7 Uncharacterized protein n=1 Tax=Marchantia polymorpha subsp. ruderalis TaxID=1480154 RepID=A0A176VLG7_MARPO	0.6291298	0.15829833
+196	UniRef100_A0A2T4VPR5 Uncharacterized protein n=1 Tax=Vitiosangium sp. GDMCC 1.1324 TaxID=2138576 RepID=A0A2T4VPR5_9DELT	0.45599443	0.5251916
+197	UniRef100_A0A0L0HU33 Uncharacterized protein n=1 Tax=Spizellomyces punctatus (strain DAOM BR117) TaxID=645134 RepID=A0A0L0HU33_SPIPD	0.6705855	0.7109131
+198	UniRef100_A0A068WQ86 TIM21-like protein, mitochondrial n=1 Tax=Echinococcus granulosus TaxID=6210 RepID=A0A068WQ86_ECHGR	0.6050283	0.1425931
+199	UniRef100_A0A1D1VF04 Uncharacterized protein n=1 Tax=Ramazzottius varieornatus TaxID=947166 RepID=A0A1D1VF04_RAMVA	0.24986188	0.32416964
+200	UniRef100_A0A090LIG8 TIM21-like protein, mitochondrial n=1 Tax=Strongyloides ratti TaxID=34506 RepID=A0A090LIG8_STRRB	0.6149453	0.15919739
+201	UniRef100_A0A0R2XBZ2 Uncharacterized protein n=5 Tax=Verrucomicrobiales TaxID=48461 RepID=A0A0R2XBZ2_9BACT	0.432473	0.48625633
+202	UniRef100_A0A0V1FHD8 TIM21-like protein, mitochondrial n=1 Tax=Trichinella pseudospiralis TaxID=6337 RepID=A0A0V1FHD8_TRIPS	0.6047815	0.14647666
+203	UniRef100_A0A1V6SX59 Uncharacterized protein n=1 Tax=Penicillium flavigenum TaxID=254877 RepID=A0A1V6SX59_9EURO	0.68878454	0.7326628
+204	UniRef100_A0A654H1X6 TIM21-like protein, mitochondrial n=1 Tax=Sparganum proliferum TaxID=64606 RepID=A0A654H1X6_9CEST	0.6044136	0.1386311
+205	UniRef100_A0A6M2CZR9 Putative cytochrome c oxidase assembly factor 1 (Fragment) n=1 Tax=Rhipicephalus microplus TaxID=6941 RepID=A0A6M2CZR9_RHIMP	0.24750893	0.36803797
+206	UniRef100_A0A6B2EID2 Uncharacterized protein (Fragment) n=1 Tax=Phlebotomus kandelakii TaxID=1109342 RepID=A0A6B2EID2_9DIPT	0.24726449	0.3547266
+207	UniRef100_A0A4Y7NKA3 TIM21-like protein, mitochondrial n=1 Tax=Megafenestra aurita TaxID=2291010 RepID=A0A4Y7NKA3_9CRUS	0.5971346	0.16754705
+208	UniRef100_A0A2G8PBL1 Uncharacterized protein n=1 Tax=Synechococcus sp. 60AY4M2 TaxID=1353262 RepID=A0A2G8PBL1_9SYNE	0.36555457	0.42211333
+209	UniRef100_A0A5B8MZ12 Mitochondrial inner membrane translocase n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MZ12_9CHLO	0.614162	0.16388613
+210	UniRef100_A0A6A4VCW8 Uncharacterized protein n=1 Tax=Amphibalanus amphitrite TaxID=1232801 RepID=A0A6A4VCW8_AMPAM	0.23882112	0.31993005
+211	UniRef100_A0A1R0GPX7 Cytochrome c oxidase assembly factor 1 n=1 Tax=Smittium mucronatum TaxID=133383 RepID=A0A1R0GPX7_9FUNG	0.709282	0.70155793
+212	UniRef100_UPI0003218E66 hypothetical protein n=1 Tax=Reinekea blandensis TaxID=374838 RepID=UPI0003218E66	0.4208156	0.5607662
+213	UniRef100_N1WVM1 Uncharacterized protein n=1 Tax=Psychroflexus gondwanensis ACAM 44 TaxID=1189619 RepID=N1WVM1_9FLAO	0.46463782	0.5695587
+214	UniRef100_A0A2V8SBP8 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8SBP8_9BACT	0.33086017	0.5634725
+215	UniRef100_A0A4Q2DA24 Uncharacterized protein n=1 Tax=Psathyrella aberdarensis TaxID=2316362 RepID=A0A4Q2DA24_9AGAR	0.6657077	0.7511979
+216	UniRef100_A0A0Q9ZCG6 Uncharacterized protein n=1 Tax=Salegentibacter mishustinae TaxID=270918 RepID=A0A0Q9ZCG6_9FLAO	0.31934536	0.6909878
+217	UniRef100_A0A1S9RM83 Cytochrome oxidase complex assembly protein n=2 Tax=Penicillium brasilianum TaxID=104259 RepID=A0A1S9RM83_PENBI	0.6855523	0.7305234
+218	UniRef100_A0A1I8GH97 TIM21-like protein, mitochondrial n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A1I8GH97_9PLAT	0.5819223	0.1573333
+219	UniRef100_A0A1G9SL73 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Catalinimonas alkaloidigena TaxID=1075417 RepID=A0A1G9SL73_9BACT	0.34204456	0.69151413
+220	UniRef100_UPI00053A83A7 probable mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Camelina sativa TaxID=90675 RepID=UPI00053A83A7	0.6250641	0.14943816
+221	UniRef100_UPI0009DEFCE9 hypothetical protein n=1 Tax=Treponema sp. OMZ 838 TaxID=1539298 RepID=UPI0009DEFCE9	0.3913007	0.5592386
+222	UniRef100_A0A5K1MZJ3 Uncharacterized protein n=1 Tax=Xanthomonas vasicola pv. vasculorum NCPPB 206 TaxID=1094181 RepID=A0A5K1MZJ3_XANVA	0.38924178	0.4871883
+223	UniRef100_A0A287PB39 Uncharacterized protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287PB39_HORVV	0.64172894	0.15500033
+224	UniRef100_A0A6J2TY81 TIM21-like protein, mitochondrial n=1 Tax=Drosophila lebanonensis TaxID=7225 RepID=A0A6J2TY81_DROLE	0.6066516	0.1563766
+225	UniRef100_A0A015I742 Coa1p n=5 Tax=Rhizophagus irregularis TaxID=588596 RepID=A0A015I742_RHIIW	0.6635458	0.7119294
+226	UniRef100_A0A0M8MN92 Uncharacterized protein n=1 Tax=Malassezia pachydermatis TaxID=77020 RepID=A0A0M8MN92_9BASI	0.65833056	0.7232261
+227	UniRef100_A0A364N5Q1 DUF1783-domain-containing protein n=1 Tax=Stemphylium lycopersici TaxID=183478 RepID=A0A364N5Q1_9PLEO	0.6966558	0.7339086
+228	UniRef100_UPI000A06A1F8 hypothetical protein n=1 Tax=Deferrisoma camini TaxID=1035120 RepID=UPI000A06A1F8	0.38394332	0.44334745
+229	UniRef100_A0A290XC62 Uncharacterized protein n=1 Tax=Luteimonas chenhongjianii TaxID=2006110 RepID=A0A290XC62_9GAMM	0.36488888	0.50138354
+230	UniRef100_A0A0B1NWV6 Putative cytochrome oxidase assembly n=1 Tax=Uncinula necator TaxID=52586 RepID=A0A0B1NWV6_UNCNE	0.7014356	0.737854
+231	UniRef100_A0A2G2DVX4 Uncharacterized protein n=1 Tax=Colwellia sp. TaxID=56799 RepID=A0A2G2DVX4_COLSX	0.34575328	0.62693626
+232	UniRef100_A0A1B0CKL3 Uncharacterized protein n=1 Tax=Lutzomyia longipalpis TaxID=7200 RepID=A0A1B0CKL3_LUTLO	0.26931548	0.35760415
+233	UniRef100_A0A2A2WGW9 Uncharacterized protein n=1 Tax=Rhodopirellula sp. SM50 TaxID=595453 RepID=A0A2A2WGW9_9BACT	0.062017195	0.66932166
+234	UniRef100_D6WG54 Uncharacterized protein n=2 Tax=Tribolium castaneum TaxID=7070 RepID=D6WG54_TRICA	0.27778167	0.3642474
+235	UniRef100_A0A1D1V9A8 TIM21-like protein, mitochondrial n=1 Tax=Ramazzottius varieornatus TaxID=947166 RepID=A0A1D1V9A8_RAMVA	0.5881288	0.15899418
+236	UniRef100_A0A271IWG7 Uncharacterized protein n=1 Tax=Rubrivirga marina TaxID=1196024 RepID=A0A271IWG7_9BACT	0.37440842	0.5262532
+237	UniRef100_S3JUY4 Uncharacterized protein n=2 Tax=Treponema medium TaxID=58231 RepID=S3JUY4_TREMD	0.38757804	0.57003325
+238	UniRef100_A0A518E355 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Planctomycetes bacterium Pla85_3_4 TaxID=2528010 RepID=A0A518E355_9BACT	0.46982455	0.42402267
+239	UniRef100_A0A4Q6G8D3 Uncharacterized protein (Fragment) n=1 Tax=Xanthomonadaceae bacterium TaxID=1926873 RepID=A0A4Q6G8D3_9GAMM	0.359261	0.48723605
+240	UniRef100_A0A517P0R3 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Planctomycetes bacterium K23_9 TaxID=1930275 RepID=A0A517P0R3_9BACT	0.33403024	0.5972384
+241	UniRef100_UPI00076716D9 cytochrome c oxidase assembly factor 1 homolog isoform X2 n=1 Tax=Myotis davidii TaxID=225400 RepID=UPI00076716D9	0.2243199	0.41643256
+242	UniRef100_I1HNS3 Uncharacterized protein n=1 Tax=Brachypodium distachyon TaxID=15368 RepID=I1HNS3_BRADI	0.62108916	0.15756299
+243	UniRef100_A0A261Y7V2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Bifiguratus adelaidae TaxID=1938954 RepID=A0A261Y7V2_9FUNG	0.59379697	0.13130449
+244	UniRef100_A0A5Q4C724 Cytochrome c oxidase assembly factor 1 n=1 Tax=Colletotrichum shisoi TaxID=2078593 RepID=A0A5Q4C724_9PEZI	0.6863599	0.72013026
+245	UniRef100_A0A091AZM5 Uncharacterized protein n=1 Tax=Arenimonas oryziterrae DSM 21050 = YC6267 TaxID=1121015 RepID=A0A091AZM5_9GAMM	0.025835495	0.71485263
+246	UniRef100_A0A5B9P933 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Mariniblastus fucicola TaxID=980251 RepID=A0A5B9P933_9BACT	0.35367784	0.5128617
+247	UniRef100_A0A022PVT9 Uncharacterized protein n=1 Tax=Erythranthe guttata TaxID=4155 RepID=A0A022PVT9_ERYGU	0.54060626	0.49443424
+248	UniRef100_A0A093X624 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Pseudogymnoascus sp. VKM F-3557 TaxID=1437433 RepID=A0A093X624_9PEZI	0.6063757	0.11860752
+249	UniRef100_A0A1S3DMX6 uncharacterized protein LOC103520866 n=1 Tax=Diaphorina citri TaxID=121845 RepID=A0A1S3DMX6_DIACI	0.35019588	0.31568787
+250	UniRef100_I0YYH4 Uncharacterized protein n=1 Tax=Coccomyxa subellipsoidea (strain C-169) TaxID=574566 RepID=I0YYH4_COCSC	0.6315739	0.1448819
+251	UniRef100_A4BHQ1 Uncharacterized protein n=1 Tax=Reinekea blandensis MED297 TaxID=314283 RepID=A4BHQ1_9GAMM	0.42182574	0.5704607
+252	UniRef100_A0A2W4L3W8 Uncharacterized protein n=1 Tax=Proteobacteria bacterium TaxID=1977087 RepID=A0A2W4L3W8_9PROT	0.34756887	0.5232162
+253	UniRef100_A0A2W5YSA1 Uncharacterized protein n=1 Tax=Chthoniobacterales bacterium TaxID=2201154 RepID=A0A2W5YSA1_9BACT	0.38875592	0.5122498
+254	UniRef100_B6JXY2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Schizosaccharomyces japonicus (strain yFS275 / FY16936) TaxID=402676 RepID=B6JXY2_SCHJY	0.5778988	0.10730823
+255	UniRef100_A0A2J8T7W3 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Pongo abelii TaxID=9601 RepID=A0A2J8T7W3_PONAB	0.60520923	0.16301331
+256	UniRef100_L5M4B5 Uncharacterized protein n=1 Tax=Myotis davidii TaxID=225400 RepID=L5M4B5_MYODS	0.23295073	0.41284713
+257	UniRef100_A0A161ZNN1 Uncharacterized protein n=1 Tax=Daucus carota subsp. sativus TaxID=79200 RepID=A0A161ZNN1_DAUCS	0.63322014	0.16105032
+258	UniRef100_A0A183EW88 TIM21-like protein, mitochondrial n=1 Tax=Gongylonema pulchrum TaxID=637853 RepID=A0A183EW88_9BILA	0.62693816	0.12667815
+259	UniRef100_A0A2R5GYK3 Mitochondrial import inner membrane translocase subunit Tim21 n=1 Tax=Hondaea fermentalgiana TaxID=2315210 RepID=A0A2R5GYK3_9STRA	0.61984384	0.17145757
+260	UniRef100_UPI000786B0B5 mitochondrial import inner membrane translocase subunit Tim21 isoform X2 n=1 Tax=Rousettus aegyptiacus TaxID=9407 RepID=UPI000786B0B5	0.6036543	0.16613497
+261	UniRef100_A0A5A7QN46 Mitochondrial import inner membrane translocase (Fragment) n=1 Tax=Striga asiatica TaxID=4170 RepID=A0A5A7QN46_STRAF	0.6285546	0.14887829
+262	UniRef100_A0A388KJG1 Uncharacterized protein n=1 Tax=Chara braunii TaxID=69332 RepID=A0A388KJG1_CHABU	0.6187524	0.15277734
+263	UniRef100_M7BVT8 Uncharacterized protein n=1 Tax=Chelonia mydas TaxID=8469 RepID=M7BVT8_CHEMY	0.22342163	0.40805784
+264	UniRef100_A0A1V1SX99 Uncharacterized protein n=1 Tax=fungal sp. No.14919 TaxID=1813822 RepID=A0A1V1SX99_9FUNG	0.6952017	0.7258301
+265	UniRef100_A0A3A8JE06 Uncharacterized protein n=1 Tax=Corallococcus terminator TaxID=2316733 RepID=A0A3A8JE06_9DELT	0.34757817	0.46465722
+266	UniRef100_Q6CAQ9 Mitochondrial import inner membrane translocase subunit TIM21 n=2 Tax=Yarrowia lipolytica TaxID=4952 RepID=TIM21_YARLI	0.5980034	0.10705541
+267	UniRef100_A0A0C2GWZ0 GTP cyclohydrolase 1 feedback regulatory protein n=1 Tax=Ancylostoma duodenale TaxID=51022 RepID=A0A0C2GWZ0_9BILA	0.16603635	0.3266623
+268	UniRef100_A0A127ZEH0 Uncharacterized protein n=1 Tax=Sporisorium scitamineum TaxID=49012 RepID=A0A127ZEH0_9BASI	0.6415162	0.7572201
+269	UniRef100_A0A484ZTT1 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Budvicia aquatica TaxID=82979 RepID=A0A484ZTT1_9GAMM	0.44249436	0.5567106
+270	UniRef100_A0A2U2SBB9 Uncharacterized protein n=1 Tax=Anaerolineae bacterium TaxID=2052143 RepID=A0A2U2SBB9_9CHLR	0.40900043	0.40857288
+271	UniRef100_A0A3M1TAW5 Uncharacterized protein n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A3M1TAW5_9DELT	0.3528057	0.44964954
+272	UniRef100_A0A1V9XCY3 Uncharacterized protein n=1 Tax=Tropilaelaps mercedesae TaxID=418985 RepID=A0A1V9XCY3_9ACAR	0.2347851	0.35607666
+273	UniRef100_A0A3A4RUB7 Uncharacterized protein n=1 Tax=Desulfobacteraceae bacterium TaxID=2049433 RepID=A0A3A4RUB7_9DELT	0.49587753	0.5561803
+274	UniRef100_F1MRI2 TIM21-like protein, mitochondrial n=1 Tax=Bos taurus TaxID=9913 RepID=F1MRI2_BOVIN	0.5927061	0.16252612
+275	UniRef100_A0A371C8Z1 Cytochrome oxidase complex assembly protein 1-domain-containing protein n=1 Tax=Yarrowia lipolytica TaxID=4952 RepID=A0A371C8Z1_YARLL	0.6819945	0.71621346
+276	UniRef100_A9TXE6 Predicted protein n=2 Tax=Physcomitrium patens TaxID=3218 RepID=A9TXE6_PHYPA	0.6238241	0.1600682
+277	UniRef100_A0A074T108 Cytochrome oxidase complex assembly protein n=1 Tax=Rhizoctonia solani 123E TaxID=1423351 RepID=A0A074T108_9AGAM	0.6579048	0.7367243
+278	UniRef100_E0VH69 Uncharacterized protein n=1 Tax=Pediculus humanus subsp. corporis TaxID=121224 RepID=E0VH69_PEDHC	0.31789437	0.32182148
+279	UniRef100_A0A452SR39 TIM21-like protein, mitochondrial n=1 Tax=Ursus americanus TaxID=9643 RepID=A0A452SR39_URSAM	0.5980094	0.16252297
+280	UniRef100_A0A067EYY1 Uncharacterized protein n=1 Tax=Citrus sinensis TaxID=2711 RepID=A0A067EYY1_CITSI	0.54959375	0.502336
+281	UniRef100_A0A4U0WLW1 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Cryomyces minteri TaxID=331657 RepID=A0A4U0WLW1_9PEZI	0.6140013	0.10788728
+282	UniRef100_A0A6G1ACU5 COA1 factor (Fragment) n=1 Tax=Crocuta crocuta TaxID=9678 RepID=A0A6G1ACU5_CROCR	0.24045607	0.42305544
+283	UniRef100_A0A517YB59 Uncharacterized protein n=1 Tax=Planctomycetes bacterium ETA_A8 TaxID=2528021 RepID=A0A517YB59_9BACT	0.0	0.65200484
+284	UniRef100_A0A316U1T9 Uncharacterized protein n=1 Tax=Pseudomicrostroma glucosiphilum TaxID=1684307 RepID=A0A316U1T9_9BASI	0.670937	0.75246525
+285	UniRef100_A0A517YZ14 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Planctomycetes bacterium KS4 TaxID=2528020 RepID=A0A517YZ14_9BACT	0.44317278	0.4805731
+286	UniRef100_A0A197KIM2 DUF1783-domain-containing protein n=1 Tax=Mortierella elongata AG-77 TaxID=1314771 RepID=A0A197KIM2_9FUNG	0.6715686	0.7230998
+287	UniRef100_A9VBG9 Predicted protein n=1 Tax=Monosiga brevicollis TaxID=81824 RepID=A9VBG9_MONBE	0.1540834	0.3863025
+288	UniRef100_UPI000C8110C4 uncharacterized protein LOC100660845 n=1 Tax=Loxodonta africana TaxID=9785 RepID=UPI000C8110C4	0.22814709	0.41223788
+289	UniRef100_A0A0K8L6N5 Cytochrome c oxidase assembly protein 1 n=1 Tax=Aspergillus udagawae TaxID=91492 RepID=A0A0K8L6N5_9EURO	0.68910074	0.7362184
+290	UniRef100_A0A6J8DMH9 TIM21-like protein, mitochondrial n=1 Tax=Mytilus coruscus TaxID=42192 RepID=A0A6J8DMH9_MYTCO	0.58812934	0.16361497
+291	UniRef100_A0A023FFU6 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Amblyomma cajennense TaxID=34607 RepID=A0A023FFU6_AMBCJ	0.5818756	0.16546428
+292	UniRef100_A0A0A2X290 Peptidase M56, BlaR1 n=1 Tax=Lysobacter dokdonensis DS-58 TaxID=1300345 RepID=A0A0A2X290_9GAMM	0.43773812	0.5827708
+293	UniRef100_A0A353Y8D1 Uncharacterized protein n=1 Tax=Curvibacter sp. TaxID=1888168 RepID=A0A353Y8D1_9BURK	0.4016328	0.72131926
+294	UniRef100_A0A2S1QTG5 Uncharacterized protein n=1 Tax=Flavobacterium album TaxID=2175091 RepID=A0A2S1QTG5_9FLAO	0.36040035	0.70295596
+295	UniRef100_A0A3E0PNQ0 Uncharacterized protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3E0PNQ0_9BACT	0.03243778	0.6997034
+296	UniRef100_A0A058Z271 Uncharacterized protein n=1 Tax=Fonticula alba TaxID=691883 RepID=A0A058Z271_FONAL	0.6115412	0.6676492
+297	UniRef100_A0A3M7PXJ4 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Brachionus plicatilis TaxID=10195 RepID=A0A3M7PXJ4_BRAPC	0.57764137	0.14989883
+298	UniRef100_A0A2J6JD51 Uncharacterized protein n=1 Tax=Desulfuromonas sp. TaxID=892 RepID=A0A2J6JD51_9DELT	0.4174541	0.45229515
+299	UniRef100_A0A1I4TSE3 Uncharacterized protein n=2 Tax=Chitinophaga sp. YR627 TaxID=1881041 RepID=A0A1I4TSE3_9BACT	0.31207848	0.81346476
+300	UniRef100_A0A0W4ZED9 Uncharacterized protein n=1 Tax=Pneumocystis carinii (strain B80) TaxID=1408658 RepID=A0A0W4ZED9_PNEC8	0.67705506	0.7211618
+301	UniRef100_UPI000BE17571 uncharacterized protein LOC111248805 isoform X3 n=1 Tax=Varroa destructor TaxID=109461 RepID=UPI000BE17571	0.24181578	0.3475477
+302	UniRef100_F2ULG3 Uncharacterized protein n=1 Tax=Salpingoeca rosetta (strain ATCC 50818 / BSB-021) TaxID=946362 RepID=F2ULG3_SALR5	0.2089266	0.36822116
+303	UniRef100_A0A1I7ZV48 TIM21-like protein, mitochondrial n=1 Tax=Steinernema glaseri TaxID=37863 RepID=A0A1I7ZV48_9BILA	0.6101644	0.14000478
+304	UniRef100_A0A2P2I3E5 TIM21-like protein, mitochondrial n=1 Tax=Hirondellea gigas TaxID=1518452 RepID=A0A2P2I3E5_9CRUS	0.58993673	0.14706115
+305	UniRef100_A0A2U3EGM9 Cytochrome oxidase assembly n=1 Tax=Purpureocillium lilacinum TaxID=33203 RepID=A0A2U3EGM9_PURLI	0.68271136	0.7231282
+306	UniRef100_A0A2P7YEL4 Kinetochore protein spc25 n=1 Tax=Elsinoe australis TaxID=40998 RepID=A0A2P7YEL4_9PEZI	0.68388873	0.7337847
+307	UniRef100_A0A2V8VX03 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8VX03_9BACT	0.21670915	0.58452564
+308	UniRef100_A0A4U8UWZ0 Uncharacterized protein n=2 Tax=Steinernema carpocapsae TaxID=34508 RepID=A0A4U8UWZ0_STECR	0.21829608	0.35020798
+309	UniRef100_A0A085WUE9 TPR_REGION domain-containing protein n=1 Tax=Hyalangium minutum TaxID=394096 RepID=A0A085WUE9_9DELT	0.40679225	0.6234106
+310	UniRef100_A0A3L7ND69 Uncharacterized protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3L7ND69_9BACT	0.29814497	0.57285315
+311	UniRef100_UPI00047ED7D4 hypothetical protein n=1 Tax=Cohnella panacarvi TaxID=400776 RepID=UPI00047ED7D4	0.39783272	0.6519558
+312	UniRef100_A0A3M7EE90 Uncharacterized protein n=2 Tax=Hortaea werneckii TaxID=91943 RepID=A0A3M7EE90_HORWE	0.69340605	0.72972244
+313	UniRef100_UPI000D0BC9FB hypothetical protein n=1 Tax=Escherichia coli TaxID=562 RepID=UPI000D0BC9FB	0.42786422	0.5120196
+314	UniRef100_A0A2K3N711 Putative mitochondrial import inner membrane translocase subunit TIM21-like protein (Fragment) n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3N711_TRIPR	0.6314899	0.15212676
+315	UniRef100_A0A1E3PU33 Mitochondrial import inner membrane translocase subunit TIM21 (Fragment) n=1 Tax=Lipomyces starkeyi NRRL Y-11557 TaxID=675824 RepID=A0A1E3PU33_LIPST	0.61769235	0.09991872
+316	UniRef100_A0A232EED6 TIM21-like protein, mitochondrial n=1 Tax=Trichomalopsis sarcophagae TaxID=543379 RepID=A0A232EED6_9HYME	0.5845716	0.1705465
+317	UniRef100_A0A2N6C2H9 Uncharacterized protein n=1 Tax=Desulfobulbaceae bacterium TaxID=2053307 RepID=A0A2N6C2H9_9DELT	0.40822494	0.48458585
+318	UniRef100_UPI00141DDE3D hypothetical protein n=1 Tax=Rhizomicrobium palustre TaxID=189966 RepID=UPI00141DDE3D	0.20011264	0.88032985
+319	UniRef100_A0A0V0UEL7 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Trichinella murrelli TaxID=144512 RepID=A0A0V0UEL7_9BILA	0.597135	0.14262722
+320	UniRef100_A0A401TAC0 Uncharacterized protein (Fragment) n=1 Tax=Chiloscyllium punctatum TaxID=137246 RepID=A0A401TAC0_CHIPU	0.21525557	0.3849638
+321	UniRef100_K1W725 Cytochrome oxidase complex assembly protein n=1 Tax=Marssonina brunnea f. sp. multigermtubi (strain MB_m1) TaxID=1072389 RepID=K1W725_MARBU	0.7002894	0.7423042
+322	UniRef100_A0A3M7NAG7 Uncharacterized protein (Fragment) n=1 Tax=Chaetothyriales sp. CBS 135597 TaxID=2249420 RepID=A0A3M7NAG7_9EURO	0.6904644	0.72022057
+323	UniRef100_A0A3M7MNU0 Uncharacterized protein (Fragment) n=1 Tax=Chaetothyriales sp. CBS 132003 TaxID=2249419 RepID=A0A3M7MNU0_9EURO	0.68137884	0.7274802
+324	UniRef100_A0A6A6HFV9 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Viridothelium virens TaxID=1048519 RepID=A0A6A6HFV9_9PEZI	0.6101358	0.09931171
+325	UniRef100_A0A4U7AUA0 Cytochrome b mRNA-processing protein 4 n=1 Tax=Elsinoe australis TaxID=40998 RepID=A0A4U7AUA0_9PEZI	0.68937135	0.7288542
+326	UniRef100_A0A1M6H6I3 Uncharacterized protein n=1 Tax=Flavobacterium haoranii TaxID=683124 RepID=A0A1M6H6I3_9FLAO	0.32092726	0.78105974
+327	UniRef100_A0A1I2TLF1 Uncharacterized protein n=1 Tax=Pontibacter chinhatensis TaxID=1436961 RepID=A0A1I2TLF1_9BACT	0.3457756	0.75440246
+328	UniRef100_E6PZH1 Uncharacterized protein n=1 Tax=mine drainage metagenome TaxID=410659 RepID=E6PZH1_9ZZZZ	0.3734893	0.5157608
+329	UniRef100_UPI0012DEBD09 hypothetical protein n=1 Tax=Acidobacteriaceae bacterium KBS 83 TaxID=1267533 RepID=UPI0012DEBD09	0.3341196	0.4836632
+330	UniRef100_A0A2A5G1Q4 Uncharacterized protein n=1 Tax=Flavobacteriales bacterium TaxID=2021391 RepID=A0A2A5G1Q4_9FLAO	0.34457436	0.671542
+331	UniRef100_A0A044TJZ9 Uncharacterized protein n=1 Tax=Onchocerca volvulus TaxID=6282 RepID=A0A044TJZ9_ONCVO	0.2141853	0.35738876
+332	UniRef100_I0IB58 Uncharacterized protein n=1 Tax=Phycisphaera mikurensis (strain NBRC 102666 / KCTC 22515 / FYK2301M01) TaxID=1142394 RepID=I0IB58_PHYMF	0.46324062	0.47122228
+333	UniRef100_A0A2V5T962 Uncharacterized protein n=1 Tax=Verrucomicrobia bacterium TaxID=2026799 RepID=A0A2V5T962_9BACT	0.42055148	0.4645449
+334	UniRef100_A0A3D1UWB0 Uncharacterized protein n=1 Tax=Lentisphaeria bacterium TaxID=2053569 RepID=A0A3D1UWB0_9BACT	0.28957227	0.46920937
+335	UniRef100_A0A1D2J3H7 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Paracoccidioides brasiliensis TaxID=121759 RepID=A0A1D2J3H7_PARBR	0.5976947	0.11748726
+336	UniRef100_A0A510PA78 Uncharacterized protein n=2 Tax=Candida auris TaxID=498019 RepID=A0A510PA78_CANAR	0.7030478	0.72743034
+337	UniRef100_A0A1E3PFM4 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Nadsonia fulvescens var. elongata DSM 6958 TaxID=857566 RepID=A0A1E3PFM4_9ASCO	0.6044452	0.1089462
+338	UniRef100_A0A196S776 Uncharacterized protein n=1 Tax=Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII) TaxID=478820 RepID=A0A196S776_BLAHN	0.50990504	0.57231545
+339	UniRef100_A0A1B0CKL3 Uncharacterized protein n=1 Tax=Lutzomyia longipalpis TaxID=7200 RepID=A0A1B0CKL3_LUTLO	0.26704475	0.3532788
+340	UniRef100_A0A1D2A484 Uncharacterized protein (Fragment) n=1 Tax=Auxenochlorella protothecoides TaxID=3075 RepID=A0A1D2A484_AUXPR	0.63321954	0.13796584
+341	UniRef100_A0A0D3FAM3 Uncharacterized protein n=1 Tax=Oryza barthii TaxID=65489 RepID=A0A0D3FAM3_9ORYZ	0.5646814	0.4759423
+342	UniRef100_A0A421J930 Cytochrome c oxidase assembly factor n=1 Tax=Meyerozyma sp. JA9 TaxID=2028340 RepID=A0A421J930_9ASCO	0.70653397	0.73141026
+343	UniRef100_A0A4U0VJ66 Uncharacterized protein n=1 Tax=Friedmanniomyces endolithicus TaxID=329885 RepID=A0A4U0VJ66_9PEZI	0.6971465	0.7286927
+344	UniRef100_A0A653BT46 TIM21-like protein, mitochondrial n=3 Tax=Callosobruchus maculatus TaxID=64391 RepID=A0A653BT46_CALMS	0.6065652	0.14924815
+345	UniRef100_UPI00062363EE uncharacterized protein LOC105671458 n=1 Tax=Linepithema humile TaxID=83485 RepID=UPI00062363EE	0.21677093	0.3154673
+346	UniRef100_UPI0006B0773B mitochondrial import inner membrane translocase subunit Tim21 isoform X1 n=1 Tax=Apteryx mantelli mantelli TaxID=202946 RepID=UPI0006B0773B	0.5941462	0.15660004
+347	UniRef100_A0A3A8QJS7 Uncharacterized protein n=2 Tax=Corallococcus llansteffanensis TaxID=2316731 RepID=A0A3A8QJS7_9DELT	0.27241138	0.6378801
+348	UniRef100_B6K796 Inner membrane protein n=1 Tax=Schizosaccharomyces japonicus (strain yFS275 / FY16936) TaxID=402676 RepID=B6K796_SCHJY	0.6762369	0.71382856
+349	UniRef100_M5RJD5 Uncharacterized protein n=1 Tax=Rhodopirellula maiorica SM1 TaxID=1265738 RepID=M5RJD5_9BACT	0.03661933	0.6814551
+350	UniRef100_R7VFY7 Uncharacterized protein n=1 Tax=Capitella teleta TaxID=283909 RepID=R7VFY7_CAPTE	0.22031663	0.36531323
+351	UniRef100_A0A2G9GB85 Uncharacterized protein n=1 Tax=Handroanthus impetiginosus TaxID=429701 RepID=A0A2G9GB85_9LAMI	0.64392024	0.14628948
+352	UniRef100_A0A6A7FW89 TIM21-like protein, mitochondrial n=1 Tax=Hirondellea gigas TaxID=1518452 RepID=A0A6A7FW89_9CRUS	0.5932276	0.14531754
+353	UniRef100_A0A2T9YQ89 Uncharacterized protein n=1 Tax=Furculomyces boomerangus TaxID=61424 RepID=A0A2T9YQ89_9FUNG	0.7155957	0.71343935
+354	UniRef100_A0A139AY89 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Gonapodya prolifera (strain JEL478) TaxID=1344416 RepID=A0A139AY89_GONPJ	0.58314997	0.12960254
+355	UniRef100_UPI0015D617FC hypothetical protein n=1 Tax=Betaproteobacteria bacterium TaxID=1891241 RepID=UPI0015D617FC	0.41892332	0.53883207
+356	UniRef100_A0A1U7LI25 Kinetochore protein spc25 n=1 Tax=Neolecta irregularis (strain DAH-3) TaxID=1198029 RepID=A0A1U7LI25_NEOID	0.6854837	0.71110135
+357	UniRef100_A0A2C9UTC3 Uncharacterized protein (Fragment) n=1 Tax=Manihot esculenta TaxID=3983 RepID=A0A2C9UTC3_MANES	0.5383418	0.49902865
+358	UniRef100_A0A4Z2EYP6 Cytochrome c oxidase assembly factor 1 n=1 Tax=Liparis tanakae TaxID=230148 RepID=A0A4Z2EYP6_9TELE	0.20819338	0.4083929
+359	UniRef100_A0A078H528 BnaA07g00270D protein n=1 Tax=Brassica napus TaxID=3708 RepID=A0A078H528_BRANA	0.53559405	0.48574644
+360	UniRef100_A0A137P6A7 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Conidiobolus coronatus (strain ATCC 28846 / CBS 209.66 / NRRL 28638) TaxID=796925 RepID=A0A137P6A7_CONC2	0.6149351	0.12786424
+361	UniRef100_A0A0V0HEE6 Putative mitochondrial import inner membrane translocase subunit Tim21-like n=1 Tax=Solanum chacoense TaxID=4108 RepID=A0A0V0HEE6_SOLCH	0.5417917	0.48964342
+362	UniRef100_A0A0K9Q1Z5 Uncharacterized protein n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9Q1Z5_ZOSMR	0.41891128	0.21385366
+363	UniRef100_A0A0S4L5I3 Uncharacterized protein n=1 Tax=Candidatus Nitrospira nitrosa TaxID=1742972 RepID=A0A0S4L5I3_9BACT	0.3946584	0.6182728
+364	UniRef100_A0A238FFU5 BQ2448_3645 protein n=1 Tax=Microbotryum intermedium TaxID=269621 RepID=A0A238FFU5_9BASI	0.67693305	0.7462506
+365	UniRef100_UPI000BE166DD uncharacterized protein LOC111248805 isoform X1 n=1 Tax=Varroa destructor TaxID=109461 RepID=UPI000BE166DD	0.24015935	0.34172973
+366	UniRef100_UPI0006D4E03B uncharacterized protein LOC103569381 n=1 Tax=Microplitis demolitor TaxID=69319 RepID=UPI0006D4E03B	0.22626883	0.29841295
+367	UniRef100_A0A6B2GXV0 Uncharacterized protein n=1 Tax=Pontibacter sp. BT213 TaxID=2700082 RepID=A0A6B2GXV0_9BACT	0.34983724	0.711692
+368	UniRef100_A0A0K9P1M0 Uncharacterized protein n=1 Tax=Zostera marina TaxID=29655 RepID=A0A0K9P1M0_ZOSMR	0.5364426	0.48114815
+369	UniRef100_A0A059LNK9 Uncharacterized protein n=1 Tax=Helicosporidium sp. ATCC 50920 TaxID=1291522 RepID=A0A059LNK9_9CHLO	0.42773288	0.2219757
+370	UniRef100_A0A0V1PXN4 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Debaryomyces fabryi TaxID=58627 RepID=A0A0V1PXN4_9ASCO	0.6051638	0.07619525
+371	UniRef100_A0A085LUV5 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Trichuris suis TaxID=68888 RepID=A0A085LUV5_9BILA	0.5771121	0.15527724
+372	UniRef100_R0K4V5 Uncharacterized protein C7orf44 n=1 Tax=Anas platyrhynchos TaxID=8839 RepID=R0K4V5_ANAPL	0.21825172	0.4122458
+373	UniRef100_A0A4Q3VHY0 Uncharacterized protein (Fragment) n=1 Tax=Chitinophagaceae bacterium TaxID=1869212 RepID=A0A4Q3VHY0_9BACT	0.5005243	0.63504297
+374	UniRef100_A0A081AXJ1 Uncharacterized protein n=2 Tax=Phytophthora parasitica P1976 TaxID=1317066 RepID=A0A081AXJ1_PHYPR	0.29027125	0.25521228
+375	UniRef100_A0A0V0XB99 TIM21-like protein, mitochondrial n=1 Tax=Trichinella sp. T6 TaxID=92179 RepID=A0A0V0XB99_9BILA	0.59842753	0.14016901
+376	UniRef100_A0A2R7J0J1 Uncharacterized protein (Fragment) n=1 Tax=Stenotrophomonas sp. HMWF023 TaxID=2056859 RepID=A0A2R7J0J1_9GAMM	0.4235869	0.52181554
+377	UniRef100_D8MAJ3 Uncharacterized protein n=1 Tax=Blastocystis hominis TaxID=12968 RepID=D8MAJ3_BLAHO	0.5353703	0.58758366
+378	UniRef100_A0A1Y2ETH2 Cytochrome oxidase assembly protein 1 n=1 Tax=Protomyces lactucaedebilis TaxID=56484 RepID=A0A1Y2ETH2_PROLT	0.6795903	0.7087479
+379	UniRef100_A9USX2 Predicted protein n=1 Tax=Monosiga brevicollis TaxID=81824 RepID=A9USX2_MONBE	0.58535683	0.1259871
+380	UniRef100_A0A3M1Q1T1 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A3M1Q1T1_9BACT	0.43547478	0.7232871
+381	UniRef100_A0A0D3FS69 Uncharacterized protein n=3 Tax=Oryza TaxID=4527 RepID=A0A0D3FS69_9ORYZ	0.5490777	0.49137864
+382	UniRef100_S9PZB9 Inner membrane protein n=1 Tax=Schizosaccharomyces octosporus (strain yFS286) TaxID=483514 RepID=S9PZB9_SCHOY	0.68599695	0.70243335
+383	UniRef100_A0A1L6L283 Uncharacterized protein n=1 Tax=Minicystis rosea TaxID=888845 RepID=A0A1L6L283_9DELT	0.40619826	0.44135153
+384	UniRef100_A0A2T6CP67 GYF_2 domain-containing protein n=1 Tax=Verrucomicrobia bacterium LW23 TaxID=2161867 RepID=A0A2T6CP67_9BACT	0.9972663	0.37586215
+385	UniRef100_A0A287GWI8 Uncharacterized protein n=1 Tax=Hordeum vulgare subsp. vulgare TaxID=112509 RepID=A0A287GWI8_HORVV	0.5306124	0.49915475
+386	UniRef100_A0A5N6QHC4 Uncharacterized protein n=1 Tax=Carpinus fangiana TaxID=176857 RepID=A0A5N6QHC4_9ROSI	0.5311458	0.48220906
+387	UniRef100_UPI0005EE5A68 uncharacterized protein LOC105449441 isoform X2 n=1 Tax=Wasmannia auropunctata TaxID=64793 RepID=UPI0005EE5A68	0.20797592	0.29673204
+388	UniRef100_A0A517MD95 Uncharacterized protein n=1 Tax=Planctomycetes bacterium FF011L TaxID=1930274 RepID=A0A517MD95_9BACT	0.04170494	0.6475625
+389	UniRef100_A0A507F5S2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Chytriomyces confervae TaxID=246404 RepID=A0A507F5S2_9FUNG	0.5748516	0.17751238
+390	UniRef100_A0A0D2WWB6 Uncharacterized protein n=1 Tax=Capsaspora owczarzaki (strain ATCC 30864) TaxID=595528 RepID=A0A0D2WWB6_CAPO3	0.5770886	0.1318309
+391	UniRef100_A0A0W4ZCY5 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Pneumocystis carinii (strain B80) TaxID=1408658 RepID=A0A0W4ZCY5_PNEC8	0.6188477	0.08644225
+392	UniRef100_UPI0003796ED8 hypothetical protein n=1 Tax=Gilvimarinus chinensis TaxID=396005 RepID=UPI0003796ED8	0.43359596	0.6041719
+393	UniRef100_A0A6G0V4R5 TIM21-like protein, mitochondrial n=1 Tax=Halicephalobus sp. NKZ332 TaxID=2598192 RepID=A0A6G0V4R5_9BILA	0.61461747	0.1405928
+394	UniRef100_A0A286AU55 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Variovorax sp. YR752 TaxID=1884383 RepID=A0A286AU55_9BURK	0.405529	0.70747626
+395	UniRef100_A0A1E3PWJ7 Uncharacterized protein n=1 Tax=Lipomyces starkeyi NRRL Y-11557 TaxID=675824 RepID=A0A1E3PWJ7_LIPST	0.67962384	0.7320113
+396	UniRef100_UPI0002658D32 uncharacterized protein LOC100901638 n=1 Tax=Galendromus occidentalis TaxID=34638 RepID=UPI0002658D32	0.24188651	0.30917722
+397	UniRef100_G3PNQ1 Uncharacterized protein n=1 Tax=Gasterosteus aculeatus TaxID=69293 RepID=G3PNQ1_GASAC	0.20410664	0.39984348
+398	UniRef100_A0A4P9XXK5 Cytochrome oxidase complex assembly protein 1-domain-containing protein n=1 Tax=Thamnocephalis sphaerospora TaxID=78915 RepID=A0A4P9XXK5_9FUNG	0.68745273	0.7489351
+399	UniRef100_V8NKN9 Uncharacterized protein (Fragment) n=1 Tax=Ophiophagus hannah TaxID=8665 RepID=V8NKN9_OPHHA	0.21702506	0.4072778
+400	UniRef100_F2UEE9 Uncharacterized protein n=1 Tax=Salpingoeca rosetta (strain ATCC 50818 / BSB-021) TaxID=946362 RepID=F2UEE9_SALR5	0.5594793	0.13431217
+401	UniRef100_A0A024U8W4 Uncharacterized protein n=1 Tax=Aphanomyces invadans TaxID=157072 RepID=A0A024U8W4_9STRA	0.3302436	0.29782143
+402	UniRef100_A0A1S3KHJ8 uncharacterized protein LOC106182026 n=1 Tax=Lingula unguis TaxID=7574 RepID=A0A1S3KHJ8_LINUN	0.18504313	0.37030816
+403	UniRef100_A0A085N5J1 Uncharacterized protein n=1 Tax=Trichuris suis TaxID=68888 RepID=A0A085N5J1_9BILA	0.20025213	0.3242307
+404	UniRef100_A0A4W5JGU5 TIM21-like protein, mitochondrial n=1 Tax=Hucho hucho TaxID=62062 RepID=A0A4W5JGU5_9TELE	0.6042127	0.15934786
+405	UniRef100_A0A2C5YYQ8 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Ophiocordyceps australis TaxID=1399860 RepID=A0A2C5YYQ8_9HYPO	0.60380846	0.06378544
+406	UniRef100_A0A2N1JFW8 Uncharacterized protein n=1 Tax=Malassezia vespertilionis TaxID=2020962 RepID=A0A2N1JFW8_9BASI	0.6513802	0.7241568
+407	UniRef100_A0A165AJJ8 DUF1783-domain-containing protein n=2 Tax=Sistotremastrum TaxID=139133 RepID=A0A165AJJ8_9AGAM	0.66532534	0.74550563
+408	UniRef100_A0A0B1TT42 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Oesophagostomum dentatum TaxID=61180 RepID=A0A0B1TT42_OESDE	0.6137893	0.13385767
+409	UniRef100_A0A0G4IIB4 Uncharacterized protein n=1 Tax=Plasmodiophora brassicae TaxID=37360 RepID=A0A0G4IIB4_PLABS	0.9969806	0.4163866
+410	UniRef100_A0A022PWG1 Uncharacterized protein n=1 Tax=Erythranthe guttata TaxID=4155 RepID=A0A022PWG1_ERYGU	0.42101184	0.21797389
+411	UniRef100_B0BH52 Putative integron gene cassette protein (Fragment) n=1 Tax=uncultured bacterium TaxID=77133 RepID=B0BH52_9BACT	0.41455084	0.74410033
+412	UniRef100_A0A6A5MZ34 Uncharacterized protein n=1 Tax=Lupinus albus TaxID=3870 RepID=A0A6A5MZ34_LUPAL	0.63576704	0.15637074
+413	UniRef100_UPI0008A0DB62 uncharacterized protein LOC104417790 isoform X3 n=1 Tax=Eucalyptus grandis TaxID=71139 RepID=UPI0008A0DB62	0.54327005	0.48380104
+414	UniRef100_A0A0H5R7Z5 Uncharacterized protein (Fragment) n=1 Tax=Spongospora subterranea TaxID=70186 RepID=A0A0H5R7Z5_9EUKA	0.40169165	0.35203284
+415	UniRef100_A0A3M7SYH0 Cytochrome c oxidase assembly factor 1-like protein n=1 Tax=Brachionus plicatilis TaxID=10195 RepID=A0A3M7SYH0_BRAPC	0.1895017	0.3947384
+416	UniRef100_A0A0V0RT97 Uncharacterized protein n=1 Tax=Trichinella nelsoni TaxID=6336 RepID=A0A0V0RT97_9BILA	0.14343795	0.30194265
+417	UniRef100_A0A540WP36 Uncharacterized protein n=2 Tax=Myxococcus sp. AM401 TaxID=2590453 RepID=A0A540WP36_9DELT	0.25773975	0.6566714
+418	UniRef100_A0A196S776 Uncharacterized protein n=1 Tax=Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII) TaxID=478820 RepID=A0A196S776_BLAHN	0.5058829	0.5765922
+419	UniRef100_A0A3N5EWM7 Uncharacterized protein (Fragment) n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3N5EWM7_9BACT	0.17547311	0.749881
+420	UniRef100_A0A3E0NS22 Uncharacterized protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3E0NS22_9BACT	0.66442513	0.54114604
+421	UniRef100_A0A5E8BZL0 Uncharacterized protein n=1 Tax=Saprochaete ingens TaxID=2606893 RepID=A0A5E8BZL0_9ASCO	0.7130641	0.7275638
+422	UniRef100_A0A1Z5RCC3 Uncharacterized protein n=1 Tax=Sorghum bicolor TaxID=4558 RepID=A0A1Z5RCC3_SORBI	0.5264089	0.48584467
+423	UniRef100_A0A4D9D7F9 Uncharacterized protein n=1 Tax=Nannochloropsis salina CCMP1776 TaxID=1027361 RepID=A0A4D9D7F9_9STRA	0.6295535	0.1756549
+424	UniRef100_A0A368FKA6 Uncharacterized protein n=2 Tax=Ancylostoma caninum TaxID=29170 RepID=A0A368FKA6_ANCCA	0.20105353	0.35094312
+425	UniRef100_A0A1Y3B3W9 Uncharacterized protein n=1 Tax=Euroglyphus maynei TaxID=6958 RepID=A0A1Y3B3W9_EURMA	0.19456817	0.37492192
+426	UniRef100_A0A161N1K5 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Triatoma infestans TaxID=30076 RepID=A0A161N1K5_TRIIF	0.58474517	0.16191828
+427	UniRef100_A0A4P9W953 Cytochrome oxidase assembly protein 1 (Fragment) n=1 Tax=Blyttiomyces helicus TaxID=388810 RepID=A0A4P9W953_9FUNG	0.67754704	0.7535591
+428	UniRef100_A0A4S8LS31 DUF1783-domain-containing protein (Fragment) n=1 Tax=Dendrothele bispora (strain CBS 962.96) TaxID=1314807 RepID=A0A4S8LS31_DENBC	0.6707122	0.76153296
+429	UniRef100_A0A210Q688 Uncharacterized protein n=1 Tax=Mizuhopecten yessoensis TaxID=6573 RepID=A0A210Q688_MIZYE	0.18002757	0.40021652
+430	UniRef100_A0A1R3KXY8 Cytochrome oxidase assembly protein 1 n=1 Tax=Corchorus olitorius TaxID=93759 RepID=A0A1R3KXY8_9ROSI	0.53030586	0.49248758
+431	UniRef100_K8EGD1 Uncharacterized protein n=1 Tax=Bathycoccus prasinos TaxID=41875 RepID=K8EGD1_9CHLO	0.6260465	0.13753514
+432	UniRef100_A0A286U1C1 RDD domain-containing protein n=1 Tax=Candidatus Scalindua japonica TaxID=1284222 RepID=A0A286U1C1_9BACT	0.38614932	0.6242971
+433	UniRef100_A0A2G9TL50 Uncharacterized protein n=1 Tax=Teladorsagia circumcincta TaxID=45464 RepID=A0A2G9TL50_TELCI	0.20589945	0.36016947
+434	UniRef100_A0A068UZB3 Uncharacterized protein n=1 Tax=Coffea canephora TaxID=49390 RepID=A0A068UZB3_COFCA	0.4242321	0.21171352
+435	UniRef100_A0A498IVJ2 Uncharacterized protein n=2 Tax=Malus domestica TaxID=3750 RepID=A0A498IVJ2_MALDO	0.5336312	0.48908013
+436	UniRef100_A0A437JKN2 Uncharacterized protein n=1 Tax=Rubrivivax albus TaxID=2499835 RepID=A0A437JKN2_9BURK	0.37287813	0.69209796
+437	UniRef100_A0A3A8QW25 Uncharacterized protein n=2 Tax=Corallococcus aberystwythensis TaxID=2316722 RepID=A0A3A8QW25_9DELT	0.26720932	0.6505621
+438	UniRef100_A0A6J8DMH9 TIM21-like protein, mitochondrial n=1 Tax=Mytilus coruscus TaxID=42192 RepID=A0A6J8DMH9_MYTCO	0.58954066	0.16628115
+439	UniRef100_A0A3D1QWL7 Uncharacterized protein n=1 Tax=Myxococcales bacterium TaxID=2026763 RepID=A0A3D1QWL7_9DELT	0.6210528	0.51901144
+440	UniRef100_A0A176W413 Uncharacterized protein n=1 Tax=Marchantia polymorpha subsp. ruderalis TaxID=1480154 RepID=A0A176W413_MARPO	0.4204967	0.2055892
+441	UniRef100_A0A158Q335 Uncharacterized protein n=1 Tax=Dracunculus medinensis TaxID=318479 RepID=A0A158Q335_DRAME	0.19897775	0.3666026
+442	UniRef100_A0A0A7LIW3 Uncharacterized protein n=1 Tax=Hymenobacter sp. DG25B TaxID=1385664 RepID=A0A0A7LIW3_9BACT	0.99607295	0.45395103
+443	UniRef100_A0A1R3JWB5 Uncharacterized protein n=1 Tax=Corchorus capsularis TaxID=210143 RepID=A0A1R3JWB5_COCAP	0.534719	0.49371466
+444	UniRef100_A0A0N0BJ85 TIM21-like protein, mitochondrial n=1 Tax=Melipona quadrifasciata TaxID=166423 RepID=A0A0N0BJ85_9HYME	0.63974154	0.20600024
+445	UniRef100_F0XTT2 Cytochrome c oxidase assembly protein n=1 Tax=Grosmannia clavigera (strain kw1407 / UAMH 11150) TaxID=655863 RepID=F0XTT2_GROCL	0.6945639	0.72171956
+446	UniRef100_A0A2K3NYZ0 Uncharacterized protein n=1 Tax=Trifolium pratense TaxID=57577 RepID=A0A2K3NYZ0_TRIPR	0.5378195	0.49039498
+447	UniRef100_A0A3S9P8C0 Uncharacterized protein n=1 Tax=Flammeovirga pectinis TaxID=2494373 RepID=A0A3S9P8C0_9BACT	0.3559045	0.8256252
+448	UniRef100_E8X7H6 Uncharacterized protein n=1 Tax=Granulicella tundricola (strain ATCC BAA-1859 / DSM 23138 / MP5ACTX9) TaxID=1198114 RepID=E8X7H6_GRATM	0.33026922	0.5344543
+449	UniRef100_S9WJB4 TIM21-like protein, mitochondrial n=1 Tax=Camelus ferus TaxID=419612 RepID=S9WJB4_CAMFR	0.6034327	0.17364092
+450	UniRef100_A0A3E0PJ43 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A3E0PJ43_9BACT	0.19987789	0.6454603
+451	UniRef100_A0A060YHH4 TIM21-like protein, mitochondrial n=1 Tax=Oncorhynchus mykiss TaxID=8022 RepID=A0A060YHH4_ONCMY	0.6005285	0.16909957
+452	UniRef100_A0A060S720 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Pycnoporus cinnabarinus TaxID=5643 RepID=A0A060S720_PYCCI	0.6191234	0.113630235
+453	UniRef100_A0A1S8B7V5 Cytochrome oxidase assembly protein 1 n=1 Tax=Diplodia seriata TaxID=420778 RepID=A0A1S8B7V5_9PEZI	0.69152105	0.7396514
+454	UniRef100_A0A196SCU4 Tim21 n=1 Tax=Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII) TaxID=478820 RepID=A0A196SCU4_BLAHN	0.6404048	0.17337511
+455	UniRef100_H8FH51 Putative membrane protein n=1 Tax=Xanthomonas citri pv. mangiferaeindicae LMG 941 TaxID=1156940 RepID=H8FH51_XANCI	0.46047136	0.45293015
+456	UniRef100_A0A3C0KWU2 TPR_REGION domain-containing protein (Fragment) n=1 Tax=Syntrophus sp. (in: Bacteria) TaxID=48412 RepID=A0A3C0KWU2_9DELT	0.4181312	0.6265945
+457	UniRef100_X6NIW1 Uncharacterized protein n=1 Tax=Reticulomyxa filosa TaxID=46433 RepID=X6NIW1_RETFI	0.60136473	0.2261447
+458	UniRef100_A0A1Y2BWY6 Uncharacterized protein n=1 Tax=Rhizoclosmatium globosum TaxID=329046 RepID=A0A1Y2BWY6_9FUNG	0.5718127	0.16131118
+459	UniRef100_A0A267FGY8 Uncharacterized protein (Fragment) n=1 Tax=Macrostomum lignano TaxID=282301 RepID=A0A267FGY8_9PLAT	0.1737357	0.35376418
+460	UniRef100_A0A261XUU9 F-box domain-containing protein n=1 Tax=Bifiguratus adelaidae TaxID=1938954 RepID=A0A261XUU9_9FUNG	0.6913747	0.7455717
+461	UniRef100_UPI000719DC3C uncharacterized protein LOC106815749 n=1 Tax=Priapulus caudatus TaxID=37621 RepID=UPI000719DC3C	0.26428425	0.37652445
+462	UniRef100_A0A533Y277 Uncharacterized protein n=1 Tax=Nitrospirae bacterium TaxID=2026887 RepID=A0A533Y277_9BACT	0.37756938	0.72218215
+463	UniRef100_A0A085HLW6 Uncharacterized protein n=1 Tax=Leminorella grimontii ATCC 33999 = DSM 5078 TaxID=1005999 RepID=A0A085HLW6_9GAMM	0.45443463	0.67543536
+464	UniRef100_A0A2G5B6N1 DUF1783-domain-containing protein n=1 Tax=Coemansia reversa (strain ATCC 12441 / NRRL 1564) TaxID=763665 RepID=A0A2G5B6N1_COERN	0.7139473	0.72129416
+465	UniRef100_A0A3C0HJC8 Uncharacterized protein n=1 Tax=Xanthomonadaceae bacterium TaxID=1926873 RepID=A0A3C0HJC8_9GAMM	0.056862794	0.7088761
+466	UniRef100_M4B8V9 Uncharacterized protein n=1 Tax=Hyaloperonospora arabidopsidis (strain Emoy2) TaxID=559515 RepID=M4B8V9_HYAAE	0.29154834	0.26953948
+467	UniRef100_A0A177ATC9 TIM21-like protein, mitochondrial n=1 Tax=Intoshia linei TaxID=1819745 RepID=A0A177ATC9_9BILA	0.59915686	0.17792717
+468	UniRef100_A0A2R6WLE6 Uncharacterized protein n=1 Tax=Marchantia polymorpha TaxID=3197 RepID=A0A2R6WLE6_MARPO	0.56518596	0.49980462
+469	UniRef100_A0A0P1A472 Uncharacterized protein n=1 Tax=Plasmopara halstedii TaxID=4781 RepID=A0A0P1A472_PLAHL	0.9421111	0.5578532
+470	UniRef100_A0A2N9HDK1 Uncharacterized protein n=1 Tax=Fagus sylvatica TaxID=28930 RepID=A0A2N9HDK1_FAGSY	0.5504255	0.48629
+471	UniRef100_UPI000E46B69B hypothetical protein n=1 Tax=Lutibacter sp. SM1352 TaxID=1548456 RepID=UPI000E46B69B	0.4904872	0.6111417
+472	UniRef100_A0A2A4REQ4 Uncharacterized protein n=1 Tax=Flavobacteriaceae bacterium TaxID=1871037 RepID=A0A2A4REQ4_9FLAO	0.43251425	0.5364457
+473	UniRef100_A0A2V8KC14 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8KC14_9BACT	0.3311971	0.4971684
+474	UniRef100_A0A1E5REV6 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Hanseniaspora osmophila TaxID=56408 RepID=A0A1E5REV6_9ASCO	0.5958378	0.085179985
+475	UniRef100_A0A4P9Y8V0 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Piptocephalis cylindrospora TaxID=1907219 RepID=A0A4P9Y8V0_9FUNG	0.60833615	0.12996589
+476	UniRef100_E2BNC2 Uncharacterized protein n=2 Tax=Harpegnathos saltator TaxID=610380 RepID=E2BNC2_HARSA	0.646263	0.26007497
+477	UniRef100_A0A2G9FW94 Uncharacterized protein n=1 Tax=Handroanthus impetiginosus TaxID=429701 RepID=A0A2G9FW94_9LAMI	0.65269065	0.1476268
+478	UniRef100_A0A6F9DFZ9 Uncharacterized protein LOC100176714 n=1 Tax=Phallusia mammillata TaxID=59560 RepID=A0A6F9DFZ9_9ASCI	0.18797846	0.38731495
+479	UniRef100_UPI000D1CB91A probable mitochondrial import inner membrane translocase subunit TIM21 isoform X3 n=1 Tax=Selaginella moellendorffii TaxID=88036 RepID=UPI000D1CB91A	0.637788	0.15248317
+480	UniRef100_A0A2H9THD8 Uncharacterized protein n=1 Tax=Paramicrosporidium saccamoebae TaxID=1246581 RepID=A0A2H9THD8_9FUNG	0.7915424	0.66000944
+481	UniRef100_A0A453GYX9 Protein kinase domain-containing protein n=1 Tax=Aegilops tauschii subsp. strangulata TaxID=200361 RepID=A0A453GYX9_AEGTS	0.54146767	0.479267
+482	UniRef100_A0A423SSJ8 TIM21-like protein, mitochondrial n=1 Tax=Penaeus vannamei TaxID=6689 RepID=A0A423SSJ8_PENVA	0.6069764	0.17242211
+483	UniRef100_A0A5B8MQU0 Uncharacterized protein n=1 Tax=Chloropicon primus TaxID=1764295 RepID=A0A5B8MQU0_9CHLO	0.4211332	0.22893594
+484	UniRef100_A0A0H5R5Q1 Uncharacterized protein (Fragment) n=1 Tax=Spongospora subterranea TaxID=70186 RepID=A0A0H5R5Q1_9EUKA	0.2511689	0.028706273
+485	UniRef100_A0A2D4BZH0 PHD domain-containing protein n=1 Tax=Pythium insidiosum TaxID=114742 RepID=A0A2D4BZH0_PYTIN	0.62394875	0.182844
+486	UniRef100_A0A2S7WTP6 Uncharacterized protein n=2 Tax=Polaribacter porphyrae TaxID=1137780 RepID=A0A2S7WTP6_9FLAO	0.47647348	0.6386555
+487	UniRef100_O14320 Cytochrome c oxidase assembly factor 1 n=1 Tax=Schizosaccharomyces pombe (strain 972 / ATCC 24843) TaxID=284812 RepID=COA1_SCHPO	0.6687518	0.7009296
+488	UniRef100_A0A3N5IEN0 Uncharacterized protein n=1 Tax=Planctomycetaceae bacterium TaxID=2026779 RepID=A0A3N5IEN0_9PLAN	0.07298323	0.6913818
+489	UniRef100_A0A2P2JCU0 Uncharacterized protein LOC105125640 n=1 Tax=Rhizophora mucronata TaxID=61149 RepID=A0A2P2JCU0_RHIMU	0.54432666	0.49776593
+490	UniRef100_A0A4S8M1Y8 Uncharacterized protein n=1 Tax=Dendrothele bispora (strain CBS 962.96) TaxID=1314807 RepID=A0A4S8M1Y8_DENBC	0.6592515	0.7670769
+491	UniRef100_A0A098PWE2 Uncharacterized protein n=1 Tax=Xanthomonas axonopodis pv. vasculorum TaxID=325777 RepID=A0A098PWE2_9XANT	0.008125864	0.71871376
+492	UniRef100_A0A425BKH7 Uncharacterized protein (Fragment) n=1 Tax=Scytalidium sp. 3C TaxID=2487125 RepID=A0A425BKH7_9PEZI	0.699991	0.73235005
+493	UniRef100_A0A1Y1IMZ2 Uncharacterized protein n=1 Tax=Klebsormidium nitens TaxID=105231 RepID=A0A1Y1IMZ2_KLENI	0.41107172	0.22259405
+494	UniRef100_A0A0F4GHQ6 Uncharacterized protein n=1 Tax=Zymoseptoria brevis TaxID=1047168 RepID=A0A0F4GHQ6_9PEZI	0.105263904	0.0
+495	UniRef100_A0A507C653 Uncharacterized protein n=1 Tax=Synchytrium endobioticum TaxID=286115 RepID=A0A507C653_9FUNG	0.7046796	0.76652485
+496	UniRef100_A0A1F8WFU0 Uncharacterized protein n=2 Tax=unclassified Deltaproteobacteria TaxID=122706 RepID=A0A1F8WFU0_9DELT	0.27635846	0.7545778
+497	UniRef100_A0A1C7LMB2 Uncharacterized protein n=1 Tax=Grifola frondosa TaxID=5627 RepID=A0A1C7LMB2_GRIFR	0.6548237	0.7481506
+498	UniRef100_UPI000B4C973D mitochondrial import inner membrane translocase subunit Tim21 isoform X2 n=1 Tax=Lonchura striata domestica TaxID=299123 RepID=UPI000B4C973D	0.5862266	0.14980271
+499	UniRef100_A0A6H5JA00 Uncharacterized protein n=1 Tax=Ectocarpus sp. CCAP 1310/34 TaxID=867726 RepID=A0A6H5JA00_9PHAE	0.64213634	0.1834574
+500	UniRef100_UPI0012ED5EFB uncharacterized protein LOC116399790 isoform X1 n=1 Tax=Anarrhichthys ocellatus TaxID=433405 RepID=UPI0012ED5EFB	0.21050535	0.41490915
+501	UniRef100_A0A1J7FVI8 Uncharacterized protein n=1 Tax=Lupinus angustifolius TaxID=3871 RepID=A0A1J7FVI8_LUPAN	0.54433435	0.4926301
+502	UniRef100_A0A512UDQ5 Uncharacterized protein n=1 Tax=Metschnikowia sp. JCM 33374 TaxID=2562755 RepID=A0A512UDQ5_9ASCO	0.70379084	0.71889454
+503	UniRef100_A0A2V8RP83 Thioredoxin domain-containing protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V8RP83_9BACT	0.3880557	0.6598481
+504	UniRef100_UPI001036488D uncharacterized protein LOC114270777 n=1 Tax=Camellia sinensis TaxID=4442 RepID=UPI001036488D	0.54022324	0.48593575
+505	UniRef100_U6MPJ6 Uncharacterized protein n=1 Tax=Eimeria necatrix TaxID=51315 RepID=U6MPJ6_9EIME	0.7576741	0.4902109
+506	UniRef100_A0A1D6I055 Receptor-like kinase LIP2 n=1 Tax=Zea mays TaxID=4577 RepID=A0A1D6I055_MAIZE	0.54575795	0.47725457
+507	UniRef100_R1DDL5 Uncharacterized protein n=1 Tax=Emiliania huxleyi TaxID=2903 RepID=R1DDL5_EMIHU	0.6186624	0.18417282
+508	UniRef100_A0A0P1AD42 Transmembrane protein n=1 Tax=Plasmopara halstedii TaxID=4781 RepID=A0A0P1AD42_PLAHL	0.6331125	0.18244623
+509	UniRef100_L8H0R8 TIM21 protein n=1 Tax=Acanthamoeba castellanii str. Neff TaxID=1257118 RepID=L8H0R8_ACACA	0.592053	0.12590508
+510	UniRef100_A0A1I8B9K3 Uncharacterized protein n=1 Tax=Meloidogyne hapla TaxID=6305 RepID=A0A1I8B9K3_MELHA	0.20324996	0.3347949
+511	UniRef100_A0A084A0H1 Uncharacterized protein n=1 Tax=Serratia sp. DD3 TaxID=1410619 RepID=A0A084A0H1_9GAMM	0.38903344	0.99505377
+512	UniRef100_A0A3E0Q0X2 Uncharacterized protein n=1 Tax=Planctomycetes bacterium TaxID=2026780 RepID=A0A3E0Q0X2_9BACT	0.01879743	0.6908401
+513	UniRef100_F4IUI1 Cytochrome oxidase complex assembly protein n=1 Tax=Arabidopsis thaliana TaxID=3702 RepID=F4IUI1_ARATH	0.53816205	0.47467712
+514	UniRef100_A8WR49 GTP cyclohydrolase 1 feedback regulatory protein n=1 Tax=Caenorhabditis briggsae TaxID=6238 RepID=A8WR49_CAEBR	0.18363863	0.336413
+515	UniRef100_A0A2D4CD06 Uncharacterized protein n=1 Tax=Pythium insidiosum TaxID=114742 RepID=A0A2D4CD06_PYTIN	0.29823276	0.2517167
+516	UniRef100_A0A024TUZ7 Uncharacterized protein n=1 Tax=Aphanomyces invadans TaxID=157072 RepID=A0A024TUZ7_9STRA	0.9567208	0.55279845
+517	UniRef100_A0A1L6LD99 Uncharacterized protein n=1 Tax=Minicystis rosea TaxID=888845 RepID=A0A1L6LD99_9DELT	0.35201758	0.43791705
+518	UniRef100_A0A1Y1WHQ8 Uncharacterized protein n=1 Tax=Linderina pennispora TaxID=61395 RepID=A0A1Y1WHQ8_9FUNG	0.6427999	0.09825664
+519	UniRef100_A0A024G7C4 Uncharacterized protein n=1 Tax=Albugo candida TaxID=65357 RepID=A0A024G7C4_9STRA	0.29799455	0.26259044
+520	UniRef100_A0A250XGY5 Uncharacterized protein n=1 Tax=Chlamydomonas eustigma TaxID=1157962 RepID=A0A250XGY5_9CHLO	0.4512006	0.22727844
+521	UniRef100_A0A4S8M1W9 DUF1783-domain-containing protein (Fragment) n=1 Tax=Dendrothele bispora (strain CBS 962.96) TaxID=1314807 RepID=A0A4S8M1W9_DENBC	0.6508837	0.76660454
+522	UniRef100_UPI0013D91035 hypothetical protein n=1 Tax=Pyxidicoccus sp. CA032A TaxID=2709663 RepID=UPI0013D91035	0.2740716	0.68675816
+523	UniRef100_A0A086LX84 Uncharacterized protein n=3 Tax=Toxoplasma gondii TaxID=5811 RepID=A0A086LX84_TOXGO	0.8568972	0.48966172
+524	UniRef100_A0A5N6N8Z3 Uncharacterized protein n=1 Tax=Mikania micrantha TaxID=192012 RepID=A0A5N6N8Z3_9ASTR	0.54574114	0.48694673
+525	UniRef100_A0A0G4IUQ2 Uncharacterized protein n=1 Tax=Plasmodiophora brassicae TaxID=37360 RepID=A0A0G4IUQ2_PLABS	0.4320556	0.6719092
+526	UniRef100_A0A5C5FXY1 Uncharacterized protein n=1 Tax=Rhodotorula diobovata TaxID=5288 RepID=A0A5C5FXY1_9BASI	0.68534046	0.7688117
+527	UniRef100_A0A498SBF6 Uncharacterized protein n=1 Tax=Acanthocheilonema viteae TaxID=6277 RepID=A0A498SBF6_ACAVI	0.19080175	0.34978738
+528	UniRef100_UPI000F4DCD52 hypothetical protein n=1 Tax=Luteimonas sp. 100069 TaxID=2006109 RepID=UPI000F4DCD52	0.35835665	0.5431875
+529	UniRef100_A0A0S4P3A5 Uncharacterized protein n=1 Tax=Janthinobacterium sp. CG23_2 TaxID=1706231 RepID=A0A0S4P3A5_9BURK	0.38256678	0.74166036
+530	UniRef100_A0A2A2JT18 Uncharacterized protein n=1 Tax=Diploscapter pachys TaxID=2018661 RepID=A0A2A2JT18_9BILA	0.21223654	0.3471863
+531	UniRef100_Q3BMZ7 Putative membrane protein n=1 Tax=Xanthomonas campestris pv. vesicatoria (strain 85-10) TaxID=316273 RepID=Q3BMZ7_XANC5	0.44241703	0.4927181
+532	UniRef100_A0A0M0LR91 Uncharacterized protein n=1 Tax=Chrysochromulina tobinii TaxID=1460289 RepID=A0A0M0LR91_9EUKA	0.621263	0.19791894
+533	UniRef100_A0A517M8Z7 Cytochrome oxidase complex assembly protein 1 n=1 Tax=Planctomycetes bacterium FF011L TaxID=1930274 RepID=A0A517M8Z7_9BACT	0.0788763	0.67255044
+534	UniRef100_A0A3R7B8K5 Uncharacterized protein n=1 Tax=Aphanomyces astaci TaxID=112090 RepID=A0A3R7B8K5_9STRA	0.68341434	0.20105381
+535	UniRef100_A0A5C7XQD9 Uncharacterized protein n=1 Tax=Lysobacter sp. TaxID=72226 RepID=A0A5C7XQD9_LYSSP	0.015106925	0.73160243
+536	UniRef100_E2C6T3 TIM21-like protein, mitochondrial n=1 Tax=Harpegnathos saltator TaxID=610380 RepID=E2C6T3_HARSA	0.5692172	0.27122217
+537	UniRef100_A0A178VSL5 Uncharacterized protein n=2 Tax=Arabidopsis thaliana TaxID=3702 RepID=A0A178VSL5_ARATH	0.41746616	0.2088831
+538	UniRef100_A0A1S8VCB7 Uncharacterized protein n=1 Tax=Batrachochytrium salamandrivorans TaxID=1357716 RepID=A0A1S8VCB7_9FUNG	0.5604826	0.12119029
+539	UniRef100_UPI0012BCC31C hypothetical protein n=1 Tax=Fulvivirga lutimaris TaxID=1819566 RepID=UPI0012BCC31C	0.3955274	0.8620775
+540	UniRef100_A0A0L0SDH9 Uncharacterized protein n=1 Tax=Allomyces macrogynus (strain ATCC 38327) TaxID=578462 RepID=A0A0L0SDH9_ALLM3	0.7151039	0.7408342
+541	UniRef100_A0A0V0QB89 Uncharacterized protein n=1 Tax=Pseudocohnilembus persalinus TaxID=266149 RepID=A0A0V0QB89_PSEPJ	0.87949526	0.44591627
+542	UniRef100_A0A1Q3JNH8 Uncharacterized protein n=1 Tax=Alphaproteobacteria bacterium 64-11 TaxID=1895709 RepID=A0A1Q3JNH8_9PROT	0.23460801	0.77460563
+543	UniRef100_E2AUI4 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Camponotus floridanus TaxID=104421 RepID=E2AUI4_CAMFO	0.5711972	0.1524935
+544	UniRef100_A0A196SM23 Uncharacterized protein n=1 Tax=Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII) TaxID=478820 RepID=A0A196SM23_BLAHN	0.68727577	0.51573986
+545	UniRef100_R1ISA7 Uncharacterized protein n=1 Tax=Grimontia indica TaxID=1056512 RepID=R1ISA7_9GAMM	0.31759796	0.62836397
+546	UniRef100_Q54E00 Uncharacterized protein n=1 Tax=Dictyostelium discoideum TaxID=44689 RepID=Q54E00_DICDI	0.79252666	0.17351224
+547	UniRef100_A0A5N5NS51 Uncharacterized protein n=1 Tax=Salix brachista TaxID=2182728 RepID=A0A5N5NS51_9ROSI	0.54212505	0.5022188
+548	UniRef100_UPI000DF4EC22 uncharacterized protein LOC112880421 isoform X2 n=1 Tax=Panicum hallii TaxID=206008 RepID=UPI000DF4EC22	0.55316895	0.48188716
+549	UniRef100_A0A016WVA4 HECT-type E3 ubiquitin transferase n=1 Tax=Ancylostoma ceylanicum TaxID=53326 RepID=A0A016WVA4_9BILA	1.0	0.49428505
+550	UniRef100_A0A662YGW4 Uncharacterized protein n=1 Tax=Nothophytophthora sp. Chile5 TaxID=2483409 RepID=A0A662YGW4_9STRA	0.28762242	0.24876463
+551	UniRef100_A0A2I3HRL0 Uncharacterized protein n=1 Tax=Nomascus leucogenys TaxID=61853 RepID=A0A2I3HRL0_NOMLE	0.12593704	0.43595615
+552	UniRef100_UPI000644AB63 hypothetical protein n=1 Tax=Acytostelium subglobosum LB1 TaxID=1410327 RepID=UPI000644AB63	0.85500026	0.21680628
+553	UniRef100_UPI000D1CD2FB uncharacterized protein LOC9643210 n=2 Tax=Selaginella moellendorffii TaxID=88036 RepID=UPI000D1CD2FB	0.42977595	0.21660943
+554	UniRef100_A0A328C0F6 Uncharacterized protein (Fragment) n=1 Tax=Lujinxingia litoralis TaxID=2211119 RepID=A0A328C0F6_9DELT	0.24468842	0.6753261
+555	UniRef100_A0A1S8VAP1 Uncharacterized protein n=1 Tax=Batrachochytrium salamandrivorans TaxID=1357716 RepID=A0A1S8VAP1_9FUNG	0.5422219	0.09936983
+556	UniRef100_A0A2K1J0N0 Uncharacterized protein n=1 Tax=Physcomitrium patens TaxID=3218 RepID=A0A2K1J0N0_PHYPA	0.5700689	0.49203175
+557	UniRef100_A0A1Y1I2L0 Uncharacterized protein n=1 Tax=Klebsormidium nitens TaxID=105231 RepID=A0A1Y1I2L0_KLENI	0.56390697	0.48263022
+558	UniRef100_A0A336LTD3 CSON004411 protein n=1 Tax=Culicoides sonorensis TaxID=179676 RepID=A0A336LTD3_CULSO	0.27074593	0.33051357
+559	UniRef100_A0A517T4V4 Uncharacterized protein n=1 Tax=Planctomycetes bacterium V22 TaxID=2528027 RepID=A0A517T4V4_9BACT	0.07312231	0.70979756
+560	UniRef100_L1JRV4 Uncharacterized protein n=1 Tax=Guillardia theta (strain CCMP2712) TaxID=905079 RepID=L1JRV4_GUITC	0.7202074	0.55332214
+561	UniRef100_A0A255R8H3 Uncharacterized protein n=2 Tax=Rhodopirellula TaxID=265488 RepID=A0A255R8H3_9BACT	0.054250233	0.6828724
+562	UniRef100_D2R3U5 Uncharacterized protein n=1 Tax=Pirellula staleyi (strain ATCC 27377 / DSM 6068 / ICPB 4128) TaxID=530564 RepID=D2R3U5_PIRSD	0.1719331	0.5684629
+563	UniRef100_A0A2I4DZS4 uncharacterized protein LOC108984986 n=1 Tax=Juglans regia TaxID=51240 RepID=A0A2I4DZS4_JUGRE	0.5557014	0.49062282
+564	UniRef100_A0A1I7S2H5 Acyltransferase n=1 Tax=Bursaphelenchus xylophilus TaxID=6326 RepID=A0A1I7S2H5_BURXY	0.1222166	0.3181573
+565	UniRef100_UPI000DB96EB9 hypothetical protein n=1 Tax=Algoriphagus litoralis TaxID=2202829 RepID=UPI000DB96EB9	0.32713515	0.64489734
+566	UniRef100_C3Y8L0 TIM21-like protein, mitochondrial (Fragment) n=2 Tax=Branchiostoma floridae TaxID=7739 RepID=C3Y8L0_BRAFL	0.5788565	0.16044024
+567	UniRef100_H8FH50 Uncharacterized protein n=1 Tax=Xanthomonas citri pv. mangiferaeindicae LMG 941 TaxID=1156940 RepID=H8FH50_XANCI	0.36163178	0.5584759
+568	UniRef100_N6UF73 TIM21-like protein, mitochondrial (Fragment) n=2 Tax=Dendroctonus ponderosae TaxID=77166 RepID=N6UF73_DENPD	0.6103086	0.15686731
+569	UniRef100_H3CRW0 TIM21-like protein, mitochondrial n=1 Tax=Tetraodon nigroviridis TaxID=99883 RepID=H3CRW0_TETNG	0.5903451	0.17096947
+570	UniRef100_F4QEZ2 Uncharacterized protein n=1 Tax=Cavenderia fasciculata (strain SH3) TaxID=1054147 RepID=F4QEZ2_CAVFA	0.8911202	0.21883138
+571	UniRef100_A0A425BT72 Mitochondrial import inner membrane translocase subunit TIM21 (Fragment) n=1 Tax=Scytalidium sp. 3C TaxID=2487125 RepID=A0A425BT72_9PEZI	0.5981963	0.098687395
+572	UniRef100_A0A0D7BAK8 Uncharacterized protein n=1 Tax=Cylindrobasidium torrendii FP15055 ss-10 TaxID=1314674 RepID=A0A0D7BAK8_9AGAR	0.6228079	0.117001645
+573	UniRef100_A0A2D4WRB3 Uncharacterized protein n=1 Tax=Planctomycetaceae bacterium TaxID=2026779 RepID=A0A2D4WRB3_9PLAN	0.077490054	0.63380665
+574	UniRef100_A0A3N1YKK9 Uncharacterized protein n=2 Tax=Diaphorobacter nitroreducens TaxID=164759 RepID=A0A3N1YKK9_9BURK	0.3994071	0.7769147
+575	UniRef100_A0A388JWT3 Uncharacterized protein n=1 Tax=Chara braunii TaxID=69332 RepID=A0A388JWT3_CHABU	0.42643353	0.20361085
+576	UniRef100_UPI0013F22117 uncharacterized protein LOC116853334 n=1 Tax=Odontomachus brunneus TaxID=486640 RepID=UPI0013F22117	0.6089506	0.25504848
+577	UniRef100_A0A4P9Y8P6 Cytochrome oxidase assembly protein 1 (Fragment) n=1 Tax=Piptocephalis cylindrospora TaxID=1907219 RepID=A0A4P9Y8P6_9FUNG	0.69814706	0.74952376
+578	UniRef100_A0A1J4RWI8 Uncharacterized protein n=1 Tax=Anaerolineae bacterium CG1_02_58_13 TaxID=1805002 RepID=A0A1J4RWI8_9CHLR	0.27652743	0.59797543
+579	UniRef100_A0A2N2HLA2 TPR_REGION domain-containing protein n=1 Tax=Deltaproteobacteria bacterium HGW-Deltaproteobacteria-19 TaxID=2013746 RepID=A0A2N2HLA2_9DELT	0.41438484	0.6463331
+580	UniRef100_A0A0Q1DQ36 Uncharacterized protein n=1 Tax=Muricauda eckloniae TaxID=346185 RepID=A0A0Q1DQ36_9FLAO	0.47117737	0.5454983
+581	UniRef100_A0A1M3MXG5 Uncharacterized protein n=1 Tax=Myxococcales bacterium 68-20 TaxID=1895795 RepID=A0A1M3MXG5_9DELT	0.46163413	1.0
+582	UniRef100_A0A0L6UA62 Uncharacterized protein n=1 Tax=Puccinia sorghi TaxID=27349 RepID=A0A0L6UA62_9BASI	0.67415017	0.7716598
+583	UniRef100_D2R3U6 Uncharacterized protein n=1 Tax=Pirellula staleyi (strain ATCC 27377 / DSM 6068 / ICPB 4128) TaxID=530564 RepID=D2R3U6_PIRSD	0.10963089	0.7772168
+584	UniRef100_A0A2J8K9I4 COA1 isoform 15 n=1 Tax=Pan troglodytes TaxID=9598 RepID=A0A2J8K9I4_PANTR	0.1265058	0.4214906
+585	UniRef100_A0A0E0DAB8 Uncharacterized protein n=1 Tax=Oryza meridionalis TaxID=40149 RepID=A0A0E0DAB8_9ORYZ	0.55126464	0.49628457
+586	UniRef100_A0A150FUY5 Uncharacterized protein n=1 Tax=Gonium pectorale TaxID=33097 RepID=A0A150FUY5_GONPE	0.59072137	0.49525246
+587	UniRef100_UPI001575A2E3 hypothetical protein n=1 Tax=Burkholderiales bacterium TaxID=1891238 RepID=UPI001575A2E3	0.27849877	0.91706896
+588	UniRef100_A0A2U9CVM2 TIM21-like protein, mitochondrial n=1 Tax=Scophthalmus maximus TaxID=52904 RepID=A0A2U9CVM2_SCOMX	0.5937337	0.17260501
+589	UniRef100_I1CFJ3 Uncharacterized protein n=1 Tax=Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880) TaxID=246409 RepID=I1CFJ3_RHIO9	0.56382596	0.16168067
+590	UniRef100_J7S614 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Kazachstania naganishii (strain ATCC MYA-139 / BCRC 22969 / CBS 8797 / KCTC 17520 / NBRC 10181 / NCYC 3082 / Yp74L-3) TaxID=1071383 RepID=J7S614_KAZNA	0.5938172	0.094296284
+591	UniRef100_A0A1B7THK2 DUF1783-domain-containing protein n=1 Tax=Hanseniaspora valbyensis NRRL Y-1626 TaxID=766949 RepID=A0A1B7THK2_9ASCO	0.7049446	0.7140605
+592	UniRef100_A0A152A1G7 Uncharacterized protein n=1 Tax=Tieghemostelium lacteum TaxID=361077 RepID=A0A152A1G7_9MYCE	0.8711392	0.18905577
+593	UniRef100_A0A661MYN3 Uncharacterized protein n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A661MYN3_9DELT	0.30043662	0.6456547
+594	UniRef100_A0A521HK60 Uncharacterized protein n=1 Tax=Gammaproteobacteria bacterium TaxID=1913989 RepID=A0A521HK60_9GAMM	0.043928485	0.7193645
+595	UniRef100_D8UJ17 t-SNARE coiled-coil homology domain-containing protein n=1 Tax=Volvox carteri f. nagariensis TaxID=3068 RepID=D8UJ17_VOLCA	0.64039236	0.14075948
+596	UniRef100_UPI0013DE7AEB hypothetical protein n=1 Tax=Xanthomonas euvesicatoria TaxID=456327 RepID=UPI0013DE7AEB	0.3494075	0.57400966
+597	UniRef100_D2R5J0 Uncharacterized protein n=2 Tax=Pirellula staleyi TaxID=125 RepID=D2R5J0_PIRSD	0.048221894	0.69693166
+598	UniRef100_A0A3M6VGV7 Uncharacterized protein n=1 Tax=Peronospora effusa TaxID=542832 RepID=A0A3M6VGV7_9STRA	0.9245727	0.5613121
+599	UniRef100_A0A5C6UPJ0 Protein kinase n=2 Tax=Bradymonadales TaxID=1779134 RepID=A0A5C6UPJ0_9DELT	0.23516998	0.71192926
+600	UniRef100_A0A2V9W933 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A2V9W933_9BACT	0.24655539	0.55219376
+601	UniRef100_A0A438NC25 Uncharacterized protein n=1 Tax=Exophiala mesophila TaxID=212818 RepID=A0A438NC25_EXOME	0.6956424	0.7382457
+602	UniRef100_J3KWQ9 Thioredoxin domain-containing protein n=1 Tax=Oryza brachyantha TaxID=4533 RepID=J3KWQ9_ORYBR	0.42910576	0.20641693
+603	UniRef100_C4Y0H6 Mitochondrial import inner membrane translocase subunit TIM21 n=2 Tax=Clavispora lusitaniae TaxID=36911 RepID=C4Y0H6_CLAL4	0.60764277	0.091027685
+604	UniRef100_A0A6J1SKW6 uncharacterized protein LOC113207041 n=1 Tax=Frankliniella occidentalis TaxID=133901 RepID=A0A6J1SKW6_FRAOC	0.11682972	0.24689591
+605	UniRef100_A0A3A8T0H3 Uncharacterized protein n=2 Tax=unclassified Corallococcus TaxID=2685029 RepID=A0A3A8T0H3_9DELT	0.30477917	0.54729587
+606	UniRef100_A0A523E970 Uncharacterized protein n=1 Tax=Acidobacteria bacterium TaxID=1978231 RepID=A0A523E970_9BACT	0.013679936	0.70341617
+607	UniRef100_A0A1R1PFE2 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Zancudomyces culisetae TaxID=1213189 RepID=A0A1R1PFE2_ZANCU	0.6376775	0.116099276
+608	UniRef100_A0A1C7MS67 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Grifola frondosa TaxID=5627 RepID=A0A1C7MS67_GRIFR	0.61730266	0.11996507
+609	UniRef100_A0A2E4PEG6 Uncharacterized protein n=1 Tax=Flavobacterium sp. TaxID=239 RepID=A0A2E4PEG6_FLASP	0.34598184	0.77820206
+610	UniRef100_A0A0D6EI20 Mitochondrial import inner membrane translocase subunit TIM21 n=1 Tax=Sporidiobolus salmonicolor TaxID=5005 RepID=A0A0D6EI20_SPOSA	0.5797594	0.12118723
+611	UniRef100_A0A394DA47 Uncharacterized protein n=2 Tax=Lupinus angustifolius TaxID=3871 RepID=A0A394DA47_LUPAN	0.41356817	0.21253175
+612	UniRef100_UPI00094BBBF9 hypothetical protein n=1 Tax=Algoriphagus marinus TaxID=1925762 RepID=UPI00094BBBF9	0.30823317	0.74739915
+613	UniRef100_A0A210Q6D0 Uncharacterized protein n=1 Tax=Mizuhopecten yessoensis TaxID=6573 RepID=A0A210Q6D0_MIZYE	0.17418258	0.4126982
+614	UniRef100_A0A166S6G5 Uncharacterized protein n=1 Tax=Fibularhizoctonia sp. CBS 109695 TaxID=436010 RepID=A0A166S6G5_9AGAM	0.6602605	0.7783086
+615	UniRef100_A0A6H2KK00 Uncharacterized protein n=1 Tax=Flammeovirga sp. MY04 TaxID=1191459 RepID=A0A6H2KK00_9BACT	0.30617815	0.7224829
+616	UniRef100_A0A183DV19 Uncharacterized protein n=1 Tax=Gongylonema pulchrum TaxID=637853 RepID=A0A183DV19_9BILA	0.18911241	0.35971254
+617	UniRef100_A0A4U0PWP2 Uncharacterized protein n=1 Tax=Chitiniphilus eburneus TaxID=2571148 RepID=A0A4U0PWP2_9NEIS	0.37117624	0.7811153
+618	UniRef100_A0A0C2WYB2 Uncharacterized protein n=1 Tax=Serendipita vermifera MAFF 305830 TaxID=933852 RepID=A0A0C2WYB2_9AGAM	0.6272132	0.078815475
+619	UniRef100_A0A150G904 Uncharacterized protein n=1 Tax=Gonium pectorale TaxID=33097 RepID=A0A150G904_GONPE	0.43611047	0.22040173
+620	UniRef100_A0A0X3PT43 TIM21-like protein, mitochondrial (Fragment) n=1 Tax=Schistocephalus solidus TaxID=70667 RepID=A0A0X3PT43_SCHSO	0.57775193	0.13866459
+621	UniRef100_A0A438KE27 Uncharacterized protein n=1 Tax=Vitis vinifera TaxID=29760 RepID=A0A438KE27_VITVI	0.5571807	0.49935716
+622	UniRef100_A0A3L6T7V0 Uncharacterized protein n=1 Tax=Panicum miliaceum TaxID=4540 RepID=A0A3L6T7V0_PANMI	0.5516173	0.47702974
+623	UniRef100_A0A3L6TF88 Uncharacterized protein n=1 Tax=Panicum miliaceum TaxID=4540 RepID=A0A3L6TF88_PANMI	0.67627656	0.16022998
