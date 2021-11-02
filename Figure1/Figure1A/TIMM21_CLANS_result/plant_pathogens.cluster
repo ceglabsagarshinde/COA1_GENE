@@ -1,0 +1,64 @@
+569  tr|A0A6U3V0H2|A0A6U3V0H2_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Dictyocha speculum OX=35687 GN=DSPE1174_LOCUS19412 PE=3 SV=1
+1910 tr|D8M9Z2|D8M9Z2_BLAHO Tim21 OS=Blastocystis hominis OX=12968 GN=GSBLH_T00006840001 PE=3 SV=1
+1986 tr|A0A2R5GYK3|A0A2R5GYK3_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Hondaea fermentalgiana OX=2315210 GN=FCC1311_100362 PE=3 SV=1
+2012 tr|A0A4E0R3C0|A0A4E0R3C0_FASHE Mitochondrial import inner membrane translocase subunit Tim21 OS=Fasciola hepatica OX=6192 GN=D915_007399 PE=3 SV=1
+40   tr|A0A2D4BZH0|A0A2D4BZH0_PYTIN PHD domain-containing protein OS=Pythium insidiosum OX=114742 GN=PINS_007588 PE=3 SV=1
+49   tr|T0Q0I2|T0Q0I2_SAPDV Uncharacterized protein OS=Saprolegnia diclina (strain VS20) OX=1156394 GN=SDRG_10956 PE=3 SV=1
+53   tr|D0NXN8|D0NXN8_PHYIT Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora infestans (strain T30-4) OX=403677 GN=PITG_18235 PE=3 SV=1
+64   tr|A0A1E7FT23|A0A1E7FT23_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Fragilariopsis cylindrus CCMP1102 OX=635003 GN=FRACYDRAFT_206320 PE=3 SV=1
+82   tr|M4BZ06|M4BZ06_HYAAE Mitochondrial import inner membrane translocase subunit Tim21 OS=Hyaloperonospora arabidopsidis (strain Emoy2) OX=559515 PE=3 SV=1
+110  tr|A0A1V9ZGH6|A0A1V9ZGH6_9STRA Transmembrane protein OS=Achlya hypogyna OX=1202772 GN=ACHHYP_12925 PE=3 SV=1
+318  tr|A0A1S8VCB7|A0A1S8VCB7_9FUNG Mitochondrial import inner membrane translocase subunit Tim21 OS=Batrachochytrium salamandrivorans OX=1357716 GN=BSLG_09503 PE=3 SV=1
+511  tr|A0A3R7NH25|A0A3R7NH25_9STRA Uncharacterized protein OS=Phytophthora kernoviae OX=325452 GN=BBI17_005058 PE=3 SV=1
+521  tr|W2IBT5|W2IBT5_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica OX=4792 GN=L914_16049 PE=3 SV=1
+525  tr|W2MP34|W2MP34_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica OX=4792 GN=L914_16049 PE=3 SV=1
+529  tr|A0A6S8YBJ7|A0A6S8YBJ7_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Chaetoceros debilis OX=122233 GN=CDEB00056_LOCUS19794 PE=3 SV=1
+570  tr|A0A6T7F8W4|A0A6T7F8W4_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Attheya septentrionalis OX=420275 GN=ASEP1449_LOCUS2449 PE=3 SV=1
+582  tr|A0A0P1AD42|A0A0P1AD42_PLAHL Transmembrane protein OS=Plasmopara halstedii OX=4781 PE=3 SV=1
+592  tr|A0A6A4F2Q1|A0A6A4F2Q1_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora rubi OX=129364 GN=PR001_g14223 PE=3 SV=1
+799  tr|A0A0N0BJ85|A0A0N0BJ85_9HYME TIM21-like protein, mitochondrial OS=Melipona quadrifasciata OX=166423 GN=WN51_08527 PE=3 SV=1
+814  tr|A0A418ETW1|A0A418ETW1_9STRA Uncharacterized protein OS=Aphanomyces astaci OX=112090 GN=DYB37_009485 PE=3 SV=1
+830  tr|A0A024GGX2|A0A024GGX2_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Albugo candida OX=65357 GN=BN9_069140 PE=3 SV=1
+832  tr|W4H9N4|W4H9N4_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Aphanomyces astaci OX=112090 GN=H257_01272 PE=3 SV=1
+833  tr|B7FRQ3|B7FRQ3_PHATC Mitochondrial import inner membrane translocase subunit Tim21 OS=Phaeodactylum tricornutum (strain CCAP 1055/1) OX=556484 GN=PHATRDRAFT_42559 PE=3 SV=1
+837  tr|A0A6A4YZD8|A0A6A4YZD8_9STRA Uncharacterized protein (Fragment) OS=Aphanomyces astaci OX=112090 GN=AaE_016051 PE=3 SV=1
+848  tr|A0A0M0LR91|A0A0M0LR91_9EUKA Uncharacterized protein OS=Chrysochromulina tobinii OX=1460289 GN=Ctob_014365 PE=3 SV=1
+850  tr|A0A329S1C1|A0A329S1C1_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora cactorum OX=29920 GN=PC110_g12884 PE=3 SV=1
+852  tr|A0A196SCU4|A0A196SCU4_BLAHN Mitochondrial import inner membrane translocase subunit Tim21 OS=Blastocystis sp. subtype 1 (strain ATCC 50177 / NandII) OX=478820 GN=AV274_4504 PE=3 SV=1
+859  tr|G4ZD26|G4ZD26_PHYSP Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora sojae (strain P6497) OX=1094619 GN=PHYSODRAFT_286140 PE=3 SV=1
+871  tr|D8LCH3|D8LCH3_ECTSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Ectocarpus siliculosus OX=2880 GN=TIM21 PE=3 SV=1
+876  tr|W2PPB8|W2PPB8_PHYPN Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica (strain INRA-310) OX=761204 GN=PPTG_15482 PE=3 SV=1
+882  tr|A0A485L3S0|A0A485L3S0_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Aphanomyces stellatus OX=120398 GN=Aste57867_15289 PE=3 SV=1
+895  tr|W2Y4W5|W2Y4W5_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica P10297 OX=1317064 GN=F442_20773 PE=3 SV=1
+999  tr|F4P2Q6|F4P2Q6_BATDJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Batrachochytrium dendrobatidis (strain JAM81 / FGSC 10211) OX=684364 GN=BATDEDRAFT_25138 PE=3 SV=1
+1412 tr|A0A1V9ZYW4|A0A1V9ZYW4_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Thraustotheca clavata OX=74557 GN=THRCLA_04561 PE=3 SV=1
+1413 tr|A0A024U422|A0A024U422_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Aphanomyces invadans OX=157072 GN=H310_06627 PE=3 SV=1
+1439 tr|A0A067D2Z1|A0A067D2Z1_SAPPC Uncharacterized protein OS=Saprolegnia parasitica (strain CBS 223.65) OX=695850 GN=SPRG_02204 PE=3 SV=1
+1524 tr|A0A2J7QMF9|A0A2J7QMF9_9NEOP Mitochondrial import inner membrane translocase subunit Tim21 OS=Cryptotermes secundus OX=105785 GN=B7P43_G11195 PE=3 SV=1
+1895 tr|A0A0W8CAJ2|A0A0W8CAJ2_PHYNI Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora nicotianae OX=4790 GN=AM587_10007507 PE=3 SV=1
+1898 tr|A0A6U3RFX0|A0A6U3RFX0_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Ditylum brightwellii OX=49249 GN=DBRI00130_LOCUS3022 PE=3 SV=1
+1903 tr|R1DDL5|R1DDL5_EMIHU Mitochondrial import inner membrane translocase subunit Tim21 OS=Emiliania huxleyi OX=2903 GN=EMIHUDRAFT_452155 PE=3 SV=1
+1904 tr|A0A6A3JPQ0|A0A6A3JPQ0_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora fragariae OX=53985 GN=PF001_g15976 PE=3 SV=1
+1907 tr|A0A1Z5JL68|A0A1Z5JL68_FISSO Mitochondrial import inner membrane translocase subunit Tim21 OS=Fistulifera solaris OX=1519565 GN=FisN_11Hh026 PE=3 SV=1
+1912 tr|A0A1Z5J7U3|A0A1Z5J7U3_FISSO Mitochondrial import inner membrane translocase subunit Tim21 OS=Fistulifera solaris OX=1519565 GN=FisN_11Lh026 PE=3 SV=1
+1924 tr|V9E1I5|V9E1I5_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica P1569 OX=1317065 GN=F443_20970 PE=3 SV=1
+1928 tr|A0A6H5JA00|A0A6H5JA00_9PHAE Mitochondrial import inner membrane translocase subunit Tim21 OS=Ectocarpus sp. CCAP 1310/34 OX=867726 GN=ESUBFT_114_29 PE=3 SV=1
+1930 tr|V9DZN0|V9DZN0_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica P1569 OX=1317065 GN=F443_20970 PE=3 SV=1
+1941 tr|H3GDK6|H3GDK6_PHYRM Uncharacterized protein OS=Phytophthora ramorum OX=164328 PE=3 SV=1
+1948 tr|A0A225VFH3|A0A225VFH3_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora megakarya OX=4795 GN=PHMEG_00023708 PE=3 SV=1
+1950 tr|B8C1J4|B8C1J4_THAPS Mitochondrial import inner membrane translocase subunit Tim21 OS=Thalassiosira pseudonana OX=35128 GN=THAPSDRAFT_4318 PE=3 SV=1
+1952 tr|A0A4D9D7F9|A0A4D9D7F9_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Nannochloropsis salina CCMP1776 OX=1027361 GN=NSK_001002 PE=3 SV=1
+1956 tr|W7UCG1|W7UCG1_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Nannochloropsis gaditana OX=72520 GN=Naga_100210g12 PE=3 SV=1
+1968 tr|W2VW98|W2VW98_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica CJ01A1 OX=1317063 GN=F441_20833 PE=3 SV=1
+1970 tr|W2VXA2|W2VXA2_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica CJ01A1 OX=1317063 GN=F441_20833 PE=3 SV=1
+1985 tr|A0A448ZHL1|A0A448ZHL1_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Pseudo-nitzschia multistriata OX=183589 GN=PSNMU_V1.4_AUG-EV-PASAV3_0084520 PE=3 SV=1
+1989 tr|A0A6V4WIE2|A0A6V4WIE2_9EUKA Mitochondrial import inner membrane translocase subunit Tim21 OS=Prymnesium polylepis OX=72548 GN=CPOL0286_LOCUS14979 PE=3 SV=1
+1993 tr|K0T8P6|K0T8P6_THAOC Mitochondrial import inner membrane translocase subunit Tim21 OS=Thalassiosira oceanica OX=159749 GN=THAOC_12135 PE=3 SV=1
+2003 tr|A0A080ZHC0|A0A080ZHC0_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica P1976 OX=1317066 GN=F444_16714 PE=3 SV=1
+2007 tr|A0A080ZHC1|A0A080ZHC1_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica P1976 OX=1317066 GN=F444_16714 PE=3 SV=1
+2009 tr|A0A6G0XXM1|A0A6G0XXM1_9STRA Uncharacterized protein OS=Aphanomyces euteiches OX=100861 GN=Ae201684_000372 PE=3 SV=1
+2070 tr|X6NIW1|X6NIW1_RETFI Uncharacterized protein OS=Reticulomyxa filosa OX=46433 GN=RFI_11460 PE=3 SV=1
+2151 tr|A0A177ATC9|A0A177ATC9_9BILA Mitochondrial import inner membrane translocase subunit Tim21 OS=Intoshia linei OX=1819745 GN=A3Q56_07660 PE=3 SV=1
+2325 tr|A0A177WLE2|A0A177WLE2_BATDL Mitochondrial import inner membrane translocase subunit Tim21 OS=Batrachochytrium dendrobatidis (strain JEL423) OX=403673 GN=BDEG_24611 PE=3 SV=1
+2475 tr|F0WJT5|F0WJT5_9STRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Albugo laibachii Nc14 OX=890382 GN=AlNc14C125G6805 PE=3 SV=1
+2487 tr|W2Y7K6|W2Y7K6_PHYPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Phytophthora parasitica P10297 OX=1317064 GN=F442_20773 PE=3 SV=1

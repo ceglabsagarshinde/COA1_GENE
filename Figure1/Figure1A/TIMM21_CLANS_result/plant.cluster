@@ -1,0 +1,379 @@
+107  tr|A0A484LHH3|A0A484LHH3_9ASTE Mitochondrial import inner membrane translocase subunit Tim21 OS=Cuscuta campestris OX=132261 GN=CCAM_LOCUS17570 PE=3 SV=1
+587  tr|A0A151RKR5|A0A151RKR5_CAJCA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cajanus cajan OX=3821 GN=KK1_035508 PE=3 SV=1
+1502 tr|T1KDB5|T1KDB5_TETUR Mitochondrial import inner membrane translocase subunit Tim21 OS=Tetranychus urticae OX=32264 GN=107363221 PE=3 SV=1
+1509 tr|A0A0D2WWB6|A0A0D2WWB6_CAPO3 Mitochondrial import inner membrane translocase subunit Tim21 OS=Capsaspora owczarzaki (strain ATCC 30864) OX=595528 GN=CAOG_007697 PE=3 SV=1
+1886 tr|A0A507F6N9|A0A507F6N9_9FUNG Mitochondrial import inner membrane translocase subunit Tim21 OS=Spizellomyces sp. 'palustris' OX=117820 GN=SpCBS45565_g00916 PE=3 SV=1
+1888 tr|A0A0L0HLS4|A0A0L0HLS4_SPIPD Mitochondrial import inner membrane translocase subunit Tim21 OS=Spizellomyces punctatus (strain DAOM BR117) OX=645134 GN=SPPG_02851 PE=3 SV=1
+2    sp|Q1G3L1|TIM21_ARATH Probable mitochondrial import inner membrane translocase subunit TIM21 OS=Arabidopsis thaliana OX=3702 GN=TIM21 PE=1 SV=1
+9    tr|A0A498IUY1|A0A498IUY1_MALDO Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_028688 PE=3 SV=1
+10   tr|A0A5N5INB3|A0A5N5INB3_9ROSA Myosin-6-like OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_026998 PE=3 SV=1
+19   tr|A0A498JW16|A0A498JW16_MALDO Uncharacterized protein OS=Malus domestica OX=3750 GN=DVH24_010478 PE=3 SV=1
+26   tr|A0A0V0HWD4|A0A0V0HWD4_SOLCH Mitochondrial import inner membrane translocase subunit Tim21 OS=Solanum chacoense OX=4108 PE=3 SV=1
+28   tr|A0A0D2MUV1|A0A0D2MUV1_GOSRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium raimondii OX=29730 GN=B456_004G072000 PE=3 SV=1
+29   tr|A0A0D2R0H7|A0A0D2R0H7_GOSRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium raimondii OX=29730 GN=B456_004G072000 PE=3 SV=1
+30   tr|A0A2G2XJP7|A0A2G2XJP7_CAPBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Capsicum baccatum OX=33114 GN=CQW23_00052 PE=3 SV=1
+31   tr|A0A0D2QTA6|A0A0D2QTA6_GOSRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium raimondii OX=29730 GN=B456_004G072000 PE=3 SV=1
+32   tr|V7CTT3|V7CTT3_PHAVU Mitochondrial import inner membrane translocase subunit Tim21 OS=Phaseolus vulgaris OX=3885 GN=PHAVU_001G079900g PE=3 SV=1
+33   tr|A0A5J4ZTM8|A0A5J4ZTM8_9ASTE Mitochondrial import inner membrane translocase subunit Tim21 OS=Nyssa sinensis OX=561372 GN=F0562_014717 PE=3 SV=1
+34   tr|A0A7J7HLJ8|A0A7J7HLJ8_CAMSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Camellia sinensis OX=4442 GN=HYC85_010808 PE=3 SV=1
+35   tr|A0A6J1BWA3|A0A6J1BWA3_MOMCH Mitochondrial import inner membrane translocase subunit Tim21 OS=Momordica charantia OX=3673 GN=LOC111006276 PE=3 SV=1
+36   tr|M1AWW4|M1AWW4_SOLTU Mitochondrial import inner membrane translocase subunit Tim21 OS=Solanum tuberosum OX=4113 PE=3 SV=1
+37   tr|A0A7J7HVB3|A0A7J7HVB3_CAMSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Camellia sinensis OX=4442 GN=HYC85_004025 PE=3 SV=1
+38   tr|A0A1S6YG41|A0A1S6YG41_PHAEQ Mitochondrial import inner membrane translocase subunit Tim21 OS=Phalaenopsis equestris OX=78828 PE=2 SV=1
+39   tr|A0A1D2A484|A0A1D2A484_AUXPR Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Auxenochlorella protothecoides OX=3075 GN=g.8503 PE=3 SV=1
+41   tr|K8EGD1|K8EGD1_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Bathycoccus prasinos OX=41875 GN=Bathy06g02520 PE=3 SV=1
+42   tr|A0A078JG01|A0A078JG01_BRANA Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica napus OX=3708 GN=BnaAnng20480D PE=3 SV=1
+43   tr|A0A4U5MZA6|A0A4U5MZA6_POPAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Populus alba OX=43335 GN=D5086_0000287130 PE=3 SV=1
+44   tr|A0A2P5XA44|A0A2P5XA44_GOSBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium barbadense OX=3634 GN=GOBAR_AA20469 PE=3 SV=1
+45   tr|A0A5J5QAC5|A0A5J5QAC5_GOSBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium barbadense OX=3634 GN=ES319_D08G071000v1 PE=3 SV=1
+46   tr|A0A022PWB9|A0A022PWB9_ERYGU Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a019727mg PE=3 SV=1
+47   tr|A0A2S3ISE0|A0A2S3ISE0_9POAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Panicum hallii OX=206008 GN=PAHAL_9G528800 PE=3 SV=1
+50   tr|A0A022RTU2|A0A022RTU2_ERYGU Mitochondrial import inner membrane translocase subunit Tim21 OS=Erythranthe guttata OX=4155 GN=MIMGU_mgv1a011656mg PE=3 SV=1
+51   tr|A0A4U5QW49|A0A4U5QW49_POPAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Populus alba OX=43335 GN=D5086_0000048130 PE=3 SV=1
+52   tr|A0A1S3YGL2|A0A1S3YGL2_TOBAC Mitochondrial import inner membrane translocase subunit Tim21 OS=Nicotiana tabacum OX=4097 GN=LOC107775889 PE=3 SV=1
+61   tr|A0A7J6G5P6|A0A7J6G5P6_CANSA Ribose-5-phosphate isomerase OS=Cannabis sativa OX=3483 GN=G4B88_022991 PE=3 SV=1
+62   tr|A0A4S4F0V7|A0A4S4F0V7_CAMSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_024765 PE=3 SV=1
+66   tr|A0A218W7N1|A0A218W7N1_PUNGR Mitochondrial import inner membrane translocase subunit Tim21 OS=Punica granatum OX=22663 GN=CDL15_Pgr024618 PE=3 SV=1
+67   tr|C1MK91|C1MK91_MICPC Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Micromonas pusilla (strain CCMP1545) OX=564608 GN=MICPUCDRAFT_6486 PE=3 SV=1
+68   tr|A0A7J6GLM2|A0A7J6GLM2_CANSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cannabis sativa OX=3483 GN=F8388_009040 PE=3 SV=1
+69   tr|A0A7J6G5M7|A0A7J6G5M7_CANSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cannabis sativa OX=3483 GN=G4B88_022971 PE=3 SV=1
+70   tr|A0A6A6LVB0|A0A6A6LVB0_HEVBR Mitochondrial import inner membrane translocase subunit Tim21 OS=Hevea brasiliensis OX=3981 GN=GH714_019090 PE=3 SV=1
+71   tr|A0A067HCI2|A0A067HCI2_CITSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus sinensis OX=2711 GN=CISIN_1g022867mg PE=3 SV=1
+72   tr|A2XEN1|A2XEN1_ORYSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza sativa subsp. indica OX=39946 GN=OsI_10791 PE=3 SV=1
+73   tr|A0A067HCQ5|A0A067HCQ5_CITSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus sinensis OX=2711 GN=CISIN_1g022867mg PE=3 SV=1
+74   tr|A0A444XPJ1|A0A444XPJ1_ARAHY Mitochondrial import inner membrane translocase subunit Tim21 OS=Arachis hypogaea OX=3818 GN=Ahy_B09g097410 PE=3 SV=1
+75   tr|A0A7J6GJL1|A0A7J6GJL1_CANSA Ribose-5-phosphate isomerase OS=Cannabis sativa OX=3483 GN=F8388_009039 PE=3 SV=1
+76   tr|A0A067H3R5|A0A067H3R5_CITSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus sinensis OX=2711 GN=CISIN_1g022867mg PE=3 SV=1
+77   tr|A0A7J6GXG2|A0A7J6GXG2_CANSA Ribose-5-phosphate isomerase (Fragment) OS=Cannabis sativa OX=3483 GN=G4B88_024592 PE=3 SV=1
+78   tr|A0A4S4DYD4|A0A4S4DYD4_CAMSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_015324 PE=3 SV=1
+79   tr|A0A443N7Y5|A0A443N7Y5_9MAGN Mitochondrial import inner membrane translocase subunit Tim21 OS=Cinnamomum micranthum f. kanehirae OX=337451 GN=CKAN_00298000 PE=3 SV=1
+80   tr|A0A7J6HML6|A0A7J6HML6_CANSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cannabis sativa OX=3483 GN=F8388_005797 PE=3 SV=1
+81   tr|A0A067H136|A0A067H136_CITSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus sinensis OX=2711 GN=CISIN_1g022867mg PE=3 SV=1
+83   tr|A0A7J6GXH2|A0A7J6GXH2_CANSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cannabis sativa OX=3483 GN=G4B88_024602 PE=3 SV=1
+84   tr|A0A6A6LQ13|A0A6A6LQ13_HEVBR Mitochondrial import inner membrane translocase subunit Tim21 OS=Hevea brasiliensis OX=3981 GN=GH714_019017 PE=3 SV=1
+85   tr|A0A5J4Y013|A0A5J4Y013_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Trebouxia sp. A1-2 OX=2608996 GN=FRX49_04992 PE=3 SV=1
+86   tr|A0A444XP70|A0A444XP70_ARAHY Mitochondrial import inner membrane translocase subunit Tim21 OS=Arachis hypogaea OX=3818 GN=Ahy_B09g097410 PE=3 SV=1
+87   tr|A0A444GGG3|A0A444GGG3_ENSVE Mitochondrial import inner membrane translocase subunit Tim21 OS=Ensete ventricosum OX=4639 GN=GW17_00001268 PE=3 SV=1
+88   tr|A0A444XP56|A0A444XP56_ARAHY Mitochondrial import inner membrane translocase subunit Tim21 OS=Arachis hypogaea OX=3818 GN=Ahy_B09g097410 PE=3 SV=1
+89   tr|A0A4S4EJU3|A0A4S4EJU3_CAMSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Camellia sinensis var. sinensis OX=542762 GN=TEA_008575 PE=3 SV=1
+90   tr|A0A1U8KFX3|A0A1U8KFX3_GOSHI Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium hirsutum OX=3635 GN=LOC107915027 PE=3 SV=1
+91   tr|A0A2K2DD71|A0A2K2DD71_BRADI Mitochondrial import inner membrane translocase subunit Tim21 OS=Brachypodium distachyon OX=15368 GN=100842549 PE=3 SV=1
+92   tr|A0A059CG57|A0A059CG57_EUCGR Mitochondrial import inner membrane translocase subunit Tim21 OS=Eucalyptus grandis OX=71139 GN=EUGRSUZ_D01510 PE=3 SV=1
+93   tr|I1HNS3|I1HNS3_BRADI Mitochondrial import inner membrane translocase subunit Tim21 OS=Brachypodium distachyon OX=15368 GN=100842549 PE=3 SV=1
+94   tr|A0A6J1JQ07|A0A6J1JQ07_CUCMA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita maxima OX=3661 GN=LOC111487273 PE=3 SV=1
+96   tr|A0A0Q3HI93|A0A0Q3HI93_BRADI Mitochondrial import inner membrane translocase subunit Tim21 OS=Brachypodium distachyon OX=15368 GN=BRADI_1g67861v3 PE=3 SV=1
+97   tr|M5VXM2|M5VXM2_PRUPE Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus persica OX=3760 GN=PRUPE_8G211200 PE=3 SV=1
+98   tr|A0A6P8DXI7|A0A6P8DXI7_PUNGR Mitochondrial import inner membrane translocase subunit Tim21 OS=Punica granatum OX=22663 GN=LOC116208559 PE=3 SV=1
+99   tr|A0A2I0I4N0|A0A2I0I4N0_PUNGR Mitochondrial import inner membrane translocase subunit Tim21 OS=Punica granatum OX=22663 GN=CRG98_040693 PE=3 SV=1
+102  tr|B9GDX7|B9GDX7_ORYSJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza sativa subsp. japonica OX=39947 GN=OsJ_36633 PE=3 SV=1
+103  tr|A0A5J9WG68|A0A5J9WG68_9POAL Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Eragrostis curvula OX=38414 GN=EJB05_07319 PE=3 SV=1
+105  tr|A0A2C9VTK4|A0A2C9VTK4_MANES Mitochondrial import inner membrane translocase subunit Tim21 OS=Manihot esculenta OX=3983 GN=MANES_05G052500 PE=3 SV=1
+106  tr|A0A1Q3C0P6|A0A1Q3C0P6_CEPFO Mitochondrial import inner membrane translocase subunit Tim21 OS=Cephalotus follicularis OX=3775 GN=CFOL_v3_17184 PE=3 SV=1
+108  tr|C7IZT2|C7IZT2_ORYSJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza sativa subsp. japonica OX=39947 GN=Os03g0253800 PE=3 SV=1
+109  tr|A0A2Z7BS11|A0A2Z7BS11_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Dorcoceras hygrometricum OX=472368 GN=F511_04889 PE=3 SV=1
+111  tr|A0A5D2BHP2|A0A5D2BHP2_GOSDA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium darwinii OX=34276 GN=ES288_D08G075600v1 PE=3 SV=1
+112  tr|A0A7J7P8L8|A0A7J7P8L8_9MAGN Mitochondrial import inner membrane translocase subunit Tim21 OS=Kingdonia uniflora OX=39325 GN=GIB67_003299 PE=3 SV=1
+113  tr|A0A3P5YPC6|A0A3P5YPC6_BRACM Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica campestris OX=3711 GN=BRAA09T40222Z PE=3 SV=1
+114  tr|A0A2G3DAP5|A0A2G3DAP5_CAPCH Putative mitochondrial import inner membrane translocase subunit TIM21 OS=Capsicum chinense OX=80379 GN=BC332_00137 PE=3 SV=1
+115  tr|A0A565BZB4|A0A565BZB4_9BRAS Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabis nemorensis OX=586526 GN=ANE_LOCUS17204 PE=3 SV=1
+116  tr|A0A6A4M8E8|A0A6A4M8E8_9ERIC Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Rhododendron williamsianum OX=262921 GN=C3L33_05035 PE=3 SV=1
+117  tr|A0A5S9XNE6|A0A5S9XNE6_ARATH Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabidopsis thaliana OX=3702 GN=C24_LOCUS16631 PE=3 SV=1
+118  tr|A0A2Z7CSY0|A0A2Z7CSY0_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Dorcoceras hygrometricum OX=472368 GN=F511_10998 PE=3 SV=1
+119  tr|A0A397XPM9|A0A397XPM9_BRACM Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica campestris OX=3711 GN=BRARA_I00019 PE=3 SV=1
+120  tr|V4TYF5|V4TYF5_CITCL Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus clementina OX=85681 GN=CICLE_v10021461mg PE=3 SV=1
+121  tr|A0A397Y5U8|A0A397Y5U8_BRACM Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica campestris OX=3711 GN=BRARA_I03729 PE=3 SV=1
+426  tr|A0A061DVG9|A0A061DVG9_THECC Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Theobroma cacao OX=3641 GN=TCM_005655 PE=3 SV=1
+427  tr|A0A453IHW8|A0A453IHW8_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+428  tr|A0A453BCS9|A0A453BCS9_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+429  tr|A0A2K3N711|A0A2K3N711_TRIPR Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Trifolium pratense OX=57577 GN=L195_g022063 PE=3 SV=1
+430  tr|A0A5D2JRR0|A0A5D2JRR0_GOSTO Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium tomentosum OX=34277 GN=ES332_D08G074300v1 PE=3 SV=1
+432  tr|A0A453IHX8|A0A453IHX8_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+433  tr|A0A453IHH2|A0A453IHH2_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+434  tr|A0A453BD91|A0A453BD91_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+435  tr|A0A5D2JRZ8|A0A5D2JRZ8_GOSTO Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium tomentosum OX=34277 GN=ES332_D08G074300v1 PE=3 SV=1
+436  tr|A0A068VIP7|A0A068VIP7_COFCA Mitochondrial import inner membrane translocase subunit Tim21 OS=Coffea canephora OX=49390 GN=GSCOC_T00011605001 PE=3 SV=1
+437  tr|A0A6I9S925|A0A6I9S925_ELAGV Mitochondrial import inner membrane translocase subunit Tim21 OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105058250 PE=3 SV=1
+438  tr|A0A061DUJ0|A0A061DUJ0_THECC Mitochondrial import inner membrane translocase subunit Tim21 OS=Theobroma cacao OX=3641 GN=TCM_005655 PE=3 SV=1
+439  tr|A0A1S6YFX1|A0A1S6YFX1_9ASPA Mitochondrial import inner membrane translocase subunit Tim21 OS=Apostasia odorata OX=280455 PE=2 SV=1
+440  tr|A0A3P6GUS7|A0A3P6GUS7_BRAOL Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica oleracea OX=3712 GN=BOLC8T50598H PE=3 SV=1
+441  tr|A0A6J1JQI4|A0A6J1JQI4_CUCMA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita maxima OX=3661 GN=LOC111488940 PE=3 SV=1
+442  tr|A0A6J1JY54|A0A6J1JY54_CUCMA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita maxima OX=3661 GN=LOC111488940 PE=3 SV=1
+443  tr|A0A453BD86|A0A453BD86_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+444  tr|A0A6I9SHP4|A0A6I9SHP4_ELAGV Mitochondrial import inner membrane translocase subunit Tim21 OS=Elaeis guineensis var. tenera OX=51953 GN=LOC105060881 PE=3 SV=1
+445  tr|A0A453IHX3|A0A453IHX3_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+446  tr|A0A453BCY1|A0A453BCY1_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+447  tr|B9RD27|B9RD27_RICCO Mitochondrial import inner membrane translocase subunit Tim21 OS=Ricinus communis OX=3988 GN=RCOM_1609100 PE=3 SV=1
+448  tr|A0A453IHJ5|A0A453IHJ5_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+449  tr|A0A453BCI0|A0A453BCI0_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+450  tr|A0A383W8K9|A0A383W8K9_TETOB Mitochondrial import inner membrane translocase subunit Tim21 OS=Tetradesmus obliquus OX=3088 GN=BQ4739_LOCUS14014 PE=3 SV=1
+451  tr|A0A453IHG8|A0A453IHG8_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+452  tr|A0A2U1LN92|A0A2U1LN92_ARTAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Artemisia annua OX=35608 GN=CTI12_AA306970 PE=3 SV=1
+453  tr|A0A6A5MZ34|A0A6A5MZ34_LUPAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Lupinus albus OX=3870 GN=Lal_00047549 PE=3 SV=1
+455  tr|A0A6A4QXH7|A0A6A4QXH7_LUPAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Lupinus albus OX=3870 GN=Lalb_Chr02g0149681 PE=3 SV=1
+456  tr|A0A6J1JZW2|A0A6J1JZW2_CUCMA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita maxima OX=3661 GN=LOC111488940 PE=3 SV=1
+510  tr|M7ZTN0|M7ZTN0_TRIUA Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum urartu OX=4572 GN=TRIUR3_31250 PE=3 SV=1
+512  tr|A0A0D3FGC1|A0A0D3FGC1_9ORYZ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza barthii OX=65489 PE=3 SV=1
+513  tr|A0A6P5ZW32|A0A6P5ZW32_DURZI Mitochondrial import inner membrane translocase subunit Tim21 OS=Durio zibethinus OX=66656 GN=LOC111304564 PE=3 SV=1
+515  tr|Q10NZ1|Q10NZ1_ORYSJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g14890 PE=3 SV=1
+516  tr|M7ZPP7|M7ZPP7_TRIUA Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum urartu OX=4572 GN=TRIUR3_25725 PE=3 SV=1
+517  tr|A0A2T7CF60|A0A2T7CF60_9POAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_9G539600 PE=3 SV=1
+520  tr|A0A0D2RUU4|A0A0D2RUU4_GOSRA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium raimondii OX=29730 GN=B456_004G072000 PE=3 SV=1
+522  tr|A0A2T7CEW4|A0A2T7CEW4_9POAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Panicum hallii var. hallii OX=1504633 GN=GQ55_9G539600 PE=3 SV=1
+523  tr|A0A087SEX0|A0A087SEX0_AUXPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Auxenochlorella protothecoides OX=3075 GN=APUTEX25_002450 PE=3 SV=1
+524  tr|A0A2K1L1U7|A0A2K1L1U7_PHYPA Mitochondrial import inner membrane translocase subunit Tim21 OS=Physcomitrium patens OX=3218 GN=PHYPA_002790 PE=3 SV=1
+526  tr|F2EFS1|F2EFS1_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=2 SV=1
+527  tr|D8S8M6|D8S8M6_SELML Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Selaginella moellendorffii OX=88036 GN=SELMODRAFT_111521 PE=3 SV=1
+530  tr|A0A0E0NSK5|A0A0E0NSK5_ORYRU Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza rufipogon OX=4529 PE=3 SV=1
+571  tr|A0A6A4NJZ0|A0A6A4NJZ0_LUPAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Lupinus albus OX=3870 GN=Lal_00021611 PE=3 SV=1
+572  tr|A0A7J6EIG5|A0A7J6EIG5_CANSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cannabis sativa OX=3483 GN=F8388_002407 PE=3 SV=1
+573  tr|A0A0B0MJH3|A0A0B0MJH3_GOSAR Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium arboreum OX=29729 GN=LOC108463944 PE=3 SV=1
+574  tr|A0A453IHI1|A0A453IHI1_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+575  tr|A0A6A6MT00|A0A6A6MT00_HEVBR Mitochondrial import inner membrane translocase subunit Tim21 OS=Hevea brasiliensis OX=3981 GN=GH714_005787 PE=3 SV=1
+576  tr|A0A072VM55|A0A072VM55_MEDTR Mitochondrial import inner membrane translocase subunit Tim21 OS=Medicago truncatula OX=3880 GN=25484536 PE=3 SV=1
+577  tr|A0A445INW3|A0A445INW3_GLYSO Mitochondrial import inner membrane translocase subunit Tim21 OS=Glycine soja OX=3848 GN=D0Y65_027356 PE=3 SV=1
+578  tr|A0A6J5VU18|A0A6J5VU18_PRUAR Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus armeniaca OX=36596 GN=CURHAP_LOCUS51664 PE=3 SV=1
+579  tr|A0A445F8G0|A0A445F8G0_GLYSO Mitochondrial import inner membrane translocase subunit Tim21 OS=Glycine soja OX=3848 GN=D0Y65_054802 PE=3 SV=1
+580  tr|K4AF31|K4AF31_SETIT Mitochondrial import inner membrane translocase subunit Tim21 OS=Setaria italica OX=4555 PE=3 SV=1
+581  tr|A0A0Q3KBU2|A0A0Q3KBU2_BRADI Mitochondrial import inner membrane translocase subunit Tim21 OS=Brachypodium distachyon OX=15368 GN=100842549 PE=3 SV=1
+583  tr|A8J817|A8J817_CHLRE Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Chlamydomonas reinhardtii OX=3055 GN=TIM21 PE=3 SV=1
+585  tr|A0A3L6SD19|A0A3L6SD19_PANMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Panicum miliaceum OX=4540 GN=C2845_PM02G31420 PE=3 SV=1
+586  tr|A0A2P5AKS0|A0A2P5AKS0_PARAD Mitochondrial import inner membrane translocase subunit Tim21 OS=Parasponia andersonii OX=3476 GN=PanWU01x14_322610 PE=3 SV=1
+588  tr|A0A3L6TIY4|A0A3L6TIY4_PANMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Panicum miliaceum OX=4540 GN=C2845_PM01G09600 PE=3 SV=1
+589  tr|A0A6A3A007|A0A6A3A007_HIBSY Mitochondrial import inner membrane translocase subunit Tim21 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00110637pilonHSYRG00259 PE=3 SV=1
+590  tr|A0A6A2Y042|A0A6A2Y042_HIBSY Mitochondrial import inner membrane translocase subunit Tim21 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00116951pilonHSYRG00680 PE=3 SV=1
+591  tr|A0A6J0ZZ71|A0A6J0ZZ71_9ROSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Herrania umbratica OX=108875 GN=LOC110413420 PE=3 SV=1
+606  tr|A0A1J6I3B9|A0A1J6I3B9_NICAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Nicotiana attenuata OX=49451 GN=TIM21 PE=3 SV=1
+607  tr|D7M6B7|D7M6B7_ARALL Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabidopsis lyrata subsp. lyrata OX=81972 GN=ARALYDRAFT_912250 PE=3 SV=1
+608  tr|A0A1U7XI72|A0A1U7XI72_NICSY Mitochondrial import inner membrane translocase subunit Tim21 OS=Nicotiana sylvestris OX=4096 GN=LOC104236996 PE=3 SV=1
+609  tr|I0YYH4|I0YYH4_COCSC Mitochondrial import inner membrane translocase subunit Tim21 OS=Coccomyxa subellipsoidea (strain C-169) OX=574566 GN=COCSUDRAFT_41689 PE=3 SV=1
+610  tr|V4TE83|V4TE83_CITCL Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus clementina OX=85681 GN=CICLE_v10021461mg PE=3 SV=1
+611  tr|A0A3P5XT62|A0A3P5XT62_BRACM Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Brassica campestris OX=3711 GN=BRAA09T35678Z PE=3 SV=1
+612  tr|A0A5D2FIJ4|A0A5D2FIJ4_GOSDA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium darwinii OX=34276 GN=ES288_A08G070400v1 PE=3 SV=1
+613  tr|A0A7J7NPN4|A0A7J7NPN4_9MAGN Mitochondrial import inner membrane translocase subunit Tim21 OS=Kingdonia uniflora OX=39325 GN=GIB67_038409 PE=3 SV=1
+614  tr|A0A6I9U053|A0A6I9U053_SESIN Mitochondrial import inner membrane translocase subunit Tim21 OS=Sesamum indicum OX=4182 GN=LOC105173287 PE=3 SV=1
+615  tr|A0A1S6YFR7|A0A1S6YFR7_DENOF Mitochondrial import inner membrane translocase subunit Tim21 OS=Dendrobium officinale OX=142615 PE=2 SV=1
+802  tr|A0A095AMW5|A0A095AMW5_SCHHA TIM21-like protein, mitochondrial OS=Schistosoma haematobium OX=6185 GN=MS3_03791 PE=3 SV=1
+816  tr|A0A6P4C5W7|A0A6P4C5W7_ARADU Mitochondrial import inner membrane translocase subunit Tim21 OS=Arachis duranensis OX=130453 GN=LOC107465975 PE=3 SV=1
+818  tr|A0A2P2KUF4|A0A2P2KUF4_RHIMU Mitochondrial import inner membrane translocase subunit Tim21 OS=Rhizophora mucronata OX=61149 PE=3 SV=1
+820  tr|A0A1S3C3T0|A0A1S3C3T0_CUCME Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucumis melo OX=3656 GN=LOC103496532 PE=3 SV=1
+821  tr|A0A5P1E164|A0A5P1E164_ASPOF Mitochondrial import inner membrane translocase subunit Tim21 OS=Asparagus officinalis OX=4686 GN=A4U43_C10F40 PE=3 SV=1
+823  tr|A0A4D6N6F0|A0A4D6N6F0_VIGUN Mitochondrial import inner membrane translocase subunit Tim21 OS=Vigna unguiculata OX=3917 GN=DEO72_LG9g2735 PE=3 SV=1
+824  tr|A0A6J1H1K0|A0A6J1H1K0_CUCMO Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita moschata OX=3662 GN=LOC111459238 PE=3 SV=1
+825  tr|A0A5P1F5Z0|A0A5P1F5Z0_ASPOF Mitochondrial import inner membrane translocase subunit Tim21 OS=Asparagus officinalis OX=4686 GN=A4U43_C04F35580 PE=3 SV=1
+827  tr|A0A6P9EWA9|A0A6P9EWA9_JUGRE Ribosomal protein L15 OS=Juglans regia OX=51240 GN=LOC109012668 PE=3 SV=1
+829  tr|A0A251SWU7|A0A251SWU7_HELAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Helianthus annuus OX=4232 GN=HannXRQ_Chr13g0422791 PE=3 SV=1
+834  tr|A0A1S3C3P7|A0A1S3C3P7_CUCME Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucumis melo OX=3656 GN=LOC103496532 PE=3 SV=1
+835  tr|A0A7N2ML71|A0A7N2ML71_QUELO Mitochondrial import inner membrane translocase subunit Tim21 OS=Quercus lobata OX=97700 PE=3 SV=1
+838  tr|A0A4U6T9Q3|A0A4U6T9Q3_SETVI Mitochondrial import inner membrane translocase subunit Tim21 OS=Setaria viridis OX=4556 GN=SEVIR_9G470200v2 PE=3 SV=1
+840  tr|A0A6A4KSP4|A0A6A4KSP4_9ERIC Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Rhododendron williamsianum OX=262921 GN=C3L33_22200 PE=3 SV=1
+841  tr|A0A2P5C3F0|A0A2P5C3F0_TREOI Mitochondrial import inner membrane translocase subunit Tim21 OS=Trema orientale OX=63057 GN=TorRG33x02_299280 PE=3 SV=1
+842  tr|W9QX29|W9QX29_9ROSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Morus notabilis OX=981085 GN=L484_015909 PE=3 SV=1
+843  tr|A0A2N9HJR4|A0A2N9HJR4_FAGSY Mitochondrial import inner membrane translocase subunit Tim21 OS=Fagus sylvatica OX=28930 GN=FSB_LOCUS39786 PE=3 SV=1
+844  tr|A0A178V2I3|A0A178V2I3_ARATH Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabidopsis thaliana OX=3702 GN=AXX17_At4g00040 PE=3 SV=1
+845  tr|A0A4S8J8F3|A0A4S8J8F3_MUSBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Musa balbisiana OX=52838 GN=C4D60_Mb03t08140 PE=3 SV=1
+846  tr|A0A4D8Z765|A0A4D8Z765_SALSN Mitochondrial import inner membrane translocase subunit Tim21 OS=Salvia splendens OX=180675 GN=TIM21 PE=3 SV=1
+847  tr|A0A2P2KUF7|A0A2P2KUF7_RHIMU Mitochondrial import inner membrane translocase subunit Tim21 OS=Rhizophora mucronata OX=61149 PE=3 SV=1
+849  tr|A0A2G3ADQ8|A0A2G3ADQ8_CAPAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Capsicum annuum OX=4072 GN=T459_00246 PE=3 SV=1
+851  tr|A0A1J7H3N7|A0A1J7H3N7_LUPAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Lupinus angustifolius OX=3871 GN=TanjilG_02540 PE=3 SV=1
+853  tr|A0A5A7SNX6|A0A5A7SNX6_CUCME Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucumis melo var. makuwa OX=1194695 GN=E6C27_scaffold139G005030 PE=3 SV=1
+854  tr|A0A371GNT7|A0A371GNT7_MUCPR Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Mucuna pruriens OX=157652 GN=TIM21 PE=3 SV=1
+855  tr|U5D1T1|U5D1T1_AMBTC Mitochondrial import inner membrane translocase subunit Tim21 OS=Amborella trichopoda OX=13333 GN=AMTR_s00033p00199300 PE=3 SV=1
+856  tr|S8CS95|S8CS95_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Genlisea aurea OX=192259 GN=M569_05088 PE=3 SV=1
+857  tr|A0A5B7BQ18|A0A5B7BQ18_DAVIN Mitochondrial import inner membrane translocase subunit Tim21 OS=Davidia involucrata OX=16924 GN=Din_040368 PE=3 SV=1
+858  tr|A0A5A7P3I7|A0A5A7P3I7_STRAF Mitochondrial import inner membrane translocase subunit Tim21 OS=Striga asiatica OX=4170 GN=STAS_03098 PE=3 SV=1
+860  tr|A0A314ZSY2|A0A314ZSY2_PRUYE Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus yedoensis var. nudiflora OX=2094558 GN=Pyn_06965 PE=3 SV=1
+861  tr|A0A1R3K0S7|A0A1R3K0S7_9ROSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Corchorus olitorius OX=93759 GN=COLO4_12437 PE=3 SV=1
+862  tr|R0FG94|R0FG94_9BRAS Mitochondrial import inner membrane translocase subunit Tim21 OS=Capsella rubella OX=81985 GN=CARUB_v10001670mg PE=3 SV=1
+863  tr|D7U401|D7U401_VITVI Mitochondrial import inner membrane translocase subunit Tim21 OS=Vitis vinifera OX=29760 GN=VIT_02s0033g01350 PE=3 SV=1
+864  tr|A0A438IAL8|A0A438IAL8_VITVI Mitochondrial import inner membrane translocase subunit Tim21 OS=Vitis vinifera OX=29760 GN=TIM21 PE=3 SV=1
+865  tr|A0A7J6VVZ4|A0A7J6VVZ4_THATH Mitochondrial import inner membrane translocase subunit Tim21 OS=Thalictrum thalictroides OX=46969 GN=FRX31_021138 PE=3 SV=1
+866  tr|A0A2K3DF96|A0A2K3DF96_CHLRE Mitochondrial import inner membrane translocase subunit Tim21 OS=Chlamydomonas reinhardtii OX=3055 GN=CHLRE_09g405550v5 PE=3 SV=1
+867  tr|A0A287HUP5|A0A287HUP5_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
+868  tr|A0A287HUC4|A0A287HUC4_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
+869  tr|A0A5D2Y5A9|A0A5D2Y5A9_GOSMU Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium mustelinum OX=34275 GN=E1A91_A08G069600v1 PE=3 SV=1
+870  tr|A0A6N2ND65|A0A6N2ND65_SALVM Mitochondrial import inner membrane translocase subunit Tim21 OS=Salix viminalis OX=40686 GN=SVIM_LOCUS484551 PE=3 SV=1
+872  tr|A0A6J1JU64|A0A6J1JU64_CUCMA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita maxima OX=3661 GN=LOC111488940 PE=3 SV=1
+873  tr|A0A6A2WZ51|A0A6A2WZ51_HIBSY Mitochondrial import inner membrane translocase subunit Tim21 OS=Hibiscus syriacus OX=106335 GN=F3Y22_tig00112471pilonHSYRG00116 PE=3 SV=1
+874  tr|A0A2Z6NA31|A0A2Z6NA31_TRISU Mitochondrial import inner membrane translocase subunit Tim21 OS=Trifolium subterraneum OX=3900 GN=TSUD_28120 PE=3 SV=1
+875  tr|A0A2U1PVC7|A0A2U1PVC7_ARTAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Artemisia annua OX=35608 GN=CTI12_AA104450 PE=3 SV=1
+877  tr|M4F895|M4F895_BRARP Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica rapa subsp. pekinensis OX=51351 PE=3 SV=1
+878  tr|A0A317YF32|A0A317YF32_MAIZE Mitochondrial import inner membrane translocase subunit Tim21 OS=Zea mays OX=4577 GN=TIM21 PE=3 SV=1
+879  tr|A0A6A1V7K1|A0A6A1V7K1_9ROSI Ribosomal protein L15 OS=Morella rubra OX=262757 GN=CJ030_MR6G006528 PE=3 SV=1
+880  tr|A0A7N0UPE4|A0A7N0UPE4_KALFE Mitochondrial import inner membrane translocase subunit Tim21 OS=Kalanchoe fedtschenkoi OX=63787 PE=3 SV=1
+881  tr|B4FUV9|B4FUV9_MAIZE Mitochondrial import inner membrane translocase subunit Tim21 OS=Zea mays OX=4577 PE=2 SV=1
+883  tr|R7W4C1|R7W4C1_AEGTA Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii OX=37682 GN=F775_26211 PE=3 SV=1
+884  tr|A0A3P6DKY6|A0A3P6DKY6_BRAOL Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica oleracea OX=3712 GN=BOLC9T52939H PE=3 SV=1
+885  tr|M4CSA0|M4CSA0_BRARP Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica rapa subsp. pekinensis OX=51351 PE=3 SV=1
+886  tr|A0A6P6GG99|A0A6P6GG99_ZIZJJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Ziziphus jujuba OX=326968 GN=LOC107426453 PE=3 SV=1
+887  tr|I1P9K3|I1P9K3_ORYGL Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza glaberrima OX=4538 PE=3 SV=1
+888  tr|A0A7N0UPG7|A0A7N0UPG7_KALFE Mitochondrial import inner membrane translocase subunit Tim21 OS=Kalanchoe fedtschenkoi OX=63787 PE=3 SV=1
+889  tr|A0A6P4A8C1|A0A6P4A8C1_ZIZJJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Ziziphus jujuba OX=326968 GN=LOC107426453 PE=3 SV=1
+890  tr|V4U8V7|V4U8V7_CITCL Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus clementina OX=85681 GN=CICLE_v10021461mg PE=3 SV=1
+891  tr|A0A0D9VRZ7|A0A0D9VRZ7_9ORYZ Mitochondrial import inner membrane translocase subunit Tim21 OS=Leersia perrieri OX=77586 PE=3 SV=1
+892  tr|A0A0D9Z4T1|A0A0D9Z4T1_9ORYZ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza glumipatula OX=40148 PE=3 SV=1
+894  tr|A0A7C9E6N7|A0A7C9E6N7_OPUST Mitochondrial import inner membrane translocase subunit Tim21 OS=Opuntia streptacantha OX=393608 PE=3 SV=1
+896  tr|A0A540KJD3|A0A540KJD3_MALBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Malus baccata OX=106549 GN=C1H46_040130 PE=3 SV=1
+1115 tr|A0A158R946|A0A158R946_TAEAS Mitochondrial import inner membrane translocase subunit Tim21 OS=Taenia asiatica OX=60517 GN=TASK_LOCUS6648 PE=3 SV=1
+1289 tr|A0A068WQ86|A0A068WQ86_ECHGR TIM21-like protein, mitochondrial OS=Echinococcus granulosus OX=6210 GN=EgrG_000070400 PE=3 SV=1
+1400 tr|A0A446M5L9|A0A446M5L9_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_2Bv1G089860 PE=3 SV=1
+1401 tr|A0A446KVJ5|A0A446KVJ5_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_2Av1G084430 PE=3 SV=1
+1403 tr|A0A446M5H8|A0A446M5H8_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_2Bv1G089860 PE=3 SV=1
+1404 tr|A0A2G5F1I2|A0A2G5F1I2_AQUCA Mitochondrial import inner membrane translocase subunit Tim21 OS=Aquilegia coerulea OX=218851 GN=AQUCO_00200024v1 PE=3 SV=1
+1405 tr|A0A446QR43|A0A446QR43_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_4Av1G035830 PE=3 SV=1
+1406 tr|A0A1R3HH17|A0A1R3HH17_COCAP Mitochondrial import inner membrane translocase subunit Tim21 OS=Corchorus capsularis OX=210143 GN=CCACVL1_19421 PE=3 SV=1
+1407 tr|A0A446KVJ1|A0A446KVJ1_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_2Av1G084430 PE=3 SV=1
+1408 tr|A0A2G5F178|A0A2G5F178_AQUCA Mitochondrial import inner membrane translocase subunit Tim21 OS=Aquilegia coerulea OX=218851 GN=AQUCO_00200024v1 PE=3 SV=1
+1409 tr|A0A446S957|A0A446S957_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_4Bv1G134470 PE=3 SV=1
+1410 tr|A0A453BCH6|A0A453BCH6_AEGTS Mitochondrial import inner membrane translocase subunit Tim21 OS=Aegilops tauschii subsp. strangulata OX=200361 PE=3 SV=1
+1411 tr|A0A061DWF5|A0A061DWF5_THECC Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Theobroma cacao OX=3641 GN=TCM_005655 PE=3 SV=1
+1414 tr|A0A5D2PBK2|A0A5D2PBK2_GOSTO Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium tomentosum OX=34277 GN=ES332_A08G071500v1 PE=3 SV=1
+1415 tr|A0A0D2K2H3|A0A0D2K2H3_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Monoraphidium neglectum OX=145388 GN=MNEG_3214 PE=3 SV=1
+1416 tr|A0A446QQE5|A0A446QQE5_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_4Av1G035830 PE=3 SV=1
+1417 tr|A9TXE6|A9TXE6_PHYPA Mitochondrial import inner membrane translocase subunit Tim21 OS=Physcomitrium patens OX=3218 GN=PHYPADRAFT_172526 PE=3 SV=1
+1418 tr|A0A6D2KGN3|A0A6D2KGN3_9BRAS Mitochondrial import inner membrane translocase subunit Tim21 OS=Microthlaspi erraticum OX=1685480 GN=MERR_LOCUS34538 PE=3 SV=1
+1419 tr|A0A5D2JQX8|A0A5D2JQX8_GOSTO Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium tomentosum OX=34277 GN=ES332_D08G074300v1 PE=3 SV=1
+1420 tr|A0A5A7QN46|A0A5A7QN46_STRAF Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Striga asiatica OX=4170 GN=STAS_23632 PE=3 SV=1
+1421 tr|A0A161ZNN1|A0A161ZNN1_DAUCS Mitochondrial import inner membrane translocase subunit Tim21 OS=Daucus carota subsp. sativus OX=79200 GN=DCAR_025031 PE=3 SV=1
+1422 tr|A0A2P6PUN0|A0A2P6PUN0_ROSCH Mitochondrial import inner membrane translocase subunit Tim21 OS=Rosa chinensis OX=74649 GN=RchiOBHm_Chr6g0285911 PE=3 SV=1
+1423 tr|A0A446KVK8|A0A446KVK8_TRITD Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum turgidum subsp. durum OX=4567 GN=TRITD_2Av1G084430 PE=3 SV=1
+1424 tr|A0A5N6MX93|A0A5N6MX93_9ASTR Mitochondrial import inner membrane translocase subunit Tim21 OS=Mikania micrantha OX=192012 GN=E3N88_26696 PE=3 SV=1
+1426 tr|A0A5D3E3D0|A0A5D3E3D0_CUCME Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucumis melo var. makuwa OX=1194695 GN=E5676_scaffold2254G00090 PE=3 SV=1
+1427 tr|A0A5B8MZ12|A0A5B8MZ12_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Chloropicon primus OX=1764295 GN=A3770_15p74330 PE=3 SV=1
+1428 tr|A0A5C7GTY2|A0A5C7GTY2_9ROSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Acer yangbiense OX=1000413 GN=EZV62_027233 PE=3 SV=1
+1429 tr|A0A0K9RD21|A0A0K9RD21_SPIOL Mitochondrial import inner membrane translocase subunit Tim21 OS=Spinacia oleracea OX=3562 GN=SOVF_086580 PE=3 SV=1
+1430 tr|A0A2P6UZF6|A0A2P6UZF6_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Micractinium conductrix OX=554055 GN=C2E20_9089 PE=3 SV=1
+1431 tr|A0A7H4LFS0|A0A7H4LFS0_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 GN=CAMPLR22A2D_LOCUS2067 PE=3 SV=1
+1432 tr|A0A2G9GB85|A0A2G9GB85_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Handroanthus impetiginosus OX=429701 GN=CDL12_24943 PE=3 SV=1
+1433 tr|A0A3B6JJ97|A0A3B6JJ97_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1434 tr|A0A1Y1IC10|A0A1Y1IC10_KLENI Mitochondrial import inner membrane translocase subunit Tim21 OS=Klebsormidium nitens OX=105231 GN=KFL_003010070 PE=3 SV=1
+1435 tr|A0A3B6AWW9|A0A3B6AWW9_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1436 tr|A0A0D3DT31|A0A0D3DT31_BRAOL Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica oleracea var. oleracea OX=109376 GN=106310738 PE=3 SV=1
+1437 tr|A0A3B6DEA1|A0A3B6DEA1_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1438 tr|A0A3B6HPZ4|A0A3B6HPZ4_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1440 tr|A0A2P6UZH4|A0A2P6UZH4_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Micractinium conductrix OX=554055 GN=C2E20_9089 PE=3 SV=1
+1441 tr|A0A0K9RB49|A0A0K9RB49_SPIOL Mitochondrial import inner membrane translocase subunit Tim21 OS=Spinacia oleracea OX=3562 GN=SOVF_086580 PE=3 SV=1
+1442 tr|A0A0S3SPT9|A0A0S3SPT9_PHAAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Vigna angularis var. angularis OX=157739 GN=Vigan.08G149900 PE=3 SV=1
+1443 tr|A0A0A0K9E8|A0A0A0K9E8_CUCSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucumis sativus OX=3659 GN=Csa_6G046410 PE=3 SV=1
+1862 tr|A0A0L0HMQ7|A0A0L0HMQ7_SPIPD Mitochondrial import inner membrane translocase subunit Tim21 OS=Spizellomyces punctatus (strain DAOM BR117) OX=645134 GN=SPPG_02851 PE=3 SV=1
+1863 tr|A0A1Y2BWY6|A0A1Y2BWY6_9FUNG Mitochondrial import inner membrane translocase subunit Tim21 OS=Rhizoclosmatium globosum OX=329046 GN=BCR33DRAFT_853441 PE=3 SV=1
+1893 tr|A0A6P5RSK3|A0A6P5RSK3_PRUAV Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus avium OX=42229 GN=LOC110750083 PE=3 SV=1
+1894 tr|I1LC01|I1LC01_SOYBN Mitochondrial import inner membrane translocase subunit Tim21 OS=Glycine max OX=3847 GN=100815534 PE=3 SV=1
+1896 tr|A0A6G1DFS1|A0A6G1DFS1_9ORYZ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza meyeriana var. granulata OX=110450 GN=E2562_003019 PE=3 SV=1
+1899 tr|A0A6P5RMB8|A0A6P5RMB8_PRUAV Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus avium OX=42229 GN=LOC110750083 PE=3 SV=1
+1900 tr|C6TAF0|C6TAF0_SOYBN Mitochondrial import inner membrane translocase subunit Tim21 OS=Glycine max OX=3847 GN=100779212 PE=2 SV=1
+1901 tr|Q10NZ2|Q10NZ2_ORYSJ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza sativa subsp. japonica OX=39947 GN=LOC_Os03g14890 PE=3 SV=1
+1902 tr|U5GLE2|U5GLE2_POPTR Mitochondrial import inner membrane translocase subunit Tim21 OS=Populus trichocarpa OX=3694 GN=POPTR_002G140700 PE=3 SV=1
+1905 tr|A0A0E0GJU6|A0A0E0GJU6_ORYNI Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza nivara OX=4536 PE=3 SV=1
+1906 tr|A0A7I8KDB2|A0A7I8KDB2_SPIIN Mitochondrial import inner membrane translocase subunit Tim21 OS=Spirodela intermedia OX=51605 GN=SI8410_04006163 PE=3 SV=1
+1908 tr|A0A2P6TD81|A0A2P6TD81_CHLSO Mitochondrial import inner membrane translocase subunit Tim21 OS=Chlorella sorokiniana OX=3076 GN=C2E21_8882 PE=3 SV=1
+1909 tr|E1ZTQ4|E1ZTQ4_CHLVA Mitochondrial import inner membrane translocase subunit Tim21 OS=Chlorella variabilis OX=554065 GN=CHLNCDRAFT_141854 PE=3 SV=1
+1911 tr|A0A6B9VB46|A0A6B9VB46_ARAHY Mitochondrial import inner membrane translocase subunit Tim21 OS=Arachis hypogaea OX=3818 GN=DS421_19g657220 PE=3 SV=1
+1913 tr|A0A445BJ34|A0A445BJ34_ARAHY Mitochondrial import inner membrane translocase subunit Tim21 OS=Arachis hypogaea OX=3818 GN=Ahy_A09g043820 PE=3 SV=1
+1914 tr|A0A5N5NPY9|A0A5N5NPY9_9ROSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Salix brachista OX=2182728 GN=DKX38_002821 PE=3 SV=1
+1915 tr|A0A0E0GJU7|A0A0E0GJU7_ORYNI Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza nivara OX=4536 PE=3 SV=1
+1916 tr|A0A2R6W338|A0A2R6W338_MARPO Mitochondrial import inner membrane translocase subunit Tim21 OS=Marchantia polymorpha OX=3197 GN=MARPO_0168s0006 PE=3 SV=1
+1917 tr|A0A087GL29|A0A087GL29_ARAAL Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabis alpina OX=50452 GN=AALP_AA6G000400 PE=3 SV=1
+1918 tr|A0A067H0Q5|A0A067H0Q5_CITSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus sinensis OX=2711 GN=CISIN_1g022867mg PE=3 SV=1
+1919 tr|A0A2R6W335|A0A2R6W335_MARPO Mitochondrial import inner membrane translocase subunit Tim21 OS=Marchantia polymorpha OX=3197 GN=MARPO_0168s0006 PE=3 SV=1
+1920 tr|A0A250XRT4|A0A250XRT4_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Chlamydomonas eustigma OX=1157962 GN=CEUSTIGMA_g13057.t1 PE=3 SV=1
+1921 tr|A0A7I8IMK8|A0A7I8IMK8_SPIIN Mitochondrial import inner membrane translocase subunit Tim21 OS=Spirodela intermedia OX=51605 GN=SI7747_04005625 PE=3 SV=1
+1922 tr|A0A199WAS8|A0A199WAS8_ANACO Mitochondrial import inner membrane translocase subunit Tim21 OS=Ananas comosus OX=4615 GN=ACMD2_12154 PE=3 SV=1
+1923 tr|A0A6P5EZD2|A0A6P5EZD2_ANACO Mitochondrial import inner membrane translocase subunit Tim21 OS=Ananas comosus OX=4615 GN=LOC109710856 PE=3 SV=1
+1925 tr|A0A6S7MNU5|A0A6S7MNU5_LACSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Lactuca saligna OX=75948 GN=LSAL_LOCUS17806 PE=3 SV=1
+1926 tr|A0A7J7QQV1|A0A7J7QQV1_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Scenedesmus sp. NREL 46B-D3 OX=2650976 GN=COO60DRAFT_899 PE=3 SV=1
+1927 tr|A0A5N5K8S1|A0A5N5K8S1_9ROSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Salix brachista OX=2182728 GN=DKX38_020741 PE=3 SV=1
+1929 tr|A0A250XP70|A0A250XP70_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Chlamydomonas eustigma OX=1157962 GN=CEUSTIGMA_g12144.t1 PE=3 SV=1
+1931 tr|A0A1S4CCZ4|A0A1S4CCZ4_TOBAC Mitochondrial import inner membrane translocase subunit Tim21 OS=Nicotiana tabacum OX=4097 GN=LOC107817736 PE=3 SV=1
+1932 tr|U5FPA8|U5FPA8_POPTR Mitochondrial import inner membrane translocase subunit Tim21 OS=Populus trichocarpa OX=3694 GN=POPTR_014G054400 PE=3 SV=1
+1933 tr|A0A6J0LC57|A0A6J0LC57_RAPSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Raphanus sativus OX=3726 GN=LOC108828039 PE=3 SV=1
+1934 tr|A0A176VLG7|A0A176VLG7_MARPO Mitochondrial import inner membrane translocase subunit Tim21 OS=Marchantia polymorpha subsp. ruderalis OX=1480154 GN=AXG93_203s1190 PE=3 SV=1
+1935 tr|A0A5J5ULU0|A0A5J5ULU0_GOSBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium barbadense OX=3634 GN=ES319_A08G066000v1 PE=3 SV=1
+1936 tr|A0A2P5Y2C0|A0A2P5Y2C0_GOSBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium barbadense OX=3634 GN=GOBAR_AA10890 PE=3 SV=1
+1937 tr|A0A6M2EWL5|A0A6M2EWL5_9ROSI Mitochondrial import inner membrane translocase subunit Tim21 OS=Populus davidiana OX=266767 PE=3 SV=1
+1939 tr|A0A368ST30|A0A368ST30_SETIT Mitochondrial import inner membrane translocase subunit Tim21 OS=Setaria italica OX=4555 GN=SETIT_9G466600v2 PE=3 SV=1
+1940 tr|A0A3N6R0F2|A0A3N6R0F2_BRACR Mitochondrial import inner membrane translocase subunit Tim21 OS=Brassica cretica OX=69181 GN=DY000_00012473 PE=3 SV=1
+1942 tr|A0A1D1ZTM1|A0A1D1ZTM1_AUXPR Mitochondrial import inner membrane translocase subunit Tim21 OS=Auxenochlorella protothecoides OX=3075 GN=g.8508 PE=3 SV=1
+1943 tr|A0A3Q7HTY4|A0A3Q7HTY4_SOLLC Mitochondrial import inner membrane translocase subunit Tim21 OS=Solanum lycopersicum OX=4081 GN=101248805 PE=3 SV=1
+1944 tr|U5FUP0|U5FUP0_POPTR Mitochondrial import inner membrane translocase subunit Tim21 OS=Populus trichocarpa OX=3694 GN=POPTR_014G054400 PE=3 SV=1
+1945 tr|A0A150GIV1|A0A150GIV1_GONPE Mitochondrial import inner membrane translocase subunit Tim21 OS=Gonium pectorale OX=33097 GN=GPECTOR_20g590 PE=3 SV=1
+1947 tr|M0SCU9|M0SCU9_MUSAM Mitochondrial import inner membrane translocase subunit Tim21 OS=Musa acuminata subsp. malaccensis OX=214687 PE=3 SV=1
+1949 tr|A0A0E0CY65|A0A0E0CY65_9ORYZ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza meridionalis OX=40149 PE=3 SV=1
+1951 tr|A0A061RG26|A0A061RG26_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Tetraselmis sp. GSL018 OX=582737 GN=TIM21 PE=3 SV=1
+1953 tr|A0A1S2XXI1|A0A1S2XXI1_CICAR Mitochondrial import inner membrane translocase subunit Tim21 OS=Cicer arietinum OX=3827 GN=LOC101511755 PE=3 SV=1
+1954 tr|A0A5J4ZDU4|A0A5J4ZDU4_9ASTE Mitochondrial import inner membrane translocase subunit Tim21 OS=Nyssa sinensis OX=561372 GN=F0562_019051 PE=3 SV=1
+1955 tr|A0A3B6C452|A0A3B6C452_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1957 tr|A0A2G9FW94|A0A2G9FW94_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Handroanthus impetiginosus OX=429701 GN=CDL12_30200 PE=3 SV=1
+1958 tr|A0A2G9GBE1|A0A2G9GBE1_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Handroanthus impetiginosus OX=429701 GN=CDL12_24942 PE=3 SV=1
+1959 tr|A0A2H9ZT21|A0A2H9ZT21_9ASPA Mitochondrial import inner membrane translocase subunit Tim21 OS=Apostasia shenzhenica OX=1088818 GN=TIM21 PE=3 SV=1
+1960 tr|A0A2G9GBH0|A0A2G9GBH0_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Handroanthus impetiginosus OX=429701 GN=CDL12_24945 PE=3 SV=1
+1961 tr|A0A1U8IDF4|A0A1U8IDF4_GOSHI Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium hirsutum OX=3635 GN=LOC107895436 PE=3 SV=1
+1962 tr|A0A3B6IV96|A0A3B6IV96_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1963 tr|A0A2G9GB67|A0A2G9GB67_9LAMI Mitochondrial import inner membrane translocase subunit Tim21 OS=Handroanthus impetiginosus OX=429701 GN=CDL12_24944 PE=3 SV=1
+1964 tr|A0A2R6R982|A0A2R6R982_ACTCC Mitochondrial import inner membrane translocase subunit Tim21 OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc08992 PE=3 SV=1
+1965 tr|A0A0E0KBE6|A0A0E0KBE6_ORYPU Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza punctata OX=4537 PE=3 SV=1
+1966 tr|A0A5N6RKA7|A0A5N6RKA7_9ROSI Uncharacterized protein OS=Carpinus fangiana OX=176857 GN=FH972_016649 PE=3 SV=1
+1967 tr|A4RTU0|A4RTU0_OSTLU Mitochondrial import inner membrane translocase subunit Tim21 OS=Ostreococcus lucimarinus (strain CCE9901) OX=436017 GN=OSTLU_30382 PE=3 SV=1
+1969 tr|A0A067JY77|A0A067JY77_JATCU Mitochondrial import inner membrane translocase subunit Tim21 OS=Jatropha curcas OX=180498 GN=JCGZ_14608 PE=3 SV=1
+1971 tr|A0A7J7CFL9|A0A7J7CFL9_TRIWF Mitochondrial import inner membrane translocase subunit Tim21 OS=Tripterygium wilfordii OX=458696 GN=HS088_TW17G00423 PE=3 SV=1
+1972 tr|A0A699Y908|A0A699Y908_HAELA Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Haematococcus lacustris OX=44745 GN=HaLaN_00342 PE=3 SV=1
+1973 tr|A0A1U8Q678|A0A1U8Q678_NELNU Mitochondrial import inner membrane translocase subunit Tim21 OS=Nelumbo nucifera OX=4432 GN=LOC104598698 PE=3 SV=1
+1975 tr|A0A2R6S0X3|A0A2R6S0X3_ACTCC Mitochondrial import inner membrane translocase subunit Tim21 OS=Actinidia chinensis var. chinensis OX=1590841 GN=CEY00_Acc00439 PE=3 SV=1
+1976 tr|A0A0L9TYG4|A0A0L9TYG4_PHAAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Phaseolus angularis OX=3914 GN=LR48_Vigan02g177800 PE=3 SV=1
+1977 tr|A0A0K9NH26|A0A0K9NH26_ZOSMR Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Zostera marina OX=29655 GN=ZOSMA_9G00340 PE=3 SV=1
+1978 tr|C5WQV6|C5WQV6_SORBI Mitochondrial import inner membrane translocase subunit Tim21 OS=Sorghum bicolor OX=4558 GN=SORBI_3001G434200 PE=3 SV=1
+1979 tr|A0A3B6C431|A0A3B6C431_WHEAT Mitochondrial import inner membrane translocase subunit Tim21 OS=Triticum aestivum OX=4565 PE=3 SV=1
+1980 tr|A0A7J0E5J0|A0A7J0E5J0_9ERIC Mitochondrial import inner membrane translocase subunit Tim21 OS=Actinidia rufa OX=165716 GN=Acr_01g0010380 PE=3 SV=1
+1982 tr|A0A6P6WDI1|A0A6P6WDI1_COFAR Mitochondrial import inner membrane translocase subunit Tim21 OS=Coffea arabica OX=13443 GN=LOC113731981 PE=3 SV=1
+1983 tr|A0A4Y1S1T4|A0A4Y1S1T4_PRUDU Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus dulcis OX=3755 GN=Prudu_022792 PE=3 SV=1
+1984 tr|A0A5E4EKL1|A0A5E4EKL1_PRUDU Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus dulcis OX=3755 GN=ALMOND_2B025459 PE=3 SV=1
+1987 tr|A0A5E4EJQ6|A0A5E4EJQ6_PRUDU Mitochondrial import inner membrane translocase subunit Tim21 OS=Prunus dulcis OX=3755 GN=ALMOND_2B025459 PE=3 SV=1
+1988 tr|A0A2V0PBS5|A0A2V0PBS5_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 OS=Raphidocelis subcapitata OX=307507 GN=Rsub_09987 PE=3 SV=1
+1990 tr|A0A7J0F269|A0A7J0F269_9ERIC Mitochondrial import inner membrane translocase subunit Tim21 OS=Actinidia rufa OX=165716 GN=Acr_08g0010990 PE=3 SV=1
+1991 tr|A0A454XMP0|A0A454XMP0_OSTTA Mitochondrial import inner membrane translocase subunit Tim21 OS=Ostreococcus tauri OX=70448 GN=BE221DRAFT_146444 PE=3 SV=1
+1994 tr|Q01D98|Q01D98_OSTTA Mitochondrial import inner membrane translocase subunit Tim21 OS=Ostreococcus tauri OX=70448 GN=OT_ostta03g00580 PE=3 SV=1
+1995 tr|A0A7J6VZF4|A0A7J6VZF4_THATH Mitochondrial import inner membrane translocase subunit Tim21 OS=Thalictrum thalictroides OX=46969 GN=FRX31_020326 PE=3 SV=1
+1996 tr|V4L5S1|V4L5S1_EUTSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Eutrema salsugineum OX=72664 GN=EUTSA_v10028875mg PE=3 SV=1
+1997 tr|A0A6P6VVG9|A0A6P6VVG9_COFAR Mitochondrial import inner membrane translocase subunit Tim21 OS=Coffea arabica OX=13443 GN=LOC113726849 PE=3 SV=1
+1998 tr|A0A178V4I6|A0A178V4I6_ARATH Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabidopsis thaliana OX=3702 GN=AXX17_At4g00040 PE=3 SV=1
+1999 tr|A0A2I0VRK8|A0A2I0VRK8_9ASPA Mitochondrial import inner membrane translocase subunit Tim21 OS=Dendrobium catenatum OX=906689 GN=TIM21 PE=3 SV=1
+2000 tr|A0A654FKF1|A0A654FKF1_ARATH Mitochondrial import inner membrane translocase subunit Tim21 OS=Arabidopsis thaliana OX=3702 GN=AN1_LOCUS16758 PE=3 SV=1
+2001 tr|A0A1U8G590|A0A1U8G590_CAPAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Capsicum annuum OX=4072 GN=LOC107864608 PE=3 SV=1
+2002 tr|A0A388KJG1|A0A388KJG1_CHABU Uncharacterized protein OS=Chara braunii OX=69332 GN=CBR_g6321 PE=3 SV=1
+2004 tr|A0A200QCI4|A0A200QCI4_9MAGN Mitochondrial import inner membrane translocase subunit Tim21 OS=Macleaya cordata OX=56857 GN=BVC80_1721g4 PE=3 SV=1
+2005 tr|A0A1U8GEM3|A0A1U8GEM3_CAPAN Mitochondrial import inner membrane translocase subunit Tim21 OS=Capsicum annuum OX=4072 GN=LOC107864608 PE=3 SV=1
+2006 tr|A0A2J6JL19|A0A2J6JL19_LACSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Lactuca sativa OX=4236 GN=LSAT_3X129561 PE=3 SV=1
+2008 tr|A0A6J1FGR9|A0A6J1FGR9_CUCMO Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita moschata OX=3662 GN=LOC111445531 PE=3 SV=1
+2013 tr|W6UVV0|W6UVV0_ECHGR Mitochondrial import inner membrane translocase subunit Tim21 OS=Echinococcus granulosus OX=6210 GN=EGR_07580 PE=3 SV=1
+2027 tr|A0A0H5R832|A0A0H5R832_9EUKA Mitochondrial import inner membrane translocase subunit Tim21 OS=Spongospora subterranea OX=70186 PE=3 SV=1
+2048 tr|A0A1S8X337|A0A1S8X337_9TREM Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Opisthorchis viverrini OX=6198 GN=X801_03206 PE=3 SV=1
+2177 tr|A0A7I8WU89|A0A7I8WU89_BURXY Mitochondrial import inner membrane translocase subunit Tim21 OS=Bursaphelenchus xylophilus OX=6326 GN=BXYV3_LOCUS4692 PE=3 SV=1
+2453 tr|A0A183LHH5|A0A183LHH5_9TREM TIM21-like protein, mitochondrial OS=Schistosoma margrebowiei OX=48269 GN=SMRZ_LOCUS3250 PE=3 SV=1
+2459 tr|A0A0R3SDH9|A0A0R3SDH9_HYMDI Mitochondrial import inner membrane translocase subunit Tim21 OS=Hymenolepis diminuta OX=6216 GN=HDID_LOCUS2742 PE=3 SV=1
+2460 tr|A0A4D9BC85|A0A4D9BC85_SALSN Mitochondrial import inner membrane translocase subunit Tim21 OS=Salvia splendens OX=180675 GN=TIM21 PE=3 SV=1
+2461 tr|A0A2P2KUF1|A0A2P2KUF1_RHIMU Mitochondrial import inner membrane translocase subunit Tim21 OS=Rhizophora mucronata OX=61149 PE=3 SV=1
+2462 tr|A0A2H5NPJ5|A0A2H5NPJ5_CITUN Mitochondrial import inner membrane translocase subunit Tim21 OS=Citrus unshiu OX=55188 GN=CUMW_062630 PE=3 SV=1
+2463 tr|A0A059LIQ2|A0A059LIQ2_9CHLO Mitochondrial import inner membrane translocase subunit Tim21 (Fragment) OS=Helicosporidium sp. ATCC 50920 OX=1291522 GN=H632_c1608p0 PE=3 SV=1
+2464 tr|J3LM33|J3LM33_ORYBR Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza brachyantha OX=4533 GN=102711868 PE=3 SV=1
+2465 tr|A0A2P2KUK1|A0A2P2KUK1_RHIMU Mitochondrial import inner membrane translocase subunit Tim21 OS=Rhizophora mucronata OX=61149 PE=3 SV=1
+2466 tr|A0A6V7QVR9|A0A6V7QVR9_ANACO Mitochondrial import inner membrane translocase subunit Tim21 OS=Ananas comosus var. bracteatus OX=296719 GN=CB5_LOCUS30046 PE=3 SV=1
+2467 tr|A0A5D2TUA8|A0A5D2TUA8_GOSMU Mitochondrial import inner membrane translocase subunit Tim21 OS=Gossypium mustelinum OX=34275 GN=E1A91_D08G072900v1 PE=3 SV=1
+2468 tr|A0A0J8B7F4|A0A0J8B7F4_BETVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Beta vulgaris subsp. vulgaris OX=3555 GN=BVRB_005610 PE=3 SV=1
+2469 tr|A0A5N5FGM5|A0A5N5FGM5_9ROSA Mitochondrial import inner membrane translocase subunit Tim21 OS=Pyrus ussuriensis x Pyrus communis OX=2448454 GN=D8674_003038 PE=3 SV=1
+2470 tr|A0A6J1FI36|A0A6J1FI36_CUCMO Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita moschata OX=3662 GN=LOC111445531 PE=3 SV=1
+2471 tr|A0A6J1FNL2|A0A6J1FNL2_CUCMO Mitochondrial import inner membrane translocase subunit Tim21 OS=Cucurbita moschata OX=3662 GN=LOC111445531 PE=3 SV=1
+2472 tr|A0A2I4H1E4|A0A2I4H1E4_JUGRE Ribosomal protein L15 OS=Juglans regia OX=51240 GN=LOC109012668 PE=3 SV=1
+2473 tr|A0A0J8B3Z5|A0A0J8B3Z5_BETVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Beta vulgaris subsp. vulgaris OX=3555 GN=BVRB_005610 PE=3 SV=1
+2474 tr|A0A1D1ZBB7|A0A1D1ZBB7_9ARAE Mitochondrial import inner membrane translocase subunit Tim21 OS=Anthurium amnicola OX=1678845 GN=timm21_1 PE=3 SV=1
+2476 tr|A0A6P6AZM0|A0A6P6AZM0_DURZI Mitochondrial import inner membrane translocase subunit Tim21 OS=Durio zibethinus OX=66656 GN=LOC111313748 PE=3 SV=1
+2477 tr|F2E7H0|F2E7H0_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=2 SV=1
+2478 tr|A0A6N2MRY7|A0A6N2MRY7_SALVM Mitochondrial import inner membrane translocase subunit Tim21 OS=Salix viminalis OX=40686 GN=SVIM_LOCUS412966 PE=3 SV=1
+2479 tr|F2E405|F2E405_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=2 SV=1
+2480 tr|A0A6P6AZ58|A0A6P6AZ58_DURZI Mitochondrial import inner membrane translocase subunit Tim21 OS=Durio zibethinus OX=66656 GN=LOC111313748 PE=3 SV=1
+2481 tr|A0A287PB44|A0A287PB44_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
+2482 tr|A0A287PB75|A0A287PB75_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
+2483 tr|D8UJ17|D8UJ17_VOLCA t-SNARE coiled-coil homology domain-containing protein OS=Volvox carteri f. nagariensis OX=3068 GN=VOLCADRAFT_99946 PE=3 SV=1
+2484 tr|A0A287PB39|A0A287PB39_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
+2485 tr|A0A118JTR0|A0A118JTR0_CYNCS Mitochondrial import inner membrane translocase subunit Tim21 OS=Cynara cardunculus var. scolymus OX=59895 GN=Ccrd_006755 PE=3 SV=1
+2486 tr|A0A540LLX7|A0A540LLX7_MALBA Mitochondrial import inner membrane translocase subunit Tim21 OS=Malus baccata OX=106549 GN=C1H46_026986 PE=3 SV=1
+2488 tr|A0A0D9Z4T0|A0A0D9Z4T0_9ORYZ Mitochondrial import inner membrane translocase subunit Tim21 OS=Oryza glumipatula OX=40148 PE=3 SV=1
+2489 tr|A0A287HUP6|A0A287HUP6_HORVV Mitochondrial import inner membrane translocase subunit Tim21 OS=Hordeum vulgare subsp. vulgare OX=112509 PE=3 SV=1
