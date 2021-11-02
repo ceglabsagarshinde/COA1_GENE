@@ -1,1 +1,1 @@
-clans figure
+We downloaded the COA1 and TIMM21 gene sequences from the Pfam database and used these sequences as input for CLANS MPI bioinformatics toolkit with default parameters. The output of CLANS MPI is visualized in the CLANS graphic user interface(GUI). The detailed information of each cluster is provided with 2d graph data and blast matrix p-value information.
