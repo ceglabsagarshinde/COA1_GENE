@@ -12,4 +12,4 @@ The "a","p","m" at the end of COA1 and TIMM21 stands for "AlphaFold","RCSB PDB",
 
 The RMSD value for COA1 modelled and COA1 AlphaFold comparison is 3.1.
 The RMSD value for TIMM21 from RCSB PDB and TIMM21 from AlphaFold comparison is 2.05.
-The pdb file of TIMM21 downloaded from RCSB PDB is of Saccharomyces cerevisiae and all others pdb are of Homo sapiens.
+The pdb file of TIMM21 and COA1 downloaded from RCSB PDB and AlphaFold websites are of Saccharomyces cerevisiae.
