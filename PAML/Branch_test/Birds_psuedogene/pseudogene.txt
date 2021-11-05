@@ -1,0 +1,11 @@
+Coturnix_japonica2
+Gallus_gallus2
+Meleagris_gallopavo2
+Numida_meleagris2
+Odontophorus_gujanensis2
+Pavo_cristatus2
+Tympanuchus_cupido2
+Lyrurus_tetrix2
+Lagopus_muta2
+Centrocercus_minimus2
+Syrmaticus_mikado2

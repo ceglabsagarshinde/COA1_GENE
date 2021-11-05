@@ -1,0 +1,6 @@
+library(ape)
+a<-read.tree("birds.nwk")
+b<-read.table("Tympanuchus_cupido2.seq.fasta.list")
+c<-as.character(b$V1)
+d<-keep.tip(a,c)
+write.tree(d,file="Tympanuchus_cupido2.seq.nwk")
