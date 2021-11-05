@@ -1,0 +1,3 @@
+Phylogenetic correlation of skeletal muscle fiber types and loss/retention of COA1 gene.
+(a) The figure represents the proportion of white, pink, and red muscle fiber in different bird species.The proportion of muscle fiber type for internal nodes was estimated using the phytools package in R using FastAnc function. Species with loss of COA1 are represented in Red while species with retained COA1 are in blue.
+(b) Two methods (logistic_MPLE and logistic_IG10) were used for phylogenetic regression analyses to evaluate the effect of the proportion of white fiber in pectoralis muscle in birds on the loss/retention of the COA1 gene (n=24). We see a significant negative correlation between proportion of white muscle fiber and retention of COA1 gene using both methods.
