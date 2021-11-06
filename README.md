@@ -77,6 +77,8 @@ CLAN
 
 HiCUP (0.7.4)
 
+Juicebox (1.11.08)
+
 Gotree (https://github.com/evolbioinfo/gotree.git)
 
 
