@@ -79,6 +79,8 @@ HiCUP (0.7.4)
 
 Juicebox (1.11.08)
 
+Juicer (1.9.9)
+
 Gotree (https://github.com/evolbioinfo/gotree.git)
 
 
