@@ -75,6 +75,8 @@ CodSeqGen ( https://doi.org/10.1016/j.ygeno.2019.02.002)
 
 CLAN 
 
+HiCUP (0.7.4)
+
 Gotree (https://github.com/evolbioinfo/gotree.git)
 
 
