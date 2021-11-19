@@ -83,6 +83,7 @@ Juicer (1.9.9)
 
 Gotree (https://github.com/evolbioinfo/gotree.git)
 
+Pfam (34.0)
 
 # R (4.1.0) 
 # R packages
