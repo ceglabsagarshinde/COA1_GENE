@@ -87,25 +87,25 @@ Pfam (34.0)
 
 # R (4.1.0) 
 # R packages
-ape
+ape (5.5)
 
 phytools (0.7-90)
 
-ggplot2
+ggplot2 (3.3.5)
 
-ggrepel
+ggrepel (0.9.1)
 
-cowplot
+cowplot (1.1.1)
 
-dplyr
+dplyr (1.0.7)
 
-ggplotify
+ggplotify (0.1.0)
 
-grid
+grid (4.1.1)
 
-gridExtra
+gridExtra (2.3)
 
-reshape2
+reshape2 (1.4.4)
 
 phylolm (2.6.2)
 
