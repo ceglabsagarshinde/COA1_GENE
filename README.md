@@ -89,7 +89,7 @@ Pfam (34.0)
 # R packages
 ape
 
-phytools (V-0.7-90)
+phytools (0.7-90)
 
 ggplot2
 
