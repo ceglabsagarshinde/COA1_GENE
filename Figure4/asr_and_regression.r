@@ -36,7 +36,7 @@ geo = factor(a$V2)
 mycol <- c("red","blue")[geo]
 png("wir_phylogeny_plot.png",height=12,width=22,units = "in",res=200)
 par(mfrow= c(1, 2),mar=c(3.5,2.5,4,1))
-plot(t, tip.color = mycol,edge.width=3,adj=0.05,cex=1.5)
+plot(t, tip.color = mycol,edge.width=3,adj=1,cex=1.5)
 nodelabels(node=1:47,pie=ma[,],piecol=c("white","pink","red"),cex=0.75,adj=c(-1.75,0.5))
 library(phylolm)
 a=read.table("wir_data_ordered.txt",header=F)
