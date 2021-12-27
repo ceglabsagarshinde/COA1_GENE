@@ -1,44 +1,44 @@
 ####for phastBias ###################################
 
-#for d in Birds_groups
-#do
-#cd $d
-#for j in `cat list_birds.group`
-#do
-#cd $j
-#chmod 777 mapnh.sh phast.sh
-#./mapnh.sh $j
-##./phast.sh $j
-#cd -
-#done
-#done
+for d in Birds_groups
+do
+cd $d
+for j in `cat list_birds.group`
+do
+cd $j
+chmod 777 mapnh.sh phast.sh
+./mapnh.sh $j
+./phast.sh $j
+cd -
+done
+done
 
-#cd ../
+cd ../
 
-#for j in `cat list.file`
-#do
-#cd $j
-#chmod 777 mapnh.sh phast.sh
-#./mapnh.sh $j
-#./phast.sh $j
-#cd -
-#done
+for j in `cat list.file`
+do
+cd $j
+chmod 777 mapnh.sh phast.sh
+./mapnh.sh $j
+./phast.sh $j
+cd -
+done
 
 
-#for d in Rodents_unsaturated
-#do
-#cd $d
-#for j in `cat list.rodent`
-#do
-#cd $j
-#chmod 777 mapnh.sh phast.sh
-#./mapnh.sh $j
-#./phast.sh $j
-#cd -
-#done
-#done
+for d in Rodents_unsaturated
+do
+cd $d
+for j in `cat list.rodent`
+do
+cd $j
+chmod 777 mapnh.sh phast.sh
+./mapnh.sh $j
+./phast.sh $j
+cd -
+done
+done
 
-#cd ../
+cd ../
 
 ######################################################
 #collect output
